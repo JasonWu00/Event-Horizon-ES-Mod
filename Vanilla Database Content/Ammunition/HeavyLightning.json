@@ -2,13 +2,13 @@
   "ItemType": 25,
   "Id": 102,
   "Body": {
-    "Type": 3,
     "Size": 2.0,
     "Range": 20.0,
     "Lifetime": 0.1,
     "Color": "#7ACFFF",
     "BulletPrefab": 5,
-    "EnergyCost": 5.0
+    "EnergyCost": 5.0,
+    "Type": 3
   },
   "Triggers": [
     {

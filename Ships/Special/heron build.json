@@ -2,7 +2,6 @@
   "ItemType": 8,
   "Id": 3000,
   "ShipId": 3000,
-  "NotAvailableInGame": true,
   "Components": [
     {
       "ComponentId": 1122,
@@ -527,5 +526,6 @@
       "BarrelId": 9,
       "KeyBinding": -3
     }
-  ]
+  ],
+  "NotAvailableInGame": true
 }

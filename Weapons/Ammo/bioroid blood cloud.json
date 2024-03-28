@@ -2,11 +2,15 @@
   "ItemType": 25,
   "Id": 6339,
   "Body": {
-    "Type": 2,
     "Size": 5.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 10.0,
     "Weight": 0.05,
-    "BulletPrefab": 4339
+    "BulletPrefab": 4339,
+    "AiBulletBehavior": 3
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "ImpactType": 1,
   "Effects": [

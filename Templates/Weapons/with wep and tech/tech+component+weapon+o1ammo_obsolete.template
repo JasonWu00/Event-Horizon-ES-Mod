@@ -42,7 +42,7 @@
             "FireRate": 1,
             "ActivationType": 1,
             "ShotEffectPrefab": "FlashAdditive",
-            "ControlButtonIcon": "controls_shot"
+            "ControlButtonIcon": "controls_shot.png"
           }
         },
         {

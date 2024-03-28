@@ -4,30 +4,25 @@
   "Elements": [
     {
       "Image": "blaze-pike hit+0.png",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "blaze-pike hit+1.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "blaze-pike hit+2.png",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "blaze-pike hit+3.png",
-      "Size": 1.0,
       "StartTime": 0.15,
       "Lifetime": 0.1
     },
     {
       "Image": "blaze-pike hit+4.png",
-      "Size": 1.0,
       "StartTime": 0.2,
       "Lifetime": 0.1
     }

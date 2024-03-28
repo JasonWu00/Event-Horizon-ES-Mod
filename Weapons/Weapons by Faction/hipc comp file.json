@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 1375,
+  "Name": "Hyper Ionized Plasma Cannon",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Level": 500,
+  "Icon": "hipc.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "4",
+  "WeaponId": 1375,
+  "AmmunitionId": 1375,
+  "WeaponSlotType": "X",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

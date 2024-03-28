@@ -2,7 +2,6 @@
   "ItemType": 8,
   "Id": 226,
   "ShipId": 32,
-  "NotAvailableInGame": true,
   "Components": [
     {
       "ComponentId": 121,
@@ -199,5 +198,6 @@
       "Y": 10,
       "BarrelId": -1
     }
-  ]
+  ],
+  "NotAvailableInGame": true
 }

@@ -4,3 +4,6 @@ GameDatabase.exe
 # shortcut to EH
 *.lnk
 *.config
+*.pdb
+*.gregory
+*.xlsx

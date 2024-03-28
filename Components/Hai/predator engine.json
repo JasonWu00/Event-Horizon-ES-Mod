@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1353,
+  "Name": "Predator Engine",
+  "Description": "The only reason the Lycosidae is able to move at all.",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1353,
+  "Faction": 206,
+  "Level": 300,
+  "Icon": "predator engine.png",
+  "Layout": "000000111111111111111111111111000000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -2,11 +2,14 @@
   "ItemType": 25,
   "Id": 2335,
   "Body": {
-    "Type": 2,
     "Size": 60.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 1.0,
     "Weight": 1.0,
     "EnergyCost": 35.0
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
@@ -36,6 +39,11 @@
       "Type": 6,
       "DamageType": 3,
       "Power": 1.0
+    },
+    {
+      "Type": 11,
+      "DamageType": 3,
+      "Power": 50.0
     }
   ]
 }

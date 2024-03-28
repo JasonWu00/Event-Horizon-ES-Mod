@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 1000,
   "ShipType": 3,
+  "ShipRarity": 3,
   "Name": "Super Kestrel",
   "IconImage": "kestrel icon.png",
   "IconScale": 1.2,

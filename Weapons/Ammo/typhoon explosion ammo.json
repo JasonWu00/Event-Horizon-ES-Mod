@@ -2,10 +2,14 @@
   "ItemType": 25,
   "Id": 5074,
   "Body": {
-    "Type": 2,
     "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 0.5,
-    "Color": "#E9FF00"
+    "Color": "#E9FF00",
+    "AiBulletBehavior": 3
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

@@ -1,0 +1,12 @@
+{
+  "ItemType": 11,
+  "Id": 1353,
+  "Type": 1,
+  "ArmorRepairCooldownModifier": 0.05,
+  "EnergyRechargeRate": -1.01,
+  "EnergyRechargeCooldownModifier": 0.05,
+  "ShieldRechargeCooldownModifier": 0.05,
+  "Weight": 25.0,
+  "EnginePower": 5.82,
+  "TurnRate": 5.82
+}

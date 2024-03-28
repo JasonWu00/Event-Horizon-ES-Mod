@@ -7,7 +7,6 @@
       "Image": "star",
       "ColorMode": 2,
       "Color": "#5F959F",
-      "Size": 1.0,
       "Lifetime": 0.5
     },
     {
@@ -18,34 +17,29 @@
     {
       "Image": "piercer impact+0.png",
       "Color": "#00000000",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "piercer impact+1.png",
       "Color": "#00000000",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "piercer impact+2.png",
       "Color": "#00000000",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "piercer impact+3.png",
       "Color": "#00000000",
-      "Size": 1.0,
       "StartTime": 0.15,
       "Lifetime": 0.1
     },
     {
       "Image": "piercer impact+4.png",
       "Color": "#00000000",
-      "Size": 1.0,
       "StartTime": 0.2,
       "Lifetime": 0.1
     }

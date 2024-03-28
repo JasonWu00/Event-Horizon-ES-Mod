@@ -10,6 +10,9 @@
     "BulletPrefab": 3228,
     "CanBeDisarmed": true
   },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
   "Triggers": [
     {
       "Condition": 4,

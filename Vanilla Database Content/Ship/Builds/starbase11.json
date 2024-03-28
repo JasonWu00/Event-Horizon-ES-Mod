@@ -1,7 +1,8 @@
 {
   "ItemType": 8,
-  "Id": 1955,
+  "Id": 2345,
   "ShipId": 94,
+  "AvailableForPlayer": false,
   "DifficultyClass": 1,
   "BuildFaction": 1,
   "Components": [

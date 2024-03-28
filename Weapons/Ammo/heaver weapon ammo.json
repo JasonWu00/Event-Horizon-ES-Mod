@@ -8,6 +8,9 @@
     "BulletPrefab": 1299,
     "EnergyCost": 43.5
   },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
   "Triggers": [
     {
       "Condition": 3,

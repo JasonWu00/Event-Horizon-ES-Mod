@@ -4,30 +4,25 @@
   "Elements": [
     {
       "Image": "ion rain impact.png",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "ion rain impact~1.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "ion rain impact~2.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "ion rain impact~3.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.15
     },
     {
       "Image": "ion rain impact~4.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.2
     }

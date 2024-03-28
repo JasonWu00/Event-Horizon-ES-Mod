@@ -4,54 +4,45 @@
   "Elements": [
     {
       "Image": "heaver shard hit~00.png",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~01.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~02.png",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~03.png",
-      "Size": 1.0,
       "StartTime": 0.15,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~04.png",
-      "Size": 1.0,
       "StartTime": 0.2,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~05.png",
-      "Size": 1.0,
       "StartTime": 0.25,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~06.png",
-      "Size": 1.0,
       "StartTime": 0.3,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~07.png",
-      "Size": 1.0,
       "StartTime": 0.35,
       "Lifetime": 0.1
     },
     {
       "Image": "heaver shard hit~08.png",
-      "Size": 1.0,
       "StartTime": 0.4,
       "Lifetime": 0.1
     }

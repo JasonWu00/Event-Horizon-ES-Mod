@@ -2,7 +2,6 @@
   "ItemType": 25,
   "Id": 1276,
   "Body": {
-    "Type": 1,
     "Size": 1.0,
     "Velocity": 12.0,
     "Range": 96.0,
@@ -10,7 +9,13 @@
     "HitPoints": 60,
     "BulletPrefab": 1276,
     "EnergyCost": 10.55,
-    "CanBeDisarmed": true
+    "CanBeDisarmed": true,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.0,
+    "SmartAim": true
   },
   "Triggers": [
     {

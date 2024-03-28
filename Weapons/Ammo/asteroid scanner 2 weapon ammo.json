@@ -2,7 +2,6 @@
   "ItemType": 25,
   "Id": 2305,
   "Body": {
-    "Type": 2,
     "Size": 20.0,
     "Range": 10.0,
     "Lifetime": 5.0,

@@ -29,7 +29,7 @@
           "Content": {
             "ItemType": 2,
             "Id": "%n{0}",
-            "ControlButtonIcon": "controls_boost"
+            "ControlButtonIcon": "controls_boost.png"
           }
         },
         {

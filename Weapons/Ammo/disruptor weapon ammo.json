@@ -2,7 +2,6 @@
   "ItemType": 25,
   "Id": 2230,
   "Body": {
-    "Type": 3,
     "Size": 1.0,
     "Range": 48.0,
     "Lifetime": 0.1,
@@ -24,6 +23,11 @@
     },
     {
       "Type": 3,
+      "DamageType": 1,
+      "Power": 36.0
+    },
+    {
+      "Type": 11,
       "DamageType": 1,
       "Power": 36.0
     }

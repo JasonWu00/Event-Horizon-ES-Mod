@@ -1,0 +1,47 @@
+{
+  "ItemType": 25,
+  "Id": 2375,
+  "Body": {
+    "Size": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 0.5,
+    "Color": "#FF9400",
+    "EnergyCost": 1.0,
+    "AiBulletBehavior": 3
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2375,
+      "AudioClip": "explosion nuke",
+      "Size": 1.0,
+      "Lifetime": 2.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 40.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 2,
+      "Power": 50.0
+    },
+    {
+      "Type": 1,
+      "DamageType": 2,
+      "Power": 1.0
+    },
+    {
+      "Type": 11,
+      "DamageType": 2,
+      "Power": 50.0
+    }
+  ]
+}

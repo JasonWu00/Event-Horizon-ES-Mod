@@ -45,11 +45,6 @@
       },
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
-    },
-    {
-      "Position": {
-        "x": -0.9
-      }
     }
   ]
 }

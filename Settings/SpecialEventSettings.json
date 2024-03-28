@@ -1,7 +1,7 @@
 {
   "ItemType": 106,
-  "XmasDaysBefore": 185,
-  "XmasDaysAfter": 185,
+  "XmasDaysBefore": 30,
+  "XmasDaysAfter": 30,
   "EnableEasterEvent": true,
   "EasterQuest": 10,
   "HalloweenDaysBefore": 5,

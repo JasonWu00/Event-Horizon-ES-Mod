@@ -11,6 +11,7 @@
   "Layout": "0000111111110000",
   "CellType": "3",
   "PossibleModifications": [
-    2
+    2,
+    10
   ]
 }

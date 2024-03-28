@@ -4,7 +4,6 @@
   "Elements": [
     {
       "Image": "gridfire cloud.png",
-      "Size": 1.0,
       "Lifetime": 0.3
     }
   ]

@@ -11,6 +11,9 @@
     "EnergyCost": 0.4,
     "CanBeDisarmed": true
   },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
   "Triggers": [
     {
       "Condition": 4,

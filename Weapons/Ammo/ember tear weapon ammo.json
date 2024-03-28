@@ -2,12 +2,17 @@
   "ItemType": 25,
   "Id": 1278,
   "Body": {
-    "Type": 3,
     "Size": 1.0,
+    "AttachedToParent": true,
     "Range": 80.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1278,
-    "EnergyCost": 138.0
+    "EnergyCost": 138.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
@@ -30,7 +35,12 @@
     },
     {
       "Type": 3,
-      "DamageType": 1,
+      "DamageType": 3,
+      "Power": 2.5
+    },
+    {
+      "Type": 11,
+      "DamageType": 3,
       "Power": 2.5
     }
   ]

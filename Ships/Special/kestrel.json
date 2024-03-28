@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 1001,
   "ShipType": 3,
+  "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Kestrel",
   "Faction": 204,

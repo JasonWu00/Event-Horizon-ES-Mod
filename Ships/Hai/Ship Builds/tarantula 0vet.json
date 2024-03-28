@@ -91,28 +91,28 @@
       "X": 23,
       "Y": 14,
       "BarrelId": -1,
-      "KeyBinding": 1
+      "KeyBinding": -1
     },
     {
       "ComponentId": 3009,
       "X": 4,
       "Y": 14,
       "BarrelId": -1,
-      "KeyBinding": 1
+      "KeyBinding": -1
     },
     {
       "ComponentId": 3031,
       "X": 24,
       "Y": 17,
       "BarrelId": -1,
-      "KeyBinding": 2
+      "KeyBinding": -1
     },
     {
       "ComponentId": 3031,
       "X": 3,
       "Y": 17,
       "BarrelId": -1,
-      "KeyBinding": 2
+      "KeyBinding": -1
     },
     {
       "ComponentId": 3008,

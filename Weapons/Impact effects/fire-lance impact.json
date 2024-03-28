@@ -4,24 +4,20 @@
   "Elements": [
     {
       "Image": "fire-lance impact.png",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "fire-lance impact+1.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "fire-lance impact+2.png",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "fire-lance impact+3.png",
-      "Size": 1.0,
       "StartTime": 0.15,
       "Lifetime": 0.1
     }

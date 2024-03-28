@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 128,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 5.0,
+    "Color": "#FF0000",
+    "EnergyCost": 1.0,
+    "FriendlyFire": true,
+    "Type": 2
+  },
+  "Controller": {
+    "StartingVelocityModifier": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10,
+      "Color": "#80FFFFFF",
+      "ColorMode": 3,
+      "Lifetime": 7.5
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 3,
+      "Power": 1.0
+    },
+    {
+      "Type": 11,
+      "Power": 1.0
+    }
+  ]
+}

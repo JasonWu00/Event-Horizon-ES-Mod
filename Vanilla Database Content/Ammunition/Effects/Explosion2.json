@@ -6,15 +6,12 @@
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
-      "Size": 2.0,
-      "Lifetime": 1.0
+      "Size": 2.0
     },
     {
       "Type": 4,
       "Image": "CloudWhite",
-      "ColorMode": 2,
-      "Size": 1.0,
-      "Lifetime": 1.0
+      "ColorMode": 2
     },
     {
       "Type": 3,
@@ -25,9 +22,7 @@
       "Lifetime": 3.0
     },
     {
-      "Type": 5,
-      "Size": 1.0,
-      "Lifetime": 1.0
+      "Type": 5
     }
   ]
 }

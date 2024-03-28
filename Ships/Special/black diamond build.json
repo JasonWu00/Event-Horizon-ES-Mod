@@ -6,8 +6,7 @@
     {
       "ComponentId": 1263,
       "X": 5,
-      "Y": 8,
-      "BarrelId": -1
+      "Y": 8
     },
     {
       "ComponentId": 1270,
@@ -33,14 +32,12 @@
       "Quality": 5,
       "X": 2,
       "Y": 8,
-      "BarrelId": -1,
       "KeyBinding": 2
     },
     {
       "ComponentId": 2110,
       "X": 5,
       "Y": 3,
-      "BarrelId": -1,
       "KeyBinding": 2
     },
     {
@@ -49,14 +46,12 @@
       "Quality": 5,
       "X": 5,
       "Y": 10,
-      "BarrelId": -1,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1265,
       "X": 8,
       "Y": 8,
-      "BarrelId": -1,
       "KeyBinding": 2
     }
   ]

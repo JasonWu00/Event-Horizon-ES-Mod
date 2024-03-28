@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 4000,
   "ShipType": 3,
+  "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Emerald Sword",
   "Faction": 217,

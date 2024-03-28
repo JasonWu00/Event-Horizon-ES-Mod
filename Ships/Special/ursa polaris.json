@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 5005,
   "ShipType": 3,
+  "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Ursa Polaris",
   "IconImage": "ursa polaris.png",

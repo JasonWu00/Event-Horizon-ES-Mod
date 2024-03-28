@@ -2,7 +2,6 @@
   "ItemType": 8,
   "Id": 5004,
   "ShipId": 5004,
-  "NotAvailableInGame": true,
   "Components": [
     {
       "ComponentId": 1207,
@@ -66,168 +65,144 @@
       "Quality": 5,
       "X": 21,
       "Y": 18,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1157,
       "X": 23,
       "Y": 45,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1157,
       "X": 26,
       "Y": 42,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1200,
       "X": 29,
       "Y": 37,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 17,
       "Y": 39,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 15,
       "Y": 42,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 17,
       "Y": 36,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 17,
       "Y": 33,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 17,
       "Y": 30,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 17,
       "Y": 27,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 18,
       "Y": 24,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 18,
       "Y": 21,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 18,
       "Y": 18,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1200,
       "X": 27,
       "Y": 26,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1137,
       "X": 21,
       "Y": 27,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1137,
       "X": 24,
       "Y": 27,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 27,
       "Y": 23,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 27,
       "Y": 20,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1068,
       "X": 26,
       "Y": 45,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1069,
       "X": 18,
       "Y": 45,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 10,
       "X": 29,
       "Y": 42,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 2110,
       "X": 20,
       "Y": 33,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 2110,
       "X": 23,
       "Y": 33,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 2110,
       "X": 26,
       "Y": 33,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -236,28 +211,24 @@
       "Quality": 5,
       "X": 20,
       "Y": 36,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 2110,
       "X": 21,
       "Y": 42,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 2110,
       "X": 24,
       "Y": 30,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1157,
       "X": 24,
       "Y": 11,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -266,7 +237,6 @@
       "Quality": 5,
       "X": 29,
       "Y": 34,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -275,7 +245,6 @@
       "Quality": 5,
       "X": 27,
       "Y": 36,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -284,7 +253,6 @@
       "Quality": 5,
       "X": 24,
       "Y": 43,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -293,8 +261,8 @@
       "Quality": 5,
       "X": 25,
       "Y": 6,
-      "BarrelId": -1,
       "KeyBinding": 1
     }
-  ]
+  ],
+  "NotAvailableInGame": true
 }

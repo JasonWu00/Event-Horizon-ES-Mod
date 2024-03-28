@@ -31,6 +31,11 @@
       "Type": 3,
       "DamageType": 3,
       "Power": 12.8
+    },
+    {
+      "Type": 11,
+      "DamageType": 3,
+      "Power": 12.8
     }
   ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 5006,
   "ShipType": 3,
+  "ShipRarity": 3,
   "SizeClass": 4,
   "Name": "Shooting Star",
   "IconImage": "shooting star.png",

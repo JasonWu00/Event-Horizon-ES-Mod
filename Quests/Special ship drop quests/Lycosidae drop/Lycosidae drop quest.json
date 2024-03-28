@@ -1,0 +1,95 @@
+{
+  "ItemType": 15,
+  "Id": 1049,
+  "Name": "Lycosidae encounter",
+  "QuestType": 2,
+  "StartCondition": 6,
+  "Weight": 0.2,
+  "Origin": {
+    "Factions": {
+      "Type": 1,
+      "List": [
+        206
+      ]
+    },
+    "MinDistance": 300,
+    "MaxDistance": 500
+  },
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 206
+      },
+      {
+        "Type": 6,
+        "MinValue": 300,
+        "MaxValue": 500
+      }
+    ]
+  },
+  "Level": 300,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "You encounter a strange Unfettered Hai ship passing through the area.",
+      "Enemy": 1051,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Attack and capture the ship"
+        },
+        {
+          "TargetNode": 7,
+          "ButtonText": "Exercise caution and avoid provoking it"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 20,
+      "DefaultTransition": 3,
+      "FailureTransition": 6,
+      "Enemy": 1051
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "The ship has been subdued and boarded.",
+      "Loot": 1050,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Acquire the ship"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 35,
+      "DefaultTransition": 5,
+      "Loot": 1050
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    },
+    {
+      "Id": 7,
+      "Type": 42
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "The strange ship fought off your attempt at boarding and escaped.",
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "That is unfortunate."
+        }
+      ]
+    }
+  ]
+}

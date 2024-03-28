@@ -4,30 +4,25 @@
   "Elements": [
     {
       "Image": "ion explosion.png",
-      "Size": 1.0,
       "Lifetime": 0.05
     },
     {
       "Image": "ion explosion~1.png",
-      "Size": 1.0,
       "StartTime": 0.025,
       "Lifetime": 0.05
     },
     {
       "Image": "ion explosion~2.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.05
     },
     {
       "Image": "ion explosion~3.png",
-      "Size": 1.0,
       "StartTime": 0.075,
       "Lifetime": 0.05
     },
     {
       "Image": "ion explosion~4.png",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.05
     }

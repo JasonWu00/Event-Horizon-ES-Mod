@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 3000,
   "ShipType": 3,
+  "ShipRarity": 3,
   "SizeClass": 4,
   "Name": "Heron",
   "Faction": 207,

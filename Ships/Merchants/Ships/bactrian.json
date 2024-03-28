@@ -78,14 +78,6 @@
     },
     {
       "Position": {
-        "x": -0.3,
-        "y": -0.15
-      },
-      "AutoAimingArc": 80.0,
-      "WeaponClass": "CL"
-    },
-    {
-      "Position": {
         "x": -0.625,
         "y": -0.125
       },

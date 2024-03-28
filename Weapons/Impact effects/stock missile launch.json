@@ -4,42 +4,35 @@
   "Elements": [
     {
       "Image": "smoke~0.png",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "smoke~1.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "smoke~2.png",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "smoke~3.png",
-      "Size": 1.0,
       "StartTime": 0.15,
       "Lifetime": 0.1
     },
     {
       "Image": "smoke~4.png",
-      "Size": 1.0,
       "StartTime": 0.2,
       "Lifetime": 0.1
     },
     {
       "Image": "smoke~5.png",
-      "Size": 1.0,
       "StartTime": 0.25,
       "Lifetime": 0.1
     },
     {
       "Image": "smoke~6.png",
-      "Size": 1.0,
       "StartTime": 0.3,
       "Lifetime": 0.1
     }

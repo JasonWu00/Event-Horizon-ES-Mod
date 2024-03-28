@@ -4,18 +4,15 @@
   "Elements": [
     {
       "Image": "torpedo fire+0.png",
-      "Size": 1.0,
       "Lifetime": 0.1
     },
     {
       "Image": "torpedo fire+1.png",
-      "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "torpedo fire+2.png",
-      "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     }

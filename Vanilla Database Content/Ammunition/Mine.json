@@ -2,14 +2,14 @@
   "ItemType": 25,
   "Id": 109,
   "Body": {
-    "Type": 2,
     "Size": 0.7,
     "Lifetime": 30.0,
     "Weight": 0.5,
     "HitPoints": 10,
     "Color": "#C0C0C0",
     "BulletPrefab": 9,
-    "CanBeDisarmed": true
+    "CanBeDisarmed": true,
+    "Type": 2
   },
   "Triggers": [
     {

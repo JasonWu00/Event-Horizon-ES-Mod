@@ -12,7 +12,8 @@
   "CellType": "1",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
+    3,
     12,
-    3
+    101
   ]
 }

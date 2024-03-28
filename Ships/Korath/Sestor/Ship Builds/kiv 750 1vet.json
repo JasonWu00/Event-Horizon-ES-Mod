@@ -2,7 +2,6 @@
   "ItemType": 8,
   "Id": 1335,
   "ShipId": 412,
-  "NotAvailableInGame": true,
   "DifficultyClass": 1,
   "BuildFaction": 213,
   "Components": [
@@ -322,5 +321,6 @@
       "Y": 30,
       "KeyBinding": 4
     }
-  ]
+  ],
+  "NotAvailableInGame": true
 }

@@ -756,27 +756,36 @@ Changelog:
 - Changes:
   - Major Updates
     - **Added Bunrodea as a new faction, alongside appropriate ships and outfits**
-  - Skills and Perks
+    - **Ported EH-ES-Mod to version 0.11.1 of Event Horizon**
   - Components
     - Changed the stats for the following weapons
       - Dragonflame Cannon: 
         - 400 dmg / 500 emp -> 4000 dmg / 5000 emp
         - 160 ec -> 640 ec
       - Fusion Cannon:
-        - 110 dmg / 50 drain -> 220 dmg / 100 drain
+        - 110 dmg / 50 emp -> 220 dmg / 100 emp
         - 50 ec -> 100 ec
       - Ka'het Nullifier
         - 220 EMP -> 2200 EMP
         - Reduced size to 3x3
         - Changed slot type to T
+    - Gave the Gatling Turret a new sprite and button icon
+    - Gave all weapons with "Drain Energy" stats an equal amount of "Drain Shield" damage
+    - Gave all components capable of passively restoring hull points the Repair Rate modifier
+    - Added the "Armor and Regeneration Mod" modifier to shield generators
   - Ships
     - Buffed the Star Queen
       - Increased its cell layout size, reduced size class to Cruiser
       - Remade its outfits with merchants shield generators
       - Fixed an issue where its 2vet version was labeled as a 1vet version
+    - Added the Hai Lycosidae as a new special encounterable ship
+    - Adjusted the Vareti'het cell layout to match the changes to the Nullifier
   - Tech
     - Re-added the Ka'het Nullifier to the Ka'het tech tree
   - Other
+    - Scaled back the Merchant Costs upgrade strength
+      - -13.33% -> -12.5% per upgrade
+    - Updated the UI colors
 
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates

@@ -2,7 +2,6 @@
   "ItemType": 25,
   "Id": 3272,
   "Body": {
-    "Type": 2,
     "Size": 1.0,
     "Velocity": 300.0,
     "Range": 30.0,

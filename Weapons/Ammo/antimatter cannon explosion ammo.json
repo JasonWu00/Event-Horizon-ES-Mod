@@ -2,8 +2,8 @@
   "ItemType": 25,
   "Id": 5349,
   "Body": {
-    "Type": 2,
     "Size": 4.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 0.5,
     "Color": "#E9FF00",
     "EnergyCost": 1.0

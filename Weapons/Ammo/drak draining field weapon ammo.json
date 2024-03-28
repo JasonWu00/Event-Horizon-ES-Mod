@@ -8,6 +8,9 @@
     "Weight": 1.0,
     "EnergyCost": 1.5
   },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
   "Triggers": [
     {
       "Condition": 1,

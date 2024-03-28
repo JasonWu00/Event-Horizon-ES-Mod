@@ -4,11 +4,15 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 8.0,
+    "ParentVelocityEffect": 0.0,
     "Range": 20.0,
     "Weight": 0.1,
     "HitPoints": 22,
     "BulletPrefab": 3339,
     "CanBeDisarmed": true
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

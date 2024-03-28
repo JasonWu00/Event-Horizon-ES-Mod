@@ -2,7 +2,7 @@
   "ItemType": 8,
   "Id": 20000,
   "ShipId": 2000,
-  "NotAvailableInGame": true,
   "DifficultyClass": 1,
-  "Components": []
+  "Components": [],
+  "NotAvailableInGame": true
 }

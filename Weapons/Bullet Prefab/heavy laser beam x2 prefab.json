@@ -3,5 +3,6 @@
   "Id": 2025,
   "Shape": 2,
   "Image": "heavy laser beam x2.png",
-  "Size": 10.0
+  "Size": 10.0,
+  "Margins": 0.1
 }

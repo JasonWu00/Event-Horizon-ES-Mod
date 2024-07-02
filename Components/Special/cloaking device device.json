@@ -8,6 +8,7 @@
   "Cooldown": 1.0,
   "ActivationType": 2,
   "Color": "#000000",
+  "Sound": "spy-cloaking",
   "EffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "unknown.png"
 }

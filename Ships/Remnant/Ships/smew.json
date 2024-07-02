@@ -1,0 +1,33 @@
+{
+  "ItemType": 6,
+  "Id": 3035,
+  "ShipType": 1,
+  "Name": "Smew",
+  "Faction": 207,
+  "IconImage": "smew icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "smew.png",
+  "ModelScale": 0.85,
+  "EngineColor": "#3C2F6F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000011100000000001110000000000111000000000022200000000022222000000112222211000011222221100000122222100000011444110000001144411000000114441100000005505500000000550550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.5
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "Regeneration": true
+  }
+}

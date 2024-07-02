@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1379,
+  "Name": "Small Fusion Drive",
+  "DisplayCategory": 4,
+  "Availability": 2,
+  "ComponentStatsId": 1379,
+  "Faction": 217,
+  "Level": 425,
+  "Icon": "small fusion drive.png",
+  "Layout": "0000011111111111111100000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

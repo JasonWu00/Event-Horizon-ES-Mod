@@ -12,6 +12,7 @@ Marauder Pirates | 175 | 219
 Republic of Earth | 200 | 205
 Hai | 250 | 206
 Trisolar Coalition | 250 | 218
+Sheragi | 275 | 217
 Remnants | 300 | 207
 Korath Exiles | 300 | 209
 Bunrodea | 325 | 221
@@ -62,6 +63,8 @@ Black Diamond | 3024
 Shooting Star | 5006
 Navy Battleship | 5007 | 5007
 Lycosidae | 5008 | 5008
+Model 1024 Infected | 5009 | 5009
+Model 1024 Greenhouse | 5010 | 5010
 
 First unusued quest ID for special ships:
 
@@ -111,30 +114,35 @@ Energy costs | Cost (/ 10 for high costs)
 Projectile, beam, torpedo, rocket range | Range / 10
 Missile range | Range / 50
 Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
+Cannon reload | Reload / 2
 Scanner range | ???
 Anti-missile range | Range / 25 (Put the value in "Size" field)
 
 Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
-Alternate battery energy storage | (Energy / space) / 40?
-Reactor energy output | Power output / space 
+Alternate battery energy storage | (Energy / space) / 40 (or /20)
+Reactor energy output | Power output / space
 Engine thrust | (Thrust / size) / (ion engine thrust / size)
 Engine steering | (Steering / size) / (ion engine thrust / size)
 Module heat production | Heat / size / 250
 Module cooling | Cooling / size / 500 (or / 250 for active cooling)
-Active cooling energy cost | Energy / size / 2.5
+Active cooling energy cost | Energy / size / 2.5 (or 5?)
 Shield health | (Generation / size) * 5
 Shield generation | Shield health / 10
 Shield gen energy cost | (Shield energy + energy consumption, per second) / size
 Hull regeneration | Regen / size
+Pug ship stat blocks | Shield, health / 25; 5% shield -> regen
 
 Determining stats:
 
 == Engines ==   
+
+Planned new engine thrust+steer calculation: total thrust+steer / total size / 1000
+
 Ion Engines have arbitrarily determined stats and serve as a baseline.   
 For every engine other than Ionics:   
-1: Calculate its thrust/turn per unit of outfit space.  
+1: Calculate its thrust/turn per unit of outfit space.   
 2: Calculate the thrust/turn per unit of the corresponding ion engine (e.g. A860/865 -> X5200/5700).
 3: Divide the result of Step 1 by Step 2.   
 4: Multiply the value of Step 3 by the in-mod arbitrary stats of the corresponding ion engine.
@@ -143,19 +151,19 @@ NOTE: Due to changes to the ion engine stats in base ES, it is important to use 
 
 To see all the changes in the 16 April 2022 update: inspect this link: https://github.com/endless-sky/endless-sky/commit/8a503d9bd5e062054549056aa4a730813def8977#diff-7429a26a7e995048c3b962ee40092f520add3a2cad1af48e67e1b46a2bd8f9f3
 
-Engine | Thrust | Turn | Outfit space
+Engine | Thrust | Turn | Outfit space | Energy cost
 --- | --- | --- | ---
-X1050 | 14400 | 6600 | 20
-X1700 | 21600 | - | 16
-X2700 | 41400| - | 27
-X3700 | 79560 | - | 46
-X4700 | 153000 | - | 79
-X5700 | 293400 | - | 134
-X1200 | - | 9600 | 12
-X2200 | - | 12420 | 20
-X3200 | - | 35400 | 35
-X4200 | - | 67920 | 59
-X5200 | - | 130440 | 89
+X1050 | 14400 | 6600 | 20 | 39
+X1700 | 21600 | - | 16 | 36
+X2700 | 41400| - | 27 | 66
+X3700 | 79560 | - | 46 | 114
+X4700 | 153000 | - | 79 | 210
+X5700 | 293400 | - | 134 | 378
+X1200 | - | 9600 | 12 | 18
+X2200 | - | 12420 | 20 | 36
+X3200 | - | 35400 | 35 | 66
+X4200 | - | 67920 | 59 | 114
+X5200 | - | 130440 | 89 | 210
 
 Calculating engine power consumption:   
 1: calculate power per unit of outfit space for desired single or pair of engine(s).   
@@ -289,6 +297,9 @@ Accurate Gatling | 1320
 Large Radar Jammer | 1322
 Enforcer | 476 | 1542-1544
 Saber | 478 | 1548-1550
+Heavy Blaster Turret | 1393 (gun 2393)
+Proton Punt Gun | 1394
+Proton Punt Cannon | 1395
 
 Syndicate
 
@@ -317,6 +328,7 @@ Proton Gun | 2034
 Water Cooling System | 1078
 Anti-Missile Turret | 1081
 Outfit Scanner | 1307
+Prong | 3036
 
 FW
 
@@ -492,6 +504,11 @@ EMP Torpedo Bay | 1130 (Pod 2130)
 Penguin | 369 | 1205-1207
 Ember Tear | 1278
 Research Laboratory | 1317
+Smew | 3035 | 3035
+Swan | 481 | 1554-1556
+Swan Alt | 482 | 1557-1559
+Robin | 483 | 1560-1562
+Merganser | 484 | 1563-1565
 
 Coalition
 
@@ -551,6 +568,7 @@ Finisher Pod | 1152
 Bombardment Cannon | 2153
 Bombardment Turret | 1153
 Finisher Maegrolain | 1277
+Small Recovery Module | 1391
 
 Korath Exiles
 
@@ -600,6 +618,10 @@ Lagrange Heaver | 1299
 Shipper | 433 | 1397-1399
 Courier | 434 | 1400-1402
 Command Center | 1316
+Charm-Scallop | 485 | 1566-1568
+Arch-Carrack | 486 | 1569-1571
+Echo-Galleon | 487 | 1572-1574
+Seedship | 488 | 1575-1577
 
 Bunrodea
 
@@ -768,7 +790,11 @@ Minelayer | 1228 (submunition | 3228)
 Slicer Turret | 1229 (Gun 2229)
 Disruptor Turret | 1230 (Gun 2230)
 Super Minelayer | 1233
+Infected Minelayer | 12331
 Reasoning Node | 1304
+Model 192 | 489 | 1578-1580
+Model 2 | 3034 | 3034
+Model 128 Surveyor | 510 | 1645-1647
 
 Quarg
 
@@ -790,6 +816,40 @@ Large Graviton Thruster | 1241
 Large Graviton Steering | 1242
 Skylance | 1243
 Quarg Antimissile | 1244
+New outfits | ...
+Fluxion Shield Generator | 1382
+Infimum Shield Generator | 1383
+Peripheral Repair Hub | 1384
+Central Repair Hub | 1385
+Gravitational Device | 1386
+Tachyon Core | 1387
+Singularity Core | 1388
+Wardragon-style civilian ships | ...
+Drake | 497 | 1603-1605
+Hydra | 498 | 1606-1608
+Amphithere | 499 | 1609-1611
+Slibinas | 500 | 1612-1614
+Kaukas | 501 | 1615-1617
+Skylark-style crystal ships | ...
+Tarasque | 502 | 1618-1620
+Fafnir | 503 | 1621-1623
+Superheavy ships (unused) | ...
+Gtuhanai | 504 | 1624-1626
+Psuchawrl | 505 | 1627-1629
+Ancient Quarg ships (unused) | ...
+Kalisto | 506 | 1630-1632
+Skylark Alt | 502 | 1633-1635
+Smaug | 507 | 1636-1638
+Zilant | 508 | 1639-1641
+Glaurun | 509 | 1642-1644
+Weapons | ...
+Skydagger | 1401
+Skypiercer (Edenshard sprite) | 1402
+Ranseur | 1403
+Cataclist | 1404 !!!
+Edenshard (Starpilum) | 1405
+Turver (Skywrath) | 1406
+Doomscythe (Prismatic Shards) | 1407
 
 Starbases
 
@@ -859,6 +919,8 @@ Zambor | 3025
 Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
+Tulikaa | 490 | 1581-1583
+Tulikaa Stats | 1392
 
 Drak
 Item Name | Item ID | Build IDs (if applicable)
@@ -913,6 +975,25 @@ Heavy Ion Cyclotron | 1270
 Shard Fabricator | 1271
 Dragonflame Cannon | 1272
 Sheragi AM | 1273
+Fission Core | 1376
+Fusion Core | 1377
+Fusion Afterburner | 1378
+Small Fusion Drive | 1379
+Large Fission Drive | 1380
+Medium Hybrid Cooling | 1381
+Kinetic Spear Launcher | 1397
+Pulse Beam Turret | 1398 (gun 2398)
+Particle Waveform Gun | 2269
+Solar Intake | 1399
+Medium EM Battery | 1396
+Fusion Afterburner | 1400
+Bronze Edge | 491 | 1584-1586
+Ruby Hammer | 492 | 1587-1589
+White Brand | 493 | 1590-1592
+Gold Shield | 494 | 1593-1595
+Platinum Spear | 495 | 1596-1598
+Opal Glaive (NOT ADDED) | 496 | 1599-1602
+Fusion Power Converter | 1408
 
 Shooting Star
 
@@ -928,10 +1009,10 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1376
-Ship | 479
-Build | 1551
-Drone | 3034
+Component | 1409
+Ship | 511
+Build | 1648
+Drone | 3037
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
@@ -956,3 +1037,10 @@ Dragonflame Cannon | +300% energy cost, +400% damage
 Fusion Cannon | +100% energy cost and damage 
 Solar Battery | -80% energy storage
 Predator Engine | +30% thrust, steering
+Heavy Blaster | -50% damage
+Large Fission Drive | +100% energy regen
+Ranseur | Uses custom damage calculation: source file damage / 5
+Turver | +100% projectile speed
+Doomscythe | removed direct damage portion
+Fission Drive, Large Fission Drive | +150% thrust and steering
+Fusion Power Converter | stats are arbitrarily made up

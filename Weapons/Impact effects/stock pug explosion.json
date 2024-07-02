@@ -1,0 +1,45 @@
+{
+  "ItemType": 26,
+  "Id": 203,
+  "Elements": [
+    {
+      "Image": "pug medium~0.png",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~1.png",
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~2.png",
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~3.png",
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~4.png",
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~5.png",
+      "StartTime": 0.25,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~6.png",
+      "StartTime": 0.3,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pug medium~7.png",
+      "StartTime": 0.35,
+      "Lifetime": 0.1
+    }
+  ]
+}

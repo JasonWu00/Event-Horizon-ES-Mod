@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1408,
+  "Name": "Fusion Power Converter",
+  "DisplayCategory": 4,
+  "Availability": 2,
+  "ComponentStatsId": 1408,
+  "Faction": 217,
+  "Level": 400,
+  "Icon": "fusion power converter.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

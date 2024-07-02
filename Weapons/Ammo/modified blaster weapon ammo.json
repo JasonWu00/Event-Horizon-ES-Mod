@@ -18,14 +18,14 @@
     {
       "Condition": 1,
       "EffectType": 1,
-      "AudioClip": "blaster",
+      "AudioClip": "mod-blaster",
       "Color": "#00000000"
     }
   ],
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 2.0
+      "Power": 2.2
     }
   ]
 }

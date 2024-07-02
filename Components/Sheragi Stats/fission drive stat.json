@@ -7,6 +7,6 @@
   "EnergyRechargeCooldownModifier": 0.08,
   "ShieldRechargeCooldownModifier": 0.08,
   "Weight": 25.0,
-  "EnginePower": 0.9,
-  "TurnRate": 0.9
+  "EnginePower": 2.25,
+  "TurnRate": 2.25
 }

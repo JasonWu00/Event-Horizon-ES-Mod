@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1387,
+  "Name": "Tachyon Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1387,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "tachyon core.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ItemType": 27,
+  "Id": 1397,
+  "Shape": 1,
+  "Image": "kinetic spear projectile.png",
+  "Size": 1.0,
+  "Margins": 0.7,
+  "MainColor": "#00FFFFFF",
+  "SecondColor": "#FFE032",
+  "SecondColorMode": 1
+}

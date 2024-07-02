@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1406,
+  "Name": "Turver",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "turver.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1406,
+  "AmmunitionId": 1406,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

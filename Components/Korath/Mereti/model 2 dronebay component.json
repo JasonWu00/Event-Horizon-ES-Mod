@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 3034,
+  "Name": "Model 2",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 3034,
+  "Faction": 212,
+  "Level": 375,
+  "Icon": "model 2 icon.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "DroneBayId": 3034,
+  "DroneId": 3034,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

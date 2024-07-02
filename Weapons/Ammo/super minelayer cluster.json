@@ -8,13 +8,10 @@
     "Weight": 0.1,
     "HitPoints": 50,
     "BulletPrefab": 1233,
-    "EnergyCost": 40.0,
-    "AiBulletBehavior": 1
+    "EnergyCost": 40.0
   },
   "Controller": {
-    "Type": 1,
-    "StartingVelocityModifier": 0.0,
-    "SmartAim": true
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

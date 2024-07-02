@@ -47,6 +47,15 @@
       "EffectType": 1,
       "AudioClip": "tracker",
       "Color": "#00000000"
+    },
+    {
+      "Condition": 4,
+      "EffectType": 2,
+      "Ammunition": 1332,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "MaxNestingLevel": 3
     }
   ],
   "Effects": [

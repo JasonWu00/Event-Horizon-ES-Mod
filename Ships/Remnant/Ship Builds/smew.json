@@ -1,0 +1,42 @@
+{
+  "ItemType": 8,
+  "Id": 3035,
+  "ShipId": 3035,
+  "BuildFaction": 207,
+  "Components": [
+    {
+      "ComponentId": 1140,
+      "X": 7,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1141,
+      "X": 4,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1128,
+      "X": 5,
+      "Y": 8
+    },
+    {
+      "ComponentId": 10,
+      "X": 5,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1118,
+      "X": 4,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1114,
+      "X": 4,
+      "Y": 4,
+      "BarrelId": -1
+    }
+  ]
+}

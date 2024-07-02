@@ -1,0 +1,58 @@
+{
+  "ItemType": 25,
+  "Id": 1405,
+  "Body": {
+    "Size": 2.0,
+    "Velocity": 30.0,
+    "Range": 50.0,
+    "Weight": 0.2,
+    "BulletPrefab": 1405,
+    "EnergyCost": 80.0,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1099,
+      "Size": 0.75
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "mod-blaster",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1243,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 1405,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "MaxNestingLevel": 1,
+      "Rotation": "RANDOM(120,240)"
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 136.0
+    },
+    {
+      "Type": 11,
+      "Power": 68.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 25.0
+    }
+  ]
+}

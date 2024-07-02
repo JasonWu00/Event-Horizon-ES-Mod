@@ -10,7 +10,7 @@
   "Cooldown": 5.0,
   "ActivationType": 1,
   "Color": "#FFA500",
-  "Sound": "scram drive",
+  "Sound": "hyperdrive",
   "EffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "scram drive.png"
 }

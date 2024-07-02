@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1388,
+  "Name": "Singularity Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1388,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "singularity core.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

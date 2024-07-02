@@ -8,7 +8,7 @@
   "Faction": 217,
   "Level": 575,
   "Icon": "shard fabricator.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "4",
   "WeaponId": 1271,
   "AmmunitionId": 1271,

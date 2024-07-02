@@ -1,0 +1,38 @@
+{
+  "ItemType": 6,
+  "Id": 3034,
+  "ShipType": 1,
+  "Name": "Model 2",
+  "Faction": 212,
+  "IconImage": "model 2 icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "model 2.png",
+  "ModelScale": 0.75,
+  "EngineColor": "#7DEF9F0F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.76,
+        "y": -0.21
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.96,
+        "y": 0.24
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000440000000044000000002200000000220000000022200001112220000111222000011122210000012551100005500110",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

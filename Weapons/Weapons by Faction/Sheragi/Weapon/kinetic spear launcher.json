@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1397,
+  "Name": "Kinetic Spear Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 217,
+  "Level": 575,
+  "Icon": "kinetic spear launcher.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1397,
+  "AmmunitionId": 1397,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

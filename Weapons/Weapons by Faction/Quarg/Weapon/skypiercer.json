@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1402,
+  "Name": "Skypiercer",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "edenshard.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1402,
+  "AmmunitionId": 1402,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

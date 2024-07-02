@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 1392,
+  "Name": "Tulikaa Stats",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1258,
+  "Faction": 216,
+  "Level": 1000,
+  "Icon": "tulikaa icon.png",
+  "Layout": "111111111",
+  "CellType": "0",
+  "PossibleModifications": [
+    12,
+    3,
+    9
+  ]
+}

@@ -790,20 +790,61 @@ Changelog:
       - -13.33% -> -12.5% per upgrade
     - Updated the UI colors
 
+### 0.15.5 "Over the Rainbow" update
+
+Changelog:
+- Major Updates
+  - **Reworked the Quarg faction**
+    - Added a swathe of new outfits and ships
+  - **Reworked the Sheragi faction**
+    - Added a swathe of new outfits and ships
+    - Made Sheragi faction regions appear on the galaxy map from 275+ light years
+- Outfits
+  - Updated a number of human weapons to match the 6 April 2022 human weapons rebalance (#6675)
+    - Proton Gun damage: 1.54 -> 1.85
+    - Blaster damage: 1.56 -> 1.72
+    - Modified Blaster damage: 2.0 -> 2.2
+    - Particle Cannon damage: 10.6 -> 12.7
+  - Updated the Kaltheim Phase Missile to be able to survive up to 3 anti-missile strikes
+  - Gave the Modified Blaster its correct fire sound
+  - Added Small Recovery Module to Coalition
+  - Added a sound effect to the Cloaking Device
+  - Fixed the sound effect on the Scram Drive
+  - Decreased Fusion Drive energy generation per tile from 9.6 -> 8.75
+  - Increased Particle Waveform Turret firing rate from 1.0 -> 2.0
+  - Decreased Skylance damage per second from 405 -> 180
+  - Decreased Skylance energy cost per second from 180 -> 90
+  - Increased Fission Drive thrust and steering by 150%
+  - Added new modifiers to Sheragi EM batteries
+  - Reduced cooling outfit count on a few Sestor ships
+  - Added a number of Sheragi outfits
+    - Weapons: Particle Waveform Gun, Kinetic Spear Launcher, Pulse Beam
+    - Energy: Fission and Fusion Cores, Solar Intake, Medium EM Battery
+    - Engines: Small Fusion Drive, Large Fission Drive
+    - Cooling: Medium Hybrid Cooling
+- Ships
+  - Added the Charm-Scallop, Arch-Carrack, Echo-Galleon, and Seedship to Korath Exiles
+  - Added the Merganser, Smew, and Swan to Remnant
+  - Added the Tulikaa to Pug
+  - Added the Model 192, Model 2, and Model 128 Surveyor to Korath Mereti
+  - Added the Prong to Syndicate
+- Tech
+- Other
+
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates
 - Create Syndicate Extremists faction to contain the regenerators and nuclear missile
-- Add new pirate ships and Kestrel Carrier
-  - Enforcer (4 guns 1 turret)
-  - Hogshead (2 guns 2 turrets)
-  - Saber (5 guns 1 turret)
-- Add new sprite for the Gatling Turret
 - **Add the new aliens**
-  - Bunrodea
   - Gegno (all 3 subfactions at once)
-  - Mega Freignt ships (as random quest fleet encounters)
   - Vyu-ira and other misc alien ships
   - Decompression of the faction light year requirement list
+- **Add new ships and outfits**
+  - Alternate Worldship designs
+  - Robin, Hobby
+  - Cromha's Expansion stuff
+    - New Quarg, Remnant, and Korath Automata ships
+  - Mega Freight outfits and possibly ships
+  - Minor plugins from Todd: https://github.com/endless-sky/endless-sky/discussions/7928
 - Rebalance human engines based on most recent engines stat
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
@@ -811,3 +852,14 @@ Changelog:
   - Robin, Swan (Remnant)
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
 - Incorporate the HIPC from Ursa Polaris
+- New Remnant ships (Hobby, Robin, (Swan alt))
+- New Quarg ships
+  - Wardragon line: Drake, Hydra, Amphithere, Sibilnas, Kaukas
+  - Skylark line: Kalisto, Alt Skylark, Smaug, Zilant, Glaurun
+  - Crystalline: Tarasque, Fafnir, Gtuhanai, Psuchawrl
+- New Pug ships and outfits (Aeekelri)
+
+To still do:
+- Make technologies for all Quarg content
+- Make builds for Quarg ships
+- Update mod to EH latest

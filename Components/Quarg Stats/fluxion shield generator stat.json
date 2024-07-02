@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1382,
+  "Type": 1,
+  "EnergyRechargeRate": -5.2,
+  "ShieldPoints": 26.0,
+  "ShieldRechargeRate": 2.6,
+  "ShieldRechargeCooldownModifier": 0.026,
+  "Weight": 25.0
+}

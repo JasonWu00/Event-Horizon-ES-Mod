@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 1383,
+  "Name": "Infimum Shield Generator",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1383,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "infimum shield generator.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

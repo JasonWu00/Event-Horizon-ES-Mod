@@ -1,7 +1,7 @@
 {
   "ItemType": 12,
   "Id": 101,
-  "Description": "Defense and Regeneration Mod",
+  "Description": "$DefRegenMod",
   "Modifications": [
     {
       "Type": 24,

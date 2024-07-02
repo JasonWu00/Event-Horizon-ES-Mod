@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1376,
+  "Name": "Fission Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1376,
+  "Faction": 217,
+  "Level": 350,
+  "Icon": "fission core.png",
+  "Layout": "111111111",
+  "CellType": "0",
+  "PossibleModifications": [
+    9
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1401,
+  "Name": "Skydagger",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "skydagger.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1401,
+  "AmmunitionId": 1401,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

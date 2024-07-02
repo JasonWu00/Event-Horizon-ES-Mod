@@ -6,7 +6,7 @@ Source: https://github.com/JasonWu00/Event-Horizon-ES-Mod
 Files: *.json
 Copyright: Jason Wu <@404found on Discord>
 License: GPL-3+
-Comment:
+Comment: Derived from works by Pavel Zinchenko (under the same license).
 
 Files:
   Component?Images/*
@@ -92,7 +92,7 @@ Comment:
 
 Files:
  Component?Images/dimensional?eraser*
- Weapons/Buttons/dimentional?eraser*
+ Weapons/Buttons/dimensional?eraser*
  Ship?Images/Republic/battleship*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
@@ -156,15 +156,42 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/outfit/harasser?quadrail*
-Copyright: 1010todd
-Comment: Derived from works by Matthew Smestad (under the same license).
+ Component?Images/Hai/harasser?quadrail*
+Copyright: 1010todd (https://github.com/1010todd)
 License: CC-BY-SA-4.0
+Comment: Derived from works by Matthew Smestad (under the same license).
 
 Files:
- images/outfit/monolith?reactor*
- images/ship/hai?locust*
- images/thumbnail/hai?locust*
+ Component?Images/Quarg/tachyon*
+ Component?Images/Quarg/singularity*
+ Component?Images/Quarg/amphithere*
+ Component?Images/Quarg/drake*
+ Component?Images/Quarg/fafnir*
+ Component?Images/Quarg/hydra*
+ Component?Images/Quarg/kaukas*
+ Component?Images/Quarg/slibinas*
+ Component?Images/Quarg/tarasque*
+ Ship?Images/Quarg/amphithere*
+ Ship?Images/Quarg/drake*
+ Ship?Images/Quarg/fafnir*
+ Ship?Images/Quarg/hydra*
+ Ship?Images/Quarg/kaukas*
+ Ship?Images/Quarg/slibinas*
+ Ship?Images/Quarg/tarasque*
+Copyright: 1010todd (https://github.com/1010todd)
+License: CC-BY-SA-4.0
+Comment:
+
+Files:
+ Component?Images/Hai/monolith?reactor*
+ Ship?Images/Hai?locust*
+ Component?Images/Sheragi/*core*
+ Component?Images/Sheragi/*afterburner*
+ Component?Images/Sheragi/pulse?beam*
+ Component?Images/Sheragi/particle?waveform?cannon*
+ Component?Images/Sheragi/solar?intake*
+ Component?Images/Sheragi/medium*
+ Component?Images/Sheragi/kinetic?spear*
 Copyright: Petersupes
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).

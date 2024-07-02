@@ -1,0 +1,25 @@
+{
+  "ItemType": 26,
+  "Id": 2269,
+  "Elements": [
+    {
+      "Image": "pwaveflare~0.png",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pwaveflare~1.png",
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pwaveflare~2.png",
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "pwaveflare~3.png",
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    }
+  ]
+}

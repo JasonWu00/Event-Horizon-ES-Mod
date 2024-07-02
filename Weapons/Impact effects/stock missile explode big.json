@@ -1,0 +1,45 @@
+{
+  "ItemType": 26,
+  "Id": 202,
+  "Elements": [
+    {
+      "Image": "large~0.png",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~1.png",
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~2.png",
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~3.png",
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~4.png",
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~5.png",
+      "StartTime": 0.25,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~6.png",
+      "StartTime": 0.3,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "large~7.png",
+      "StartTime": 0.35,
+      "Lifetime": 0.1
+    }
+  ]
+}

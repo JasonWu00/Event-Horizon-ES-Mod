@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1381,
+  "Name": "Medium Hybrid Cooling",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 1381,
+  "Faction": 217,
+  "Level": 350,
+  "Icon": "medium hybrid cooling.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
+}

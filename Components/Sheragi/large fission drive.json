@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1380,
+  "Name": "Large Fission Drive",
+  "DisplayCategory": 4,
+  "Availability": 2,
+  "ComponentStatsId": 1380,
+  "Faction": 217,
+  "Level": 400,
+  "Icon": "large fission drive.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1399,
+  "Name": "Solar Intake",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1399,
+  "Faction": 217,
+  "Level": 350,
+  "Icon": "solar intake.png",
+  "Layout": "1111",
+  "CellType": "0",
+  "PossibleModifications": [
+    9
+  ]
+}

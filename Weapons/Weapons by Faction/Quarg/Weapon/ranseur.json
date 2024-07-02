@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1403,
+  "Name": "Ranseur",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "ranseur.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1403,
+  "AmmunitionId": 1403,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

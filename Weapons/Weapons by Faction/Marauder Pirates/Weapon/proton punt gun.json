@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1394,
+  "Name": "Proton Punt Gun",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 100,
+  "Icon": "proton punt gun.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1394,
+  "AmmunitionId": 1394,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

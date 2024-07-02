@@ -1,0 +1,15 @@
+{
+  "ItemType": 5,
+  "Id": 3035,
+  "EnergyConsumption": 10.0,
+  "PassiveEnergyConsumption": 10.0,
+  "Range": 40.0,
+  "DamageMultiplier": 1.0,
+  "DefenseMultiplier": 1.0,
+  "SpeedMultiplier": 1.0,
+  "Capacity": 1,
+  "ActivationType": 2,
+  "LaunchSound": "launch_08",
+  "LaunchEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "smew icon.png"
+}

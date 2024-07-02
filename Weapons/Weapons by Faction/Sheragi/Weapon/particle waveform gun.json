@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2269,
+  "Name": "Particle Waveform Gun",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 217,
+  "Level": 500,
+  "Icon": "particle waveform cannon.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2269,
+  "AmmunitionId": 1269,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

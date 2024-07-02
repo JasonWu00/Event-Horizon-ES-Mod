@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 3036,
+  "Name": "Prong",
+  "Description": "A modification of the Barb with a second gun.",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 3036,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "prong icon.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 3036,
+  "DroneId": 3036,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

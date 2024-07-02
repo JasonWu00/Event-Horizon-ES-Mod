@@ -1,0 +1,11 @@
+{
+  "ItemType": 27,
+  "Id": 1402,
+  "Shape": 1,
+  "Image": "quarg shot+.png",
+  "Size": 1.0,
+  "Margins": 0.7,
+  "MainColor": "#00FFFFFF",
+  "SecondColor": "#7FACFF",
+  "SecondColorMode": 1
+}

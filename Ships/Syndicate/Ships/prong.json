@@ -1,0 +1,45 @@
+{
+  "ItemType": 6,
+  "Id": 3036,
+  "ShipType": 1,
+  "Name": "Prong",
+  "Faction": 203,
+  "IconImage": "prong icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "prong.png",
+  "ModelScale": 0.9,
+  "EngineColor": "#009BFF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.3
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "4404444044132311323105550",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.4
+      },
+      "AutoAimingArc": 20.0
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.4
+      },
+      "AutoAimingArc": 20.0
+    }
+  ]
+}

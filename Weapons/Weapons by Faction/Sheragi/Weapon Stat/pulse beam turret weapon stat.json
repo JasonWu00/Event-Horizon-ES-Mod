@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1398,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*hion~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

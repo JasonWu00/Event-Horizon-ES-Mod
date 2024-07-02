@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 1384,
+  "Name": "Peripheral Repair Unit",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1384,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "peripheral repair unit.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

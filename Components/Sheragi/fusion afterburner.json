@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1400,
+  "Name": "Fusion Afterburner",
+  "Description": "Sheragi afterburner device.",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 217,
+  "Level": 350,
+  "Icon": "fusion afterburner.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "DeviceId": 1400,
+  "Restrictions": {
+    "UniqueComponentTag": "afterburner"
+  },
+  "PossibleModifications": [
+    2,
+    1,
+    6
+  ]
+}

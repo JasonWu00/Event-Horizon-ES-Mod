@@ -1,0 +1,53 @@
+{
+  "ItemType": 6,
+  "Id": 491,
+  "Name": "Bronze Edge",
+  "Faction": 217,
+  "IconImage": "bronze edge icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "bronze edge.png",
+  "ModelScale": 3.0,
+  "EngineColor": "#00B2FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "000000444000000000001444100000000001444100000000013222310000000013222310000004413222314400004413222314400000113222311000000111444111000000111444111000000111444111000000551111155000000551555155000000001555100000000000555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.55
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.55
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL",
+      "Image": "sheragi am turret sprite.png"
+    }
+  ]
+}

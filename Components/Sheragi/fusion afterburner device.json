@@ -1,0 +1,14 @@
+{
+  "ItemType": 2,
+  "Id": 1400,
+  "EnergyConsumption": 12.0,
+  "PassiveEnergyConsumption": 12.0,
+  "Power": 105.0,
+  "Size": 1.0,
+  "Cooldown": 1.0,
+  "ActivationType": 1,
+  "Color": "#C00000FF",
+  "Sound": "*atomic medium~",
+  "EffectPrefab": "Flicker",
+  "ControlButtonIcon": "fusion afterburner.png"
+}

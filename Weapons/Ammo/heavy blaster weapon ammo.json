@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1393,
+  "Body": {
+    "Size": 2.0,
+    "Velocity": 12.0,
+    "Range": 60.0,
+    "BulletPrefab": 1022,
+    "EnergyCost": 3.23,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1022
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "mod-blaster",
+      "Color": "#00000000"
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 4.73
+    }
+  ]
+}

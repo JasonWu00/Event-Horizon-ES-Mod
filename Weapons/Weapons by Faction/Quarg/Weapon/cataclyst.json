@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1404,
+  "Name": "Cataclyst",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "cataclist.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1404,
+  "AmmunitionId": 1404,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

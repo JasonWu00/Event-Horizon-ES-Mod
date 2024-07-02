@@ -1,0 +1,105 @@
+{
+  "ItemType": 6,
+  "Id": 493,
+  "SizeClass": 2,
+  "Name": "White Brand",
+  "Faction": 217,
+  "IconImage": "white brand icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "white brand.png",
+  "ModelScale": 5.0,
+  "EngineColor": "#00B2FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.3
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.3
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.75,
+        "y": 0.8
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.75,
+        "y": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000440222044000000000000004422222440000000000000011222221100000000000000112444211000000000000001124442110000000000000011244421100000000000001112222211100000000000011122222111000000000000111244421110000000000001112444211100000000000044424442444000000000001444222224441000000000114441222144411000000011111112221111111000000114441122211444110000011144412222214441110000111444222222244411100011111122222222211111100111012222202222210111001110022222022222001110000000055555555500000000000000555555555000000000000000055555000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.3
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.3
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "y": 0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "y": -0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": 0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

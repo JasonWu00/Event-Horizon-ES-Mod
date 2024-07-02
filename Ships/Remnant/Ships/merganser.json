@@ -1,0 +1,51 @@
+{
+  "ItemType": 6,
+  "Id": 484,
+  "Name": "Merganser",
+  "Faction": 207,
+  "IconImage": "merganser icon.png",
+  "IconScale": 1.5,
+  "ModelImage": "merganser.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#3C2F6F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000004400000000004400000000442244000000442244000000112211000001112211100001112211100001112211100000012210000000022220000000022220000000055550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    }
+  ],
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      14
+    ]
+  }
+}

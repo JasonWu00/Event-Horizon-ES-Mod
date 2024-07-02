@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 1394,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 26.0,
+    "Range": 46.8,
+    "BulletPrefab": 1034,
+    "EnergyCost": 1.5,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1034,
+      "Size": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "proton",
+      "Color": "#00000000"
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 1.85
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ItemType": 5,
+  "Id": 3036,
+  "EnergyConsumption": 10.0,
+  "PassiveEnergyConsumption": 10.0,
+  "Range": 50.0,
+  "DamageMultiplier": 1.0,
+  "DefenseMultiplier": 1.0,
+  "SpeedMultiplier": 1.0,
+  "Capacity": 1,
+  "ActivationType": 2,
+  "LaunchSound": "launch_08",
+  "LaunchEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "prong icon.png"
+}

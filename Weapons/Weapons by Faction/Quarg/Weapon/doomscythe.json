@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1407,
+  "Name": "Doomscythe",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "doomscythe.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "4",
+  "WeaponId": 1407,
+  "AmmunitionId": 1407,
+  "WeaponSlotType": "X",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

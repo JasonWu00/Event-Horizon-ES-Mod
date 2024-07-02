@@ -27,6 +27,7 @@
     }
   ],
   "Features": {
+    "Regeneration": true,
     "BuiltinDevices": [
       14
     ]

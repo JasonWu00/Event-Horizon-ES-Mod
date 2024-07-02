@@ -3,11 +3,11 @@
   "Id": 1375,
   "Body": {
     "Size": 2.5,
-    "Velocity": 100.0,
-    "Range": 150.0,
+    "Velocity": 48.0,
+    "Range": 48.0,
     "Weight": 0.1,
     "BulletPrefab": 1375,
-    "EnergyCost": 64.0
+    "EnergyCost": 63.0
   },
   "Controller": {
     "StartingVelocityModifier": 0.1
@@ -42,11 +42,20 @@
       "EffectType": 1,
       "AudioClip": "torpedo",
       "Color": "#00000000"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 13751,
+      "Color": "#00000000",
+      "Quantity": 8,
+      "Size": 0.5,
+      "Rotation": "IF(Quantity == 1, 0, RANDOM(0, 45))"
     }
   ],
-  "ImpactType": 1,
   "Effects": [
     {
+      "Type": 1,
       "Power": 0.1
     }
   ]

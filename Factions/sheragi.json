@@ -2,11 +2,7 @@
   "ItemType": 14,
   "Id": 217,
   "Name": "Sheragi",
-  "Color": "#FDE4B3",
-  "NoTerritories": true,
-  "HomeStarDistance": 500,
-  "NoWanderingShips": true,
-  "WanderingShipsDistance": 500,
-  "HideFromMerchants": true,
-  "HideResearchTree": true
+  "Color": "#BBBBBB",
+  "HomeStarDistance": 275,
+  "WanderingShipsDistance": 275
 }

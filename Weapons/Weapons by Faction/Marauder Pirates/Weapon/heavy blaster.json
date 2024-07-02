@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2393,
+  "Name": "Heavy Blaster",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 75,
+  "Icon": "heavy blaster.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2393,
+  "AmmunitionId": 1393,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

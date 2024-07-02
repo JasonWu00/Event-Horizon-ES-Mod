@@ -7,7 +7,7 @@
     "Range": 50.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1243,
-    "EnergyCost": 180.0,
+    "EnergyCost": 90.0,
     "AiBulletBehavior": 2
   },
   "Controller": {
@@ -25,7 +25,7 @@
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 405.0
+      "Power": 180.0
     },
     {
       "Type": 3,

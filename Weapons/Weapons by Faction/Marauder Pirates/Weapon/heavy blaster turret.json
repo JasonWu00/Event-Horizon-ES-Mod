@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1393,
+  "Name": "Heavy Blaster Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 125,
+  "Icon": "heavy blaster turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1393,
+  "AmmunitionId": 1393,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

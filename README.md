@@ -4,7 +4,7 @@
 
 [github.io page](https://jasonwu00.github.io/Event-Horizon-ES-Mod/)
 
-Note that links in this README page leads to the github.io page versions of various files and not their github.com versions.
+Note that links in this README page lead to the github.io page versions of various files and not their github.com versions.
 
 ## Description
 
@@ -12,7 +12,7 @@ Note that links in this README page leads to the github.io page versions of vari
 
 ## History
 
-At around June of 2021 I decided that this project would be a good idea and started collecting assets and learning how mods for Event Horizon work. On July 14, 2021 I compiled the first version of the mod.
+Around June of 2021 I decided that this project would be a good idea and started collecting assets and learning how mods for Event Horizon work. On July 14, 2021 I compiled the first version of the mod.
 
 The first few versions were released informally on the official Discord server for Event Horizon. Later versions were released on an [itch.io page](https://404-found.itch.io/event-horizon-ES-Mod).
 
@@ -74,4 +74,4 @@ See [a list of all branches](https://github.com/JasonWu00/Event-Horizon-ES-Mod/b
 
 ## Previous Versions
 
-All prior compiled versions of Event-Horizon-ES-Mod has been moved to a dedicated repo [Event-Horizon-ES-Mod-Versions](https://github.com/JasonWu00/Event-Horizon-ES-Mod-Versions). This is intended to lighten the network stress on users downloading the repository directly to use in open source versions of Event Horizon that only accept uncompiled folders.
+All prior compiled versions of Event-Horizon-ES-Mod have been moved to a dedicated repo [Event-Horizon-ES-Mod-Versions](https://github.com/JasonWu00/Event-Horizon-ES-Mod-Versions). This is intended to lighten the network stress on users downloading the repository directly to use in open source versions of Event Horizon that only accept uncompiled folders.

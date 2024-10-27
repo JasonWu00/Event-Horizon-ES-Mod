@@ -6,7 +6,6 @@ import requests
 import os
 
 path_to_es_data = "C:/Users/jason/OneDrive/Desktop/endless-sky/data"
-# using human data as a small test
 
 list_of_filenames = []
 list_of_engine_stats = []
@@ -18,12 +17,15 @@ for folder in os.listdir(path_to_es_data):
 print(list_of_filenames)
 
 for file in list_of_filenames: # for every data file
-    with open(path_to_es_data+"/"+file, "r") as filedata:
-        
+    with open(path_to_es_data+"/"+file, "r", encoding="utf-8") as filedata:
+
         contents = filedata.read()
-        lines = contents.split("\n") # turn text into a list of lines
-        engine_stats_keywords = ["thrust", "thrusting energy", "thrusting heat", "turn", "turning heat", "turning energy",
-                                 "reverse thrust", "reverse thrusting energy", "reverse thrusting heat"]
+        lines = contents.split("\n") # turn text in file into a list of lines
+        # lines to read: engine force, energy, heat for turn, thrust, reverse
+        engine_stats_keywords = ["thrust", "thrusting energy", "thrusting heat", "turn",
+                                 "turning heat", "turning energy", "reverse thrust",
+                                 "reverse thrusting energy", "reverse thrusting heat"]
+        # lines to skip: comments, thumbnails, descriptions
         exclude_keywords = ["description", "thumbnail", "#"]
         found_engine = False
 

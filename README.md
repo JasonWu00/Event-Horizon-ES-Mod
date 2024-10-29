@@ -55,7 +55,7 @@ The steps to install Event Horizon and this mod are as follows:
 
 ## Contributing to this Repository
 
-See [CONTRIBUTING.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/blob/master/CONTRIBUTING).
+See [CONTRIBUTING.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/CONTRIBUTING).
 
 ## Credits, Copyrights, Documentation
 

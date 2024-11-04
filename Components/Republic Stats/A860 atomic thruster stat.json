@@ -3,10 +3,10 @@
   "Id": 1068,
   "Type": 1,
   "ArmorRepairCooldownModifier": 0.051,
-  "EnergyRechargeRate": -1.07,
+  "EnergyRechargeRate": -0.545,
   "EnergyRechargeCooldownModifier": 0.051,
   "ShieldRechargeCooldownModifier": 0.051,
   "Weight": 25.0,
-  "EnginePower": 7.12,
-  "TurnRate": 3.56
+  "EnginePower": 4.76,
+  "TurnRate": 2.38
 }

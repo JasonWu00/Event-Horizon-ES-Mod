@@ -831,18 +831,27 @@ Changelog:
 - Tech
 - Other
 
+### 0.16.1 ??? update
+
+Changelog:
+- Major Updates
+- Outfits
+- Ships
+- Tech
+- Other
+
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates
 - Create Syndicate Extremists faction to contain the regenerators and nuclear missile
 - **Add the new aliens**
   - Gegno (all 3 subfactions at once)
   - Vyu-ira and other misc alien ships
+  - Successors
+  - Incipias
   - Decompression of the faction light year requirement list
 - **Add new ships and outfits**
   - Alternate Worldship designs
-  - Robin, Hobby
-  - Cromha's Expansion stuff
-    - New Quarg, Remnant, and Korath Automata ships
+  - Hobby
   - Mega Freight outfits and possibly ships
   - Minor plugins from Todd: https://github.com/endless-sky/endless-sky/discussions/7928
 - Rebalance human engines based on most recent engines stat
@@ -851,15 +860,3 @@ Changelog:
 - Incorporate the following ships from Becca's Endless Expansion mod:
   - Robin, Swan (Remnant)
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
-- Incorporate the HIPC from Ursa Polaris
-- New Remnant ships (Hobby, Robin, (Swan alt))
-- New Quarg ships
-  - Wardragon line: Drake, Hydra, Amphithere, Sibilnas, Kaukas
-  - Skylark line: Kalisto, Alt Skylark, Smaug, Zilant, Glaurun
-  - Crystalline: Tarasque, Fafnir, Gtuhanai, Psuchawrl
-- New Pug ships and outfits (Aeekelri)
-
-To still do:
-- Make technologies for all Quarg content
-- Make builds for Quarg ships
-- Update mod to EH latest

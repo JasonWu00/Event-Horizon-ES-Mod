@@ -138,7 +138,8 @@ Determining stats:
 
 == Engines ==   
 
-Planned new engine thrust+steer calculation: total thrust+steer / total size / 1000
+Planned new engine thrust+steer calculation: total thrust+steer / total size / 2000
+Planned new engine energy cost: nrg / total size / 200
 
 Ion Engines have arbitrarily determined stats and serve as a baseline.   
 For every engine other than Ionics:   
@@ -172,7 +173,7 @@ Calculating engine power consumption:
 4: multiply value by the power consumption of the corresponding ion engine.   
 
 For referencing values directly from the data files:   
-Multiply turn by 3600 and thrust by 60.   
+Multiply turn by 60 and thrust by 3600.   
 Multiply energy consumption and cooling by 60.   
 Multiply shield generation by 60.   
 
@@ -1044,3 +1045,4 @@ Turver | +100% projectile speed
 Doomscythe | removed direct damage portion
 Fission Drive, Large Fission Drive | +150% thrust and steering
 Fusion Power Converter | stats are arbitrarily made up
+Baellie Engines | -25% thrust and turn

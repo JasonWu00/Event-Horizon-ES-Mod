@@ -835,6 +835,8 @@ Changelog:
 
 Changelog:
 - Major Updates
+  - Updated all engine thrust, turn, heat, and energy cost values to match the latest Endless Sky stats
+    - Switched to new thrust and steering equation: ((thrust + steering) / outfit sizes) / 2000
 - Outfits
 - Ships
 - Tech

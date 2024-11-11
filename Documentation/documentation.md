@@ -1046,3 +1046,4 @@ Doomscythe | removed direct damage portion
 Fission Drive, Large Fission Drive | +150% thrust and steering
 Fusion Power Converter | stats are arbitrarily made up
 Baellie Engines | -25% thrust and turn
+Type 5 Radiant Engines | +57% thrust and turn (to match the engine buffs in [6686](https://github.com/endless-sky/endless-sky/pull/6686) and [9616](https://github.com/endless-sky/endless-sky/pull/9616))

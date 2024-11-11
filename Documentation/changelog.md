@@ -836,7 +836,9 @@ Changelog:
 Changelog:
 - Major Updates
   - Updated all engine thrust, turn, heat, and energy cost values to match the latest Endless Sky stats
-    - Switched to new thrust and steering equation: ((thrust + steering) / outfit sizes) / 2000
+    - Switched to new thrust and steering equation: ((thrust + steering) / outfit sizes) / X
+    - X is in the range of 2000 and 1500 and decreases as the "size scale" of the engine increases
+    - Tiny 1x1 engines have an X of 2000 while giant Vector Reality Engines have an X of 1500 
 - Outfits
 - Ships
 - Tech

@@ -260,6 +260,8 @@ Gatling Gun | 1029
 Falcon | 352 | 1154-1156
 Leviathan | 353 | 1157-1159
 Hogshead | 477 | 1545-1547
+Gunbarge | 511 | 1648-1650
+Pirate Freighter | 512 | 1651-1653
 Blaster | 2022
 Blaster Turret | 4022
 Laser Beam | 2024
@@ -510,6 +512,7 @@ Swan | 481 | 1554-1556
 Swan Alt | 482 | 1557-1559
 Robin | 483 | 1560-1562
 Merganser | 484 | 1563-1565
+Hobby | 513 | 1654-1656
 
 Coalition
 
@@ -1011,8 +1014,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1409
-Ship | 511
-Build | 1648
+Ship | 514
+Build | 1657
 Drone | 3037
 Quest | 1049
 

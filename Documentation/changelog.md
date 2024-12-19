@@ -841,8 +841,13 @@ Changelog:
     - Tiny 1x1 engines have an X of 2000 while giant Vector Reality Engines have an X of 1500 
 - Outfits
 - Ships
+  - Added the Gunbarge and Pirate Freighter to Pirates
+  - Added the Hobby to Remnant
+  - Added the Hyper-Ionized Plasma Cannon to the Ursa Polaris build
 - Tech
 - Other
+  - Fixed an issue with the Dagger not showing the proper button
+  - Slightly adjusted the velocities of a few ships
 
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1003,
   "Name": "nGVF-CC Fuel Cell",
-  "Description": "A medium fuelcell for most civilian vessels.",
+  "Description": "This is a medium-sized fuel cell, designed to be sufficient for larger civilian ships and small warships while still being more affordable than the more sophisticated generator options.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1003,

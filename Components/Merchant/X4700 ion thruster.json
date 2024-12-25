@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1017,
   "Name": "X4700 Ion Thruster",
-  "Description": "A large ion engine for civilian use.",
+  "Description": "The X4700 Ion Thruster was developed when the Republic Navy began building warships so large that the X3700 was not sufficient for them. It allows even a capital ship to move at a respectable speed.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1017,

@@ -12,5 +12,6 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ]
+  ],
+  "Description": "This is the tiniest Wanderer engine. Like all their engines, it works in part by radiating excess heat, and as a result it doubles as a cooler for your ship."
 }

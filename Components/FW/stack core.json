@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1054,
   "Name": "Stack Core",
-  "Description": "A mass of nuclear reactors that burns hot and generates lots of power.",
+  "Description": "The Stack Core was created by the Free Worlds primarily as a power source for their Dreadnoughts. It is a fission reactor, and therefore less efficient than the Navy's fusion technology, but it is also significantly cheaper to produce.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1054,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1002,
   "Name": "nGVF-BB Fuel Cell",
-  "Description": "A step up from the AA fuelcell.",
+  "Description": "This is a step up from the smallest fuel cells, providing enough energy to power a few small guns in addition to your engines.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1002,

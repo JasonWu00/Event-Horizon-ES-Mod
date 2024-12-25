@@ -12,5 +12,6 @@
   "CellType": "2",
   "PossibleModifications": [
     2
-  ]
+  ],
+  "Description": "This active cooling system uses a liquid sodium cooling loop to extract heat from the ship's hottest systems. A secondary system draws a moderate amount of power to continuously run the pump and maintain a minimum temperature in order to keep the sodium from freezing when the system is inactive."
 }

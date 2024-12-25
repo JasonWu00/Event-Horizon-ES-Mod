@@ -12,5 +12,6 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ]
+  ],
+  "Description": "This steering system is used by the Wanderers in their mid-sized ships. In addition to turning your ship, it is able to vent a considerable amount of heat."
 }

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1045,
   "Name": "Impala Plasma Steering",
-  "Description": "Medium plasma steerers that burn hotter and push harder than ions.",
+  "Description": "Impala class plasma steering systems are suitable for most freighters and all but the largest warships, and are also considerably more compact than the ion propulsion systems produced by the Syndicate.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1045,

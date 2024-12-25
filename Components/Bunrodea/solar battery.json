@@ -13,5 +13,6 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9
-  ]
+  ],
+  "Description": "Bunrodean solar batteries are required for the installation of solar cells, but solar batteries are perfectly capable of going without solar cells. Many captains will install batteries to store energy gained from normal reactors without ever installing solar cells."
 }

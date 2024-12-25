@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1077,
   "Name": "Cooling Ducts",
-  "Description": "A small heat dispersal device that slightly reduces cooldown delay.",
+  "Description": "When trying to cram as many high-powered outfits as possible into a ship, occasionally you reach the point where it is sporadically overheating and shutting down. In that case, you may need to install one of these.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1077,

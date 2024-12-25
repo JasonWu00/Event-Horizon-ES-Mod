@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1018,
   "Name": "X4200 Ion Steering",
-  "Description": "A large ion engine for civilian use.",
+  "Description": "The X4200 is a powerful steering system, designed mostly for warships because quick steering is seldom a requirement in freighter design.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1018,

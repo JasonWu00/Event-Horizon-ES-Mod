@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1046,
   "Name": "Orca Plasma Thruster",
-  "Description": "Large plasma thrusters that burn hotter and push harder than ions.",
+  "Description": "This engine draws enough power that a ship with anything short of a full-fledged nuclear reactor is unlikely to be able to use it, but the thrust it generates is impressive.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1046,

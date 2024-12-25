@@ -12,5 +12,6 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ]
+  ],
+  "Description": "A much smaller cousin of the Fusion Drive, it relies on fission instead of fusion to function, providing the necessary power generation and thrust to drive the Heavy Ion Cyclotron."
 }

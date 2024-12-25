@@ -12,5 +12,6 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ]
+  ],
+  "Description": "Wanderer engines work by transferring excess heat from the ship into the exhaust plasma. When not providing thrust, the engines still serve as a cooling system."
 }

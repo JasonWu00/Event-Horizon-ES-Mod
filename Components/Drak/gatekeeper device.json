@@ -9,5 +9,6 @@
   "Level": 1000,
   "Icon": "troll.png",
   "Layout": "111111111",
-  "CellType": "2"
+  "CellType": "2",
+  "Description": "We do a little trolling."
 }

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1056,
   "Name": "D14-RN Shield Generator",
-  "Description": "The smallest human shield. It doesn't protect much, but it also doesn't take up much space.",
+  "Description": "This is the standard shield generator for fighters and interceptors, as well as for many non-combat starships. Although it is possible for a ship to have no shield generator at all, recharging its shield matrix only when landed in a hospitable spaceport, life in deep space is unpredictable enough that most pilots find shield generators to be well worth the space they take up.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1056,

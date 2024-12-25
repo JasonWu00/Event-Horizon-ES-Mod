@@ -12,5 +12,6 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ]
+  ],
+  "Description": "This tiny steering system is used by the Wanderers to power their unpiloted mining and surveying drones."
 }

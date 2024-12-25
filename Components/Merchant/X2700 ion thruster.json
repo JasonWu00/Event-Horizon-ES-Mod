@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1013,
   "Name": "X2700 Ion Thruster",
-  "Description": "A small ion engine for civilian use.",
+  "Description": "The X2700 Ion Thruster is intended mostly for use in small, single-person or two-person ships, as well as in fighters. It is also used in larger ships, such as freighters, that have very little space for propulsion systems or energy to drive them. But these larger ships move unbearably slowly as a result.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1013,

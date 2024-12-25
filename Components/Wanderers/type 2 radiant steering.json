@@ -12,5 +12,6 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ]
+  ],
+  "Description": "This small Wanderer steering system vents excess heat from your ship even when it is not in use, allowing it to double as a cooling system."
 }

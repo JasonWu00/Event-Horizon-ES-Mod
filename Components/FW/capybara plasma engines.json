@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1302,
   "Name": "Capybara Plasma Engines",
-  "Description": "Tiny plasma engines for the smallest engine spaces.",
+  "Description": "Large ships often lack the maneuverability to perform the 180 degree turns needed to come to a stop on short notice. For such massive vessels, a reverse thruster allows them to accelerate smoothly backwards, without needing to turn around.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1302,

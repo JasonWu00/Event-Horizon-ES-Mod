@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 3007,
   "Name": "Combat Drone",
-  "Description": "A small drone that can be stored and launched en masse.",
+  "Description": "Combat drones are pilotless attack ships used primarily by the Republic Navy. Although very weak and easy to destroy, they can be very effective in large numbers. Because drones do not need a cockpit, they can be filled entirely with equipment and solid metal, which makes their hulls stronger than other small ships.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3007,

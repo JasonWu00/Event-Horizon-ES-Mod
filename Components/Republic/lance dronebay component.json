@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 3005,
   "Name": "Lance",
-  "Description": "A standard fighter of the Republic of Earth Navy.",
+  "Description": "The Lance is the primary fighter used by the Republic Navy. As with all fighters, it is weak by itself but very effective as part of a larger squadron.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3005,

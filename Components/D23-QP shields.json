@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1057,
   "Name": "D23-QP Shield Generator",
-  "Description": "A step up from the D14 but still not an exceptional shield generator.",
+  "Description": "This is a slightly more powerful shield generator than the standard model installed in most small ships. If combat lasts long enough, the increased recharge rate is enough to give you an edge, but recharging your shields completely will still take a long time.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1057,

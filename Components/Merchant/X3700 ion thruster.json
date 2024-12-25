@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1015,
   "Name": "X3700 Ion Thruster",
-  "Description": "A medium ion engine for civilian use.",
+  "Description": "The X3700 Ion Thruster is designed for heavy freighters and small capital ships. In theory, it could be installed in smaller ships too, if they have enough engine space, to attain almost ridiculous speeds.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1015,

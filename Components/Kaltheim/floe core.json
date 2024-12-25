@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1327,
   "Name": "Floe Core",
+  "Description": "No description.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1327,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     12
-  ],
-  "Description": "No description."
+  ]
 }

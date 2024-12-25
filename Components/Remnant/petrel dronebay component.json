@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3010,
   "Name": "Petrel",
+  "Description": "The Petrel is a multi-role mining/wing leader fightercraft designed to provide support for flights of lighter Terns in high-risk environments. The ship's design originated as an urban mobile gun platform that flitted around structures and natural terrain, but proved easy to adapt into a spacecraft.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3010,
@@ -18,6 +19,5 @@
     19,
     20,
     2
-  ],
-  "Description": "The Petrel is a multi-role mining/wing leader fightercraft designed to provide support for flights of lighter Terns in high-risk environments. The ship's design originated as an urban mobile gun platform that flitted around structures and natural terrain, but proved easy to adapt into a spacecraft."
+  ]
 }

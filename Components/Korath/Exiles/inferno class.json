@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1160,
   "Name": "Inferno-class Generator",
+  "Description": "No description.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1160,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     12
-  ],
-  "Description": "No description."
+  ]
 }

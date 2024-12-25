@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1337,
   "Name": "Mouthparts",
+  "Description": "No description.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -16,6 +17,5 @@
     16,
     5,
     7
-  ],
-  "Description": "No description."
+  ]
 }

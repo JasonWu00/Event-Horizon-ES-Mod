@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1103,
   "Name": "Basrem Atomic Thruster",
+  "Description": "Unbeknownst to the scientists of the Deep, the Hai have been using atomic engine technology for many millennia. Hai atomic engines are still much more energy hungry than other engines, but exhibit greater efficiency than their human counterparts.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1103,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "Unbeknownst to the scientists of the Deep, the Hai have been using atomic engine technology for many millennia. Hai atomic engines are still much more energy hungry than other engines, but exhibit greater efficiency than their human counterparts."
+  ]
 }

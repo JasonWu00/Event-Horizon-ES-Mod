@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3020,
   "Name": "Scud",
+  "Description": "No description.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3020,
@@ -18,6 +19,5 @@
     19,
     20,
     2
-  ],
-  "Description": "No description."
+  ]
 }

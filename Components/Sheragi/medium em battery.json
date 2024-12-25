@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1396,
   "Name": "Medium EM Battery",
+  "Description": "No description.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1396,
@@ -14,6 +15,5 @@
     9,
     3,
     12
-  ],
-  "Description": "No description."
+  ]
 }

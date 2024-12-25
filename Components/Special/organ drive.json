@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 7001,
   "Name": "Organ Drive",
+  "Description": "No description.",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 3,
@@ -17,6 +18,5 @@
   "PossibleModifications": [
     2,
     6
-  ],
-  "Description": "No description."
+  ]
 }

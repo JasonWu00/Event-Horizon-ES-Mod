@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1129,
   "Name": "Inhibitor Turret",
+  "Description": "While cannons that can interfere with a ship's engines are useful in any situation, the Remnant quickly decided that it would be even more useful as a turret that their ships could use to impede those chasing after them. These small Inhibitor Turrets are typically found primarily on Pelicans trying to outrun opponents rather than defeat them.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "While cannons that can interfere with a ship's engines are useful in any situation, the Remnant quickly decided that it would be even more useful as a turret that their ships could use to impede those chasing after them. These small Inhibitor Turrets are typically found primarily on Pelicans trying to outrun opponents rather than defeat them."
+  ]
 }

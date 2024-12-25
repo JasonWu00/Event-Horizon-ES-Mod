@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1176,
   "Name": "Maeri Engine Nacelles",
+  "Description": "The Ka'het engines are peculiar in that they continuously draw large amounts of energy, but require no additional energy to activate: while this means that less power remains available for other subsystems, it is also somewhat more efficient than most types of propulsion, and generates only a tiny amount of heat.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1176,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "The Ka'het engines are peculiar in that they continuously draw large amounts of energy, but require no additional energy to activate: while this means that less power remains available for other subsystems, it is also somewhat more efficient than most types of propulsion, and generates only a tiny amount of heat."
+  ]
 }

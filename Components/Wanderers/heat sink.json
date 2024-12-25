@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1205,
   "Name": "Wanderer Heat Sink",
+  "Description": "Most Wanderer systems are so efficient that ancillary cooling is unnecessary. As a result, their recent attempts to add cooling to their heavy warships are somewhat rudimentary.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1205,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     1
-  ],
-  "Description": "Most Wanderer systems are so efficient that ancillary cooling is unnecessary. As a result, their recent attempts to add cooling to their heavy warships are somewhat rudimentary."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1201,
   "Name": "Red Sun Reactor",
+  "Description": "The Wanderers have recently begun producing this tiny reactor as a way to squeeze a bit more energy production into their warships.",
   "DisplayCategory": 3,
   "Availability": 3,
   "ComponentStatsId": 1201,
@@ -13,6 +14,5 @@
   "PossibleModifications": [
     12,
     9
-  ],
-  "Description": "The Wanderers have recently begun producing this tiny reactor as a way to squeeze a bit more energy production into their warships."
+  ]
 }

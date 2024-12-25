@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1131,
   "Name": "Small Collector Module",
+  "Description": "Solar power is the mainstay of the Coalition's merchant marine. The design of these panels has been refined over the millennia, growing ever more efficient.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1131,
@@ -12,6 +13,5 @@
   "CellType": "3",
   "PossibleModifications": [
     12
-  ],
-  "Description": "Solar power is the mainstay of the Coalition's merchant marine. The design of these panels has been refined over the millennia, growing ever more efficient."
+  ]
 }

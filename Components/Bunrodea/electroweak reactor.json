@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1369,
   "Name": "Electroweak Reactor",
+  "Description": "The existence of the exotic stars that this Bunrodean reactor bears the name of is still unknown to humanity. An electroweak star is an exotic star that would be prevented from collapsing by the electroweak force as quarks are converted to leptons in the star's core.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1369,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12
-  ],
-  "Description": "The existence of the exotic stars that this Bunrodean reactor bears the name of is still unknown to humanity. An electroweak star is an exotic star that would be prevented from collapsing by the electroweak force as quarks are converted to leptons in the star's core."
+  ]
 }

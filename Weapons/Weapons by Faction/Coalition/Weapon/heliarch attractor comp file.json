@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1148,
   "Name": "Heliarch Attractor",
+  "Description": "When battling the Quarg, the Heliarchs learned that the Quarg would not engage in a battle that their ships might be unable to escape. In response, they focused on building weapons that would keep a ship from being able to come to a stop and activate its jump drive.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "When battling the Quarg, the Heliarchs learned that the Quarg would not engage in a battle that their ships might be unable to escape. In response, they focused on building weapons that would keep a ship from being able to come to a stop and activate its jump drive."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1138,
   "Name": "Small Thrust Module",
+  "Description": "This tiny thruster produces a considerable amount of thrust... but also a considerable amount of heat.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1138,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "This tiny thruster produces a considerable amount of thrust... but also a considerable amount of heat."
+  ]
 }

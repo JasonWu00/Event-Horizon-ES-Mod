@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 7002,
   "Name": "Hyperdrive",
+  "Description": "This mysterious box sits quietly at the heart of your ship, thinking its own inscrutable thoughts. When it comes time to travel between the stars it sets off a nuclear fusion reaction powerful enough to level an entire city, and then somehow tucks the resulting explosion in between the folds of regular space-time like a wasp stinging an oak leaf to lay her eggs inside. Your ship rides the resulting ripple in the fabric of space.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,
@@ -15,6 +16,5 @@
   "PossibleModifications": [
     2,
     6
-  ],
-  "Description": "This mysterious box sits quietly at the heart of your ship, thinking its own inscrutable thoughts. When it comes time to travel between the stars it sets off a nuclear fusion reaction powerful enough to level an entire city, and then somehow tucks the resulting explosion in between the folds of regular space-time like a wasp stinging an oak leaf to lay her eggs inside. Your ship rides the resulting ripple in the fabric of space."
+  ]
 }

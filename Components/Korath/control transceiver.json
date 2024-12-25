@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1303,
   "Name": "Control Transceiver",
+  "Description": "This is a miniaturized communication device, which can be connected to all the major systems of a Kor Sestor automaton, apparently as a way of controlling them remotely. The communications are encrypted and authenticated in a way that would make it nearly impossible to spoof the control signals.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1303,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     1
-  ],
-  "Description": "This is a miniaturized communication device, which can be connected to all the major systems of a Kor Sestor automaton, apparently as a way of controlling them remotely. The communications are encrypted and authenticated in a way that would make it nearly impossible to spoof the control signals."
+  ]
 }

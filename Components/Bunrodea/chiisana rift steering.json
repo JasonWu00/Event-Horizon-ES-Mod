@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1372,
   "Name": "Chiisana Rift Steering",
+  "Description": "Given that Bunrodean ships are typically focused on making heavy use of their forward facing guns, the Bunrodea favor high turn rates much more than high speeds. As such, rift steering systems are larger than the respective thruster systems of the same size category.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1372,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     11
-  ],
-  "Description": "Given that Bunrodean ships are typically focused on making heavy use of their forward facing guns, the Bunrodea favor high turn rates much more than high speeds. As such, rift steering systems are larger than the respective thruster systems of the same size category."
+  ]
 }

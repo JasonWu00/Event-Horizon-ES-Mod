@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1289,
   "Name": "Blaze-Pike",
+  "Description": "No description.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "No description."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1214,
   "Name": "Type 2 Radiant Thruster",
+  "Description": "Wanderer engines work by transferring excess heat from the ship into the exhaust plasma. When not providing thrust, the engines still serve as a cooling system.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1214,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "Wanderer engines work by transferring excess heat from the ship into the exhaust plasma. When not providing thrust, the engines still serve as a cooling system."
+  ]
 }

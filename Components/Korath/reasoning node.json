@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1304,
   "Name": "Reasoning Node",
+  "Description": "This is some sort of advanced, miniature computer combined with various sensor inputs and a hyperspace communication relay. Presumably, in some way it controls the Mereti automata or allows them to more easily coordinate their actions with each other.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1304,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     1
-  ],
-  "Description": "This is some sort of advanced, miniature computer combined with various sensor inputs and a hyperspace communication relay. Presumably, in some way it controls the Mereti automata or allows them to more easily coordinate their actions with each other."
+  ]
 }

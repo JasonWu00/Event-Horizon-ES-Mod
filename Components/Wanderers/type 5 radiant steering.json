@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1221,
   "Name": "Type 5 Radiant Steering",
+  "Description": "No description.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1221,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "No description."
+  ]
 }

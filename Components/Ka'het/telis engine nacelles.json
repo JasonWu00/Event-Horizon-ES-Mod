@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1177,
   "Name": "Telis Engine Nacelles",
+  "Description": "These nacelles used to comprise the entire engine block of a Telis'het. While their size is not impressive compared to other engines, if used in conjunction with a sustainer or two, they can be a powerful form of propulsion, combining both turning and thrusting engines in one.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1177,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "These nacelles used to comprise the entire engine block of a Telis'het. While their size is not impressive compared to other engines, if used in conjunction with a sustainer or two, they can be a powerful form of propulsion, combining both turning and thrusting engines in one."
+  ]
 }

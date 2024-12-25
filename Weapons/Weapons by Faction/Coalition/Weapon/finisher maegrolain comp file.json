@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1277,
   "Name": "Finisher Maegrolain",
+  "Description": "Baptized with the Saryd word for \"furious thunderstorm,\" this enormous launcher is not meant for prolonged fights nor for use by lighter craft, but for delivering a few quick, devastating bursts of Finisher Torpedoes. It has much greater damage potential than its smaller counterpart.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -18,6 +19,5 @@
     5,
     7,
     21
-  ],
-  "Description": "Baptized with the Saryd word for \"furious thunderstorm,\" this enormous launcher is not meant for prolonged fights nor for use by lighter craft, but for delivering a few quick, devastating bursts of Finisher Torpedoes. It has much greater damage potential than its smaller counterpart."
+  ]
 }

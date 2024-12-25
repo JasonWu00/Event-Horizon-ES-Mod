@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1223,
   "Name": "Thermal Repeater Turret",
+  "Description": "Thermal Repeaters fire compact bolts of superheated plasma at their targets. For every one of these turrets installed on a ship, an auxiliary cooling system is typically required to cope with its heat output.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1223,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "Thermal Repeaters fire compact bolts of superheated plasma at their targets. For every one of these turrets installed on a ship, an auxiliary cooling system is typically required to cope with its heat output."
+  ]
 }

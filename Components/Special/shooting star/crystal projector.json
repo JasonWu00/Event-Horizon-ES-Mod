@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1283,
   "Name": "Crystal Projector",
+  "Description": "Never underestimate the power of a bunch of crystals on a rock. In this case all they do is project some harmless purple rays around the Shooting Star, but the point still stands.",
   "DisplayCategory": 4,
   "Availability": 3,
   "ComponentStatsId": 1283,
@@ -11,6 +12,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "Never underestimate the power of a bunch of crystals on a rock. In this case all they do is project some harmless purple rays around the Shooting Star, but the point still stands."
+  ]
 }

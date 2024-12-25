@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1385,
   "Name": "Central Repair Unit",
+  "Description": "No description.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1385,
@@ -14,6 +15,5 @@
     3,
     12,
     101
-  ],
-  "Description": "No description."
+  ]
 }

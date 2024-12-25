@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1265,
   "Name": "Small EM Battery",
+  "Description": "This small superconductive inductor stores just enough power to keep a fighter running, and the electromagnetic field it generates helps to maintain the shield matrix.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1265,
@@ -14,6 +15,5 @@
     9,
     3,
     12
-  ],
-  "Description": "This small superconductive inductor stores just enough power to keep a fighter running, and the electromagnetic field it generates helps to maintain the shield matrix."
+  ]
 }

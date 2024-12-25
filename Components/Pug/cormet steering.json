@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1255,
   "Name": "Cormet Steering",
+  "Description": "No description.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1255,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "No description."
+  ]
 }

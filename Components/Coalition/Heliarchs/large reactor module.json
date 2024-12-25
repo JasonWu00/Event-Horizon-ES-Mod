@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1151,
   "Name": "Large Reactor Module",
+  "Description": "Though still unable to replicate Quarg power generation technology, Heliarch science teams are constantly looking to realize their most recent guess on how they work. For this larger module, a steady stream of injected antiprotons catalyzes reactions in carefully confined fusion plasma, extracting as much power as physically possible.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1151,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     12
-  ],
-  "Description": "Though still unable to replicate Quarg power generation technology, Heliarch science teams are constantly looking to realize their most recent guess on how they work. For this larger module, a steady stream of injected antiprotons catalyzes reactions in carefully confined fusion plasma, extracting as much power as physically possible."
+  ]
 }

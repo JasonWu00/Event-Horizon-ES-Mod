@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1213,
   "Name": "Type 1 Radiant Steering",
+  "Description": "This tiny steering system is used by the Wanderers to power their unpiloted mining and surveying drones.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1213,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "This tiny steering system is used by the Wanderers to power their unpiloted mining and surveying drones."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 9000,
   "Name": "Cloaking Device",
+  "Description": "You're sure the cloaking device is here somewhere, but you can't see it.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,
@@ -17,6 +18,5 @@
   "PossibleModifications": [
     2,
     6
-  ],
-  "Description": "You're sure the cloaking device is here somewhere, but you can't see it."
+  ]
 }

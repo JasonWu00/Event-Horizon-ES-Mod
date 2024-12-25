@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1202,
   "Name": "Yellow Sun Reactor",
+  "Description": "This is a compact nuclear reactor designed by the Wanderers. In addition to generating power, it is able to store a small amount of energy.",
   "DisplayCategory": 3,
   "Availability": 3,
   "ComponentStatsId": 1202,
@@ -13,6 +14,5 @@
   "PossibleModifications": [
     12,
     9
-  ],
-  "Description": "This is a compact nuclear reactor designed by the Wanderers. In addition to generating power, it is able to store a small amount of energy."
+  ]
 }

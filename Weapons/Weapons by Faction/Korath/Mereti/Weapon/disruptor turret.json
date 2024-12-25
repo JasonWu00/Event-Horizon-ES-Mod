@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1230,
   "Name": "Shield Disruptor Turret",
+  "Description": "Shield Disruptor Turrets interfere with a ship's shields, allowing a ship's hull to be damaged even when shields are up. However, they do very little hull damage by themselves.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "Shield Disruptor Turrets interfere with a ship's shields, allowing a ship's hull to be damaged even when shields are up. However, they do very little hull damage by themselves."
+  ]
 }

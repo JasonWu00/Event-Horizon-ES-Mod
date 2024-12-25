@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1276,
   "Name": "Firelight Missile Launcher",
+  "Description": "No description.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -18,6 +19,5 @@
     5,
     7,
     21
-  ],
-  "Description": "No description."
+  ]
 }

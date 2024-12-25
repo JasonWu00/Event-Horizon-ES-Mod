@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1137,
   "Name": "Large Battery Module",
+  "Description": "This battery pack stores enough power to allow a Coalition ship to continue maneuvering even when its solar panels are only producing a fraction of their peak output.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1137,
@@ -12,6 +13,5 @@
   "CellType": "0",
   "PossibleModifications": [
     9
-  ],
-  "Description": "This battery pack stores enough power to allow a Coalition ship to continue maneuvering even when its solar panels are only producing a fraction of their peak output."
+  ]
 }

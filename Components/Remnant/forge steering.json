@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1125,
   "Name": "Forge Steering",
+  "Description": "No description.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1125,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "No description."
+  ]
 }

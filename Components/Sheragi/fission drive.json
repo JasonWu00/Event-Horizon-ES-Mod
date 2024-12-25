@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1266,
   "Name": "Fission Drive",
+  "Description": "A much smaller cousin of the Fusion Drive, it relies on fission instead of fusion to function, providing the necessary power generation and thrust to drive the Heavy Ion Cyclotron.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1266,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "A much smaller cousin of the Fusion Drive, it relies on fission instead of fusion to function, providing the necessary power generation and thrust to drive the Heavy Ion Cyclotron."
+  ]
 }

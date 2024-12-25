@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1285,
   "Name": "Crystalline Formation",
+  "Description": "There appear to have been several prior attempts to discern the mechanics of this outfit, but the debate is still ongoing whether this can be considered a device or not.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -16,6 +17,5 @@
     16,
     5,
     7
-  ],
-  "Description": "There appear to have been several prior attempts to discern the mechanics of this outfit, but the debate is still ongoing whether this can be considered a device or not."
+  ]
 }

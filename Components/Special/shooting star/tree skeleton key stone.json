@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1287,
   "Name": "Tree Skeleton Key Stone",
+  "Description": "Although in appearance it may look somewhat similar to a tree, you don't know how it is supposed to resemble a skeleton. You aren't sure you want to find out either.",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 1287,
@@ -14,6 +15,5 @@
     12,
     3,
     9
-  ],
-  "Description": "Although in appearance it may look somewhat similar to a tree, you don't know how it is supposed to resemble a skeleton. You aren't sure you want to find out either."
+  ]
 }

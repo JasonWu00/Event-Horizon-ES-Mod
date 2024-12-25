@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1391,
   "Name": "Small Recovery Module",
+  "Description": "By combining the Coalition's shield generation and hull repair technologies into one piece of equipment, the Lunarium has increased the effectiveness of both, allowing for better defenses against Heliarch weaponry.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1391,
@@ -14,6 +15,5 @@
     3,
     12,
     101
-  ],
-  "Description": "By combining the Coalition's shield generation and hull repair technologies into one piece of equipment, the Lunarium has increased the effectiveness of both, allowing for better defenses against Heliarch weaponry."
+  ]
 }

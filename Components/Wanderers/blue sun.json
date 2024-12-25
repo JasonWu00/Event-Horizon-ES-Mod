@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1204,
   "Name": "Blue Sun Reactor",
+  "Description": "As the Wanderers have begun producing heavy warships, a need has arisen for larger and larger reactor cores to power them.",
   "DisplayCategory": 3,
   "Availability": 3,
   "ComponentStatsId": 1204,
@@ -13,6 +14,5 @@
   "PossibleModifications": [
     12,
     9
-  ],
-  "Description": "As the Wanderers have begun producing heavy warships, a need has arisen for larger and larger reactor cores to power them."
+  ]
 }

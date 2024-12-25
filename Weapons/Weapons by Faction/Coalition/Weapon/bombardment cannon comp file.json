@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2153,
   "Name": "Bombardment Cannon",
+  "Description": "The Bombardment Cannon was designed during the original war with the Quarg, in order to give Heliarch civilian ships a way to strike Quarg warships from a safe distance. But now, as with all their weapons, its use is limited to Heliarch warships.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "The Bombardment Cannon was designed during the original war with the Quarg, in order to give Heliarch civilian ships a way to strike Quarg warships from a safe distance. But now, as with all their weapons, its use is limited to Heliarch warships."
+  ]
 }

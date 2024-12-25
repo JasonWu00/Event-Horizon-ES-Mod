@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1368,
   "Name": "Quark Reactor",
+  "Description": "Bunrodean reactors appear to be named after types of exotic stars that either once were or still are considered theoretical to humanity. A quark star was first discovered by humanity near the Shangri-La system during the 28th century, a star with core temperatures and pressures so extreme that quark matter is produced.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1368,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12
-  ],
-  "Description": "Bunrodean reactors appear to be named after types of exotic stars that either once were or still are considered theoretical to humanity. A quark star was first discovered by humanity near the Shangri-La system during the 28th century, a star with core temperatures and pressures so extreme that quark matter is produced."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1241,
   "Name": "Large Graviton Thruster",
+  "Description": "No description.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1241,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "No description."
+  ]
 }

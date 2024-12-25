@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1172,
   "Name": "Shield Restorer",
+  "Description": "No description.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1172,
@@ -14,6 +15,5 @@
     3,
     12,
     101
-  ],
-  "Description": "No description."
+  ]
 }

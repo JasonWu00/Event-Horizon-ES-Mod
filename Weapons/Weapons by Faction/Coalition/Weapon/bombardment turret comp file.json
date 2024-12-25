@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1153,
   "Name": "Bombardment Turret",
+  "Description": "A Bombardment Turret is not one of the most dangerous Heliarch weapons, but it has the advantage that it can hit targets a considerable distance away.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "A Bombardment Turret is not one of the most dangerous Heliarch weapons, but it has the advantage that it can hit targets a considerable distance away."
+  ]
 }

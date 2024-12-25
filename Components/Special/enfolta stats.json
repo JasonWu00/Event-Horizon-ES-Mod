@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1259,
   "Name": "Enfolta Stats",
+  "Description": "No description.",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 1259,
@@ -15,6 +16,5 @@
     12,
     3,
     9
-  ],
-  "Description": "No description."
+  ]
 }

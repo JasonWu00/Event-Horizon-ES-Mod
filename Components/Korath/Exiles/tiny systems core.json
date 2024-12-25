@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1292,
   "Name": "Tiny Systems Core",
+  "Description": "No description.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1292,
@@ -16,6 +17,5 @@
     9,
     10,
     101
-  ],
-  "Description": "No description."
+  ]
 }

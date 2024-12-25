@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1135,
   "Name": "Cooling Module",
+  "Description": "This Cooling Module consumes energy. To conserve power, it does not ramp up to full strength unless a ship is very close to overheating.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1135,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     2
-  ],
-  "Description": "This Cooling Module consumes energy. To conserve power, it does not ramp up to full strength unless a ship is very close to overheating."
+  ]
 }

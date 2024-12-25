@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1144,
   "Name": "Small Repair Module",
+  "Description": "Arach ships, which rely more on strong hull than on energy shields, often carry one of these repair modules to allow damaged hull plating to be patched back together on the fly.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1144,
@@ -13,6 +14,5 @@
   "PossibleModifications": [
     2,
     10
-  ],
-  "Description": "Arach ships, which rely more on strong hull than on energy shields, often carry one of these repair modules to allow damaged hull plating to be patched back together on the fly."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1261,
   "Name": "Arfecta Stats",
+  "Description": "No description.",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 1261,
@@ -15,6 +16,5 @@
     12,
     3,
     9
-  ],
-  "Description": "No description."
+  ]
 }

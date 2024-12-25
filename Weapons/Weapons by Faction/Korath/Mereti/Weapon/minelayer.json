@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1228,
   "Name": "Cluster Minelayer",
+  "Description": "No description.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1228,
@@ -19,6 +20,5 @@
     16,
     7,
     14
-  ],
-  "Description": "No description."
+  ]
 }

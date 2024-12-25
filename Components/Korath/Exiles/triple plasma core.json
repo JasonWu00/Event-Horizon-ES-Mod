@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1163,
   "Name": "Triple Plasma Core",
+  "Description": "For the largest of their capital ships, the Korath designed a fusion reactor far more powerful than any comparable human technology.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1163,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     12
-  ],
-  "Description": "For the largest of their capital ships, the Korath designed a fusion reactor far more powerful than any comparable human technology."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1317,
   "Name": "Research Laboratory",
+  "Description": "From the very beginning, the Remnant have relied on their ability to study everything they encounter. This knowledge has enabled them to survive and even prosper in the harsh environment of the Ember Waste. To enable this pursuit of knowledge, the Remnant designed this compact laboratory that is built onto the side of a cargo bay, mess hall, or other larger room. When the room isn't otherwise occupied, this module expands out to convert it into a fully fledged laboratory.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1317,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     2
-  ],
-  "Description": "From the very beginning, the Remnant have relied on their ability to study everything they encounter. This knowledge has enabled them to survive and even prosper in the harsh environment of the Ember Waste. To enable this pursuit of knowledge, the Remnant designed this compact laboratory that is built onto the side of a cargo bay, mess hall, or other larger room. When the room isn't otherwise occupied, this module expands out to convert it into a fully fledged laboratory."
+  ]
 }

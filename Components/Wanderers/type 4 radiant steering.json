@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1219,
   "Name": "Type 4 Radiant Steering",
+  "Description": "This is the largest steering system that the Wanderers sell.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1219,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "This is the largest steering system that the Wanderers sell."
+  ]
 }

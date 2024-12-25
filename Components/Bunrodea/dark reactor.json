@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1370,
   "Name": "Dark Reactor",
+  "Description": "The term \"dark star\" can have different meanings, but one definition of it is a star whose core is formed around a large amount of dark matter. Such exotic stars are theorized by humanity to have possibly existed among the first generations of stars in the universe, with concentrations of dark matter acting as nucleation sites.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1370,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12
-  ],
-  "Description": "The term \"dark star\" can have different meanings, but one definition of it is a star whose core is formed around a large amount of dark matter. Such exotic stars are theorized by humanity to have possibly existed among the first generations of stars in the universe, with concentrations of dark matter acting as nucleation sites."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1325,
   "Name": "Glacial Shield Generator",
+  "Description": "No description.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1325,
@@ -14,6 +15,5 @@
     3,
     12,
     101
-  ],
-  "Description": "No description."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1248,
   "Name": "Arfecta Anti-Missile",
+  "Description": "No description.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,
@@ -17,6 +18,5 @@
   "PossibleModifications": [
     2,
     6
-  ],
-  "Description": "No description."
+  ]
 }

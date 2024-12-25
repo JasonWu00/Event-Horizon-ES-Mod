@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1236,
   "Name": "Quantum Shield Generator",
+  "Description": "The first humans who met the Quarg thought that their technology worked on magic, and many even think so to this day. The mechanism by which this Quarg shield generator works is completely unknown to humanity, and the Quarg aren't interested in giving up their secrets.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1236,
@@ -14,6 +15,5 @@
     3,
     12,
     101
-  ],
-  "Description": "The first humans who met the Quarg thought that their technology worked on magic, and many even think so to this day. The mechanism by which this Quarg shield generator works is completely unknown to humanity, and the Quarg aren't interested in giving up their secrets."
+  ]
 }

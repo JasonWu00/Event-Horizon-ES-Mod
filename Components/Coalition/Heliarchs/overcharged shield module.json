@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1147,
   "Name": "Overcharged Shield Module",
+  "Description": "These modular shield generators are the most powerful emitters produced in Coalition space, and as such they are strictly controlled and exclusively used by the Heliarchs. The additions made to the Large Shield Module more than tripled its shield generation, but at the cost of it requiring a constant supply of energy to stabilize it.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1147,
@@ -14,6 +15,5 @@
     3,
     12,
     101
-  ],
-  "Description": "These modular shield generators are the most powerful emitters produced in Coalition space, and as such they are strictly controlled and exclusively used by the Heliarchs. The additions made to the Large Shield Module more than tripled its shield generation, but at the cost of it requiring a constant supply of energy to stabilize it."
+  ]
 }

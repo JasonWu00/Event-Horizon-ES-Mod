@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3019,
   "Name": "Cool Breeze",
+  "Description": "This is the first ship the Wanderers have built in millennia that is designed to be operated by a single pilot instead of a crew. They are flown mostly by young warriors eager to prove their mettle by winning individual glory in battle.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3019,
@@ -18,6 +19,5 @@
     19,
     20,
     2
-  ],
-  "Description": "This is the first ship the Wanderers have built in millennia that is designed to be operated by a single pilot instead of a crew. They are flown mostly by young warriors eager to prove their mettle by winning individual glory in battle."
+  ]
 }

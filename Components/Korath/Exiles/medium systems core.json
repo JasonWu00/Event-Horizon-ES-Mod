@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1165,
   "Name": "Medium Systems Core",
+  "Description": "No description.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1165,
@@ -16,6 +17,5 @@
     9,
     10,
     101
-  ],
-  "Description": "No description."
+  ]
 }

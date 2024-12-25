@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1355,
   "Name": "Nami Rift Steering",
+  "Description": "As with many Bunrodean systems, rift engines produce very little heat. This allows their ships to forgo the use of any significant cooling systems, leaving more room for other systems, be they defensive or offensive.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1355,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     11
-  ],
-  "Description": "As with many Bunrodean systems, rift engines produce very little heat. This allows their ships to forgo the use of any significant cooling systems, leaving more room for other systems, be they defensive or offensive."
+  ]
 }

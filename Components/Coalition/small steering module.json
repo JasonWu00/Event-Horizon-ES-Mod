@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1139,
   "Name": "Small Steering Module",
+  "Description": "Despite its high efficiency, this module is not sufficient for any but the tiniest of ships. Instead, the modules are designed with the expectation that ships may use two or three of them in tandem.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1139,
@@ -12,6 +13,5 @@
   "CellType": "5",
   "PossibleModifications": [
     11
-  ],
-  "Description": "Despite its high efficiency, this module is not sufficient for any but the tiniest of ships. Instead, the modules are designed with the expectation that ships may use two or three of them in tandem."
+  ]
 }

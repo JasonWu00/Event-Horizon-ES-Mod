@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2224,
   "Name": "Heavy Thermal Repeater",
+  "Description": "No description.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 2224,
@@ -17,6 +18,5 @@
     16,
     5,
     7
-  ],
-  "Description": "No description."
+  ]
 }

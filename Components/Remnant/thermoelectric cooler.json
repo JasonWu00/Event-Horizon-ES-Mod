@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1116,
   "Name": "Thermoelectric Cooler",
+  "Description": "This cooler is actually just one of the power-generating elements of a Millennium Cell, but wired so it can run in reverse: consuming electricity in order to transfer heat from a ship's systems to its exterior.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1116,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     2
-  ],
-  "Description": "This cooler is actually just one of the power-generating elements of a Millennium Cell, but wired so it can run in reverse: consuming electricity in order to transfer heat from a ship's systems to its exterior."
+  ]
 }

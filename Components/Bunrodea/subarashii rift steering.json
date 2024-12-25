@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1359,
   "Name": "Subarashii Rift Steering",
+  "Description": "The largest of the rift steering systems, these engines are what allow the Bunrodea's heavy gunships to bear their many guns toward their unfortunate target.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1359,
@@ -13,6 +14,5 @@
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     11
-  ],
-  "Description": "The largest of the rift steering systems, these engines are what allow the Bunrodea's heavy gunships to bear their many guns toward their unfortunate target."
+  ]
 }

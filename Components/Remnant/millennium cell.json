@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1118,
   "Name": "Millennium Cell",
+  "Description": "This quite compact radiothermal generator uses isotopes so radioactive, and so tightly packed together, that it could almost be classified as a nuclear reactor.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1118,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     12
-  ],
-  "Description": "This quite compact radiothermal generator uses isotopes so radioactive, and so tightly packed together, that it could almost be classified as a nuclear reactor."
+  ]
 }

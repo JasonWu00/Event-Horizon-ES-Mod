@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1305,
   "Name": "Asteroid Scanner",
+  "Description": "This highly specialized scanning system can analyze the mineral composition of nearby asteroids and identify the ones that contain valuable materials.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
@@ -16,6 +17,5 @@
     16,
     5,
     7
-  ],
-  "Description": "This highly specialized scanning system can analyze the mineral composition of nearby asteroids and identify the ones that contain valuable materials."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1143,
   "Name": "Large Shield Module",
+  "Description": "The Coalition manufactures heavy shield generators for their ships in case they ever face aggression from the Quarg or another species.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1143,
@@ -15,6 +16,5 @@
     3,
     12,
     101
-  ],
-  "Description": "The Coalition manufactures heavy shield generators for their ships in case they ever face aggression from the Quarg or another species."
+  ]
 }

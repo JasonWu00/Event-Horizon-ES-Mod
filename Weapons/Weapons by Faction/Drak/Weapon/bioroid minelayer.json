@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1339,
   "Name": "Bioroid Minelayer",
+  "Description": "No description.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,
@@ -19,6 +20,5 @@
     16,
     7,
     14
-  ],
-  "Description": "No description."
+  ]
 }

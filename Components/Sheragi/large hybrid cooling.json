@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1262,
   "Name": "Large Hybrid Cooling",
+  "Description": "This Sheragi cooling system is primitive at best, but it works both actively and passively, allowing it to dissipate much more heat than a simple radiator would. It does, however, drain a lot of power when subjected to the heat of battle. It also includes cryogenic tanks to hold some additional fuel, which is used as a temporary heat reservoir.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1262,
@@ -12,6 +13,5 @@
   "CellType": "2",
   "PossibleModifications": [
     2
-  ],
-  "Description": "This Sheragi cooling system is primitive at best, but it works both actively and passively, allowing it to dissipate much more heat than a simple radiator would. It does, however, drain a lot of power when subjected to the heat of battle. It also includes cryogenic tanks to hold some additional fuel, which is used as a temporary heat reservoir."
+  ]
 }

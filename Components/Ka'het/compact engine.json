@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1174,
   "Name": "Compact Engines",
-  "Description": "No description.",
+  "Description": "This tiny engine was developed as the main propulsion of the Ka'mar drones, long before the Ka'het were created and their nacelle design standardized. Improvements over time allowed it to maintain a comparable efficiency to the larger models, although unlike those, it requires some energy to activate the engines in addition to the constant energy drain that all Builder-designed engines have.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1174,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1188,
   "Name": "Comet-class Thruster",
-  "Description": "No description.",
+  "Description": "Like most Korath technology, this thruster's power is offset by its energy requirements and heat output.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1188,

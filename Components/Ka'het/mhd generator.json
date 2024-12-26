@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1170,
   "Name": "MHD Generator",
-  "Description": "No description.",
+  "Description": "The Builders originally created this magnetohydrodynamic generator as the Ka'mar main power source. Similarly to what happened with many Mar devices, it was later reused in the Het ships as a secondary energy generator, supplementing their integrated power systems when they proved to be unsatisfactory.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1170,

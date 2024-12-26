@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 4022,
   "Name": "Blaster Turret",
-  "Description": "The generic blaster, now on a turret.",
+  "Description": "A Blaster Turret is a pair of Energy Blasters mounted on a rotating platform, allowing it to fire in any direction. Sophisticated software algorithms allow the turret to correct for a target's motion, making the Blaster Turret effective even against small, quickly moving fighters. Because it needs a special mounting point with a 360 degree field of view, not all ships are capable of being equipped with a turret.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1321,
   "Name": "Small Radar Jammer",
-  "Description": "A jammer device that launches radar decoys.",
+  "Description": "This radar jammer is designed to interfere with Sidewinders and any other missiles that rely on radar for tracking their targets. Jamming will occasionally cause missiles to lose their target locks.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1321,

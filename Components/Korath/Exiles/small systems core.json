@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1164,
   "Name": "Small Systems Core",
-  "Description": "No description.",
+  "Description": "The heart of any Korath ship is the Systems Core, which houses the ship's central computer, shield generators, reserve power, and a small reservoir which stores, produces and recycles a small microbot swarm that can make minor repairs to the ship while in flight.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1164,

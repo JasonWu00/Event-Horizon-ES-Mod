@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1121,
   "Name": "Anvil Engine",
-  "Description": "No description.",
+  "Description": "This tiny set of engines was designed specifically for craft so small that it combines both thrusters and steering into one unit.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1121,

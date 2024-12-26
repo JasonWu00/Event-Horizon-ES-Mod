@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2050,
   "Name": "Heavy Rocket Pod",
-  "Description": "A pod of unguided but very explosive Heavy Rockets.",
+  "Description": "Heavy Rockets are one of the most powerful missile weapons available, but at a price: instead of having a homing system, they simply fire straight forward and rely on a proximity trigger to set them off. Once triggered, however, they damage all ships within their blast radius, making them highly effective against clusters of fighters.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

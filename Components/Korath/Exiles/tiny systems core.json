@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1292,
   "Name": "Tiny Systems Core",
-  "Description": "No description.",
+  "Description": "Most Korath fighter pilots dispense with Systems Cores, preferring to run larger than necessary generators and return to their mothership if they take damage. Usually, only civilian small craft operators are willing to sacrifice enough firepower to mount this shield generator, capacitor, swarm of repair microbots, and computer to control them.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1292,

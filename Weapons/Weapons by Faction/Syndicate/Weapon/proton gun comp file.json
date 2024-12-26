@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2034,
   "Name": "Proton Gun",
-  "Description": "A shotgunning weapon that shoots out blasts of red proton bolts.",
+  "Description": "The Proton Gun started out as the Syndicate's attempt to reverse engineer and mass-produce a cheap competitor for the Particle Cannon. Unfortunately, they were unable to find a reliable way to keep the beam coherent, but the resulting weapon is still popular with some captains, particularly as an anti-fighter gun.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

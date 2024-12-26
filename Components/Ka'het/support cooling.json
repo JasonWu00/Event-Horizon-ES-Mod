@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1179,
   "Name": "Support Cooling",
-  "Description": "No description.",
+  "Description": "While the cooling on a typical ship only needs to worry about keeping the crew comfortable in certain areas, the entirety of a Ka'het ship needs to maintain a suitable temperature for the Het inside to survive.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1179,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1051,
   "Name": "Plasma Turret",
-  "Description": "Two plasma cannons on a turret.",
+  "Description": "The Plasma Turret is a pair of Plasma Cannons mounted on a turret so that they can fire in any direction. It is a fearsome weapon, but only the largest of ships have the space and the energy that it requires.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1254,
   "Name": "Cormet Thruster",
-  "Description": "No description.",
+  "Description": "This is a medium-sized thruster designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1254,

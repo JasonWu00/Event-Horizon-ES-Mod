@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1171,
   "Name": "Reserve Accumulator",
-  "Description": "No description.",
+  "Description": "This tiny battery was developed for use by the Ka'mar drones as an emergency energy storage, in case their generators can't quite suffice for the high power demand of most Builder systems.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1171,

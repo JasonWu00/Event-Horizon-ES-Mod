@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1098,
   "Name": "Pulse Turret",
-  "Description": "Two pulse cannons on a turret.",
+  "Description": "Pulse Cannons are the primary offensive weapon used by Hai ships. This turret mounts two Pulse Cannons side by side and allows them to track even the fastest-moving of targets.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

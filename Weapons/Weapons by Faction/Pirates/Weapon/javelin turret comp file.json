@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1274,
   "Name": "Javelin Turret",
-  "Description": "A large pod of high explosive rockets, now on a turret mount.",
+  "Description": "Mounting not one but two Javelin Pods, the Javelin Turret delivers a torrential downpour of unguided missiles that deal noticeably more damage than other turreted weapons of the same size, at the expense of using a prodigious amount of ammo due to its high fire rate. For that reason, these turrets are commonly paired with Javelin Storage Crates and weapons that don't require the use of ammunition to fall back on once all of the missiles are expended.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

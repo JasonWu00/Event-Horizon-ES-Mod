@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2293,
   "Name": "Penta Pulser",
-  "Description": "Five pulse cannons on a turret, for when the Tri-pulse Shredder still doesn't cut it.",
+  "Description": "Unlike a standard Pulse Turret, the Penta Pulser platform does not fire each of the five mounted Pulse Cannons in sequence, but rather in synchronized volleys. These turrets exist because there is no such thing as 'overkill' to the Unfettered. The bigger it is, the harder it hits, the better.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1199,
   "Name": "Bright Cloud",
-  "Description": "No description.",
+  "Description": "This small Wanderer shield generator is able to recharge a ship's shields at a considerable rate, but it also consumes more energy than some other shield generators do.",
   "DisplayCategory": 2,
   "Availability": 3,
   "ComponentStatsId": 1199,

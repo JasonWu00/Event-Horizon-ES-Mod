@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1035,
   "Name": "Torpedo Launcher",
-  "Description": "Dedicated launch tubes for explosive guided torpedoes.",
+  "Description": "Torpedoes are the most powerful homing weapon, but they move slowly enough that fast ships can simply outrun them, making them most useful against large targets or against small ships at times when they are too distracted to dodge. Torpedo launchers are also much larger than other missile systems, so they are most often found in capital ships.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

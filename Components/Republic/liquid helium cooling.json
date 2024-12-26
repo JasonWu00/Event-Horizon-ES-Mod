@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1080,
   "Name": "Liquid Helium Cooling",
-  "Description": "No description.",
+  "Description": "Liquid helium is the ultimate in cooling technology. Given how much space this cooling system takes up, you may be better off just installing more efficient, low-heat components instead, but where that is not an option, this cooler can handle almost anything you throw at it.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1079,

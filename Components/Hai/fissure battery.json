@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1085,
   "Name": "Fissure Battery Pack",
-  "Description": "A small Hai battery pack.",
+  "Description": "This battery pack has more than three times the energy capacity of the Hai Chasm Batteries, allowing their ships to engage in combat for longer periods of time before running out of energy.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1085,

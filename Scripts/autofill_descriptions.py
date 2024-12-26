@@ -19,17 +19,20 @@ USERAGENT = "404found_eh_es_parser/1.0 (https://github.com/JasonWu00/Event-Horiz
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files = [], selective_fill = True):
+def fill_in_descs(path: str, specific_files = None, selective_fill = True):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
 
     path: a path to the folder with component jsons.
     selective_fill: whether to skip over jsons with descriptions already.
+    specific_files: a list of json files to fill in, or None by default.
     """
     print(f"Path is: {path}")
-    if specific_files != []: dir_list = specific_files
-    else: dir_list = os.listdir(path)
+    if specific_files != []:
+        dir_list = specific_files
+    else:
+        dir_list = os.listdir(path)
 
     for filename in dir_list:
         if ".json" in filename: # begin description filling process
@@ -52,7 +55,7 @@ def fill_in_descs(path: str, specific_files = [], selective_fill = True):
                 #                  headers={"User-Agent": USERAGENT})
                 # replace empty spaces with dashes and remove apostrophes, to match the 7vn item url naming scheme
                 final_link = ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
-                
+
                 soup = grab_page_with_selenium(final_link)
                 print(f"Grabbing data for itemname {compname}")
                 #print(soup)
@@ -76,15 +79,14 @@ def fill_in_descs(path: str, specific_files = [], selective_fill = True):
                     print(f"Ignoring {filename}; desc already here")
                     # avoids overwriting existing descs with no_desc
                     continue
-                
+
                 data["Description"] = description
                 print(data)
                 print(type(data))
                 file.seek(0) # move back to start of file to overwrite file instead of appending
                 json.dump(data, file, indent=2) # write the updated json to data folder
                 file.truncate() # in case any old data remains
-                
-                
+
         elif "Stat" not in filename and "." not in filename:
             # ignore all Components Stats folders, recursively check other folders
             # Also ignore files (they have extensions)
@@ -99,7 +101,7 @@ def grab_page_with_selenium(link: str):
     browser = webdriver.Chrome() # create a Selenium web driver to handle dynamic pages
     #browser.minimize_window() # I don't want Chrome windows popping up every 5 minutes
     # Turns out minimize windows cause some 7vn pages to not load at all; this is commented out.
-    
+
     print(f"Looking at this webpage: {link}")
     browser.get(link)
 
@@ -107,7 +109,7 @@ def grab_page_with_selenium(link: str):
     #found = browser.find_element(By.CLASS_NAME, 'col-md-4')
     #wait = WebDriverWait(browser, timeout=2)
     #wait.until(found.is_displayed())
-    time.sleep(4) # 7vn loads the main page, then the actual data a split second later; 4s allows loading to occur
+    time.sleep(4) # 7vn loads the main page, then the actual data a split second later; needs 4s
     html = browser.page_source
     soup = BeautifulSoup(html, 'html.parser')
     browser.close() # close the window so Chrome doesn't eat my entire ram
@@ -122,7 +124,7 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str, find_class = 'col-md-
     find_class: the HTML class to look for when searching. Default is 'col-md-4' for outfits.
     """
     try:
-        all_pars = soup.find_all(['div'], attrs={'class': find_class})[0] # item description is in a div element
+        all_pars = soup.find_all(['div'], attrs={'class': find_class})[0] # item desc is in a div
 
         for para in all_pars:
             if NO_DESC in para.get_text().strip(): # Empty pages has no description in div
@@ -137,7 +139,7 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str, find_class = 'col-md-
 
     except IndexError:
         print(f"IndexError reached for file {compname}")
-        return (INDEXERROR)
+        return INDEXERROR
 
 # for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)

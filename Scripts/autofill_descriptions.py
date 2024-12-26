@@ -19,7 +19,7 @@ USERAGENT = "404found_eh_es_parser/1.0 (https://github.com/JasonWu00/Event-Horiz
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, selective_fill = True):
+def fill_in_descs(path: str, specific_files = [], selective_fill = True):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
@@ -27,8 +27,9 @@ def fill_in_descs(path: str, selective_fill = True):
     path: a path to the folder with component jsons.
     selective_fill: whether to skip over jsons with descriptions already.
     """
-
-    dir_list = os.listdir(path)
+    print(f"Path is: {path}")
+    if specific_files != []: dir_list = specific_files
+    else: dir_list = os.listdir(path)
 
     for filename in dir_list:
         if ".json" in filename: # begin description filling process
@@ -41,7 +42,8 @@ def fill_in_descs(path: str, selective_fill = True):
                     print(f"Skipping non-component file {filename}")
                     continue
                 compname = data["Name"]
-                if "Description" in data and selective_fill:
+                print(f"Selective fill value is: {selective_fill}")
+                if "Description" in data and selective_fill is True:
                     print(f"Skipping file with item name {compname}; desc already here")
                     continue
 
@@ -68,8 +70,12 @@ def fill_in_descs(path: str, selective_fill = True):
                     soup = grab_page_with_selenium(final_link)
                     # Ship pages use "well" class for the description
                     description = check_bs4_for_desc(soup, compname, find_class="well")
-                    if description == INDEXERROR: # index error of some sort; manually check later
-                        description = NO_DESC
+                if description == INDEXERROR: # index error of some sort; manually check later
+                    description = NO_DESC
+                if "Description" in data and description == NO_DESC and data["Description"] != NO_DESC:
+                    print(f"Ignoring {filename}; desc already here")
+                    # avoids overwriting existing descs with no_desc
+                    continue
                 
                 data["Description"] = description
                 print(data)
@@ -82,7 +88,7 @@ def fill_in_descs(path: str, selective_fill = True):
         elif "Stat" not in filename and "." not in filename:
             # ignore all Components Stats folders, recursively check other folders
             # Also ignore files (they have extensions)
-            fill_in_descs(path+"/"+filename)
+            fill_in_descs(path+"/"+filename, selective_fill=selective_fill)
 
 def grab_page_with_selenium(link: str):
     """
@@ -91,6 +97,8 @@ def grab_page_with_selenium(link: str):
     link: an HTML link.
     """
     browser = webdriver.Chrome() # create a Selenium web driver to handle dynamic pages
+    #browser.minimize_window() # I don't want Chrome windows popping up every 5 minutes
+    # Turns out minimize windows cause some 7vn pages to not load at all; this is commented out.
     
     print(f"Looking at this webpage: {link}")
     browser.get(link)
@@ -131,9 +139,10 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str, find_class = 'col-md-
         print(f"IndexError reached for file {compname}")
         return (INDEXERROR)
 
-# for subdir in ["Republic", "Merchant", "Hai", "Syndicate", "Pirates"]:
+# for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)
+#fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"], selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-fill_in_descs(WEAPONS_PATH)
-for subdir in ["Bunrodea"]:
-    fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)
+fill_in_descs(WEAPONS_PATH, selective_fill=False)
+# for subdir in ["Bunrodea"]:
+#     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

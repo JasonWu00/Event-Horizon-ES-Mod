@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1023,
   "Name": "Modified Blaster Turret",
-  "Description": "A redneck engineered blaster on a turret.",
+  "Description": "This is a turreted version of the Modified Blaster, which is an Energy Blaster modified for greater power at the cost of higher energy consumption and heat. These turrets are popular with pirates and others who are trying to cram as much firepower into their ships as possible.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

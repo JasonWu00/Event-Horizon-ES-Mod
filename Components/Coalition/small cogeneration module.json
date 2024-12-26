@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1133,
   "Name": "Small Cogeneration Module",
+  "Description": "The Kimek originally created much larger versions of this module, intended to provide energy for their hunger towers.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1133,

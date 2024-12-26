@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2023,
   "Name": "Modified Blaster",
-  "Description": "A blaster that has been redneck engineered to hit a little harder.",
+  "Description": "This is an Energy Blaster that has been tampered with to increase its power slightly, at the cost of reduced range and higher energy consumption. Modified Blasters also produce an extreme amount of heat when firing, increasing the risk that your ship will overheat.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

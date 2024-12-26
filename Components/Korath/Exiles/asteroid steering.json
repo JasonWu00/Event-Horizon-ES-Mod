@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1187,
   "Name": "Asteroid-class Steering",
+  "Description": "The Korath use these steering systems only in the very smallest of their ships.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1187,

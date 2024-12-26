@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1197,
   "Name": "Small Biochemical Cell",
+  "Description": "This tiny generator draws energy from the metabolic byproducts of a collection of microorganisms that have been engineered by the Wanderers specifically for this purpose.",
   "DisplayCategory": 3,
   "Availability": 3,
   "ComponentStatsId": 1197,

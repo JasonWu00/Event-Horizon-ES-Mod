@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1159,
   "Name": "Furnace-class Generator",
+  "Description": "Because Korath equipment is so power-hungry, they use radiothermal generators even in their fighters and interceptors, rather than relying on fuel cells or other comparable technology.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1159,

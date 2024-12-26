@@ -2,10 +2,11 @@
   "ItemType": 11,
   "Id": 1221,
   "Type": 1,
-  "ArmorRepairCooldownModifier": -0.047,
-  "EnergyRechargeRate": -0.6285,
-  "EnergyRechargeCooldownModifier": -0.047,
+  "ArmorRepairCooldownModifier": -0.022,
+  "EnergyRechargeRate": -0.315,
+  "EnergyRechargeCooldownModifier": -0.022,
+  "ShieldRechargeCooldownModifier": -0.22,
   "Weight": 25.0,
-  "EnginePower": 2.988,
-  "TurnRate": 5.976
+  "EnginePower": 2.65,
+  "TurnRate": 5.3
 }

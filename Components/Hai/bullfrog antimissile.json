@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1096,
   "Name": "Bullfrog Anti-Missile",
-  "Description": "A small Hai anti-missile turret.",
+  "Description": "Centuries ago, the Hai fought with more rudimentary versions of the Tracker, and this was the primary defense against them. In spite of the dated design, it is still effective against small numbers of their latest missile weapons.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

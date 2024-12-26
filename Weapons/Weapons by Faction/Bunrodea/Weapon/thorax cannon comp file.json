@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1360,
   "Name": "Thorax Cannon",
-  "Description": "Placeholder",
+  "Description": "The Thorax Cannon is a massive, slow-firing weapon that few ships can even support, not only because of its size but also because of the energy needed to fire it. It comes with its own energy capacitors to help alleviate the steep energy cost.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

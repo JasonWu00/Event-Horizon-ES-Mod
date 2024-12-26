@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1142,
   "Name": "Small Shield Module",
+  "Description": "Although combat is almost unheard of in Coalition space, almost all of their ships are able to recharge their shields when necessary.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1142,

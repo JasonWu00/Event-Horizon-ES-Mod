@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1134,
   "Name": "Large Cogeneration Module",
+  "Description": "Without much exciting work available in peacetime, many Coalition engineers take to tinkering with existing equipment to improve its efficiency.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1134,

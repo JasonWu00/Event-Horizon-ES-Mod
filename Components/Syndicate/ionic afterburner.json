@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1037,
   "Name": "Ionic Afterburner",
-  "Description": "For when the standard afterburner isn't fast enough.",
+  "Description": "The Ionic Afterburner was designed by the Syndicate to compensate for the primary weakness of an ordinary afterburner: namely, that it consumes hyperspace fuel at a prodigious rate. Ionic afterburners instead use a small amount of fuel combined with a large burst of energy from your ship's batteries to achieve the same effect.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 3,

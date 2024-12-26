@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1107,
   "Name": "Biroo Atomic Thruster",
+  "Description": "This thruster is the standard thruster on most Hai light warships, providing enough thrust to make them usable in combat, but it is not quite big enough to suffice for something as large as a Hai Shield Beetle.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1107,

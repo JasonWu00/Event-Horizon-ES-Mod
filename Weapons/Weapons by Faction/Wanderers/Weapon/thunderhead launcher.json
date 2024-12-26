@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1208,
   "Name": "Thunderhead Launcher",
+  "Description": "A prime example of Wanderer ingenuity, Thunderhead Missiles each carry five submunitions that are capable of independent tracking. Even if the target is able to shoot down or evade a few of them, the remaining missile fragments will still find their mark.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

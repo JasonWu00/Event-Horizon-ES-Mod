@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1052,
   "Name": "Fission Reactor",
-  "Description": "A generic but reliable reactor that runs on uranium.",
+  "Description": "Fission reactors have been a mainstay of large military vessels since even before the dawn of the space era. Today's models are very safe and efficient, but some pilots still find them disconcerting.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1052,

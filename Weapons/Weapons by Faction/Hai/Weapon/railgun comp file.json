@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1101,
   "Name": "Railgun",
-  "Description": "A pestering weapon that shoots quickly but doesn't hurt much. Good for interrupting energy regen.",
+  "Description": "The Hai designed this weapon to best complement their Flea drones. Each Skipper Railgun provides a significant amount of force upon firing, pushing the Flea drone backwards and therefore forcing it to keep its distance from its target.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

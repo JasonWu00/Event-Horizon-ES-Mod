@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1033,
   "Name": "Dwarf Core",
-  "Description": "A miniaturized nuclear reactor designed to be crammed into whatever free space your ship has.",
+  "Description": "A Dwarf Core is a miniaturized nuclear reactor, small enough to be installed in any ship larger than a fighter. It was designed by Deep Sky to be paired with their power-hungry atomic engines.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1033,

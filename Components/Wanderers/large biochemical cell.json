@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1198,
   "Name": "Large Biochemical Cell",
+  "Description": "The Wanderers are masters of unusual and efficient technology. This bioreactor is fueled by a culture of microorganisms that produce a small electric charge.",
   "DisplayCategory": 3,
   "Availability": 3,
   "ComponentStatsId": 1198,

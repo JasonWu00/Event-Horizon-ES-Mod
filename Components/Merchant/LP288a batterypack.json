@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1009,
   "Name": "LP288a Battery Pack",
-  "Description": "A large battery pack sold by the Merchants.",
+  "Description": "This is a large battery pack designed for ships that may occasionally have high power needs but do not want the expense or the heat associated with a more powerful ship's generator.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1009,

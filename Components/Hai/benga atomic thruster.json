@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1105,
   "Name": "Benga Atomic Thruster",
+  "Description": "Unlike human space where atomic engines are a rare sight to see and a luxury to have, many years of being confined to a relatively small pocket of the Galaxy has allowed all Hai ships to be outfitted with atomic engines.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1105,

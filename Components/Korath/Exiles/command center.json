@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1316,
   "Name": "Command Center",
+  "Description": "In response to occasional raids by the robotic war machines left behind after their recent conflict, the Kor Efret have developed this minimal, spartan Command Center that can be installed in a captured robotic ship to allow a pilot to override the AI and interface with the ship's controls. The Command Center only provides a single bunk for the captain, so more bunks may be necessary if the ship has turrets or other systems that require crew.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 1316,

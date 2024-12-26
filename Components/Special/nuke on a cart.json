@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 6000,
   "Name": "Nuke on a Cart",
+  "Description": "No description.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

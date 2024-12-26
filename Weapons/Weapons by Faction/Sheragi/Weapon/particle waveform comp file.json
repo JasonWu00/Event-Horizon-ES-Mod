@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1269,
   "Name": "Particle Waveform Turret",
+  "Description": "This ancient Sheragi turret accelerates a dense packet of electrons that, while very ineffective against any kind of shielding, has a very long range and disrupts electrical systems. By the nature of these weapons, one can deduce that their tactics likely involved using the Dragonflame Cannon at long range to break the enemy shields and finishing them off at relatively close range with the Particle Waveform Turrets.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

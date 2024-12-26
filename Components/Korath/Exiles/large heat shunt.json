@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1157,
   "Name": "Large Heat Shunt",
+  "Description": "Without these powerful cooling systems, most Korath warships would overheat within seconds as soon as they began to fire their weapons.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1157,

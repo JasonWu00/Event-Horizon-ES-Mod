@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1244,
   "Name": "Quarg Anti-Missile",
+  "Description": "Quarg anti-missile defenses can target projectiles from considerable range compared to human technology, ensuring that only the most powerful missiles are capable of even getting near a Quarg ship.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

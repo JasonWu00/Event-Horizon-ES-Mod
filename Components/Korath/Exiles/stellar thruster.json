@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1194,
   "Name": "Stellar-class Thruster",
+  "Description": "A legend among the Korath claims that when they were first testing out their latest generation of plasma thrusters, a concerned Quarg fleet approached and volunteered to help evacuate the Korath crew from what they assumed was a dying ship. The Quarg were surprised to learn that the flames shooting out the back of the ship were in fact its intended mode of propulsion.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1194,

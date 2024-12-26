@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1008,
   "Name": "LP144a Battery Pack",
-  "Description": "A medium battery pack sold by the Merchants.",
+  "Description": "This medium-sized battery pack is intended for ships that need to fire the occasional salvo of high-powered weaponry without running out of energy. As with all battery packs, relying on batteries is risky if combat lasts long enough for them to become depleted.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1008,

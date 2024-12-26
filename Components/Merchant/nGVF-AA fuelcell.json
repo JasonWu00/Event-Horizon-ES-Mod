@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1001,
   "Name": "nGVF-AA Fuel Cell",
-  "Description": "The smallest and weakest fuel cell sold by the Merchants.",
+  "Description": "Fuel cells have been the cheapest and most common starship power sources since the dawn of the space era. This model produces only enough power for very small or slow ships.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1001,

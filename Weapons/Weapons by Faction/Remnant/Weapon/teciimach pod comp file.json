@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2130,
   "Name": "Teciimach Pod",
+  "Description": "While originally developed as a heavy weapon to paralyze enemy capital ships, the Remnant have utilized on-the-spot assembly techniques to support their use on smaller ships. These pods sacrifice multiple assembly systems in order to fit them onto interceptor-class vessels.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

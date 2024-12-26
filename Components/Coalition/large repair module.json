@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1145,
   "Name": "Large Repair Module",
+  "Description": "This hub houses a small fleet of repair robots that can climb around on a ship's hull and repair damage to it, even in the middle of combat.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1145,

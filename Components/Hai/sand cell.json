@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1089,
   "Name": "Sand Cell",
-  "Description": "A small Hai generator for drones.",
+  "Description": "The Sand Cell is the smallest Hai generator. It was designed for ships which don't need or are unable to carry a nuclear reactor, and it clearly resembles human fuel cells.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1089,

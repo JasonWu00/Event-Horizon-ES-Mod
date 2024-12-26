@@ -1,7 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1146,
-  "Name": "Overclocked Hull Module",
+  "Name": "Overclocked Repair Module",
+  "Description": "These advanced repair modules are issued to Heliarch ships, providing hull repair unparalleled in all of Coalition space. The legions of small repair drones come with the extensive pathways they use to quickly get around a ship, and as such the outfit can interfere with a ship's cooling and heat dissipation systems.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1146,

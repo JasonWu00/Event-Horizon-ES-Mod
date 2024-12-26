@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1095,
   "Name": "Williwaw Cooling",
-  "Description": "A tiny heat dispersal device that reduces cooldown delay slightly.",
+  "Description": "While Hai technology is fairly heat efficient, occasionally they outfit their ships such that they sporadically overheat and shut down. When that happens, they install these.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1095,

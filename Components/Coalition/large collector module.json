@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1132,
   "Name": "Large Collector Module",
+  "Description": "One of these solar panels is enough to meet the energy needs of a medium-sized Coalition civilian ship, especially given the energy efficiency of their engines and the fact that under their laws only Heliarch ships are allowed to have weapons.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1132,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3015,
   "Name": "Chaser",
+  "Description": "The Korath Chaser is a fighter carried by most of their capital ships.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3015,

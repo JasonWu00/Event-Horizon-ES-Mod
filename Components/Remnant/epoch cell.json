@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1119,
   "Name": "Epoch Cell",
+  "Description": "Efficient Remnant technology ensures that nearly all the heat produced by this generator's radioisotopes is converted into electricity instead of becoming waste heat.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1119,

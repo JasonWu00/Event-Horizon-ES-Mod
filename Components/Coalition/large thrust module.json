@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1140,
   "Name": "Large Thrust Module",
+  "Description": "Coalition engineers prefer to focus on perfecting a few versatile designs rather than producing a wide range of them. This thruster is quite efficient, but large ships will need several of them stacked together to produce sufficient thrust.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1140,

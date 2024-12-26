@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1186,
   "Name": "Asteroid-class Thruster",
+  "Description": "Given its size, this tiny Korath thruster produces quite a kick. But, it also draws a considerable amount of power.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1186,

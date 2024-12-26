@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1071,
-  "Name": "D91-YV Shield Generator",
-  "Description": "The largest human shield generator providing respectable protection to capital ships.",
+  "Name": "D94-YV Shield Generator",
+  "Description": "This is the most powerful shield generator available in human space. Because of their large size, D94-YV Shield Generators are mostly used in large warships, but you can fit one in a smaller ship if you are willing to sacrifice engine power or weaponry to make space for it.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1071,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1222,
   "Name": "Moonbeam Turret",
+  "Description": "This turret only carries a single Moonbeam weapon, but with its duty cycle increased so it can do 50% more damage than the non-turreted version.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

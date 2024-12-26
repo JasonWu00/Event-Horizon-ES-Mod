@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1047,
   "Name": "Orca Plasma Steering",
-  "Description": "Large plasma steerers that burn hotter and push harder than ions.",
+  "Description": "An Orca class steering system will allow any mid-sized ship to turn as quickly as a fighter, and is powerful enough to serve even the largest of warships.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1047,

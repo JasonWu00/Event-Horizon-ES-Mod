@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1011,
   "Name": "X1700 Ion Thruster",
-  "Description": "The smallest ion engines available for civilian use.",
+  "Description": "This is the smallest thruster that you can buy, so weak that anything larger than a drone will accelerate quite slowly when using this engine. On the other hand, it is also very energy-efficient.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1011,

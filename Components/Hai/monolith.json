@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1351,
   "Name": "Monolith Core",
-  "Description": "A gigantic Hai reactor designed by the Unfettered.",
+  "Description": "When faced with higher and higher energy requirements on their bigger ships due to their new weapons, the Unfettered reused this old Hai generator, dating back to when Hai weapons were less optimized, and would require more energy to operate.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1351,

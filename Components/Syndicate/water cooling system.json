@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1078,
   "Name": "Water Cooling System",
-  "Description": "This device pumps heat from inside the ship to external radiators to reduce cooldown delay.",
+  "Description": "This system is a step up from ordinary Cooling Ducts; it circulates water in between an external radiator and your ship's hottest internal components to keep them from overheating.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1078,

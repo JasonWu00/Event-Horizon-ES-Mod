@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1090,
   "Name": "Pebble Core",
-  "Description": "A Hai fission reactor that is slightly more efficient than its human counterpart.",
+  "Description": "A Pebble Core is a miniaturized nuclear reactor, small enough to be installed in any ship larger than a fighter. The Hai developed this model for their smaller ships.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1090,

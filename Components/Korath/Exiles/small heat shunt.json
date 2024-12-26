@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1156,
   "Name": "Small Heat Shunt",
+  "Description": "The sheer inefficiency of most Korath equipment has forced them to become exceptionally good at one thing: dealing with large amounts of waste heat.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1156,

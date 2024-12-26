@@ -3,5 +3,8 @@
   "Id": 6324,
   "Type": 1,
   "ItemId": 324,
-  "Price": 3
+  "Price": 3,
+  "Dependencies": [
+    6511
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1217,
   "Name": "Type 3 Radiant Steering",
+  "Description": "This steering system is used by the Wanderers in their mid-sized ships. In addition to turning your ship, it is able to vent a considerable amount of heat.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1217,

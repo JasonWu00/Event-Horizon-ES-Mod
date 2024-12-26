@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1005,
   "Name": "nGVF-EE Fuel Cell",
-  "Description": "The largest commercially available fuelcell.",
+  "Description": "This is the largest fuel cell available, larger than some nuclear reactors but much, much more affordable. Many captains on a tight budget are willing to put up with one of these until they can raise the money for something more efficient.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1005,

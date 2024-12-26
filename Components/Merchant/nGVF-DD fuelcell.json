@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1004,
   "Name": "nGVF-DD Fuel Cell",
-  "Description": "A large fuelcell for most civilian vessels.",
+  "Description": "This is a relatively large fuel cell. Other generators are available that produce more energy and fit into a smaller space, but they are much more expensive. As a result, large civilian ships that will not be frequently in combat often come equipped with these fuel cells.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1004,

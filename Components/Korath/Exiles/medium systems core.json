@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1165,
   "Name": "Medium Systems Core",
+  "Description": "The Systems Core houses a powerful computer, shield generators, reserve power, and a control center for repair microbots that can move across a ship's exterior and slowly repair damage to the hull. The microbot reservoir is capable of supporting a significant swarm.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1165,

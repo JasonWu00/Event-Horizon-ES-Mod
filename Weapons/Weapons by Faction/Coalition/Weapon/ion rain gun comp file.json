@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2154,
   "Name": "Ion Rain Gun",
+  "Description": "Heliarch ships primarily serve as a police force. This weapon is designed to neutralize a target's offensive capabilities until more Heliarch ships can join the fray.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

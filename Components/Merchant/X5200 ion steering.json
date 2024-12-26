@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1020,
   "Name": "X5200 Ion Steering",
-  "Description": "The largest ion engine available for civilian use.",
+  "Description": "The X5200 is a steering system so large and powerful that only a handful of ships can install it. Due to its limited market, it is produced in small numbers.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1020,

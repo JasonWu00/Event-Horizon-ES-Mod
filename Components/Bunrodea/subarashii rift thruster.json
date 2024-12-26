@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1358,
   "Name": "Subarashii Rift Thruster",
+  "Description": "Given the lower size and thrust of rift engines, Bunrodean ships aren't well known for their pursuit capabilities. But there are rumors among some Bunrodea of an ancient cache of engines, more powerful than even those of the Korath, that would allow any ship to zip across the stars like a comet and chase down any potential target.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1358,

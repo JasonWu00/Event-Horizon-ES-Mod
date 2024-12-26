@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1112,
   "Name": "Bufaer Atomic Steering",
+  "Description": "Nine out of ten human captains interviewed in Hai space say that they would choose Hai atomic engines over those of Deep Sky any day... that is, if they could afford such expensive engines.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1112,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1373,
   "Name": "Solar Battery",
+  "Description": "Bunrodean solar batteries are required for the installation of solar cells, but solar batteries are perfectly capable of going without solar cells. Many captains will install batteries to store energy gained from normal reactors without ever installing solar cells.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1373,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 6001,
   "Name": "Organ Bomb",
+  "Description": "No description.",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 3,

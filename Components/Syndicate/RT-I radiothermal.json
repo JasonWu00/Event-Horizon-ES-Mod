@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1030,
   "Name": "RT-I Radiothermal",
-  "Description": "Radiothermals generate more power than fuel cells but increase cooldown delay more.",
+  "Description": "Radiothermal generators harvest heat from radioactive isotopes and convert it into electricity. They are more powerful than fuel cells, but also produce a relatively high amount of heat.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1030,

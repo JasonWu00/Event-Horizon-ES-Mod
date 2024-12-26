@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1124,
   "Name": "Forge Thruster",
+  "Description": "The Remnant have taken the basic ion thruster design that has been used by humanity since the dawn of spaceflight and made it significantly more powerful... but also more power-hungry.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1124,

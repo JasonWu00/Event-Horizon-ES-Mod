@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1064,
   "Name": "A370 Atomic Thruster",
-  "Description": "Medium atomic thrusters that push much harder than plasma engines of a comparable size.",
+  "Description": "This thruster is small enough to fit in a light warship or freighter, but powerful enough to move any but the largest of ships. Naturally, such performance comes at an exorbitant price.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1064,

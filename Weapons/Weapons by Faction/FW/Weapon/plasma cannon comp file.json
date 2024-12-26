@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2051,
   "Name": "Plasma Cannon",
-  "Description": "Shoots a stream of purple plasma bolts.",
+  "Description": "The Plasma Cannon fires bursts of superheated plasma. In addition to damaging your target, these plasma bursts impart a significant amount of heat, especially to a target whose shields are down.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

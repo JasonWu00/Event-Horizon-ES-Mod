@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1038,
   "Name": "S-270 Regenerator",
-  "Description": "An improved shield generator reverse engineered from alien tech.",
+  "Description": "A shield regenerator works by subtly modifying the geometry of your shield matrix in order to make your shields more malleable and therefore much easier to recharge. Unfortunately, this causes your shields to also become less efficient, which draws energy away from your other systems, even when not charging shields, and creates heat.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1038,

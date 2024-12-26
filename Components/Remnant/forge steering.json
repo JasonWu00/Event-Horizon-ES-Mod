@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1125,
   "Name": "Forge Steering",
+  "Description": "This unusually power-hungry steering system packs a lot of power into a relatively small space. It seems that engine technology has progressed more rapidly for the Remnant than it has for the rest of humanity.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1125,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1168,
   "Name": "Warder",
+  "Description": "This anti-missile system helps defend Korath warships from long-range attacks.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1168,

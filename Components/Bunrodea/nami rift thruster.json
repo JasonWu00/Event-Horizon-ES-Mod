@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1354,
   "Name": "Nami Rift Thruster",
+  "Description": "Although rift engines are extremely heat efficient, their energy requirement is rather high compared to the thrust they produce, even next to terribly inefficient Korath engines.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1354,

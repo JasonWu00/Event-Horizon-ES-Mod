@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1264,
   "Name": "Large EM Battery",
+  "Description": "This is a massive superconductive coil, capable of storing large amounts of energy in an electromagnetic field and discharging all of it in a fraction of a second. The magnetic field also provides a small boost to the shield regeneration of the ship, which is otherwise very underdeveloped.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1264,

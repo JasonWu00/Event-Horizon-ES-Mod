@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1058,
   "Name": "D41-HY Shield Generator",
-  "Description": "A still larger human shield generator that provides some protection.",
+  "Description": "This is a more powerful shield generator designed for ships that are likely to see frequent combat, or that have such a large shield capacity that recharging them would take a long time with a smaller generator.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1058,

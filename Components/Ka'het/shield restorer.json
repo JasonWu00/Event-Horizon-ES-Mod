@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1172,
   "Name": "Shield Restorer",
+  "Description": "The Builders never relied much on shield matrices, preferring instead to strengthen their hull. The reality of war, however, required that the Builders develop strong shield technology, leading to some Het vessels making extensive use of this module.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1172,

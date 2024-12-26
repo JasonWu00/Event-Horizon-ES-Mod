@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1082,
   "Name": "Heavy Anti-Missile Turret",
-  "Description": "A more powerful anti-missile turret used primarily by the Republic of Earth.",
+  "Description": "The Heavy Anti-Missile Turret has a longer range, higher power, and shorter reload time than its smaller sibling. The only way to overcome it is by firing missiles in a cluster so that while one is being targeted, the others can get through, and as a result all missile systems on the market now default to firing in clusters if multiple copies of the same launcher are installed, rather than staggering their fire as ordinary guns do.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2026,
   "Name": "Meteor Missile Pod",
-  "Description": "Slower but harder hitting Meteor missiles in a small pod.",
+  "Description": "The Meteor Missile is the cheapest and simplest homing weapon available in human space. Meteors are quickly destroyed by anti-missile systems, and their infrared tracking systems have trouble homing in on targets with low heat levels. Nevertheless, their large warheads can spell doom for poorly-defended targets when the missiles are fired in great numbers.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

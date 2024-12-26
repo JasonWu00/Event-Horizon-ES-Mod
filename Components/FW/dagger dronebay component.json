@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 3002,
   "Name": "Dagger",
-  "Description": "A compact drone that runs fast and hits reasonably well.",
+  "Description": "The Dagger is a fighter designed by Lionheart Industries, intended to be carried by their Aerie warship, although other ships have been known to carry them, as well. As with many Lionheart ships, its chassis is largely composed of lightweight composite materials, making it considerably faster than other fighters.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3002,

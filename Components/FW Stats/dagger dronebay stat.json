@@ -11,5 +11,5 @@
   "ActivationType": 2,
   "LaunchSound": "launch_08",
   "LaunchEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "controls_drone"
+  "ControlButtonIcon": "dagger icon.png"
 }

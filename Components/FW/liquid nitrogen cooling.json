@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1079,
   "Name": "Liquid Nitrogen Cooling",
-  "Description": "A large cooling device used by the semi-civilian Free Worlds militias.",
+  "Description": "For ships with extreme cooling needs, liquid nitrogen is the answer. One of these coolers will dissipate the heat produced by anything but the heaviest of armaments.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1079,

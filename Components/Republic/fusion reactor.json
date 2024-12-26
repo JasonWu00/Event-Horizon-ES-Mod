@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1075,
   "Name": "Fusion Reactor",
-  "Description": "A generic fusion reactor running on deuterium and tritium.",
+  "Description": "The invention of practical fusion power near the end of the twenty-first century spurred a new era of prosperity and plenty. Centuries later, the generators have been reduced in size, but are still generally only used in capital warships.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1075,

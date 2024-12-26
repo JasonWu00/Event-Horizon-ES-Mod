@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1158,
   "Name": "Candle-class Generator",
+  "Description": "This tiny generator produces a significant amount of energy using the heat produced by the radioactive decay of some particularly unstable nuclear isotopes.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1158,

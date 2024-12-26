@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1081,
   "Name": "Anti-Missile Turret",
-  "Description": "A basic anti-missile device sold by the Syndicate.",
+  "Description": "Centuries ago, space battles were fought mostly with missiles, with the outcome dependent only on which ship had more shielding or ammunition. Lovelace Labs was originally founded to remedy that situation by developing a protective system that could shoot missiles out of the air, defending freighter convoys from pirates who could otherwise simply bombard them into submission without ever venturing within range of their guns.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

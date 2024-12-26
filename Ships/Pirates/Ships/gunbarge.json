@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 511,
+  "Name": "Gunbarge",
+  "Faction": 202,
+  "IconImage": "imv gunbarge icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "imv gunbarge.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000001100000004412214400004412214400000132231000001132231100001114411100001114411100001132231100001132231100000112211000000555555000000550055000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.4
+      },
+      "AutoAimingArc": 20.0
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.4
+      },
+      "AutoAimingArc": 20.0
+    },
+    {
+      "AutoAimingArc": 80.0
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1240,
   "Name": "Medium Graviton Steering",
+  "Description": "Quarg steering engines are as similarly impressive as their thrusters in how much energy they consume. The Quarg don't seem to be bothered by this cost though, given the unmatched strength of their reactors.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1240,

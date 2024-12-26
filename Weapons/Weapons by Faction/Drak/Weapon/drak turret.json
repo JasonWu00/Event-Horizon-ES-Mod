@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1336,
   "Name": "Drak Turret",
+  "Description": "This is a turret-based cannon with significant range and accuracy.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

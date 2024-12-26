@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1162,
   "Name": "Double Plasma Core",
+  "Description": "This reactor core combines a pair of the ancient and robust Korath Plasma Cores into a single package.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1162,

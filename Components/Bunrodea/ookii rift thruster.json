@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1356,
   "Name": "Ookii Rift Thruster",
+  "Description": "Even though the energy drawn per unit thrust of rift engines is poorer than that of Korath engines, the overall energy requirement of rift engines is still far lesser by comparison.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1356,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2222,
   "Name": "Moonbeam",
+  "Description": "Because their Sunbeams are not very effective against the heavy plating of the Korath drones, the Wanderers have developed a new beam weapon that is considerably more effective against hull armor.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

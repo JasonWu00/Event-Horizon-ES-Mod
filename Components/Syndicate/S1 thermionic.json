@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1032,
-  "Name": "S1 Thermionic",
-  "Description": "Thermionics are a new development and are cooler than radiothermals.",
+  "Name": "S3 Thermionic",
+  "Description": "Thermionic radioisotopic generators were designed as a cooler-running alternative to radiothermal generators.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1032,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1175,
   "Name": "Sustainer Nacelles",
+  "Description": "While Ka'het vessels are already equipped with proper engines, most of them use a sustainer engine in addition to give the ship enough maneuverability to be useful in combat. Following the same design as its bigger cousins, the sustainer requires no power to function at the cost of constant energy consumption.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1175,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1006,
   "Name": "LP036a Battery Pack",
-  "Description": "The smallest battery pack sold by the Merchants.",
+  "Description": "A ship can run without batteries if its generator's instantaneous power output is higher than the total energy consumption of its systems, but batteries make it possible to store up energy when it is not needed and thus to use a much smaller and cheaper generator.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1006,

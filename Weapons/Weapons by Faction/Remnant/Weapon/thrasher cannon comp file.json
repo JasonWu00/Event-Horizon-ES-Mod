@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2128,
   "Name": "Thrasher Cannon",
+  "Description": "This weapon was originally developed in an attempt to reverse engineer a long-range energy projectile favored by an alien species that the Remnant encountered nearby. In the process they discovered that by adding more energy to the projectiles they could do a lot more damage in exchange for shorter range, and the Thrasher Cannon was born.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

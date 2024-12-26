@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3014,
   "Name": "Stalker",
+  "Description": "Boasting incredible durability for a ship this size, the Stalker is a compact fortress that can take serious punishment and recover faster than some warships. Its speed and maneuverability, however, leave much to be desired.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3014,

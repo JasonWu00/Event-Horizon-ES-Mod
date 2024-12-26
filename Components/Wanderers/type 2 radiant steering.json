@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1215,
   "Name": "Type 2 Radiant Steering",
+  "Description": "This small Wanderer steering system vents excess heat from your ship even when it is not in use, allowing it to double as a cooling system.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1215,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1016,
   "Name": "X3200 Ion Steering",
-  "Description": "A medium ion engine for civilian use.",
+  "Description": "The X3200 steering system is intended for small warships and freighters. It produces enough turning force to lend agility to all but the largest of human ships, and it is considerably more energy-efficient than the plasma-drive alternatives.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1016,

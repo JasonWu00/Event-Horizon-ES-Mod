@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1154,
   "Name": "Ion Hail Turret",
+  "Description": "Instead of just placing an Ion Rain Gun on a turret mount, the Heliarch tweaked the cycles of shots, having each shot be significantly more effective and seeing an overall increase to the weapon's range, but at the cost of a reload period.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

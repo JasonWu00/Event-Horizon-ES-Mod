@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1122,
   "Name": "Crucible Thruster",
+  "Description": "These small but powerful engines are driven by ionized gas propelled at a sizable fraction of the speed of light.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1122,

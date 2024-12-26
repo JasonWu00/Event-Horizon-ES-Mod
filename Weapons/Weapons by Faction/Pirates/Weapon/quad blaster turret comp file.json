@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1022,
   "Name": "Quad Blaster Turret",
-  "Description": "FOUR blasters on a turret, for when you really need to shoot down that fighter.",
+  "Description": "A Quad Blaster Turret carries four guns on a single turret mount, doubling the firepower of an ordinary Blaster Turret for ships with enough space to install one and energy to drive it.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

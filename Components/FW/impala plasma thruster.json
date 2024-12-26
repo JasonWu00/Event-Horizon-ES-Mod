@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1044,
   "Name": "Impala Plasma Thruster",
-  "Description": "Medium plasma thrusters that burn hotter and push harder than ions.",
+  "Description": "Impala class thrusters produce a significant amount of force, and are suitable for smaller capital ships. But, your ship may need extra cooling systems in order to handle them.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1044,

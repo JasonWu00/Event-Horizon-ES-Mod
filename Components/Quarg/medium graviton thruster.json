@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1239,
   "Name": "Medium Graviton Thruster",
+  "Description": "Quarg thrusters are quite powerful for their size and produce very little heat, but at the cost of consuming immense amounts of energy.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1239,

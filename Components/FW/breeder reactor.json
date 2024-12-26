@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1053,
   "Name": "Breeder Reactor",
-  "Description": "A nuclear reactor that generates its own fuel and a steady flow of power.",
+  "Description": "A Breeder Reactor is a more efficient fission reactor that captures some of the neutron radiation produced by the reactor and uses it to enrich more fuel. They are also, of course, bigger and more expensive as a result.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1053,

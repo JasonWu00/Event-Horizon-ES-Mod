@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1286,
   "Name": "Hexagonal Crystal",
+  "Description": "'Any sufficiently advanced technology is indistinguishable from magic,' Arthur C. Clarke said. This is sufficiently advanced technology.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

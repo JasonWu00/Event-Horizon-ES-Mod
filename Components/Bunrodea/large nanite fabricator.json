@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1367,
   "Name": "Large Nanite Fabricator",
+  "Description": "The creation of nanite fabricators was spurred on by early contact between the Bunrodea and Korath. The hull-walking microbots of Korath System Cores allowed Korath ships to make repairs without the need of a spaceport, a trait that the Bunrodea favored for use in their scout vessels.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1367,

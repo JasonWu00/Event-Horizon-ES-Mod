@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1042,
   "Name": "Greyhound Plasma Thruster",
-  "Description": "Small plasma thrusters that burn hotter and push harder than ions.",
+  "Description": "This thruster is intended for small ships and for freighters. It comes in a crate decorated with a stylized cartoon of a running greyhound.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1042,

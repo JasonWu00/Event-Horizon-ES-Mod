@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1014,
   "Name": "X2200 Ion Steering",
-  "Description": "A small ion engine for civilian use.",
+  "Description": "The X2200 steering system is designed for fighters and other small spacecraft, as well as for use in larger ships when maneuverability is not needed.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1014,

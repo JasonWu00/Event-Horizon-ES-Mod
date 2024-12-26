@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1040,
   "Name": "Chipmunk Plasma Thruster",
-  "Description": "Tiny plasma thrusters that burn hotter and push harder than ions.",
+  "Description": "This is the smallest of the plasma propulsion systems produced by Delta V Corporation, suitable for very light fighters and interceptors.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1040,

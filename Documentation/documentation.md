@@ -138,7 +138,8 @@ Determining stats:
 
 == Engines ==   
 
-Planned new engine thrust+steer calculation: total thrust+steer / total size / 1000
+Planned new engine thrust+steer calculation: total thrust+steer / total size / 2000
+Planned new engine energy cost: nrg / total size / 200
 
 Ion Engines have arbitrarily determined stats and serve as a baseline.   
 For every engine other than Ionics:   
@@ -172,7 +173,7 @@ Calculating engine power consumption:
 4: multiply value by the power consumption of the corresponding ion engine.   
 
 For referencing values directly from the data files:   
-Multiply turn by 3600 and thrust by 60.   
+Multiply turn by 60 and thrust by 3600.   
 Multiply energy consumption and cooling by 60.   
 Multiply shield generation by 60.   
 
@@ -259,6 +260,8 @@ Gatling Gun | 1029
 Falcon | 352 | 1154-1156
 Leviathan | 353 | 1157-1159
 Hogshead | 477 | 1545-1547
+Gunbarge | 511 | 1648-1650
+Pirate Freighter | 512 | 1651-1653
 Blaster | 2022
 Blaster Turret | 4022
 Laser Beam | 2024
@@ -509,6 +512,7 @@ Swan | 481 | 1554-1556
 Swan Alt | 482 | 1557-1559
 Robin | 483 | 1560-1562
 Merganser | 484 | 1563-1565
+Hobby | 513 | 1654-1656
 
 Coalition
 
@@ -1010,8 +1014,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1409
-Ship | 511
-Build | 1648
+Ship | 514
+Build | 1657
 Drone | 3037
 Quest | 1049
 
@@ -1044,3 +1048,5 @@ Turver | +100% projectile speed
 Doomscythe | removed direct damage portion
 Fission Drive, Large Fission Drive | +150% thrust and steering
 Fusion Power Converter | stats are arbitrarily made up
+Baellie Engines | -25% thrust and turn
+Type 5 Radiant Engines | +57% thrust and turn (to match the engine buffs in [6686](https://github.com/endless-sky/endless-sky/pull/6686) and [9616](https://github.com/endless-sky/endless-sky/pull/9616))

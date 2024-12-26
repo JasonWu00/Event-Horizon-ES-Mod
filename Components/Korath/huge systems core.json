@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1231,
   "Name": "Huge Systems Core",
+  "Description": "No description.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1231,

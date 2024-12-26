@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1120,
   "Name": "Aeon Cell",
+  "Description": "The early Remnant engineers did not trust the finicky and unpredictable nuclear reactors that were then in use in human space, so they instead focused on perfecting the art of radioisotope thermoelectric power.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1120,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1110,
   "Name": "Bondir Atomic Steering",
+  "Description": "Reserved for special use on only a small number of Hai ships, these engines are one of the most expensive outfits that one could buy. Considerably more efficient than any other engine of the same size, Hai atomic engines are a go-to choice for anyone in need of a high turn speed.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1110,

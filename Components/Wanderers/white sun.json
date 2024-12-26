@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1203,
   "Name": "White Sun Reactor",
+  "Description": "The White Sun is a large nuclear reactor that the Wanderers use for powering their Strong Wind warships.",
   "DisplayCategory": 3,
   "Availability": 3,
   "ComponentStatsId": 1203,

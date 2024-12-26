@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1150,
   "Name": "Small Reactor Module",
+  "Description": "Solar power is sufficient for commerce, but excessive thriftiness is seldom a winning strategy in warfare. For ships that must have a reliable energy source to power weapons, the Heliarchs use compact nuclear reactors.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1150,

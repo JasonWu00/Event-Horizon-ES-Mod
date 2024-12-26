@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1012,
   "Name": "X1200 Ion Steering",
-  "Description": "The smallest ion engines available for civilian use.",
+  "Description": "This is the smallest set of steering thrusters that you can buy, generally considered suitable only for tiny, pilotless drones. Occasionally pilots looking for some extra outfit space will try swapping out their larger steering systems for one of these, but the results are invariably disappointing.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1012,

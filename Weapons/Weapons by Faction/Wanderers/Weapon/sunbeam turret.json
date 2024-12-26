@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1207,
   "Name": "Sunbeam Turret",
+  "Description": "As the Wanderers slowly cope with the transition from peacetime to the growing conflict with the Unfettered Hai, they have begun building ships that are capable of carrying turret-mounted weapons. Because of the sheer size of the Sunbeam, this turret only carries one of them.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

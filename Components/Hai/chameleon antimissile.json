@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1097,
   "Name": "Chameleon Anti-Missile",
-  "Description": "An improved Hai anti-missile turret.",
+  "Description": "The Chameleon Anti-Missile Turret has a longer range, higher power, and shorter reload time than the Bullfrog.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

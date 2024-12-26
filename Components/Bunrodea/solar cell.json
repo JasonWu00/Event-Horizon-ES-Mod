@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1374,
   "Name": "Solar Cell",
+  "Description": "Bunrodean solar panels are extremely efficient, and are even capable of powering smaller or less powerful warships. But be warned: while these solar cells can provide significant energy, that is not without the drawback of also generating waste heat that scales with the energy generated, which can be especially hazardous when near bright stars.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1374,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1212,
   "Name": "Type 1 Radiant Thruster",
+  "Description": "This is the tiniest Wanderer engine. Like all their engines, it works in part by radiating excess heat, and as a result it doubles as a cooler for your ship.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1212,

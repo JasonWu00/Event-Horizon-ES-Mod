@@ -6,8 +6,8 @@ import os
 import time
 #import requests
 from selenium import webdriver # 7vn pages load dynamically, requests cant handle it
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
+#from selenium.webdriver.support.ui import WebDriverWait
+#from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
 COMPONENTS_PATH = "../Components"
@@ -53,8 +53,8 @@ def fill_in_descs(path: str, specific_files = None, selective_fill = True):
 
                 # r = requests.get(ES_7VN_LINK+compname, timeout=10,
                 #                  headers={"User-Agent": USERAGENT})
-                # replace empty spaces with dashes and remove apostrophes, to match the 7vn item url naming scheme
-                final_link = ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
+                # modify the final link to match the 7vn url naming scheme
+                final_link=ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
 
                 soup = grab_page_with_selenium(final_link)
                 print(f"Grabbing data for itemname {compname}")
@@ -69,13 +69,14 @@ def fill_in_descs(path: str, specific_files = None, selective_fill = True):
                     # drones have DisplayCategory 5
 
                     # modify final link to point to ships section
-                    final_link = ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                    final_link=ES_7VN_LINK+SHIPS+\
+                        compname.replace(' ', '-').replace('\'', '').lower()
                     soup = grab_page_with_selenium(final_link)
                     # Ship pages use "well" class for the description
                     description = check_bs4_for_desc(soup, compname, find_class="well")
                 if description == INDEXERROR: # index error of some sort; manually check later
                     description = NO_DESC
-                if "Description" in data and description == NO_DESC and data["Description"] != NO_DESC:
+                if "Description" in data and description==NO_DESC and data["Description"]!=NO_DESC:
                     print(f"Ignoring {filename}; desc already here")
                     # avoids overwriting existing descs with no_desc
                     continue
@@ -143,7 +144,8 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str, find_class = 'col-md-
 
 # for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)
-#fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"], selective_fill=False)
+#fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
+#              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
 fill_in_descs(WEAPONS_PATH, selective_fill=False)
 # for subdir in ["Bunrodea"]:

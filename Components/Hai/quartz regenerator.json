@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1411,
+  "Name": "Quartz Regenerator",
+  "Description": "To tweak their ships' performance to perfection, the Hai have designed these tiny regenerators. They don't generate much shield by themselves, but they allow smaller ships to adjust their shield matrix's durability as needed.",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1411,
+  "Faction": 206,
+  "Level": 250,
+  "Icon": "quartz regenerator.png",
+  "Layout": "1",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

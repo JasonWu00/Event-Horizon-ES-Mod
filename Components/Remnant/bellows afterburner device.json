@@ -1,14 +1,14 @@
 {
   "ItemType": 2,
   "Id": 1117,
-  "EnergyConsumption": 14.5,
-  "PassiveEnergyConsumption": 14.5,
-  "Power": 153.0,
+  "EnergyConsumption": 28.875,
+  "ScaleEnergyWithShipSize": false,
+  "Power": 84.375,
   "Size": 1.0,
-  "Cooldown": 1.0,
+  "Cooldown": 13.5,
   "ActivationType": 1,
   "Color": "#6E00FF",
   "Sound": "*remnant afterburner~",
   "EffectPrefab": "Flicker",
-  "ControlButtonIcon": "controls_boost"
+  "ControlButtonIcon": "bellows afterburner.png"
 }

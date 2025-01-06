@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1378,
+  "FireRate": 0.6,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "rocket.png"
+}

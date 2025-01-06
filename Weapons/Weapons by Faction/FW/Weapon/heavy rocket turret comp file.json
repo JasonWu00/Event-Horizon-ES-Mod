@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1378,
+  "Name": "Heavy Rocket Turret",
+  "Description": "During their battles against the Republic of Earth Navy the Free Worlds militias found a need for directed heavy firepower to contend against Navy Carriers and Cruisers. The engineers at Kraz responded by putting two Heavy Rocket Launchers on a turret mount.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 204,
+  "Level": 175,
+  "Icon": "heavy rocket turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1378,
+  "AmmunitionId": 1050,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

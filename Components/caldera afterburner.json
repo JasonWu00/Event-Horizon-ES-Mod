@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1410,
+  "Name": "Caldera Afterburner",
+  "Description": "The Caldera Afterburner is designed for heavy warships, allowing otherwise slow ships to gain a burst of speed to catch up to a faster target or flee from the heat of battle.",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 204,
+  "Level": 75,
+  "Icon": "caldera afterburner.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "DeviceId": 1410,
+  "Restrictions": {
+    "UniqueComponentTag": "afterburner"
+  },
+  "PossibleModifications": [
+    2,
+    1,
+    6
+  ]
+}

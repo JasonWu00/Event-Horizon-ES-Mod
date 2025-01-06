@@ -9,13 +9,13 @@ License: GPL-3+
 Comment: Derived from works by Pavel Zinchenko (under the same license).
 
 Files:
-  Component?Images/*
-  Ship?Images/*
-  Station?Images/*
-  Turret?Sprites/*
-  Weapons/Ammo?Images/*
+  Component Images/*
+  Ship Images/*
+  Station Images/*
+  Turret Sprites/*
+  Weapons/Ammo Images/*
   Weapons/Buttons/*
-  Weapons/Impact?Effect?Images/*
+  Weapons/Impact Effect Images/*
   Weapons/*.png
   Sounds/*.wav
 Copyright: Michael Zahniser <mzahniser@gmail.com>
@@ -28,214 +28,219 @@ Files:
 Copyright: Michael Zahniser <mzahniser@gmail.com>
            endless-sky contributors (see https://github.com/endless-sky/endless-sky/blob/master/credits.txt)
 License: CC-BY-SA-4.0
-Comment: Converted from .wav to .ogg using AscensionGameDev's Batch .wav To .ogg Converter (https://github.com/AscensionGameDev/Batch-Wav-To-Ogg-Converter?tab=readme-ov-file).
+Comment: Converted from .wav to .ogg using AscensionGameDev's Batch .wav To .ogg Converter (https://github.com/AscensionGameDev/Batch-Wav-To-Ogg-Converter).
 
 Files:
-  Component?Images/Pirates/b?class?plating*
-  Component?Images/Pirates/d?class?plating*
-  Component?Images/Pirates/f?class?plating*
-  Component?Images/Pirates/s?class?plating*
-  Component?Images/Pirates/interference?plating*
+  Component Images/Pirates/b class plating*
+  Component Images/Pirates/d class plating*
+  Component Images/Pirates/f class plating*
+  Component Images/Pirates/s class plating*
+  Component Images/Pirates/interference plating*
 Copyright: Jonathan Steck <jsteck2000@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
-  Ship?Images/Quarg/elderdragon*
-  Ship?Images/Quarg/empyrealdragon*
-  Ship?Images/Quarg/battledrake*
+  Ship Images/Quarg/elderdragon*
+  Ship Images/Quarg/empyrealdragon*
+  Ship Images/Quarg/battledrake*
 Copyright:
 License: CC-BY-SA-4.0
 Comment: Source mod (ZAmalgamation) did not provide specific copyright data on these images.
 
 Files:
-  Ship?Images/Pug/zalgi*
-  Ship?Images/Pug/zambor*
-  Ship?Images/Pug/zubera*
-  Ship?Images/Pug/mazdar*
-  Ship?Images/Pug/embor*
-  Ship?Images/Korath/seedship*
+  Ship Images/Pug/zalgi*
+  Ship Images/Pug/zambor*
+  Ship Images/Pug/zubera*
+  Ship Images/Pug/mazdar*
+  Ship Images/Pug/embor*
+  Ship Images/Korath/seedship*
 Copyright: Czartrak
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
-  Ship?Images/Korath/Sestor/kiv?750*
-  Ship?Images/Korath/fo?ionizer*
-  Ship?Images/Korath/fo?detainer*
-  Component?Images/Korath/Sestor/ionizer*
+  Ship Images/Korath/Sestor/kiv 750*
+  Ship Images/Korath/fo ionizer*
+  Ship Images/Korath/fo detainer*
+  Component Images/Korath/Sestor/ionizer*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment:
 
 Files:
-  Component?Images/Korath/reality?class?vector?engines*
-  Component?Images/Wanderers/type?0?radiant?engines*
-  Component?Images/Korath/Mereti/disruptor*
-  Ship?Images/Korath/Mereti/model?1024*
+  Component Images/Korath/reality class vector engines*
+  Component Images/Wanderers/type 0 radiant engines*
+  Component Images/Korath/Mereti/disruptor*
+  Ship Images/Korath/Mereti/model 1024*
 Copyright: Darcy Manoel <Darcman00@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
-  Ship?Images/Korath/Exiles/pillager*
+  Ship Images/Korath/Exiles/pillager*
 Copyright: Kriegstofu (github.com/Kriegstofu)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
-  Component?Images/Kaltheim/*
-  Ship?Images/Kaltheim/*
+  Component Images/Kaltheim/*
+  Ship Images/Kaltheim/*
 Copyright: Makuta-Miras (https://github.com/Makuta-Miras)
 License: CC-BY-SA-4.0
 Comment:
 
 Files:
- Component?Images/dimensional?eraser*
- Weapons/Buttons/dimensional?eraser*
- Ship?Images/Republic/battleship*
+  Component Images/dimensional eraser*
+  Weapons/Buttons/dimensional eraser*
+  Ship Images/Republic/battleship*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 
 Files:
- Ship?Images/hai?mantis*
- Component?Images/hai?mantis*
- Component?Images/penta?pulser*
- Component?Images/octa?annihilator*
- images/hardpoint/octa?annihilator*
- Component?Images/pulse?sniper*
- Component?Images/long?pulse?sniper*
- images/hardpoint/penta?pulser*
- Weapons/Ammo?Images/octa?annihilator?spin/octa?annihilator~*
- Weapons/Ammo?Images/octa?annihilator?wobble/octa?annihilator~*
+  Ship Images/hai mantis*
+  Component Images/hai mantis*
+  Component Images/penta pulser*
+  Component Images/octa annihilator*
+  images/hardpoint/octa annihilator*
+  Component Images/pulse sniper*
+  Component Images/long pulse sniper*
+  images/hardpoint/penta pulser*
+  Weapons/Ammo Images/octa annihilator spin/octa annihilator~*
+  Weapons/Ammo Images/octa annihilator wobble/octa annihilator~*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Ship?Images/hai?lycosidae*
-Copyright: Ejo Thims
-License: CC-BY-SA-4.0
-Comment: Derived from works by LocalGod, Becca Tommaso and Michael Zahniser (under the same license).
-
-Files:
- icon*.png
- Ship?Images/hai?tarantula*
- Component?Images/unfettered?bomb*
- Weapons/Ammo?Images/unfettered?bomb*
- Weapons/Buttons/unfettered?bomb*
+  icon*.png
+  Ship Images/hai tarantula*
+  Component Images/unfettered bomb*
+  Weapons/Ammo Images/unfettered bomb*
+  Weapons/Buttons/unfettered bomb*
 Copyright: Redpilot57
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Ship?Images/Hai/hai?mantis*
- Component?Images/Hai/penta?pulser*
- Component?Images/Hai/octapulse?annihilator*
- Weapons/Ammo?Images/octa?annihilator?projectile*
+  Ship Images/Hai/hai mantis*
+  Component Images/Hai/penta pulser*
+  Component Images/Hai/octapulse annihilator*
+  Weapons/Ammo Images/octa annihilator projectile*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Component?Images/Hai/ruby?regenerator*
+  Component Images/Hai/ruby regenerator*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment: Derived from works by Becca Tomaso (under the same license).
 
 Files:
- Ship?Images/hai?lycosidae*
+  Ship Images/hai lycosidae*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment: Derived from works by LocalGod, Becca Tommaso and Michael Zahniser (under the same license).
 
 Files:
- Component?Images/predator?engine*
+  Component Images/predator engine*
 Copyright: Daeridanii (https://github.com/Daeridanii1)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Component?Images/Hai/harasser?quadrail*
+  Component Images/Hai/harasser quadrail*
 Copyright: 1010todd (https://github.com/1010todd)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Matthew Smestad (under the same license).
 
 Files:
- Component?Images/Quarg/tachyon*
- Component?Images/Quarg/singularity*
- Component?Images/Quarg/amphithere*
- Component?Images/Quarg/drake*
- Component?Images/Quarg/fafnir*
- Component?Images/Quarg/hydra*
- Component?Images/Quarg/kaukas*
- Component?Images/Quarg/slibinas*
- Component?Images/Quarg/tarasque*
- Ship?Images/Quarg/amphithere*
- Ship?Images/Quarg/drake*
- Ship?Images/Quarg/fafnir*
- Ship?Images/Quarg/hydra*
- Ship?Images/Quarg/kaukas*
- Ship?Images/Quarg/slibinas*
- Ship?Images/Quarg/tarasque*
+  Component Images/Quarg/tachyon*
+  Component Images/Quarg/singularity*
+  Component Images/Quarg/amphithere*
+  Component Images/Quarg/drake*
+  Component Images/Quarg/fafnir*
+  Component Images/Quarg/hydra*
+  Component Images/Quarg/kaukas*
+  Component Images/Quarg/slibinas*
+  Component Images/Quarg/tarasque*
+  Ship Images/Quarg/amphithere*
+  Ship Images/Quarg/drake*
+  Ship Images/Quarg/fafnir*
+  Ship Images/Quarg/hydra*
+  Ship Images/Quarg/kaukas*
+  Ship Images/Quarg/slibinas*
+  Ship Images/Quarg/tarasque*
 Copyright: 1010todd (https://github.com/1010todd)
 License: CC-BY-SA-4.0
 Comment:
 
 Files:
- Component?Images/Hai/monolith?reactor*
- Ship?Images/Hai?locust*
- Component?Images/Sheragi/*core*
- Component?Images/Sheragi/*afterburner*
- Component?Images/Sheragi/pulse?beam*
- Component?Images/Sheragi/particle?waveform?cannon*
- Component?Images/Sheragi/solar?intake*
- Component?Images/Sheragi/medium*
- Component?Images/Sheragi/kinetic?spear*
+  Component Images/Hai/monolith reactor*
+  Ship Images/Hai locust*
+  Component Images/Sheragi/*core*
+  Component Images/Sheragi/*afterburner*
+  Component Images/Sheragi/pulse beam*
+  Component Images/Sheragi/particle waveform cannon*
+  Component Images/Sheragi/solar intake*
+  Component Images/Sheragi/medium*
+  Component Images/Sheragi/kinetic spear*
 Copyright: Petersupes
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Component?Images/Korath/Sestor/detainer?turret*
- Component?Images/Korath/Sestor/double?detainer?turret*
- Component?Images/Korath/Mereti/double?slicer?turret*
- Ship?Images/Korath/Sestor/fet?243*
- Component?Images/Wanderers/wanderer?heavy?antimissile*
- Component?Images/Hai/ionic?blaster*
- Component?Images/Hai/ionic?turret*
- Component?Images/Hai/ion?mortar*
- Component?Images/Pirates/barrage?turret*
- Component?Images/Pirates/javelin?turret*
- Component?Images/Marauder?Pirates/modified?radiothermal*
- Component?Images/Marauder?Pirates/stabilized?gatling?gun*
- Component?Images/Repiblic/ion?beam*
- Component?Images/Repiblic/ion?beam?turret*
- Ship?Images/Wanderers/blizzard*
- Ship?Images/Korath/Exiles/courier*
- Ship?Images/Korath/Exiles/shipper*
- Ship?Images/Hai/sea?scorpion*
+  Component Images/Korath/Sestor/detainer turret*
+  Component Images/Korath/Sestor/double detainer turret*
+  Component Images/Korath/Mereti/double slicer turret*
+  Ship Images/Korath/Sestor/fet 243*
+  Component Images/Wanderers/wanderer heavy antimissile*
+  Component Images/Hai/ionic blaster*
+  Component Images/Hai/ionic turret*
+  Component Images/Hai/ion mortar*
+  Component Images/Pirates/barrage turret*
+  Component Images/Pirates/javelin turret*
+  Component Images/Marauder Pirates/modified radiothermal*
+  Component Images/Marauder Pirates/stabilized gatling gun*
+  Component Images/Republic/ion beam*
+  Component Images/Republic/ion beam turret*
+  Ship Images/Wanderers/blizzard*
+  Ship Images/Korath/Exiles/courier*
+  Ship Images/Korath/Exiles/shipper*
+  Ship Images/Hai/sea scorpion*
 Copyright: Becca Tomaso
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Ships/Korath/Mereti/*
- Weapons/Ammo?Images/*x2*
-Copyright: Raul39 (on Discord)
+  Ships/Korath/Mereti/*
+  Weapons/Ammo Images/*x2*
+Copyright: @Raul39 (from the Event Horizon Discord server)
 License: CC-BY-SA-4.0
 
 Files:
- FTU?Images/4x4?reactive*
- FTU?Images/4x4*shield*
-Copyright: Crdball (on Discord)
+  FTU Images/4x4 reactive*
+  FTU Images/4x4*shield*
+Copyright: @Crdball (from the Event Horizon Discord server)
 License: CC-BY-SA-4.0
 
 Files:
- FTU?Images/4x4?armor*
- FTU?Images/Infesticore*
-Copyright: Mirage Spirit (on Discord)
+  FTU Images/4x4 armor*
+  FTU Images/Infesticore*
+Copyright: @Mirage Spirit (from the Event Horizon Discord server)
 License: CC-BY-SA-4.0
+
+Files:
+  Component Images/FW/heavy rocket turret*
+Copyright: @witch_25060 (from the Endless Sky discord server)
+License: CC-BY-SA-4.0
+
+Files:
+  Component Images/Hai/quartz regenerator*
+Copyright: bene-dictator (benstaples8068@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com).
 
 License: GPL-3+
   This program is free software: you can redistribute it and/or modify

@@ -831,7 +831,7 @@ Changelog:
 - Tech
 - Other
 
-### 0.16.1 ??? update
+### 0.16.1 "Second Australian Bloody Pissmas Miracle" update
 
 Changelog:
 - Major Updates
@@ -848,6 +848,29 @@ Changelog:
 - Other
   - Fixed an issue with the Dagger not showing the proper button
   - Slightly adjusted the velocities of a few ships
+
+### 0.16.2 ??? update
+
+Changelog:
+- Major Updates
+  - Rebalanced afterburners
+    - Scaled down thrust and active energy consumption on all afterburners
+    - Removed passive energy consumption
+    - Increased cooldown times for all modded afterburners
+- Outfits
+  - Added the Heavy Rocket Turret to the Free Worlds
+- Ships
+- Tech
+- Others
+
+### Update Template
+
+Changelog:
+- Major Updates
+- Outfits
+- Ships
+- Tech
+- Others
 
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates

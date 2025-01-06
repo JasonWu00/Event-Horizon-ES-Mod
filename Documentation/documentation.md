@@ -138,39 +138,16 @@ Determining stats:
 
 == Engines ==   
 
-Planned new engine thrust+steer calculation: total thrust+steer / total size / 2000
-Planned new engine energy cost: nrg / total size / 200
+Calculating engine thrust: ((thrust + steering) / (sum of outfit sizes)) / scaler   
+Scaler is in the range of (2000, 1500) inclusive and decreases as the "size scale" of the engine increases   
+1x1 engines have a scaler of 2000 while Vector Engines have a scaler of 1500   
+Afterburners have a scaler of 1000.
 
-Ion Engines have arbitrarily determined stats and serve as a baseline.   
-For every engine other than Ionics:   
-1: Calculate its thrust/turn per unit of outfit space.   
-2: Calculate the thrust/turn per unit of the corresponding ion engine (e.g. A860/865 -> X5200/5700).
-3: Divide the result of Step 1 by Step 2.   
-4: Multiply the value of Step 3 by the in-mod arbitrary stats of the corresponding ion engine.
+Calculating engine power consumption: [(thrust energy + steering energy) / (sum of outfit sizes)] / 10   
+Afterburners may or may not experience the division by 10 on a case by case basis.   
+For afterburners, add fuel usage * 25 to the top of the inner division.
 
-NOTE: Due to changes to the ion engine stats in base ES, it is important to use the values provided below (sourced from the Endless Sky GitHub repo before 16 April 2022) for the above calculations. These values will be obsoleted in a future update that adjusts all engines to match these changes.
-
-To see all the changes in the 16 April 2022 update: inspect this link: https://github.com/endless-sky/endless-sky/commit/8a503d9bd5e062054549056aa4a730813def8977#diff-7429a26a7e995048c3b962ee40092f520add3a2cad1af48e67e1b46a2bd8f9f3
-
-Engine | Thrust | Turn | Outfit space | Energy cost
---- | --- | --- | ---
-X1050 | 14400 | 6600 | 20 | 39
-X1700 | 21600 | - | 16 | 36
-X2700 | 41400| - | 27 | 66
-X3700 | 79560 | - | 46 | 114
-X4700 | 153000 | - | 79 | 210
-X5700 | 293400 | - | 134 | 378
-X1200 | - | 9600 | 12 | 18
-X2200 | - | 12420 | 20 | 36
-X3200 | - | 35400 | 35 | 66
-X4200 | - | 67920 | 59 | 114
-X5200 | - | 130440 | 89 | 210
-
-Calculating engine power consumption:   
-1: calculate power per unit of outfit space for desired single or pair of engine(s).   
-2: calculate power per unit of corresponding ion engine(s).   
-3: divide 1 by 2.   
-4: multiply value by the power consumption of the corresponding ion engine.   
+Afterburner cooldown: heat / size / 10
 
 For referencing values directly from the data files:   
 Multiply turn by 60 and thrust by 3600.   
@@ -372,6 +349,7 @@ Plasma Repeater | 1084
 Quad Plasma Turret | 1246
 Capybara Plasma Engines | 1302
 Tactical Scanner | 1308
+Heavy Rocket Turret | 1378
 
 Republic
 
@@ -472,6 +450,7 @@ Predator Engine | 1353
 Locust | 3031 | 3031
 Tarantula | 467 | 1515-1517
 Phrynus | 468 | 1518-1520
+Quartz Regenerator | 1411
 
 Remnant
 
@@ -981,7 +960,6 @@ Dragonflame Cannon | 1272
 Sheragi AM | 1273
 Fission Core | 1376
 Fusion Core | 1377
-Fusion Afterburner | 1378
 Small Fusion Drive | 1379
 Large Fission Drive | 1380
 Medium Hybrid Cooling | 1381
@@ -1009,11 +987,15 @@ Crystalline Formation | 1285
 Hexagonal Crystal | 1286
 Tree Skeleton Key Stone | 1287
 
+No factions yet
+Volcano Afterburner | 1409
+Caldera Afterburner | 1410
+
 First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1409
+Component | 1412
 Ship | 514
 Build | 1657
 Drone | 3037

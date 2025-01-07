@@ -1,6 +1,7 @@
 {
   "ItemType": 30,
   "Id": 6,
+  "MaxEnemyShips": "100",
   "TimeLimit": "90",
   "TimeOutMode": 2,
   "ExpCondition": 2,

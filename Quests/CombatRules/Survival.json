@@ -1,6 +1,7 @@
 {
   "ItemType": 30,
   "Id": 3,
+  "MaxEnemyShips": "100",
   "LootCondition": 1,
   "ExpCondition": 1
 }

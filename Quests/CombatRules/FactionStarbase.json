@@ -2,5 +2,6 @@
   "ItemType": 30,
   "Id": 4,
   "InitialEnemyShips": "3",
+  "MaxEnemyShips": "50",
   "DisablePlanet": true
 }

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1380,
   "Name": "Large Fission Drive",
-  "Description": "No description.",
+  "Description": "This large complex engine is fission powered, resulting in a massive amount of energy to drive heavy ships forwards.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1380,

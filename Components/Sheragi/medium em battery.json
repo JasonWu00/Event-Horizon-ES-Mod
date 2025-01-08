@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1396,
   "Name": "Medium EM Battery",
-  "Description": "No description.",
+  "Description": "This medium superconductive inductor stores enough power to keep most ships running, and the electromagnetic field it generates helps to maintain the shield matrix.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1396,

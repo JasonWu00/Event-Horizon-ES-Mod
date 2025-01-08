@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1206,
   "Name": "Wanderer Large Heat Sink",
-  "Description": "No description.",
+  "Description": "When they started producing reactors so large that a simple Heat Sink wasn't enough anymore, the Wanderers understood that a new cooling system was necessary. The result is better than its predecessor, but it's still quite inefficent.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1206,

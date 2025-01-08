@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1408,
   "Name": "Fusion Power Converter",
-  "Description": "No description.",
+  "Description": "This simple attachment for the Fusion Afterburner recycles some of the generated energy back into the afterburner, increasing the thrust output. However, as this is mutually exclusive to the Sheragi Hyperdrive it is usually only used on larger ships that use Fusion Drives or madmen that install multiple afterburners.",
   "DisplayCategory": 4,
   "Availability": 2,
   "ComponentStatsId": 1408,

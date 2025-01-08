@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1324,
   "Name": "Tundra Shield Generator",
-  "Description": "No description.",
+  "Description": "The Tundra-Class Shield Generator is the smallest Kaltheim shield system. Designed to absorb energy from the projectiles which it deflects, this allows smaller Kaltheim ships to operate only on relatively small generators. The dissipation effects used by Kaltheim shields also allow them to cool their ships when being fired on.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1324,

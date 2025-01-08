@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 3028,
-  "Name": "FO Detainer",
-  "Description": "No description.",
+  "Name": "FO27-D",
+  "Description": "Because it is piloted by a computer and has no need for a cockpit or life support systems, the FO27 fighter is able to carry far more weaponry than any comparable human ship.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3028,

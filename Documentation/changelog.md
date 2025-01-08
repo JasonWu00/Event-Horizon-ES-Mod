@@ -857,11 +857,18 @@ Changelog:
     - Scaled down thrust and active energy consumption on all afterburners
     - Removed passive energy consumption
     - Increased cooldown times for all modded afterburners
+  - Added more descriptions for many plugin outfits
 - Outfits
   - Added the Heavy Rocket Turret to the Free Worlds
+  - Reduced heat generation on the S1 Thermionic reactor (0.131 -> 0.052 per slot)
+  - Fixed an issue with the Particle Cannon having 3 range instead of 75
+  - Fixed the S3 Thermionic having twice as much heat output as it should
 - Ships
 - Tech
+  - Fixed the Infesticore's technology being outside the Jurgans tech tree
 - Others
+  - Modified combat rules for most battle scenarios
+    - Players may now summon up to 50 ships during star and faction battles and 100 ships during survival mode
 
 ### Update Template
 

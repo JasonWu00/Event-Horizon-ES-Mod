@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1398,
   "Name": "Pulse Beam Turret",
-  "Description": "No description.",
+  "Description": "This beam turret is the peak of standard Sheragi weaponry, balanced in its effectiveness at damaging both shields and hull. One should beware the high energy cost of this weapon and the difficulty installing a weapon of such a size.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1073,
   "Name": "Electron Beam Turret",
-  "Description": "No description.",
+  "Description": "This turret places two of Deep Sky's recently developed electron beam weapons onto a rotating turret, providing unsurpassed accuracy and power for shooting down fast-moving targets.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

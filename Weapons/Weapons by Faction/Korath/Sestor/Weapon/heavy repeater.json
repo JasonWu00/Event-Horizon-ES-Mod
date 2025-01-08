@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2224,
   "Name": "Heavy Thermal Repeater",
-  "Description": "No description.",
+  "Description": "Unlike the normal repeaters, these guns pack much more of a punch and a longer range in exchange for a drastic increase in both energy and heat requirements.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 2224,

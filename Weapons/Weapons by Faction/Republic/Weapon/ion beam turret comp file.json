@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1301,
   "Name": "Ion Beam Turret",
-  "Description": "No description.",
+  "Description": "This turret places Ursa Polaris' recently developed Ion Beam weapon onto a rotating turret, providing unsurpassed accuracy for reducing the combat capability of nearby targets. This turret has integrated S.A.R.C., so it does not require extra crew (but does take up extra bunks, consumes a little energy all the time, and requires an equipped shield regenerator.)",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

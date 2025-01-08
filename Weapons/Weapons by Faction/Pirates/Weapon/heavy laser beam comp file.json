@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2025,
   "Name": "Heavy Laser Beam",
-  "Description": "No description.",
+  "Description": "The Heavy Laser is an upgraded Beam Laser with a significantly longer range and higher power. It is mostly intended for larger ships, where energy and space are plentiful, but some pilots consider a single Heavy Laser to be a worthwhile alternative to a pair of Beam Lasers, because the longer range makes up for the fact that it does not quite deal twice as much damage.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

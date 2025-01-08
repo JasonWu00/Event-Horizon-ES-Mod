@@ -5,7 +5,6 @@
     "Size": 2.0,
     "Velocity": 72.0,
     "Range": 75.0,
-    "Lifetime": 0.025,
     "Weight": 0.1,
     "BulletPrefab": 1072,
     "EnergyCost": 3.5,

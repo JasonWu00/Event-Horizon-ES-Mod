@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1025,
   "Name": "Heavy Laser Beam Turret",
-  "Description": "No description.",
+  "Description": "For ships with enough space to install one, the Heavy Laser Turret is a powerful weapon, equally useful for driving off fighters and for bombarding larger targets with continuous fire without having to worry about pointing your ship in the right direction.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

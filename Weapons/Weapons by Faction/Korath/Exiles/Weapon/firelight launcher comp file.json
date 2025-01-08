@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1276,
   "Name": "Firelight Missile Launcher",
-  "Description": "No description.",
+  "Description": "As the Firestorm Torpedo does not require full reactor shielding or safety interlocks, Korath engineers were able to create the Firelight by further scaling down the reactor element to fit in a missile casing for use on and against smaller vessels.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

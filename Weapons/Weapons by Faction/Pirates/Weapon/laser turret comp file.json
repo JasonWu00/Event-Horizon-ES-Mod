@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1024,
   "Name": "Laser Beam Turret",
-  "Description": "No description.",
+  "Description": "Laser Turrets are hated by fighter pilots because it is nearly impossible to dodge them once you are within their reach. This turret carries a pair of lasers and can swivel almost instantly to fire on new targets as they approach. Laser Turrets are especially useful when mounted on slow-moving freighters to fend off packs of small pirate vessels.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

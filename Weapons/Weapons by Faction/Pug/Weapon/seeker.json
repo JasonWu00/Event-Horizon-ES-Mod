@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1250,
   "Name": "Seeker",
-  "Description": "No description.",
+  "Description": "You have no idea how this weapon works. It requires no ammunition, but its energy-based projectiles have the ability to home in on a target ship.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

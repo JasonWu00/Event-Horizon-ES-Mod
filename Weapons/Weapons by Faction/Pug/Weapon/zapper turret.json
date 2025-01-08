@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2249,
   "Name": "Zapper Turret",
-  "Description": "No description.",
+  "Description": "Mounted on a turret, this Pug weapon becomes even more devastatingly powerful. However, its energy requirements are higher than most human ships can support.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1228,
-  "Name": "Cluster Minelayer",
-  "Description": "No description.",
+  "Name": "Cluster Mine Layer",
+  "Description": "This launcher fires cluster munitions that split into a cloud of stationary mines that each do a considerable amount of damage if a ship crashes into them. However, if a ship hits the mine before it has a chance to deploy, the damage is considerably reduced.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1228,

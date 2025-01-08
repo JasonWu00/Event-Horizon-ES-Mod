@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1167,
   "Name": "Grab-strike",
-  "Description": "No description.",
+  "Description": "Korath Grab-Strike projectiles are designed to pull a target closer to the Korath ship, to keep it from escaping.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1167,

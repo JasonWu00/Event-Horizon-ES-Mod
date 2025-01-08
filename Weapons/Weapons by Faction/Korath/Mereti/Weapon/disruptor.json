@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 2230,
   "Name": "Shield Disruptor",
-  "Description": "No description.",
+  "Description": "Korath Disruptors interfere with a ship's shields, allowing a ship's hull to be damaged even when shields are up. However, they do very little hull damage by themselves.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

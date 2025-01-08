@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1226,
   "Name": "Piercer Launcher",
-  "Description": "No description.",
+  "Description": "Korath Piercer Missiles carry a pair of warheads. The first, a smaller one in the very tip of the missile, explodes on impact to blast a hole in the ship's shields to allow some of the subsequent, larger explosion to pierce through.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1226,

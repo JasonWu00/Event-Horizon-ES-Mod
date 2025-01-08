@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1072,
   "Name": "Particle Turret",
-  "Description": "No description.",
+  "Description": "The Particle Cannon Turret features a particle cannon mounted on a rapid turning turret.  Although slightly less accurate, its hit force and damage is often capable of destroying and keeping smaller ships at bay before their weapons are effective.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

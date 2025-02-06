@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1419,
+  "Name": "R0376 Shield Generator",
+  "Description": "This generator is designed to service the Navy's capital ships, consuming considerable energy and potentially requiring extra cooling. However, it vastly outperforms any civilian shield generator for its size.",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1419,
+  "Faction": 205,
+  "Icon": "R0376.png",
+  "Layout": "1111111111111111",
+  "CellType": "1",
+  "WeaponSlotType": "\u0000",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

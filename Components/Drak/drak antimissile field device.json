@@ -3,6 +3,7 @@
   "Id": 1350,
   "DeviceClass": 6,
   "EnergyConsumption": 0.1,
+  "ScaleEnergyWithShipSize": false,
   "Power": 100.0,
   "Range": 400.0,
   "Size": 40.0,

@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1415,
+  "Name": "Covalent Proton Turret",
+  "Description": "This turreted pair of Proton Guns uses some crafty engineering to allow both guns to draw from a singular enlarged projectile generator. This allows the turret mount itself to be larger, permitting the whole assembly to turn faster than other turrets of its size.",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "covalent proton turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1415,
+  "AmmunitionId": 1034,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

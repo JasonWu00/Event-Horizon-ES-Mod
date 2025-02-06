@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1414,
+  "Name": "Sentinel Reactor",
+  "Description": "Named for its intended use in the Vanguards and Protectors of the Syndicated Security fleet, the Sentinel Reactor is an enlarged fission reactor developed for heavy warships. It runs quite hot, but nonetheless serves its purpose quite well.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1414,
+  "Faction": 203,
+  "Level": 80,
+  "Icon": "sentinel reactor.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

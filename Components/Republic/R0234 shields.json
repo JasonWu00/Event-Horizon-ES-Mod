@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1418,
+  "Name": "R0234 Shield Generator",
+  "Description": "The Navy lacks any sort of dedicated interceptor, so their shield technology skips a size of generator. These shields are capable of supporting most of the Navy's light to medium warships, providing an edge over any equivalent civilian shield generator.",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1418,
+  "Faction": 205,
+  "Icon": "R0234.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "WeaponSlotType": "\u0000",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

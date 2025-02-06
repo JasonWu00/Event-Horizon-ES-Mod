@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1417,
+  "Name": "R0152 Shield Generator",
+  "Description": "Navy ships have to deal with combat more frequent and dangerous than most civilian ships will ever see. As such, the Navy utilizes these more advanced shield generators to allow even their fighters to recover quickly.",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1417,
+  "Faction": 205,
+  "Icon": "R0152.png",
+  "Layout": "1",
+  "CellType": "1111",
+  "WeaponSlotType": "\u0000",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1413,
+  "Name": "KP-6 Photovoltaic Array",
+  "Description": "The compact modularity of the KP-6 lent itself well to the creation of larger solar collection arrays. This original Korunak Photovoltaics model is equipped with a solar tracker, allowing it to make better use of available light.",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1413,
+  "Faction": 218,
+  "Level": 50,
+  "Icon": "small photovoltaic.png",
+  "Layout": "111111111",
+  "CellType": "3",
+  "PossibleModifications": [
+    12
+  ]
+}

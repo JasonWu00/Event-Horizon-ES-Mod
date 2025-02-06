@@ -2,9 +2,9 @@
   "ItemType": 10,
   "Id": 6430,
   "Type": 1,
-  "ItemId": 389,
+  "ItemId": 430,
   "Price": 15,
   "Dependencies": [
-    6430
+    6389
   ]
 }

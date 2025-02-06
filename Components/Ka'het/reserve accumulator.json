@@ -10,8 +10,7 @@
   "Level": 70,
   "Icon": "reserve accumulator.png",
   "Layout": "1",
-  "CellType": "0",
   "PossibleModifications": [
-    12
+    9
   ]
 }

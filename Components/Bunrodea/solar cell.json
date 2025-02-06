@@ -10,7 +10,7 @@
   "Level": 300,
   "Icon": "solar cell.png",
   "Layout": "1",
-  "CellType": "0",
+  "CellType": "3",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12

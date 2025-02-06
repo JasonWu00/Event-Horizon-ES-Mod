@@ -8,7 +8,7 @@
   "ComponentStatsId": 1,
   "Faction": 205,
   "Level": 275,
-  "Icon": "particle cannon turret.png",
+  "Icon": "particle turret.png",
   "Layout": "111111111",
   "CellType": "4",
   "WeaponId": 1072,

@@ -10,8 +10,7 @@
   "Level": 350,
   "Icon": "solar intake.png",
   "Layout": "1111",
-  "CellType": "0",
   "PossibleModifications": [
-    9
+    12
   ]
 }

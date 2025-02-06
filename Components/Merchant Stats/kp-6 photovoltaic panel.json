@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1412,
+  "Name": "KP-6 Photovoltaic Panel",
+  "Description": "This early commercial photovoltaic system was the driving force behind humanity's first interplanetary trade network. Rugged and modular, it can be bolted to the hull of any ship and has seen even the most remote parts of human space.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1412,
+  "Faction": 218,
+  "Level": 25,
+  "Icon": "tiny photovoltaic.png",
+  "Layout": "1",
+  "CellType": "3",
+  "PossibleModifications": [
+    12
+  ]
+}

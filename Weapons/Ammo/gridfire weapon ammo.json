@@ -19,22 +19,27 @@
   "Effects": [
     {
       "Type": 1,
-      "Power": 0.001
+      "Power": 0.01
     },
     {
       "DamageType": 3,
-      "Power": 30.0
+      "Power": 120.0
     },
     {
-      "Power": 30.0
+      "Power": 120.0
     },
     {
       "DamageType": 1,
-      "Power": 30.0
+      "Power": 120.0
     },
     {
       "DamageType": 2,
-      "Power": 30.0
+      "Power": 120.0
+    },
+    {
+      "Type": 13,
+      "DamageType": 1,
+      "Power": 1.0
     }
   ]
 }

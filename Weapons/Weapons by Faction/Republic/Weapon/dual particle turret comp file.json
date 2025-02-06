@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1416,
+  "Name": "Dual Particle Turret",
+  "Description": "The Dual Particle Turret is a versatile weapon with long range, high accuracy, and good target tracking. It also has a high hit force which can throw small ships off course.",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 205,
+  "Level": 325,
+  "Icon": "dual particle turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1416,
+  "AmmunitionId": 1072,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

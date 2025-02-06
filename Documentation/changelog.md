@@ -858,14 +858,32 @@ Changelog:
     - Removed passive energy consumption
     - Increased cooldown times for all modded afterburners
   - Added more descriptions for many plugin outfits
+  - Rebalanced anti-missile turrets
+    - Made energy consumption constant regardless of ship size
+    - Decreased range
+    - Increased energy consumption
 - Outfits
   - Added the Heavy Rocket Turret to the Free Worlds
   - Reduced heat generation on the S1 Thermionic reactor (0.131 -> 0.052 per slot)
   - Fixed an issue with the Particle Cannon having 3 range instead of 75
   - Fixed the S3 Thermionic having twice as much heat output as it should
+  - Fixed the Dwarf Core having half as much energy generation as it should (4.8 -> 8)
+  - Moved the Dwarf Core to Republic tech tree
+  - Buffed the Gridfire
+    - 30 -> 120 damage for all fields
+  - Added shield ignoring abilities to Gridfire and Korath Piercer
+  - Added the KP-6 Photovoltaic Panel and Array to Merchant Alliance
+  - Added the Volcano Afterburner to Merchant and Caldera Afterburner to Confederation of Free Worlds
+  - Fixed bad modifiers on the Reserve Accumulator and the Solar Intake
+  - Added the Covalent Proton Turret and Sentinel Reactor to Syndicated Systems
+  - Added the Dual Particle Turret and the R-series shield generators to Republic of Earth
 - Ships
+  - Removed a gold module from the Starling
 - Tech
   - Fixed the Infesticore's technology being outside the Jurgans tech tree
+  - Fixed the Marauder Raider not appearing in the Korath Exiles tech tree
+  - Added technology for the Fusion Afterburner in the Sheragi tech tree
+  - Added technology for the Hyperdrive and Scram Drive in Merchant Alliance and Syndicated Systems
 - Others
   - Modified combat rules for most battle scenarios
     - Players may now summon up to 50 ships during star and faction battles and 100 ships during survival mode

@@ -116,7 +116,7 @@ Missile range | Range / 50
 Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
 Cannon reload | Reload / 2
 Scanner range | ???
-Anti-missile range | Range / 25 (Put the value in "Size" field)
+Anti-missile range | Range * 0.2 (Put the value in "Size" field)
 
 Non-weapon stats | Conversion
 --- | ---
@@ -215,6 +215,8 @@ X5200 Ion Steering | 1020
 Boxwing | 3004
 Cooling Vent | 1077
 Asteroid Scanner | 1305
+KP-6 Photovoltaic Panel | 1412
+PK-6 Photovoltaic Array | 1413
 
 Pirates
 
@@ -309,6 +311,8 @@ Water Cooling System | 1078
 Anti-Missile Turret | 1081
 Outfit Scanner | 1307
 Prong | 3036
+Sentinel Reactor | 1414
+Dual Proton Turret | 1415
 
 FW
 
@@ -391,6 +395,11 @@ Heavy Anti-Missile Turret | 1082
 Fusion Cannon | 1298
 Ion Beam Turret | 1301 (gun 2301)
 Surveillance Pod | 1309
+Dual Particle Turret | 1416
+R0152 | 1417
+R0234 | 1418
+R0376 | 1419
+R0518 | 1420
 
 Hai
 
@@ -995,7 +1004,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1412
+Component | 1421
 Ship | 514
 Build | 1657
 Drone | 3037
@@ -1032,3 +1041,4 @@ Fission Drive, Large Fission Drive | +150% thrust and steering
 Fusion Power Converter | stats are arbitrarily made up
 Baellie Engines | -25% thrust and turn
 Type 5 Radiant Engines | +57% thrust and turn (to match the engine buffs in [6686](https://github.com/endless-sky/endless-sky/pull/6686) and [9616](https://github.com/endless-sky/endless-sky/pull/9616))
+Sentinel Reactor | -10% reactor output

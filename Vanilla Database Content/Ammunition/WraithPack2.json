@@ -7,7 +7,9 @@
     "Lifetime": 0.5,
     "EnergyCost": 1.0
   },
-  "Controller": {},
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
   "Triggers": [
     {
       "Condition": 5,

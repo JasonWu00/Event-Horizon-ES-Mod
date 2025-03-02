@@ -12,7 +12,7 @@
   },
   "Controller": {
     "Type": 1,
-    "StartingVelocityModifier": 0.0,
+    "StartingVelocityModifier": 0.1,
     "SmartAim": true
   },
   "Triggers": [

@@ -1,6 +1,9 @@
 {
   "ItemType": 6,
   "Id": 159,
+  "VisualEffects": {
+    "LeaveWreck": 2
+  },
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "$necroboss",
@@ -30,8 +33,5 @@
     "BuiltinDevices": [
       36
     ]
-  },
-  "VisualEffects": {
-    "LeaveWreck": 2
   }
 }

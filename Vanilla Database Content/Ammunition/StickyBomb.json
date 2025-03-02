@@ -2,6 +2,7 @@
   "ItemType": 25,
   "Id": 156,
   "Body": {
+    "DetonateWhenDestroyed": false,
     "Size": 1.5,
     "Velocity": 30.0,
     "Range": 30.0,
@@ -10,12 +11,12 @@
     "Color": "#5803EC",
     "BulletPrefab": 1,
     "EnergyCost": 30.0,
-    "CanBeDisarmed": true,
-    "DetonateWhenDestroyed": false
+    "CanBeDisarmed": true
   },
   "Controller": {
+    "Lifetime": 15.0,
     "Type": 6,
-    "Lifetime": 15.0
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

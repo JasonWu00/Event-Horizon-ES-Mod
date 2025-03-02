@@ -1,6 +1,9 @@
 {
   "ItemType": 6,
   "Id": 154,
+  "VisualEffects": {
+    "LeaveWreck": 2
+  },
   "SizeClass": 1,
   "Name": "$necroship1",
   "Faction": 20,
@@ -30,8 +33,5 @@
     "BuiltinDevices": [
       34
     ]
-  },
-  "VisualEffects": {
-    "LeaveWreck": 2
   }
 }

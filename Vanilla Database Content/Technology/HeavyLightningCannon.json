@@ -1,9 +1,9 @@
 {
   "ItemType": 10,
   "Id": 309,
+  "DoesnPreventUnlocking": true,
   "ItemId": 250,
   "Faction": 15,
   "Price": 20,
-  "Special": true,
-  "DoesnPreventUnlocking": true
+  "Special": true
 }

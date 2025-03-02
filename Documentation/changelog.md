@@ -879,6 +879,7 @@ Changelog:
   - Added the Dual Particle Turret and the R-series shield generators to Republic of Earth
 - Ships
   - Removed a gold module from the Starling
+  - Added the Battlecruiser to Republic of Earth
 - Tech
   - Fixed the Infesticore's technology being outside the Jurgans tech tree
   - Fixed the Marauder Raider not appearing in the Korath Exiles tech tree
@@ -887,6 +888,7 @@ Changelog:
 - Others
   - Modified combat rules for most battle scenarios
     - Players may now summon up to 50 ships during star and faction battles and 100 ships during survival mode
+  - Updated the mod to Event Horizon 1.13.0
 
 ### Update Template
 

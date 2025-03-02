@@ -400,6 +400,7 @@ R0152 | 1417
 R0234 | 1418
 R0376 | 1419
 R0518 | 1420
+Battleship | 514 | 1657-1659
 
 Hai
 
@@ -1005,8 +1006,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1421
-Ship | 514
-Build | 1657
+Ship | 515
+Build | 1660
 Drone | 3037
 Quest | 1049
 
@@ -1017,7 +1018,6 @@ Item Name | Differences
 Firestorm | -90% energy cost and energy storage
 Firelight | -90% energy cost, +100% range, uses the torpedo/rocket equation
 Heaver | -50% fire rate, energy cost = firing energy + firing fuel
-Point defenses | 10x energy cost
 Detainer, Inhibitor | (Pending)
 Bombardment, Thrasher, Thunderhead | +100% projectile speed
 Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile | +100% projectile speed

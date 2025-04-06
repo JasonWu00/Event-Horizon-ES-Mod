@@ -1,11 +1,11 @@
 {
   "ItemType": 3,
-  "Id": 1378,
+  "Id": 1429,
   "WeaponClass": 3,
-  "FireRate": 0.2,
+  "FireRate": 0.15,
   "Spread": 1.0,
-  "Magazine": 2,
+  "Magazine": 3,
   "ActivationType": 1,
   "ShotEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "heavy rocket turret icon.png"
+  "ControlButtonIcon": "finisher.png"
 }

@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1423,
+  "Name": "Torpedo Drop Rack",
+  "Description": "The Syndicated Systems, feeling left out after the Republic of Earth converted its Typhoon Torpedo storages into modular vertical launch cells, compensated by dropping standard Torpedos out of holding racks.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 203,
+  "Level": 175,
+  "Icon": "torpedo rack.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1423,
+  "AmmunitionId": 1035,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

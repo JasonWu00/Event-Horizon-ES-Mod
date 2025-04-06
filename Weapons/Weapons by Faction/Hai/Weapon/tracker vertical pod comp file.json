@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1425,
+  "Name": "Tracker Vertical Pod",
+  "Description": "This vertically mounted Tracker Pod launches its whole payload at once and reloads every slot before it can fire again. Such a burst of firepower can easily blow away smaller ships and leave larger ships concussed.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "hai tracker vertical pod.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1425,
+  "AmmunitionId": 1100,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

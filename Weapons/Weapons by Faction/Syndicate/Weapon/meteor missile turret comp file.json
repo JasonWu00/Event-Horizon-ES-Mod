@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1421,
+  "Name": "Meteor Missile Turret",
+  "Description": "This turret fires Meteor Missiles with an omnidirectional launch capability, which widens the selection of valid targets and use cases for the munition. However, the slow aquisition rate of the turret makes it better used at longer ranges.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 203,
+  "Level": 150,
+  "Icon": "meteor turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1421,
+  "AmmunitionId": 1026,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

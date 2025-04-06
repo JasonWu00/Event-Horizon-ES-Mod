@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1427,
+  "Name": "Firelight Torpedo Rack",
+  "Description": "Particularly cumbersome Korath ships such as the nra-ret, who cannot turn forward guns to bear against flanking enemies, instead disgorge Firelight Torpedoes out of launch ports directly at targets coming from unfavorable angles.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 209,
+  "Level": 400,
+  "Icon": "firelight rack.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1427,
+  "AmmunitionId": 1276,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

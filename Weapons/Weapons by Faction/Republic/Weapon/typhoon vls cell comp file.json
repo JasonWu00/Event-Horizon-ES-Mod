@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1424,
+  "Name": "Typhoon Torpedo VLS Cell",
+  "Description": "During battles against Free Worlds militias the Republic of Earth Navy found difficulty in having their Typhoon Torpedoes to close in on Free Worlds ships when they are not directly ahead. They resolved this problem by converting storage containers into vertical launch cells that can be loaded into turret slots.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 205,
+  "Level": 250,
+  "Icon": "typhoon vls cell.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1424,
+  "AmmunitionId": 1074,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

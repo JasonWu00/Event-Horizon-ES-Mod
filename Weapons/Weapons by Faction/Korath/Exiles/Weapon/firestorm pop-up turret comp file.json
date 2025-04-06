@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1428,
+  "Name": "Firestorm Pop-up Turret",
+  "Description": "These pop-up launch tubes allow the heaviest Korath ships to bring their most powerful explosive weapons to bear against enemies outside of their frontal firing arcs. They lower into the ship's hull during reloading and when not in service, preventing a lucky shot from causing a magazine detonation.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 209,
+  "Level": 400,
+  "Icon": "firestorm popup turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1428,
+  "AmmunitionId": 1295,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

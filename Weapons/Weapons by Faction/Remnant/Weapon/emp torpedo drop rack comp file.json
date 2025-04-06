@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1426,
+  "Name": "EMP Torpedo Drop Rack",
+  "Description": "In knife-edge battles with Korath raiding parties, every second matters for a Remnant ship. These drop racks allow a larger Remnant ship to launch a handful of EMP torpedoes at Korath forces to their flanks or rear, bypassing the several seconds needed for a launcher-fired torpedo to turn around and acquire a target.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 207,
+  "Level": 225,
+  "Icon": "emp torpedo drop rack.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1426,
+  "AmmunitionId": 1130,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

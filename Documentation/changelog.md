@@ -849,7 +849,7 @@ Changelog:
   - Fixed an issue with the Dagger not showing the proper button
   - Slightly adjusted the velocities of a few ships
 
-### 0.16.2 ??? update
+### 0.16.2 "Spera Anatrusk" update
 
 Changelog:
 - Major Updates

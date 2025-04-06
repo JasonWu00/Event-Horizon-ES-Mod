@@ -10,5 +10,5 @@
   "Color": "#FFE100",
   "Sound": "*afterburner~",
   "EffectPrefab": "Flicker",
-  "ControlButtonIcon": "volcano afterburner.png"
+  "ControlButtonIcon": "caldera afterburner.png"
 }

@@ -863,7 +863,14 @@ Changelog:
     - Decreased range
     - Increased energy consumption
 - Outfits
-  - Added the Heavy Rocket Turret to the Free Worlds
+  - Added a series of turreted missile weapons
+    - Heavy Rocket Turret to Free Worlds
+    - Meteor Turret, Sidewinder VLS, Torpedo Rack to Syndicated Systems
+    - Typhoon VLS to Republic of Earth
+    - Tracker Vertical Pod to Hai
+    - EMP Torpedo Rack to Remnant
+    - Finisher VLP to Heliarch Security Forces
+    - Firelight Rack and Firestorm Popup Launcher to Korath Exiles
   - Reduced heat generation on the S1 Thermionic reactor (0.131 -> 0.052 per slot)
   - Fixed an issue with the Particle Cannon having 3 range instead of 75
   - Fixed the S3 Thermionic having twice as much heat output as it should
@@ -880,6 +887,8 @@ Changelog:
 - Ships
   - Removed a gold module from the Starling
   - Added the Battlecruiser to Republic of Earth
+  - Added the Heavy Gust and Abyssal Stream to Wanderers
+  - Made the Strong Wind a little faster
 - Tech
   - Fixed the Infesticore's technology being outside the Jurgans tech tree
   - Fixed the Marauder Raider not appearing in the Korath Exiles tech tree

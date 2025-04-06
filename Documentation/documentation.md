@@ -217,6 +217,7 @@ Cooling Vent | 1077
 Asteroid Scanner | 1305
 KP-6 Photovoltaic Panel | 1412
 PK-6 Photovoltaic Array | 1413
+Volcano Afterburner | 1409
 
 Pirates
 
@@ -313,6 +314,9 @@ Outfit Scanner | 1307
 Prong | 3036
 Sentinel Reactor | 1414
 Dual Proton Turret | 1415
+Meteor Turret | 1421
+Sidewinder VLS Rack | 1422
+Torpedo Launch Rack | 1423
 
 FW
 
@@ -354,6 +358,7 @@ Quad Plasma Turret | 1246
 Capybara Plasma Engines | 1302
 Tactical Scanner | 1308
 Heavy Rocket Turret | 1378
+Caldera Afterburner | 1410
 
 Republic
 
@@ -401,6 +406,7 @@ R0234 | 1418
 R0376 | 1419
 R0518 | 1420
 Battleship | 514 | 1657-1659
+Typhoon Torpedo VLS Rack | 1424
 
 Hai
 
@@ -461,6 +467,7 @@ Locust | 3031 | 3031
 Tarantula | 467 | 1515-1517
 Phrynus | 468 | 1518-1520
 Quartz Regenerator | 1411
+Tracker Vertical Pod | 1425
 
 Remnant
 
@@ -502,6 +509,7 @@ Swan Alt | 482 | 1557-1559
 Robin | 483 | 1560-1562
 Merganser | 484 | 1563-1565
 Hobby | 513 | 1654-1656
+EMP Torpedo Rack | 1426
 
 Coalition
 
@@ -562,6 +570,7 @@ Bombardment Cannon | 2153
 Bombardment Turret | 1153
 Finisher Maegrolain | 1277
 Small Recovery Module | 1391
+Finisher VLS Pod | 1429
 
 Korath Exiles
 
@@ -615,6 +624,8 @@ Charm-Scallop | 485 | 1566-1568
 Arch-Carrack | 486 | 1569-1571
 Echo-Galleon | 487 | 1572-1574
 Seedship | 488 | 1575-1577
+Firelight Rack | 1427
+Firestorm Pop-up Launcher | 1428
 
 Bunrodea
 
@@ -742,6 +753,8 @@ Type 5 Radiant Thruster | 1220
 Type 5 Radiant Steering | 1221
 Moonbeam | 1222 (Gun 2222)
 Blizzard | 435 | 1419-1421
+Heavy Gust | 515 | 1660-1662
+Abyssal Stream | 516 | 1663-1665
 
 Kor Sestor
 
@@ -997,17 +1010,13 @@ Crystalline Formation | 1285
 Hexagonal Crystal | 1286
 Tree Skeleton Key Stone | 1287
 
-No factions yet
-Volcano Afterburner | 1409
-Caldera Afterburner | 1410
-
 First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1421
-Ship | 515
-Build | 1660
+Component | 1430
+Ship | 516
+Build | 1666
 Drone | 3037
 Quest | 1049
 

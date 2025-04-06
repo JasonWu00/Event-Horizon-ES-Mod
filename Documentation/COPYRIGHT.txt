@@ -209,6 +209,7 @@ Files:
   Ship Images/Korath/Exiles/courier*
   Ship Images/Korath/Exiles/shipper*
   Ship Images/Hai/sea scorpion*
+  Ship Images/Wanderers/abyssal stream*
 Copyright: Becca Tomaso
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -233,8 +234,11 @@ License: CC-BY-SA-4.0
 
 Files:
   Component Images/FW/heavy rocket turret*
+  Component Images/sidewinder vls*
+  Component Images/meteor turret*
 Copyright: @witch_25060 (from the Endless Sky discord server)
 License: CC-BY-SA-4.0
+Comments: Derived from works by Michael Zahniser (under the same license).
 
 Files:
   Component Images/Hai/quartz regenerator*

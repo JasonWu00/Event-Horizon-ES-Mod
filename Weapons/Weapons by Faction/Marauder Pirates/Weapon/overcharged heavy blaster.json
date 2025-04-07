@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1430,
+  "Name": "Overcharged Heavy Blaster",
+  "Description": "The mad scientists supplying the Marauders combined all of their wit and expertise into this monstrosity of a weapon. Blockaded and unable to reliably acquire the same particle weapons that the Republic of Earth Navy deploys, these inventors had no option but to push the blaster to its structural limits.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 125,
+  "Icon": "overcharged heavy blaster.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1430,
+  "AmmunitionId": 1430,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

@@ -5,5 +5,5 @@
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotEffectPrefab": "FlashAdditive",
-  "ControlButtonIcon": "controls_shot"
+  "ControlButtonIcon": "heaver.png"
 }

@@ -862,6 +862,7 @@ Changelog:
     - Made energy consumption constant regardless of ship size
     - Decreased range
     - Increased energy consumption
+  - Moved Marauder Pirates down to 125 LY
 - Outfits
   - Added a series of turreted missile weapons
     - Heavy Rocket Turret to Free Worlds

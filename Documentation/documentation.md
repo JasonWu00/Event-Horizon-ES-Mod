@@ -281,8 +281,7 @@ Large Radar Jammer | 1322
 Enforcer | 476 | 1542-1544
 Saber | 478 | 1548-1550
 Heavy Blaster Turret | 1393 (gun 2393)
-Proton Punt Gun | 1394
-Proton Punt Cannon | 1395
+Overcharged Heavy Blaster | 1430
 
 Syndicate
 
@@ -359,6 +358,8 @@ Capybara Plasma Engines | 1302
 Tactical Scanner | 1308
 Heavy Rocket Turret | 1378
 Caldera Afterburner | 1410
+Proton Punt Gun | 1394
+Proton Punt Cannon | 1395
 
 Republic
 
@@ -1014,7 +1015,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1430
+Component | 1431
 Ship | 516
 Build | 1666
 Drone | 3037

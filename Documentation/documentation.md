@@ -218,6 +218,7 @@ Asteroid Scanner | 1305
 KP-6 Photovoltaic Panel | 1412
 PK-6 Photovoltaic Array | 1413
 Volcano Afterburner | 1409
+Hauler 6 | 517 | 1666-1668
 
 Pirates
 
@@ -1016,8 +1017,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1431
-Ship | 516
-Build | 1666
+Ship | 518
+Build | 1669
 Drone | 3037
 Quest | 1049
 

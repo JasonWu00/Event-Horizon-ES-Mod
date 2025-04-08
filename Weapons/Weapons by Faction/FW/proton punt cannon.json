@@ -1,7 +1,7 @@
 {
   "ItemType": 1,
-  "Id": 1394,
-  "Name": "Proton Punt Gun",
+  "Id": 1395,
+  "Name": "Proton Punt Cannon",
   "Description": "Edward's side-project of making the most ridiculous shotgun-style weapon for spaceships. Inspired by a history article about punt gun he sets off to recreate one but bigger and with modern technologies. Based off the Syndicate Proton Gun but overdriven to the extreme resulting in a gun with ridiculously powerful recoil that can often overpower the engines installed on the ship. Though less stable and spreads much more than the Proton Gun the sheer amount of fragments makes it somewhat more effective against swarm of smaller ships.",
   "DisplayCategory": 1,
   "Availability": 1,
@@ -11,7 +11,7 @@
   "Icon": "proton punt gun.png",
   "Layout": "111111111",
   "CellType": "4",
-  "WeaponId": 1394,
+  "WeaponId": 1395,
   "AmmunitionId": 1394,
   "WeaponSlotType": "C",
   "PossibleModifications": [

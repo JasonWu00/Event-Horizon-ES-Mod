@@ -890,6 +890,8 @@ Changelog:
   - Added the Battlecruiser to Republic of Earth
   - Added the Heavy Gust and Abyssal Stream to Wanderers
   - Made the Strong Wind a little faster
+  - Fixed an issue with the Hauler 3 2vet being marked as a 1vet
+  - Added the Hauler 6 to Merchant Alliance tech tree
 - Tech
   - Fixed the Infesticore's technology being outside the Jurgans tech tree
   - Fixed the Marauder Raider not appearing in the Korath Exiles tech tree

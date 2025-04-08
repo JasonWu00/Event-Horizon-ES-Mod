@@ -40,7 +40,7 @@
         "y": 0.2
       },
       "AutoAimingArc": 20.0,
-      "WeaponClass": "MT"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -48,7 +48,7 @@
         "y": -0.2
       },
       "AutoAimingArc": 20.0,
-      "WeaponClass": "MT"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {

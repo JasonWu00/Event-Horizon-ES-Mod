@@ -1,5 +1,7 @@
 """
 A Python script to auto-fill-in some of the descriptions for some components.
+
+NOTE TO SELF: RUN THIS CODE USING THE WINDOWS CMD. WSL2 DOES NOT WORK.
 """
 import json
 import os
@@ -12,6 +14,7 @@ from bs4 import BeautifulSoup
 
 COMPONENTS_PATH = "../Components"
 WEAPONS_PATH = "../Weapons/Weapons By Faction"
+SHIPS_PATH = "../Ships"
 ES_7VN_LINK = "http://dev.endless-sky.7vn.io/"
 OUTFITS = "outfits/"
 SHIPS = "ships/"
@@ -19,7 +22,7 @@ USERAGENT = "404found_eh_es_parser/1.0 (https://github.com/JasonWu00/Event-Horiz
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files = None, selective_fill = True):
+def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1,):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
@@ -27,8 +30,11 @@ def fill_in_descs(path: str, specific_files = None, selective_fill = True):
     path: a path to the folder with component jsons.
     selective_fill: whether to skip over jsons with descriptions already.
     specific_files: a list of json files to fill in, or None by default.
+    desired_itemtype: specifies which type of file to handle. Default 1, components; otherwise 6, ships.
     """
+    IS_SHIPS = desired_itemtype == 1
     print(f"Path is: {path}")
+    dir_list = []
     if specific_files != []:
         dir_list = specific_files
     else:
@@ -37,16 +43,16 @@ def fill_in_descs(path: str, specific_files = None, selective_fill = True):
     for filename in dir_list:
         if ".json" in filename: # begin description filling process
             with open(path+"/"+filename, 'r+', encoding='utf-8') as file:
-                data = json.load(file)
+                data: dict = json.load(file)
                 itemtype = data["ItemType"]
                 print(f"Checking filename {filename}")
                 print(f"Item type is {itemtype}")
-                if itemtype != 1: # ItemType 1 is components, all others is comp stats
-                    print(f"Skipping non-component file {filename}")
+                if itemtype != desired_itemtype: # ItemType 1 is components; 6 is ships, others irrelevant
+                    print(f"Skipping non-desired file {filename}")
                     continue
-                compname = data["Name"]
+                compname: str = data["Name"]
                 print(f"Selective fill value is: {selective_fill}")
-                if "Description" in data and selective_fill is True:
+                if "Description" in data and selective_fill:
                     print(f"Skipping file with item name {compname}; desc already here")
                     continue
 
@@ -54,31 +60,40 @@ def fill_in_descs(path: str, specific_files = None, selective_fill = True):
                 # r = requests.get(ES_7VN_LINK+compname, timeout=10,
                 #                  headers={"User-Agent": USERAGENT})
                 # modify the final link to match the 7vn url naming scheme
-                final_link=ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
+                final_link = ""
+                findship = False
+                if not IS_SHIPS:
+                    if "DisplayCategory" in data and data["DisplayCategory"] == 5: # drones use ship descs and have DispCat=5
+                        final_link=ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                        findship = True
+                    else:
+                        final_link=ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
+                else:
+                    final_link=ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                    findship = True
 
                 soup = grab_page_with_selenium(final_link)
-                print(f"Grabbing data for itemname {compname}")
+                print(f"Grabbing data for ship or component {compname}")
                 #print(soup)
                 #print(compname)
 
-                description = check_bs4_for_desc(soup, compname)
+                findclass = "well" if findship else "col-md-4"
+                description = check_bs4_for_desc(soup, compname, find_class=findclass)
                 if description == INDEXERROR: # index error of some sort; manually check later
                     description = NO_DESC
-                if description == NO_DESC and data["DisplayCategory"] == 5:
-                    # drones use ship descriptions
-                    # drones have DisplayCategory 5
+                # if description == NO_DESC and data["DisplayCategory"] == 5:
+                #     # drones use ship descriptions
+                #     # drones have DisplayCategory 5
 
-                    # modify final link to point to ships section
-                    final_link=ES_7VN_LINK+SHIPS+\
-                        compname.replace(' ', '-').replace('\'', '').lower()
-                    soup = grab_page_with_selenium(final_link)
-                    # Ship pages use "well" class for the description
-                    description = check_bs4_for_desc(soup, compname, find_class="well")
-                if description == INDEXERROR: # index error of some sort; manually check later
-                    description = NO_DESC
+                #     # modify final link to point to ships section
+                #     final_link=ES_7VN_LINK+SHIPS+\
+                #         compname.replace(' ', '-').replace('\'', '').lower()
+                #     soup = grab_page_with_selenium(final_link)
+                #     # Ship pages use "well" class for the description
+                #     description = check_bs4_for_desc(soup, compname, find_class="well")
                 if "Description" in data and description==NO_DESC and data["Description"]!=NO_DESC:
-                    print(f"Ignoring {filename}; desc already here")
                     # avoids overwriting existing descs with no_desc
+                    print(f"Ignoring {filename}; desc already here")
                     continue
 
                 data["Description"] = description
@@ -99,11 +114,12 @@ def grab_page_with_selenium(link: str):
 
     link: an HTML link.
     """
+    print("Starting page grab")
+    print(f"Looking at this webpage: {link}")
     browser = webdriver.Chrome() # create a Selenium web driver to handle dynamic pages
     #browser.minimize_window() # I don't want Chrome windows popping up every 5 minutes
     # Turns out minimize windows cause some 7vn pages to not load at all; this is commented out.
 
-    print(f"Looking at this webpage: {link}")
     browser.get(link)
 
     # a failed attempt at smart waiting; went back to using dumb waiting
@@ -116,7 +132,7 @@ def grab_page_with_selenium(link: str):
     browser.close() # close the window so Chrome doesn't eat my entire ram
     return soup
 
-def check_bs4_for_desc(soup: BeautifulSoup, compname: str, find_class = 'col-md-4'):
+def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str = 'col-md-4'):
     """
     Takes in a bs4 object, looks for a given item, returns it.
 
@@ -142,11 +158,15 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str, find_class = 'col-md-
         print(f"IndexError reached for file {compname}")
         return INDEXERROR
 
+mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/anomalocaris")
+desc = check_bs4_for_desc(mysoup, "test", find_class="well")
+print(desc)
+
 # for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
 #              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-fill_in_descs(WEAPONS_PATH, selective_fill=False)
+# fill_in_descs(SHIPS_PATH, selective_fill=False)
 # for subdir in ["Bunrodea"]:
 #     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

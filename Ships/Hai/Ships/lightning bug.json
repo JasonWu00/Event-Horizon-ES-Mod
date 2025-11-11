@@ -3,6 +3,7 @@
   "Id": 356,
   "SizeClass": 1,
   "Name": "Lightning Bug",
+  "Description": "The Lightning Bug is a small defensive ship, mostly used by the Hai as a convoy escort. The Lightning Bug, as with many insects, works best in a swarm: even a small number of Lightning Bugs can manage to leave the largest of ships helpless with their stock-fitted Ion Cannons.",
   "Faction": 206,
   "IconImage": "lightning bug icon.png",
   "IconScale": 1.0,
@@ -34,6 +35,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "The Lightning Bug is a small defensive ship, mostly used by the Hai as a convoy escort. The Lightning Bug, as with many insects, works best in a swarm: even a small number of Lightning Bugs can manage to leave the largest of ships helpless with their stock-fitted Ion Cannons."
+  ]
 }

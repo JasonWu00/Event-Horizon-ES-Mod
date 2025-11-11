@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 306,
   "Name": "Flivver",
+  "Description": "With space for neither cargo nor passengers nor heavy weaponry, the Flivver's only selling point is speed. Flivvers are sold mostly to wealthy individuals who want to be able to travel the stars without needing to share a bunk room on a merchant transport with common people.",
   "Faction": 201,
   "IconImage": "flivver icon.png",
   "IconScale": 0.5,
@@ -38,6 +39,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "With space for neither cargo nor passengers nor heavy weaponry, the Flivver's only selling point is speed. Flivvers are sold mostly to wealthy individuals who want to be able to travel the stars without needing to share a bunk room on a merchant transport with common people."
+  ]
 }

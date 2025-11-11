@@ -3,6 +3,7 @@
   "Id": 341,
   "SizeClass": 2,
   "Name": "Osprey",
+  "Description": "After the Blackbird gained surprising popularity as an agile light warship despite its original design as a transport, Tarazed decided to produce a new design specifically intended as a warship. The Osprey was the result. Although it is considered overpriced by most savvy pilots, it is nevertheless a perennial favorite among those who have the extra cash to spend on it.",
   "Faction": 204,
   "IconImage": "osprey icon.png",
   "IconScale": 1.0,
@@ -57,6 +58,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "After the Blackbird gained surprising popularity as an agile light warship despite its original design as a transport, Tarazed decided to produce a new design specifically intended as a warship. The Osprey was the result. Although it is considered overpriced by most savvy pilots, it is nevertheless a perennial favorite among those who have the extra cash to spend on it."
+  ]
 }

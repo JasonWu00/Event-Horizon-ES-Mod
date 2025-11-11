@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 5,
   "Name": "Starbase",
+  "Description": "No description.",
   "IconImage": "starfortress.png",
   "IconScale": 3.0,
   "ModelImage": "starfortress.png",
@@ -137,6 +138,5 @@
       "Rotation": 180.0,
       "AutoAimingArc": 80.0
     }
-  ],
-  "Description": "No description."
+  ]
 }

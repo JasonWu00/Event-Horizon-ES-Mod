@@ -3,6 +3,7 @@
   "Id": 418,
   "SizeClass": 3,
   "Name": "Model 256",
+  "Description": "There is a saying among the Quarg that every species which insists on studying war will eventually construct a weapon that outlives its creators. For the Korath, their war drones have very nearly done so.",
   "Faction": 212,
   "IconImage": "model 256 icon.png",
   "IconScale": 1.0,
@@ -91,6 +92,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "There is a saying among the Quarg that every species which insists on studying war will eventually construct a weapon that outlives its creators. For the Korath, their war drones have very nearly done so."
+  ]
 }

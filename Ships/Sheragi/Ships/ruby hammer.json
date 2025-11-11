@@ -3,6 +3,7 @@
   "Id": 492,
   "SizeClass": 1,
   "Name": "Ruby Hammer",
+  "Description": "No description.",
   "Faction": 217,
   "IconImage": "ruby hammer icon.png",
   "IconScale": 1.0,
@@ -72,6 +73,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

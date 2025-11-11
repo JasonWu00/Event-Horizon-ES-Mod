@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 4,
   "Name": "Kar Ik Vot 750",
+  "Description": "No description.",
   "Faction": 213,
   "IconImage": "kiv 750 icon.png",
   "IconScale": 1.0,
@@ -160,6 +161,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

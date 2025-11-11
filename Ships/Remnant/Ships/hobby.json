@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Hobby",
+  "Description": "No description.",
   "Faction": 207,
   "IconImage": "hobby icon.png",
   "IconScale": 1.0,
@@ -85,6 +86,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "No description."
+  }
 }

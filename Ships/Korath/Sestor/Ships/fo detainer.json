@@ -3,6 +3,7 @@
   "Id": 3028,
   "ShipType": 1,
   "Name": "Far Osk Detainer",
+  "Description": "No description.",
   "Faction": 213,
   "IconImage": "fo detainer icon.png",
   "IconScale": 1.0,
@@ -35,6 +36,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

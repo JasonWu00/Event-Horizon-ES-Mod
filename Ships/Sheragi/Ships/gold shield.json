@@ -3,6 +3,7 @@
   "Id": 494,
   "SizeClass": 3,
   "Name": "Gold Shield",
+  "Description": "No description.",
   "Faction": 217,
   "IconImage": "gold shield icon.png",
   "IconScale": 1.0,
@@ -108,6 +109,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

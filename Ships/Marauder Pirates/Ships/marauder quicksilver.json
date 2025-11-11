@@ -3,6 +3,7 @@
   "Id": 436,
   "SizeClass": 1,
   "Name": "Marauder Quicksilver",
+  "Description": "This Megaparsec Quicksilver is a bit of a hotrod, being a little faster, with extra shield projectors, hull plating, and an extra bunk. This aftermarket model also features a turret mount, perhaps in an answer to Lionheart's Headhunter. The shop that built this ship is sure to see more customers.",
   "Faction": 219,
   "IconImage": "marauder quicksilver icon.png",
   "IconScale": 1.0,
@@ -56,6 +57,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "This Megaparsec Quicksilver is a bit of a hotrod, being a little faster, with extra shield projectors, hull plating, and an extra bunk. This aftermarket model also features a turret mount, perhaps in an answer to Lionheart's Headhunter. The shop that built this ship is sure to see more customers."
+  ]
 }

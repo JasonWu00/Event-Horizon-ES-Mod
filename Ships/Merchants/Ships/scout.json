@@ -3,6 +3,7 @@
   "Id": 317,
   "SizeClass": 1,
   "Name": "Scout",
+  "Description": "The Lionheart Scoutship was designed back in the days when the galaxy was more sparsely populated, and ships prospecting for habitable worlds or worlds rich in resources would often travel far away from any habitable ports where they would be able to refuel. Although the galaxy has now been much more thoroughly explored, the Scout remains a popular ship for long-distance travel.",
   "Faction": 201,
   "IconImage": "scout icon.png",
   "IconScale": 0.75,
@@ -41,6 +42,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "The Lionheart Scoutship was designed back in the days when the galaxy was more sparsely populated, and ships prospecting for habitable worlds or worlds rich in resources would often travel far away from any habitable ports where they would be able to refuel. Although the galaxy has now been much more thoroughly explored, the Scout remains a popular ship for long-distance travel."
+  ]
 }

@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Blizzard",
+  "Description": "No description.",
   "Faction": 211,
   "IconImage": "blizzard.png",
   "IconScale": 1.0,
@@ -136,6 +137,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

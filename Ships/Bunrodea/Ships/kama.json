@@ -3,6 +3,7 @@
   "Id": 474,
   "SizeClass": 3,
   "Name": "Kama",
+  "Description": "The Kama gunship is a formidable warship, capable of carrying up to ten guns as well as having a single turret mount typically equipped with an anti-missile turret. This makes the Kama less susceptible to missile weaponry than its smaller sibling, the Kunai.",
   "Faction": 221,
   "IconImage": "kama icon.png",
   "IconScale": 1.0,
@@ -107,6 +108,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "The Kama gunship is a formidable warship, capable of carrying up to ten guns as well as having a single turret mount typically equipped with an anti-missile turret. This makes the Kama less susceptible to missile weaponry than its smaller sibling, the Kunai."
+  ]
 }

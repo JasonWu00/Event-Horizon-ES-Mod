@@ -3,6 +3,7 @@
   "Id": 3031,
   "ShipType": 1,
   "Name": "Locust",
+  "Description": "No description.",
   "Faction": 206,
   "IconImage": "hai locust icon.png",
   "IconScale": 1.0,
@@ -34,6 +35,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "No description."
+  ]
 }

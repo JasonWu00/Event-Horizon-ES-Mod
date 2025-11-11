@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 4,
   "Name": "Infected Greenhouse",
+  "Description": "No description.",
   "Faction": 212,
   "IconImage": "model 1024 infected icon.png",
   "IconScale": 1.0,
@@ -154,6 +155,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

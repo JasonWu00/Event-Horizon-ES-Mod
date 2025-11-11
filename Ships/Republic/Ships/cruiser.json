@@ -3,6 +3,7 @@
   "Id": 349,
   "SizeClass": 3,
   "Name": "Cruiser",
+  "Description": "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely.",
   "Faction": 205,
   "IconImage": "cruiser icon.png",
   "IconScale": 1.0,
@@ -75,6 +76,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
+  ]
 }

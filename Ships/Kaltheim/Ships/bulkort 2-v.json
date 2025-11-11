@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 3030,
   "Name": "Bulkort 2-V",
+  "Description": "No description.",
   "Faction": 220,
   "IconImage": "Bulkort 2-V.png",
   "IconScale": 1.0,
@@ -42,6 +43,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "No description."
+  ]
 }

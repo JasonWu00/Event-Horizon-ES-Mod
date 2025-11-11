@@ -3,6 +3,7 @@
   "Id": 362,
   "SizeClass": 3,
   "Name": "Pond Strider",
+  "Description": "The Hai upgraded their original Pond Strider after acquiring hull repair technology through alien diplomacy. These improvements have greatly reduced casualties in their conflict with the Unfettered, since the light Pond Striders become vulnerable as they collect damaged drones. Besides enabling the ship to repair damaged drones, the Hai have cleverly innovated the Skipper Railgun to make the Pond Strider and Fleas into very efficient combat support for their fleets.",
   "Faction": 206,
   "IconImage": "pond strider icon.png",
   "IconScale": 1.0,
@@ -82,6 +83,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "The Hai upgraded their original Pond Strider after acquiring hull repair technology through alien diplomacy. These improvements have greatly reduced casualties in their conflict with the Unfettered, since the light Pond Striders become vulnerable as they collect damaged drones. Besides enabling the ship to repair damaged drones, the Hai have cleverly innovated the Skipper Railgun to make the Pond Strider and Fleas into very efficient combat support for their fleets."
+  ]
 }

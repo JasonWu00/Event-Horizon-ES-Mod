@@ -3,6 +3,7 @@
   "Id": 427,
   "SizeClass": 2,
   "Name": "Enfolta",
+  "Description": "No description.",
   "Faction": 216,
   "IconImage": "enfolta icon.png",
   "IconScale": 1.0,
@@ -69,6 +70,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "No description."
+  }
 }

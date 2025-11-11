@@ -4,6 +4,7 @@
   "ShipRarity": 1,
   "SizeClass": 1,
   "Name": "Marauder Fury",
+  "Description": "No description.",
   "Faction": 202,
   "IconImage": "marauder fury icon.png",
   "IconScale": 1.0,
@@ -60,6 +61,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "No description."
+  ]
 }

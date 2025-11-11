@@ -3,6 +3,7 @@
   "Id": 415,
   "SizeClass": 1,
   "Name": "Model 32",
+  "Description": "The Kor Mereti built their drones to mimic life: capable of growth and development throughout their life cycles. Their automated factories can convert the drones from one configuration to another by adding or removing modules.",
   "Faction": 212,
   "IconImage": "model 32 icon.png",
   "IconScale": 1.0,
@@ -58,6 +59,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "The Kor Mereti built their drones to mimic life: capable of growth and development throughout their life cycles. Their automated factories can convert the drones from one configuration to another by adding or removing modules."
+  ]
 }

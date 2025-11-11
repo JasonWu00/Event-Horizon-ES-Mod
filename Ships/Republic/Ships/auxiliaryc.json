@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Auxiliary (C)",
+  "Description": "No description.",
   "Faction": 205,
   "IconImage": "auxiliaryc icon.png",
   "IconScale": 1.0,
@@ -72,6 +73,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

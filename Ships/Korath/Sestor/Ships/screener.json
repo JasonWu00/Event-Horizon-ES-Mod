@@ -3,6 +3,7 @@
   "Id": 3027,
   "ShipType": 1,
   "Name": "Screener",
+  "Description": "No description.",
   "Faction": 213,
   "IconImage": "screener icon.png",
   "IconScale": 1.0,
@@ -35,6 +36,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

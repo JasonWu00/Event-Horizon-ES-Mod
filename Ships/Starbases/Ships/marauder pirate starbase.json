@@ -4,6 +4,7 @@
   "ShipType": 2,
   "SizeClass": 5,
   "Name": "Starbase",
+  "Description": "No description.",
   "Faction": 219,
   "IconImage": "pirate station.png",
   "IconScale": 1.0,
@@ -52,6 +53,5 @@
       "Image": "quad plasma turret sprite.png",
       "Size": 0.12
     }
-  ],
-  "Description": "No description."
+  ]
 }

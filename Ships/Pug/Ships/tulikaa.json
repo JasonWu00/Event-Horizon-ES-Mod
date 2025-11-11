@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Tulikaa",
+  "Description": "No description.",
   "Faction": 216,
   "IconImage": "tulikaa icon.png",
   "IconScale": 1.0,
@@ -128,6 +129,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "No description."
+  }
 }

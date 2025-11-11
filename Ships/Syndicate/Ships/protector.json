@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Protector",
+  "Description": "Voted the \"ugliest ship in the sky\" by Stars and Starships Magazine, the Protector is a typical example of brutally efficient Syndicate engineering. It is basically nothing more than eight turrets attached to a set of engines and crew's quarters, designed as a defense platform that can accompany merchant convoys.",
   "Faction": 203,
   "IconImage": "protector icon.png",
   "IconScale": 1.0,
@@ -87,6 +88,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "Voted the \"ugliest ship in the sky\" by Stars and Starships Magazine, the Protector is a typical example of brutally efficient Syndicate engineering. It is basically nothing more than eight turrets attached to a set of engines and crew's quarters, designed as a defense platform that can accompany merchant convoys."
+  ]
 }

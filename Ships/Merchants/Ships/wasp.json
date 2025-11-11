@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 309,
   "Name": "Wasp",
+  "Description": "The Wasp is a medium-strength interceptor, designed by Syndicated Shipyards to serve as an escort for cargo vessels. Like most Syndicate ships, it is not particularly pretty, but it at least serves the purpose it was made for.",
   "Faction": 201,
   "IconImage": "wasp icon.png",
   "IconScale": 0.5,
@@ -38,6 +39,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "The Wasp is a medium-strength interceptor, designed by Syndicated Shipyards to serve as an escort for cargo vessels. Like most Syndicate ships, it is not particularly pretty, but it at least serves the purpose it was made for."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 3011,
   "ShipType": 1,
   "Name": "Tern",
+  "Description": "The Tern is a small, hardy drone developed to plunge into the atmosphere of nearby gas giants for collecting valuable resources. These thick-shelled craft are also surprisingly effective when pressed into service as screening ships when enemies intrude into Remnant space.",
   "Faction": 207,
   "IconImage": "tern icon.png",
   "IconScale": 1.0,
@@ -29,6 +30,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "The Tern is a small, hardy drone developed to plunge into the atmosphere of nearby gas giants for collecting valuable resources. These thick-shelled craft are also surprisingly effective when pressed into service as screening ships when enemies intrude into Remnant space."
+  }
 }

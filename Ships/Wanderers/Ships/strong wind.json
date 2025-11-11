@@ -3,6 +3,7 @@
   "Id": 402,
   "SizeClass": 2,
   "Name": "Strong Wind",
+  "Description": "The Strong Wind was originally designed for science and exploration, but recently the Wanderers have modified the design to allow it to be used as a warship.",
   "Faction": 211,
   "IconImage": "strong wind icon.png",
   "IconScale": 1.0,
@@ -75,6 +76,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "The Strong Wind was originally designed for science and exploration, but recently the Wanderers have modified the design to allow it to be used as a warship."
+  ]
 }

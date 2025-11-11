@@ -3,6 +3,7 @@
   "Id": 363,
   "SizeClass": 1,
   "Name": "Starling",
+  "Description": "One of the strangest and most useful things that the Remnant have discovered in the abandoned worlds of the Ember Waste is alien cloaking technology. They have designed their scout ships to cloak when needed in order to explore alien territory without being seen... or to escape in a hurry after stealing something particularly valuable from those aliens.",
   "Faction": 207,
   "IconImage": "starling icon.png",
   "IconScale": 1.0,
@@ -57,6 +58,5 @@
     "BuiltinDevices": [
       14
     ]
-  },
-  "Description": "One of the strangest and most useful things that the Remnant have discovered in the abandoned worlds of the Ember Waste is alien cloaking technology. They have designed their scout ships to cloak when needed in order to explore alien territory without being seen... or to escape in a hurry after stealing something particularly valuable from those aliens."
+  }
 }

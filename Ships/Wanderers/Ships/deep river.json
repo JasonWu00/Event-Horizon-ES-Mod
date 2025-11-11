@@ -3,6 +3,7 @@
   "Id": 397,
   "SizeClass": 3,
   "Name": "Deep River",
+  "Description": "The Deep River is a modular freighter, designed to carry cargo in detachable pods.",
   "Faction": 211,
   "IconImage": "deep river icon.png",
   "IconScale": 1.0,
@@ -75,6 +76,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "The Deep River is a modular freighter, designed to carry cargo in detachable pods."
+  ]
 }

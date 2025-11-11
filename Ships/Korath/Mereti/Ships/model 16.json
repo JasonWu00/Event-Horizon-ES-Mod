@@ -3,6 +3,7 @@
   "Id": 414,
   "SizeClass": 1,
   "Name": "Model 16",
+  "Description": "The Kor Mereti war drones are constructed in a modular fashion, which allows them to grow over time as more materials become available. This one is recently built, and relatively small.",
   "Faction": 212,
   "IconImage": "model 16 icon.png",
   "IconScale": 1.0,
@@ -50,6 +51,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "The Kor Mereti war drones are constructed in a modular fashion, which allows them to grow over time as more materials become available. This one is recently built, and relatively small."
+  ]
 }

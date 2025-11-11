@@ -3,6 +3,7 @@
   "Id": 3014,
   "ShipType": 1,
   "Name": "Stalker",
+  "Description": "No description.",
   "Faction": 208,
   "IconImage": "stalker icon.png",
   "IconScale": 1.0,
@@ -26,6 +27,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

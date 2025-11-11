@@ -3,6 +3,7 @@
   "Id": 516,
   "SizeClass": 3,
   "Name": "Abyssal Stream",
+  "Description": "No description.",
   "Faction": 211,
   "IconImage": "abyssal stream.png",
   "IconScale": 1.0,
@@ -87,6 +88,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

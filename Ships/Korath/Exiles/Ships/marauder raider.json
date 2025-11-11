@@ -3,6 +3,7 @@
   "Id": 430,
   "SizeClass": 3,
   "Name": "Marauder Raider",
+  "Description": "No description.",
   "Faction": 209,
   "IconImage": "marauder raider icon.png",
   "IconScale": 1.0,
@@ -91,6 +92,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

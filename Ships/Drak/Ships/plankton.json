@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 461,
   "Name": "Plankton",
+  "Description": "No description.",
   "Faction": 215,
   "IconImage": "plankton.png",
   "IconScale": 1.0,
@@ -44,6 +45,5 @@
     "BuiltinDevices": [
       9000
     ]
-  },
-  "Description": "No description."
+  }
 }

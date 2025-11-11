@@ -3,6 +3,7 @@
   "Id": 340,
   "SizeClass": 2,
   "Name": "Mule",
+  "Description": "The Mule is as much of a hodgepodge as its looks suggest. The Lionheart ship designers combined a good deal of cargo space with a decent amount of weaponry and even a fighter bay, and ended up with a ship that is mostly used as a freighter but can also be used as a warship because of its heavy armament and shields. This hodgepodge nature has its downside, though, namely its high crew requirement and the fact that any dedicated ship of the same cost will do better in a specialized role than the Mule will.",
   "Faction": 204,
   "IconImage": "mule icon.png",
   "IconScale": 1.0,
@@ -49,6 +50,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "The Mule is as much of a hodgepodge as its looks suggest. The Lionheart ship designers combined a good deal of cargo space with a decent amount of weaponry and even a fighter bay, and ended up with a ship that is mostly used as a freighter but can also be used as a warship because of its heavy armament and shields. This hodgepodge nature has its downside, though, namely its high crew requirement and the fact that any dedicated ship of the same cost will do better in a specialized role than the Mule will."
+  ]
 }

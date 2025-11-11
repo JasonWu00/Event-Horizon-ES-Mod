@@ -3,6 +3,7 @@
   "Id": 428,
   "SizeClass": 3,
   "Name": "Maboro",
+  "Description": "No description.",
   "Faction": 216,
   "IconImage": "maboro icon.png",
   "IconScale": 1.0,
@@ -83,6 +84,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "No description."
+  }
 }

@@ -4,6 +4,7 @@
   "ShipType": 3,
   "SizeClass": 4,
   "Name": "Arfecta",
+  "Description": "No description.",
   "Faction": 216,
   "IconImage": "arfecta icon.png",
   "IconScale": 1.0,
@@ -83,6 +84,5 @@
     "BuiltinDevices": [
       14
     ]
-  },
-  "Description": "No description."
+  }
 }

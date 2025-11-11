@@ -3,6 +3,7 @@
   "Id": 477,
   "SizeClass": 3,
   "Name": "Hogshead",
+  "Description": "First manufactured by a forgotten shipyard many centuries ago, the Hogshead got its iconic name from the keg-like shape of its engine pods; its design was a hot topic of discussion for captains everywhere. The ship quickly became popular after first being released for consumer purchase and was commonly seen around various systems as the go-to \"space bus\" in human space.",
   "Faction": 202,
   "IconImage": "hogshead icon.png",
   "IconScale": 1.0,
@@ -77,6 +78,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "First manufactured by a forgotten shipyard many centuries ago, the Hogshead got its iconic name from the keg-like shape of its engine pods; its design was a hot topic of discussion for captains everywhere. The ship quickly became popular after first being released for consumer purchase and was commonly seen around various systems as the go-to \"space bus\" in human space."
+  ]
 }

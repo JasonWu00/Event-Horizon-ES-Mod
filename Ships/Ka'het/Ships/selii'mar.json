@@ -3,6 +3,7 @@
   "Id": 3017,
   "ShipType": 1,
   "Name": "Selii'mar",
+  "Description": "The Selii'mar was a common Builder mining drone, one of the few automated ships they ever produced. The Het stations still produce them, in order to harvest the materials they need to keep working.",
   "Faction": 210,
   "IconImage": "selii'mar icon.png",
   "IconScale": 1.0,
@@ -26,6 +27,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "The Selii'mar was a common Builder mining drone, one of the few automated ships they ever produced. The Het stations still produce them, in order to harvest the materials they need to keep working."
+  ]
 }

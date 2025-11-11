@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Marauder Bactrian",
+  "Description": "No description.",
   "Faction": 219,
   "IconImage": "bactrian icon.png",
   "IconScale": 1.0,
@@ -110,6 +111,5 @@
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     }
-  ],
-  "Description": "No description."
+  ]
 }

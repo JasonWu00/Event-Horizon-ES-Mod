@@ -3,6 +3,7 @@
   "Id": 3009,
   "ShipType": 1,
   "Name": "Violin Spider",
+  "Description": "The Hai fighter is equipped with what most humans would consider the greatest technology available, but all of that high tech comes at a cost.",
   "Faction": 206,
   "IconImage": "violin spider icon.png",
   "IconScale": 1.0,
@@ -26,6 +27,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "The Hai fighter is equipped with what most humans would consider the greatest technology available, but all of that high tech comes at a cost."
+  ]
 }

@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 459,
   "Name": "Squid",
+  "Description": "No description.",
   "Faction": 215,
   "IconImage": "squid.png",
   "IconScale": 1.0,
@@ -53,6 +54,5 @@
       9000,
       1346
     ]
-  },
-  "Description": "No description."
+  }
 }

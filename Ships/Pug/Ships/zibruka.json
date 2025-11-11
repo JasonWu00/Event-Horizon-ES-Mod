@@ -3,6 +3,7 @@
   "Id": 426,
   "SizeClass": 1,
   "Name": "Zibruka",
+  "Description": "No description.",
   "Faction": 216,
   "IconImage": "zibruka icon.png",
   "IconScale": 1.0,
@@ -46,6 +47,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "No description."
+  }
 }

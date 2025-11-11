@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Tarantula",
+  "Description": "No description.",
   "Faction": 206,
   "IconImage": "hai tarantula icon.png",
   "IconScale": 1.0,
@@ -108,6 +109,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

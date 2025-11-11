@@ -3,6 +3,7 @@
   "Id": 319,
   "SizeClass": 2,
   "Name": "Hauler 2",
+  "Description": "No description.",
   "Faction": 201,
   "IconImage": "hauler 2 icon.png",
   "IconScale": 1.0,
@@ -65,6 +66,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

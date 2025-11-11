@@ -3,6 +3,7 @@
   "Id": 445,
   "SizeClass": 1,
   "Name": "Cutthroat",
+  "Description": "Pirates call this heavily modified Clipper the \"Cutthroat.\" With an extra pair of engine pods bolted on for the sole purpose of maximizing speed, it can catch or outrun all but the most fine-tuned ships in the sky.",
   "Faction": 219,
   "IconImage": "cutthroat icon.png",
   "IconScale": 1.0,
@@ -75,6 +76,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "Pirates call this heavily modified Clipper the \"Cutthroat.\" With an extra pair of engine pods bolted on for the sole purpose of maximizing speed, it can catch or outrun all but the most fine-tuned ships in the sky."
+  ]
 }

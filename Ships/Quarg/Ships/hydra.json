@@ -4,6 +4,7 @@
   "ShipRarity": 1,
   "SizeClass": 2,
   "Name": "Hydra",
+  "Description": "No description.",
   "Faction": 214,
   "IconImage": "hydra icon.png",
   "IconScale": 1.0,
@@ -67,6 +68,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

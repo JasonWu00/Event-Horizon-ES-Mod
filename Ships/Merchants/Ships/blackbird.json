@@ -3,6 +3,7 @@
   "Id": 315,
   "SizeClass": 1,
   "Name": "Blackbird",
+  "Description": "The Tarazed Blackbird is a high-class passenger transport, designed to move large numbers of people across the galaxy with speed and safety. Although not equipped with much weaponry, a Blackbird is well protected and fast enough to evade pirate attacks, and its cargo capacity is high enough to allow the captain to take courier missions on the side.",
   "Faction": 201,
   "IconImage": "blackbird icon.png",
   "IconScale": 0.75,
@@ -41,6 +42,5 @@
       },
       "AutoAimingArc": 80.0
     }
-  ],
-  "Description": "The Tarazed Blackbird is a high-class passenger transport, designed to move large numbers of people across the galaxy with speed and safety. Although not equipped with much weaponry, a Blackbird is well protected and fast enough to evade pirate attacks, and its cargo capacity is high enough to allow the captain to take courier missions on the side."
+  ]
 }

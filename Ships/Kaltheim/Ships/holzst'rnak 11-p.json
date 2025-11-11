@@ -3,6 +3,7 @@
   "Id": 450,
   "SizeClass": 1,
   "Name": "Holzst'rnak 11-P",
+  "Description": "No description.",
   "Faction": 220,
   "IconImage": "Holzst'rnak 11-P.png",
   "IconScale": 1.0,
@@ -81,6 +82,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

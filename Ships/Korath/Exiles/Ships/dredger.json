@@ -3,6 +3,7 @@
   "Id": 390,
   "SizeClass": 3,
   "Name": "Dredger",
+  "Description": "No description.",
   "Faction": 209,
   "IconImage": "dredger icon.png",
   "IconScale": 1.0,
@@ -88,6 +89,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 463,
   "SizeClass": 1,
   "Name": "Void Sprite Infant",
+  "Description": "No description.",
   "Faction": 215,
   "IconImage": "void sprite infant icon.png",
   "IconScale": 1.0,
@@ -59,6 +60,5 @@
     "BuiltinDevices": [
       9000
     ]
-  },
-  "Description": "No description."
+  }
 }

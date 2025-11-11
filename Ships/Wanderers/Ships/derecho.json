@@ -3,6 +3,7 @@
   "Id": 404,
   "SizeClass": 3,
   "Name": "Derecho",
+  "Description": "Like a latent gene waiting to express itself, the knowledge of how to wage war in space has been passed down through hundreds of generations of Wanderers. Based on one of their ancient designs, the Derecho has a mixture of agility and raw firepower that is well-suited to their present, rapidly changing situation.",
   "Faction": 211,
   "IconImage": "derecho icon.png",
   "IconScale": 1.0,
@@ -91,6 +92,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "Like a latent gene waiting to express itself, the knowledge of how to wage war in space has been passed down through hundreds of generations of Wanderers. Based on one of their ancient designs, the Derecho has a mixture of agility and raw firepower that is well-suited to their present, rapidly changing situation."
+  ]
 }

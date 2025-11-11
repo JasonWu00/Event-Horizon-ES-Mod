@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Swan",
+  "Description": "No description.",
   "Faction": 207,
   "IconImage": "swan icon.png",
   "IconScale": 1.0,
@@ -92,6 +93,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "No description."
+  }
 }

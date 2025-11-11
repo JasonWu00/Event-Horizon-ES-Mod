@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 491,
   "Name": "Bronze Edge",
+  "Description": "No description.",
   "Faction": 217,
   "IconImage": "bronze edge icon.png",
   "IconScale": 1.0,
@@ -49,6 +50,5 @@
       "WeaponClass": "CL",
       "Image": "sheragi am turret sprite.png"
     }
-  ],
-  "Description": "No description."
+  ]
 }

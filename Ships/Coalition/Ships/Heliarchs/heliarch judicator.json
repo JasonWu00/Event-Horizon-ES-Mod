@@ -3,6 +3,7 @@
   "Id": 387,
   "SizeClass": 3,
   "Name": "Judicator",
+  "Description": "No description.",
   "Faction": 208,
   "IconImage": "judicator icon.png",
   "IconScale": 1.0,
@@ -47,6 +48,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

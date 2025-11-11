@@ -3,6 +3,7 @@
   "Id": 462,
   "SizeClass": 2,
   "Name": "Void Sprite",
+  "Description": "The void sprites are an enigmatic species under the watchful gaze of the Archon originally discovered in the Nenia system. The species' connection is unknown, but the Archon seem particularly protective of them.",
   "Faction": 215,
   "IconImage": "void sprite adult icon.png",
   "IconScale": 1.0,
@@ -87,6 +88,5 @@
     "BuiltinDevices": [
       9000
     ]
-  },
-  "Description": "The void sprites are an enigmatic species under the watchful gaze of the Archon originally discovered in the Nenia system. The species' connection is unknown, but the Archon seem particularly protective of them."
+  }
 }

@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Worldship",
+  "Description": "No description.",
   "Faction": 209,
   "IconImage": "worldship icon.png",
   "IconScale": 1.0,
@@ -112,6 +113,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 434,
   "SizeClass": 2,
   "Name": "Courier",
+  "Description": "No description.",
   "Faction": 209,
   "IconImage": "courier icon.png",
   "IconScale": 1.0,
@@ -59,6 +60,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

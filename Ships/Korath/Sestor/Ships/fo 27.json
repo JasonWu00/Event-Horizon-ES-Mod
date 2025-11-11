@@ -3,6 +3,7 @@
   "Id": 3022,
   "ShipType": 1,
   "Name": "Far Osk 27",
+  "Description": "Because it is piloted by a computer and has no need for a cockpit or life support systems, the FS27 fighter is able to support a thicker hull, more shields, and more powerful guns than any comparable human ship.",
   "Faction": 213,
   "IconImage": "fo 27 icon.png",
   "IconScale": 1.0,
@@ -43,6 +44,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "Because it is piloted by a computer and has no need for a cockpit or life support systems, the FS27 fighter is able to support a thicker hull, more shields, and more powerful guns than any comparable human ship."
+  ]
 }

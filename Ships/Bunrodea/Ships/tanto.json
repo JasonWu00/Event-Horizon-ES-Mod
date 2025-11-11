@@ -3,6 +3,7 @@
   "Id": 470,
   "SizeClass": 1,
   "Name": "Tanto",
+  "Description": "The Tanto freighter was designed as a fast blockade runner. While being lightly armed and armored, the Tanto is incredibly swift for a ship of its size, allowing it to jump into and out of systems before any hostile force can bear its full might down on the small ship.",
   "Faction": 221,
   "IconImage": "tanto icon.png",
   "IconScale": 1.0,
@@ -59,6 +60,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "The Tanto freighter was designed as a fast blockade runner. While being lightly armed and armored, the Tanto is incredibly swift for a ship of its size, allowing it to jump into and out of systems before any hostile force can bear its full might down on the small ship."
+  ]
 }

@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Lycosidae",
+  "Description": "No description.",
   "Faction": 206,
   "IconImage": "hai lycosidae icon.png",
   "IconScale": 1.0,
@@ -105,6 +106,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "No description."
+  ]
 }

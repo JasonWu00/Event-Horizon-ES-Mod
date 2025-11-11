@@ -3,6 +3,7 @@
   "Id": 3023,
   "ShipType": 1,
   "Name": "Battledrake",
+  "Description": "No description.",
   "Faction": 214,
   "IconImage": "battledrake.png",
   "IconScale": 1.0,
@@ -34,6 +35,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

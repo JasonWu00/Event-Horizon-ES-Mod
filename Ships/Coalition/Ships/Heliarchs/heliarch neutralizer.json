@@ -3,6 +3,7 @@
   "Id": 384,
   "SizeClass": 1,
   "Name": "Neutralizer",
+  "Description": "No description.",
   "Faction": 208,
   "IconImage": "neutralizer icon.png",
   "IconScale": 1.0,
@@ -59,6 +60,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "No description."
+  ]
 }

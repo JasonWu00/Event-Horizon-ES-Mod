@@ -3,6 +3,7 @@
   "Id": 489,
   "SizeClass": 3,
   "Name": "Model 192",
+  "Description": "No description.",
   "Faction": 212,
   "IconImage": "model 192 icon.png",
   "IconScale": 1.0,
@@ -91,6 +92,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 3015,
   "ShipType": 1,
   "Name": "Chaser",
+  "Description": "No description.",
   "Faction": 209,
   "IconImage": "chaser icon.png",
   "IconScale": 1.0,
@@ -34,6 +35,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

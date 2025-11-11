@@ -4,6 +4,7 @@
   "ShipType": 2,
   "SizeClass": 5,
   "Name": "Starbase",
+  "Description": "No description.",
   "Faction": 212,
   "IconImage": "mereti station.png",
   "IconScale": 1.0,
@@ -52,6 +53,5 @@
       "Image": "disruptor turret sprite.png",
       "Size": 0.12
     }
-  ],
-  "Description": "No description."
+  ]
 }

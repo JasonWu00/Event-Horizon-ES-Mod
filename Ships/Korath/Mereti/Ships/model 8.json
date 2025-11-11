@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 413,
   "Name": "Model 8",
+  "Description": "The primary role of the smallest Kor Mereti drones is asteroid mining, but their lasers can also be employed as offensive weapons when necessary.",
   "Faction": 212,
   "IconImage": "model 8 icon.png",
   "IconScale": 1.0,
@@ -42,6 +43,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "The primary role of the smallest Kor Mereti drones is asteroid mining, but their lasers can also be employed as offensive weapons when necessary."
+  ]
 }

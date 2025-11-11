@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Albatross",
+  "Description": "Once they left human space, it became apparent to the Remnant that they would need to build their own shipyards in order to defend themselves if they were discovered by the Alphas or any other unfriendly faction. Using new composite materials that they discovered, they built ships very different from anything seen in human space.",
   "Faction": 207,
   "IconImage": "albatross icon.png",
   "IconScale": 1.0,
@@ -108,6 +109,5 @@
   ],
   "Features": {
     "Regeneration": true
-  },
-  "Description": "Once they left human space, it became apparent to the Remnant that they would need to build their own shipyards in order to defend themselves if they were discovered by the Alphas or any other unfriendly faction. Using new composite materials that they discovered, they built ships very different from anything seen in human space."
+  }
 }

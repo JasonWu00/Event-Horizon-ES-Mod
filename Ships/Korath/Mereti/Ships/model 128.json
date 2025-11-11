@@ -3,6 +3,7 @@
   "Id": 417,
   "SizeClass": 3,
   "Name": "Model 128",
+  "Description": "As Kor Mereti drones continue to grow and develop into their final form, they split down the middle. At the same time, their shielding and weaponry continue to become stronger.",
   "Faction": 212,
   "IconImage": "model 128 icon.png",
   "IconScale": 1.0,
@@ -83,6 +84,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "As Kor Mereti drones continue to grow and develop into their final form, they split down the middle. At the same time, their shielding and weaponry continue to become stronger."
+  ]
 }

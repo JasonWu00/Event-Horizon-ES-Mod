@@ -3,6 +3,7 @@
   "Id": 452,
   "SizeClass": 3,
   "Name": "Lenmig'sraor 52-T",
+  "Description": "No description.",
   "Faction": 220,
   "IconImage": "Lenmig'sraor 52-T.png",
   "IconScale": 1.0,
@@ -81,6 +82,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 377,
   "SizeClass": 2,
   "Name": "Kimek Thistle",
+  "Description": "The Kimek love traveling so much that some of them will happily spend months at a time in a transport this size, and the passengers often grow into a tight-knit community by the end of their journeys together.",
   "Faction": 218,
   "IconImage": "kimek thistle icon.png",
   "IconScale": 1.0,
@@ -65,6 +66,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "Description": "The Kimek love traveling so much that some of them will happily spend months at a time in a transport this size, and the passengers often grow into a tight-knit community by the end of their journeys together."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 512,
   "SizeClass": 1,
   "Name": "Pirate Freighter",
+  "Description": "No description.",
   "Faction": 202,
   "IconImage": "imv pirate freighter icon.png",
   "IconScale": 0.75,
@@ -69,6 +70,5 @@
       },
       "AutoAimingArc": 80.0
     }
-  ],
-  "Description": "No description."
+  ]
 }

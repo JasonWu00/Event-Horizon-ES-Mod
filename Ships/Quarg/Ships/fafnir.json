@@ -4,6 +4,7 @@
   "ShipRarity": 1,
   "SizeClass": 3,
   "Name": "Fafnir",
+  "Description": "No description.",
   "Faction": 214,
   "IconImage": "fafnir icon.png",
   "IconScale": 1.0,
@@ -101,6 +102,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

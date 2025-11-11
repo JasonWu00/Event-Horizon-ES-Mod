@@ -3,6 +3,7 @@
   "Id": 3005,
   "ShipType": 1,
   "Name": "Lance",
+  "Description": "The Lance is the primary fighter used by the Republic Navy. As with all fighters, it is weak by itself but very effective as part of a larger squadron.",
   "Faction": 205,
   "IconImage": "lance icon.png",
   "IconScale": 1.0,
@@ -41,6 +42,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "The Lance is the primary fighter used by the Republic Navy. As with all fighters, it is weak by itself but very effective as part of a larger squadron."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 433,
   "SizeClass": 1,
   "Name": "Shipper",
+  "Description": "No description.",
   "Faction": 209,
   "IconImage": "shipper icon.png",
   "IconScale": 1.0,
@@ -41,6 +42,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

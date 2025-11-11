@@ -3,6 +3,7 @@
   "Id": 409,
   "SizeClass": 3,
   "Name": "Tek Far 109",
+  "Description": "The TF109 is designed almost solely for the purpose of carrying a fleet of Kor Sestor fighters and drones. Without them to serve as a protective screen, the ship itself is relatively helpless.",
   "Faction": 213,
   "IconImage": "tf 109 icon.png",
   "IconScale": 1.0,
@@ -66,6 +67,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "The TF109 is designed almost solely for the purpose of carrying a fleet of Kor Sestor fighters and drones. Without them to serve as a protective screen, the ship itself is relatively helpless."
+  ]
 }

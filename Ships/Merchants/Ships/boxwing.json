@@ -3,6 +3,7 @@
   "Id": 3004,
   "ShipType": 1,
   "Name": "Boxwing",
+  "Description": "No description.",
   "Faction": 201,
   "IconImage": "boxwing icon.png",
   "IconScale": 1.0,
@@ -45,6 +46,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "No description."
+  ]
 }

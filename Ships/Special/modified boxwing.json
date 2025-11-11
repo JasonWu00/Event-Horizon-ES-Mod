@@ -4,6 +4,7 @@
   "ShipType": 3,
   "ShipRarity": 3,
   "Name": "Modified Boxwing",
+  "Description": "No description.",
   "IconImage": "modified boxwing icon.png",
   "IconScale": 1.0,
   "ModelImage": "modified boxwing.png",
@@ -122,6 +123,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

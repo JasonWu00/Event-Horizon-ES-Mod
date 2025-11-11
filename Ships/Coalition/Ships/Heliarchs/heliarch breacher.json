@@ -3,6 +3,7 @@
   "Id": 383,
   "SizeClass": 1,
   "Name": "Breacher",
+  "Description": "No description.",
   "Faction": 208,
   "IconImage": "breacher icon.png",
   "IconScale": 1.0,
@@ -53,6 +54,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

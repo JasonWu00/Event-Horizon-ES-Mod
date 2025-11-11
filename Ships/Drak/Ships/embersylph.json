@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 457,
   "Name": "Embersylph",
+  "Description": "Embersylphs are notably strange creatures, even compared to other known space fauna. Glowing in various hues while gracefully swinging several long appendages in a strangely methodical motion, the only consistent behavior these creatures are known to display is curiosity for other life.",
   "Faction": 215,
   "IconImage": "embersylph1.png",
   "IconScale": 1.0,
@@ -66,6 +67,5 @@
     "BuiltinDevices": [
       9000
     ]
-  },
-  "Description": "Embersylphs are notably strange creatures, even compared to other known space fauna. Glowing in various hues while gracefully swinging several long appendages in a strangely methodical motion, the only consistent behavior these creatures are known to display is curiosity for other life."
+  }
 }

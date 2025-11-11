@@ -3,6 +3,7 @@
   "Id": 3036,
   "ShipType": 1,
   "Name": "Prong",
+  "Description": "No description.",
   "Faction": 203,
   "IconImage": "prong icon.png",
   "IconScale": 1.0,
@@ -41,6 +42,5 @@
       },
       "AutoAimingArc": 20.0
     }
-  ],
-  "Description": "No description."
+  ]
 }

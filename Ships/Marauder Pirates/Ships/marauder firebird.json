@@ -3,6 +3,7 @@
   "Id": 439,
   "SizeClass": 2,
   "Name": "Marauder Firebird",
+  "Description": "By the looks of the modification that have taken place, you suspect that this ship contains no original parts. With extra shield emitters, hull plating, and outfit space, this half-millennium-old design is finding new life with its heavy modification.",
   "Faction": 219,
   "IconImage": "marauder firebird icon.png",
   "IconScale": 1.0,
@@ -81,6 +82,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "By the looks of the modification that have taken place, you suspect that this ship contains no original parts. With extra shield emitters, hull plating, and outfit space, this half-millennium-old design is finding new life with its heavy modification."
+  ]
 }

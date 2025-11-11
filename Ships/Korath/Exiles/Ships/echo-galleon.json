@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Echo-Galleon",
+  "Description": "The largest of Korath production vessels are derived from a common and ancient chassis, including this large Efreti vessel. Facing very different challenges, and taking some inspiration from their Quarg protectors, the Efreti descendant of the \"World-Ships\" of old is lighter, faster, and more efficient, but less powerful than its Exile counterparts.",
   "Faction": 209,
   "IconImage": "echo-galleon icon.png",
   "IconScale": 1.0,
@@ -97,6 +98,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "The largest of Korath production vessels are derived from a common and ancient chassis, including this large Efreti vessel. Facing very different challenges, and taking some inspiration from their Quarg protectors, the Efreti descendant of the \"World-Ships\" of old is lighter, faster, and more efficient, but less powerful than its Exile counterparts."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 497,
   "ShipRarity": 1,
   "Name": "Drake",
+  "Description": "No description.",
   "Faction": 214,
   "IconImage": "drake icon.png",
   "IconScale": 1.0,
@@ -54,6 +55,5 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "Description": "No description."
+  ]
 }

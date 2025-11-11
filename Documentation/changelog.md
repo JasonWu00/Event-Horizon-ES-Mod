@@ -903,6 +903,20 @@ Changelog:
   - Updated the mod to Event Horizon 1.13.0
   - Shortened description of Ruby Regenerator
 
+### 0.16.3 ??? Update
+
+Changelog:
+- Major Updates
+- Outfits
+  - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
+  - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
+- Ships
+  - Removed a small heat shunt from MPT 53 1vet
+  - Increased energy regen on the Rainmaker 2vet
+  - Reduced cooling on Model 16 2vet
+- Tech
+- Others
+
 ### Update Template
 
 Changelog:

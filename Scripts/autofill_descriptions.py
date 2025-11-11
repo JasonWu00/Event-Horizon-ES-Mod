@@ -18,11 +18,11 @@ SHIPS_PATH = "../Ships"
 ES_7VN_LINK = "http://dev.endless-sky.7vn.io/"
 OUTFITS = "outfits/"
 SHIPS = "ships/"
-USERAGENT = "404found_eh_es_parser/1.0 (https://github.com/JasonWu00/Event-Horizon-ES-Mod; https://github.com/JasonWu00)"
+USERAGENT = "404found_eh_es_parser/1.1 (https://github.com/JasonWu00/Event-Horizon-ES-Mod; https://github.com/JasonWu00)"
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1,):
+def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype: int = 1):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
@@ -32,7 +32,10 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
     specific_files: a list of json files to fill in, or None by default.
     desired_itemtype: specifies which type of file to handle. Default 1, components; otherwise 6, ships.
     """
-    IS_SHIPS = desired_itemtype == 1
+    if desired_itemtype not in [1,6]:
+        print("This function currently only works for desired_itemtype values of 1,6")
+        return 0
+    IS_SHIPS = desired_itemtype == 6
     print(f"Path is: {path}")
     dir_list = []
     if specific_files != []:
@@ -46,7 +49,7 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                 data: dict = json.load(file)
                 itemtype = data["ItemType"]
                 print(f"Checking filename {filename}")
-                print(f"Item type is {itemtype}")
+                print(f"Item type is {itemtype}; desired_itemtype is {desired_itemtype}")
                 if itemtype != desired_itemtype: # ItemType 1 is components; 6 is ships, others irrelevant
                     print(f"Skipping non-desired file {filename}")
                     continue
@@ -158,15 +161,15 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str 
         print(f"IndexError reached for file {compname}")
         return INDEXERROR
 
-mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/anomalocaris")
-desc = check_bs4_for_desc(mysoup, "test", find_class="well")
-print(desc)
+# mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/anomalocaris")
+# desc = check_bs4_for_desc(mysoup, "test", find_class="well")
+# print(desc)
 
 # for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
 #              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-# fill_in_descs(SHIPS_PATH, selective_fill=False)
+fill_in_descs(SHIPS_PATH+"/", selective_fill=True, desired_itemtype=6)
 # for subdir in ["Bunrodea"]:
 #     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

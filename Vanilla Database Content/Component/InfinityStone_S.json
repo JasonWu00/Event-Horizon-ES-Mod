@@ -12,7 +12,7 @@
   "CellType": "2",
   "DeviceId": 23,
   "Restrictions": {
-    "UniqueComponentTag": "safeguard"
+    "MaxComponentAmount": 1
   },
   "PossibleModifications": [
     1,

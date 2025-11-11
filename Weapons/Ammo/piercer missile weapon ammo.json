@@ -44,7 +44,7 @@
     },
     {
       "Condition": 1,
-      "EffectType": 1,
+      "EffectType": 4,
       "VisualEffect": 2226,
       "Color": "#00000000",
       "Size": 2.0,

@@ -50,5 +50,6 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "Description": "This is a modified Blackbird for ground raids and slave trading. It comes with an extra turret mount for suppressive fire on ground operations and additional hull reinforcement to resist returning fire."
 }

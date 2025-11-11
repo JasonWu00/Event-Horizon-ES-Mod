@@ -92,5 +92,6 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Description": "The Betelgeuse Shipyards Leviathan has been in service for a long time, and captains have had some very interesting ideas about how to modify them for optimum performance. This one has had the hull surface completely stripped and replaced, with the new layout containing more shield projectors per square meter."
 }

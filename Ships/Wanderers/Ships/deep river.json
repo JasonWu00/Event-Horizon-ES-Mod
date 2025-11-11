@@ -75,5 +75,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "Description": "The Deep River is a modular freighter, designed to carry cargo in detachable pods."
 }

@@ -45,5 +45,6 @@
   ],
   "Features": {
     "Regeneration": true
-  }
+  },
+  "Description": "The Fetri is a self replicating probe, built to harvest iridium away from the Graveyard and transport it back to the Builders."
 }

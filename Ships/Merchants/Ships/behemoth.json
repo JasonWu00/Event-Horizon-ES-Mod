@@ -60,5 +60,6 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "LC"
     }
-  ]
+  ],
+  "Description": "The Behemoth is a recent ship design from Betelgeuse Shipyards, designed as an alternative to the Syndicate Bulk Freighter. Although its cargo capacity is somewhat lower, it is also more maneuverable, and packs a heavier armament by default."
 }

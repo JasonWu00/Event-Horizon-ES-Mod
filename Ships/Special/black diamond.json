@@ -50,5 +50,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "Description": "The Sheragi, being too large to effectively pilot ships this small, invested heavily in the development of autonomous fighters. The hardware that controls this isn't much more complex than the combat drones in human space, but it is bigger, and the lack of life support systems and amenities for a pilot allows it to carry extra outfitting space."
 }

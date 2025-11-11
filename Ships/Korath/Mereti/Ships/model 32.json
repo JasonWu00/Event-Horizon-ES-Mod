@@ -58,5 +58,6 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Description": "The Kor Mereti built their drones to mimic life: capable of growth and development throughout their life cycles. Their automated factories can convert the drones from one configuration to another by adding or removing modules."
 }

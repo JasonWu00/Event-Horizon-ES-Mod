@@ -42,5 +42,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "Description": "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
 }

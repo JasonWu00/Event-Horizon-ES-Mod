@@ -33,5 +33,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "Description": "The Earth Shaper is a robotic drone that the Wanderers use for mining, exploring, surveying, and terraforming."
 }

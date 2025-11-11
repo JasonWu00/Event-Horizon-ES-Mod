@@ -50,5 +50,6 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Description": "The Riptide is a dedicated transport ship meant to replace the temporary Deep River freighters that were converted into transport ships for refugee evacuation. Although not as durable as the Deep River, the Riptide is far more nimble of a ship while at the same time being able to carry more passengers."
 }

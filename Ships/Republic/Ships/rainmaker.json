@@ -47,5 +47,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "Description": "The Rainmaker is a missile boat built in the Republic Navy Yard. It comes equipped with four missile launchers and enough ammunition to destroy even ships many times its size. Because of their lack of maneuverability and relatively light shielding, Rainmakers serve best as long-range attack ships, and once their missile supply is spent, they are relatively useless in combat."
 }

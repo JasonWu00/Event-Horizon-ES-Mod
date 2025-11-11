@@ -42,5 +42,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "Description": "The primary role of the smallest Kor Mereti drones is asteroid mining, but their lasers can also be employed as offensive weapons when necessary."
 }

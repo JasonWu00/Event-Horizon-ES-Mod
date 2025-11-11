@@ -66,5 +66,6 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "Description": "The Sea Scorpion was designed several decades ago to serve as a mobile platform to launch Trackers. However, it is only recently that the Unfettered have been able to mass-produce them. While individually vulnerable, the reduced cost of manufacturing compared to Shield Beetles allow the materially inferior Unfettered to gain a numerical advantage against their brethren."
 }

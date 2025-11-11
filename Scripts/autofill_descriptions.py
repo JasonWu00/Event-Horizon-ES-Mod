@@ -22,7 +22,7 @@ USERAGENT = "404found_eh_es_parser/1.1 (https://github.com/JasonWu00/Event-Horiz
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype: int = 1):
+def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
@@ -107,9 +107,10 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                 file.truncate() # in case any old data remains
 
         elif "Stat" not in filename and "." not in filename:
+            # This selects folders without "Stat" in their names
             # ignore all Components Stats folders, recursively check other folders
             # Also ignore files (they have extensions)
-            fill_in_descs(path+"/"+filename, selective_fill=selective_fill)
+            fill_in_descs(path+"/"+filename, selective_fill=selective_fill, desired_itemtype=desired_itemtype)
 
 def grab_page_with_selenium(link: str):
     """

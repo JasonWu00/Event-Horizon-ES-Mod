@@ -814,7 +814,7 @@ Empyrealdragon | 423 | 1367-1369
 Elderdragon | 424 | 1370-1372
 Battledrake | 3023
 Nanotech Battery | 1234
-Antimatter Core | 1235
+Ergosphere Core | 1235
 Quantum Shield Generator | 1236
 Small Graviton Thruster | 1237
 Small Graviton Steering | 1238
@@ -830,8 +830,8 @@ Infimum Shield Generator | 1383
 Peripheral Repair Hub | 1384
 Central Repair Hub | 1385
 Gravitational Device | 1386
-Tachyon Core | 1387
-Singularity Core | 1388
+Antimatter Core | 1387
+Blazar Core | 1388
 Wardragon-style civilian ships | ...
 Drake | 497 | 1603-1605
 Hydra | 498 | 1606-1608
@@ -850,14 +850,22 @@ Skylark Alt | 502 | 1633-1635
 Smaug | 507 | 1636-1638
 Zilant | 508 | 1639-1641
 Glaurun | 509 | 1642-1644
+New ships | ...
+Drake 2 | 518 | 1669-1671
+Guivre | 519 | 1672-1674
+Hydra 2 | 520 | 1675-1677
+Lindwyrm | 521 | 1678-1680
+Wardragon 2 | 522 | 1681-1683
 Weapons | ...
 Skydagger | 1401
 Skypiercer (Edenshard sprite) | 1402
-Ranseur | 1403
+Celestial Culverin | 1403
 Cataclist | 1404
 Edenshard (Starpilum) | 1405
 Turver (Skywrath) | 1406
 Doomscythe (Prismatic Shards) | 1407
+Elysian Ranseur | 1431
+Astral Ribault | 1432
 
 Starbases
 
@@ -1016,9 +1024,9 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1431
-Ship | 518
-Build | 1669
+Component | 1433
+Ship | 523
+Build | 1684
 Drone | 3037
 Quest | 1049
 

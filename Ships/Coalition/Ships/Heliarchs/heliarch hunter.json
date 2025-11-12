@@ -3,7 +3,7 @@
   "Id": 385,
   "SizeClass": 2,
   "Name": "Hunter",
-  "Description": "No description.",
+  "Description": "Although they mostly serve as patrol vessels nowadays in peacetime, Hunters were originally designed to quickly track down dissidents and bring them to justice.",
   "Faction": 208,
   "IconImage": "hunter icon.png",
   "IconScale": 1.0,

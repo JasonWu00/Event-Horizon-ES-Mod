@@ -4,7 +4,7 @@
   "ShipRarity": 1,
   "SizeClass": 1,
   "Name": "Skylark",
-  "Description": "No description.",
+  "Description": "The Skylark is used by the Quarg as a freighter and warship.",
   "Faction": 214,
   "IconImage": "skylark icon.png",
   "IconScale": 1.0,

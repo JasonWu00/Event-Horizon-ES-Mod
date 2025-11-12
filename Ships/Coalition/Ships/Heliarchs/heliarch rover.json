@@ -3,7 +3,7 @@
   "Id": 3013,
   "ShipType": 1,
   "Name": "Rover",
-  "Description": "No description.",
+  "Description": "The very first fighter they designed, Rovers are well-rounded ships that the Heliarchs employ regularly due to their reliability in any situation.",
   "Faction": 208,
   "IconImage": "rover icon.png",
   "IconScale": 1.0,

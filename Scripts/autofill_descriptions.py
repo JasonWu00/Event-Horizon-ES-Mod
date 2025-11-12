@@ -22,15 +22,15 @@ USERAGENT = "404found_eh_es_parser/1.1 (https://github.com/JasonWu00/Event-Horiz
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1):
+def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1, prefix=""):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
 
     path: a path to the folder with component jsons.
-    selective_fill: whether to skip over jsons with descriptions already.
-    specific_files: a list of json files to fill in, or None by default.
-    desired_itemtype: specifies which type of file to handle. Default 1, components; otherwise 6, ships.
+    selective_fill: whether to skip over jsons with descriptions already; default True.
+    specific_files: a list of json files to fill in; default empty list.
+    desired_itemtype: specifies which type of file to handle; default 1, components; otherwise 6, ships.
     """
     if desired_itemtype not in [1,6]:
         print("This function currently only works for desired_itemtype values of 1,6")
@@ -54,11 +54,13 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                     print(f"Skipping non-desired file {filename}")
                     continue
                 compname: str = data["Name"]
+                compname = compname.replace(' ', '-').replace('\'', '').lower()
+                if prefix != "":
+                    compname = prefix + "-" + compname
                 print(f"Selective fill value is: {selective_fill}")
                 if "Description" in data and selective_fill:
                     print(f"Skipping file with item name {compname}; desc already here")
                     continue
-
 
                 # r = requests.get(ES_7VN_LINK+compname, timeout=10,
                 #                  headers={"User-Agent": USERAGENT})
@@ -67,12 +69,12 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                 findship = False
                 if not IS_SHIPS:
                     if "DisplayCategory" in data and data["DisplayCategory"] == 5: # drones use ship descs and have DispCat=5
-                        final_link=ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                        final_link=ES_7VN_LINK+SHIPS+compname#.replace(' ', '-').replace('\'', '').lower()
                         findship = True
                     else:
-                        final_link=ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
+                        final_link=ES_7VN_LINK+OUTFITS+compname#.replace(' ', '-').replace('\'', '').lower()
                 else:
-                    final_link=ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                    final_link=ES_7VN_LINK+SHIPS+compname#.replace(' ', '-').replace('\'', '').lower()
                     findship = True
 
                 soup = grab_page_with_selenium(final_link)
@@ -171,6 +173,6 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str 
 #fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
 #              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-fill_in_descs(SHIPS_PATH+"/", selective_fill=True, desired_itemtype=6)
+fill_in_descs(SHIPS_PATH+"/Quarg/Ships/", selective_fill=False, desired_itemtype=6, prefix="quarg")
 # for subdir in ["Bunrodea"]:
 #     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

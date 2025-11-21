@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1333,
+  "Name": "Slush Beam",
+  "Description": "The Slush Beam is a small beam weapon, designed by the Kaltheim centuries ago specifically for their Bulkort 2-V fighters, in order to allow the fighters to properly utilise both of their gun ports. As a result of condensing the design down to only take up 17 tons of outfit space, the Slush Beam's damage output is much lower than other Kaltheim weapons.\n\nAs the Bulkort 2-V is rarely used nowadays due to the conversion of many Kaltheim carriers into hunter-killers, the Slush Beam is instead used on larger Kaltheim warships to fill out spare gun ports on ships which cannot fit any other weapons.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 220,
+  "Level": 450,
+  "Icon": "slush beam gun.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1333,
+  "AmmunitionId": 1333,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

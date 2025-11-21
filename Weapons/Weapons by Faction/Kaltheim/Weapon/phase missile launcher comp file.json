@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1332,
   "Name": "Phase Missile Launcher",
+  "Description": "The Phase Missile is a terrifying weapon designed by the Kaltheim to warp in and out of this plane of existence as it flies, allowing it to dodge anti-missile systems entirely. However, this universe-swap technology severely limits the projectile's range.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

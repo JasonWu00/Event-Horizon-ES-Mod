@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2331,
   "Name": "Kelvin Beam",
+  "Description": "The Kelvin Beam is the Kaltheim's primary weapon. While it is only a simple beam weapon, it can deal out huge chunks of damage.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1329,
   "Name": "Engine Destabilizer Turret",
+  "Description": "In order to allow more slowly-turning Kaltheim ships to hold their targets within range, two Engine Destabilisers were placed on a rotating turret, resulting in a far heavier, but far more powerful, weapon.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

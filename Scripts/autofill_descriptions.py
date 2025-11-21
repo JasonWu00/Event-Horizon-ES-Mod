@@ -173,6 +173,6 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str 
 #fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
 #              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-fill_in_descs(SHIPS_PATH+"/Quarg/Ships/", selective_fill=False, desired_itemtype=6, prefix="quarg")
+fill_in_descs(WEAPONS_PATH+"/Kaltheim/Weapon/", selective_fill=False, desired_itemtype=1, prefix="kaltheim")
 # for subdir in ["Bunrodea"]:
 #     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

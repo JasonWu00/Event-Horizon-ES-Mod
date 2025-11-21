@@ -834,7 +834,7 @@ Antimatter Core | 1387
 Blazar Core | 1388
 Wardragon-style civilian ships | ...
 Drake | 497 | 1603-1605
-Hydra | 498 | 1606-1608
+Hydra Precursor | 498 | 1606-1608
 Amphithere | 499 | 1609-1611
 Slibinas | 500 | 1612-1614
 Kaukas | 501 | 1615-1617
@@ -851,11 +851,12 @@ Smaug | 507 | 1636-1638
 Zilant | 508 | 1639-1641
 Glaurun | 509 | 1642-1644
 New ships | ...
-Drake 2 | 518 | 1669-1671
+Wardrake | 518 | 1669-1671
 Guivre | 519 | 1672-1674
-Hydra 2 | 520 | 1675-1677
+Hydra | 520 | 1675-1677
 Lindwyrm | 521 | 1678-1680
-Wardragon 2 | 522 | 1681-1683
+Improved Wardragon | 522 | 1681-1683
+Wyvern | 523 | 1684-1686
 Weapons | ...
 Skydagger | 1401
 Skypiercer (Edenshard sprite) | 1402
@@ -1025,8 +1026,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1433
-Ship | 523
-Build | 1684
+Ship | 524
+Build | 1687
 Drone | 3037
 Quest | 1049
 

@@ -1,9 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 497,
+  "Id": 518,
   "ShipRarity": 1,
-  "Name": "Drake",
-  "Description": "The Drake is an older ship used by the Quarg for reconnaissance and initial contact with emerging spacefaring species. A popular legend states that a Drake surveyed Sol while humans began to discover spaceflight.",
+  "Name": "Wardrake",
+  "Description": "The Quarg, learning closely from their defeat at the hands of the proto-Heliarchs, overhauled the Drake design to a more battle-ready format.",
   "Faction": 214,
   "IconImage": "drake icon.png",
   "IconScale": 1.0,

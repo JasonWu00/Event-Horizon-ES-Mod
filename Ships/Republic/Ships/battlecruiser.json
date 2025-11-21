@@ -4,7 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Battlecruiser",
-  "Description": "No description.",
+  "Description": "The second largest ship made by the Republic of Earth Navy so far, intended to help repel any future invasions by aliens in human space. Its design leans towards turrets more than guns and has the equivalent armament of a small fleet. Unlike the Battleship, of which only one exists, a small number of Battlecruisers exist in Navy service with a small number more on the restored Geminus drydocks.",
   "Faction": 205,
   "IconImage": "battlecruiser icon.png",
   "IconScale": 1.0,

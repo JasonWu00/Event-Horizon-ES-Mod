@@ -1,13 +1,13 @@
 {
   "ItemType": 6,
-  "Id": 497,
+  "Id": 523,
   "ShipRarity": 1,
-  "Name": "Drake",
-  "Description": "The Drake is an older ship used by the Quarg for reconnaissance and initial contact with emerging spacefaring species. A popular legend states that a Drake surveyed Sol while humans began to discover spaceflight.",
+  "Name": "Wyvern",
+  "Description": "When humans first encountered Quarg vessels, with their bizarre, scaly-looking hulls and alien forms, the comparisons to dragons of different sorts rapidly proliferated. The Wyvern is a midsize warship of the Quarg, though the distinction between the Quarg warship classes is insignificant to all but the most powerful forces in the galaxy.",
   "Faction": 214,
-  "IconImage": "drake icon.png",
+  "IconImage": "wyvern icon.png",
   "IconScale": 1.0,
-  "ModelImage": "drake.png",
+  "ModelImage": "wyvern.png",
   "ModelScale": 4.0,
   "EngineColor": "#B200FF",
   "Engines": [

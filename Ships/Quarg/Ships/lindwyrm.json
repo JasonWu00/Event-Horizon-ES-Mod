@@ -1,13 +1,13 @@
 {
   "ItemType": 6,
-  "Id": 497,
+  "Id": 521,
   "ShipRarity": 1,
-  "Name": "Drake",
-  "Description": "The Drake is an older ship used by the Quarg for reconnaissance and initial contact with emerging spacefaring species. A popular legend states that a Drake surveyed Sol while humans began to discover spaceflight.",
+  "Name": "Lindwyrm",
+  "Description": "The Quarg use the Lindwyrm as a heavy freighter, transporting in its ample cargo bays items both mundane and fantastical. In the days before the advent of modern cargo scanners revealed some measure of their contents, \"the inside of a Quarg cargo hold\" was slang used to describe any thing or place thought to be unknowable.",
   "Faction": 214,
-  "IconImage": "drake icon.png",
+  "IconImage": "lindwyrm icon.png",
   "IconScale": 1.0,
-  "ModelImage": "drake.png",
+  "ModelImage": "lindwyrm.png",
   "ModelScale": 4.0,
   "EngineColor": "#B200FF",
   "Engines": [

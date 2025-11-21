@@ -1,13 +1,13 @@
 {
   "ItemType": 6,
-  "Id": 497,
+  "Id": 519,
   "ShipRarity": 1,
-  "Name": "Drake",
-  "Description": "The Drake is an older ship used by the Quarg for reconnaissance and initial contact with emerging spacefaring species. A popular legend states that a Drake surveyed Sol while humans began to discover spaceflight.",
+  "Name": "Guivre",
+  "Description": "The Quarg employ these unusual craft as one of their primary tools for building and maintaining their ringworlds, each one operating continuously for hundreds or thousands of years on its planet-scale tasks. Each Guivre is equipped with a graviton slipstream projector, similar in usage to human-built tractor beams, but capable of shifting much, much larger objects with uncanny elegance and precision.",
   "Faction": 214,
-  "IconImage": "drake icon.png",
+  "IconImage": "guivre icon.png",
   "IconScale": 1.0,
-  "ModelImage": "drake.png",
+  "ModelImage": "guivre.png",
   "ModelScale": 4.0,
   "EngineColor": "#B200FF",
   "Engines": [

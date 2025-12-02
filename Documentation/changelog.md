@@ -929,6 +929,11 @@ Changelog:
 - Others
 
 ### Planned changes:
+- Add the Jackal and Monitor to Pirates
+- Add the Flintlock and/or Coffer to Korath Exiles
+- Add the Sea Dragon and Anomalocaris to Hai
+- Add the Squall, Hailstone (https://github.com/endless-sky/endless-sky/pull/10677), and Heavy Gust (https://github.com/endless-sky/endless-sky/pull/10672) to Wanderers
+- Add descriptions for Model 1024, KIV 750, Abyssal Stream, and others
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile

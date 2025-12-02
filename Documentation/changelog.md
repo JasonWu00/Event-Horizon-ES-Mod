@@ -903,7 +903,7 @@ Changelog:
   - Updated the mod to Event Horizon 1.13.0
   - Shortened description of Ruby Regenerator
 
-### 0.16.3 ??? Update
+### 0.16.3 "Third Australian Bloody Pissmas Miracle" Update
 
 Changelog:
 - Major Updates
@@ -930,8 +930,10 @@ Changelog:
 
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates
+- Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile
 - **Add the new aliens**
+  - Ka'het Aberrants (as separate faction or as Ka'het expansion?)
   - Gegno (all 3 subfactions at once)
   - Vyu-ira and other misc alien ships
   - Successors
@@ -939,9 +941,8 @@ Changelog:
   - Decompression of the faction light year requirement list
 - **Add new ships and outfits**
   - Alternate Worldship designs
-  - Hobby
   - Mega Freight outfits and possibly ships
   - Minor plugins from Todd: https://github.com/endless-sky/endless-sky/discussions/7928
-- Incorporate scanners as drone and missile capturer weapons
+- Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds

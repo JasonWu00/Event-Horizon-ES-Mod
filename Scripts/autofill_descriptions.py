@@ -6,6 +6,7 @@ NOTE TO SELF: RUN THIS CODE USING THE WINDOWS CMD. WSL2 DOES NOT WORK.
 import json
 import os
 import time
+from typing import Optional
 #import requests
 from selenium import webdriver # 7vn pages load dynamically, requests cant handle it
 #from selenium.webdriver.support.ui import WebDriverWait
@@ -22,7 +23,7 @@ USERAGENT = "404found_eh_es_parser/1.1 (https://github.com/JasonWu00/Event-Horiz
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1, prefix=""):
+def fill_in_descs(path: str, specific_files: Optional[list[str]] = None, selective_fill = True, desired_itemtype = 1, prefix=""):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
@@ -38,7 +39,7 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
     IS_SHIPS = desired_itemtype == 6
     print(f"Path is: {path}")
     dir_list = []
-    if specific_files != []:
+    if specific_files is not None:
         dir_list = specific_files
     else:
         dir_list = os.listdir(path)

@@ -470,6 +470,8 @@ Tarantula | 467 | 1515-1517
 Phrynus | 468 | 1518-1520
 Quartz Regenerator | 1411
 Tracker Vertical Pod | 1425
+Antlion | 524 | 1687-1689
+Sea Dragon | 525 | 1690-1692
 
 Remnant
 
@@ -1026,8 +1028,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1433
-Ship | 524
-Build | 1687
+Ship | 526
+Build | 1693
 Drone | 3037
 Quest | 1049
 

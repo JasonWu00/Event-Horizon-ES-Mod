@@ -474,6 +474,7 @@ Quartz Regenerator | 1411
 Tracker Vertical Pod | 1425
 Antlion | 524 | 1687-1689
 Sea Dragon | 525 | 1690-1692
+Anomalocaris | 531 | 1708-1710
 
 Remnant
 
@@ -981,8 +982,6 @@ Acid Sprayer | 1345
 Drak Acid Cloud | 1346
 Plankton Siphon Beam | 1347
 Astral Cetacean Beam | 1348
-
-Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
 
 Sheragi
 

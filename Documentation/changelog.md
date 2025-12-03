@@ -952,3 +952,5 @@ Changelog:
 - Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
+- Add faction interaction missions (such as Exile raids)
+- Change the Mereti and Sestor to reflect new lore

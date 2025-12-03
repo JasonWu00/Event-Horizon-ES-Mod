@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 3037,
+  "Name": "Hailstone",
+  "Description": "The Hailstone is a recent development meant to complement the Scud. Instead of Thunderhead Launchers the Hailstone sports a pair of Moonbeams.",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 3037,
+  "Faction": 211,
+  "Level": 375,
+  "Icon": "hailstone icon.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 3037,
+  "DroneId": 3037,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

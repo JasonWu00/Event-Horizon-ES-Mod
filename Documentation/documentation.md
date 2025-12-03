@@ -258,6 +258,8 @@ Medium Interference Plating | 1313
 Large Interference Plating | 1314
 Extra Large Interference Plating | 1315
 Small Radar Jammer | 1321
+Jackal | 527 | 1696-1698
+Monitor | 528 | 1699-1701
 
 Marauder Pirates
 
@@ -630,6 +632,7 @@ Echo-Galleon | 487 | 1572-1574
 Seedship | 488 | 1575-1577
 Firelight Rack | 1427
 Firestorm Pop-up Launcher | 1428
+KIT 7 | 3038
 
 Bunrodea
 
@@ -759,6 +762,8 @@ Moonbeam | 1222 (Gun 2222)
 Blizzard | 435 | 1419-1421
 Heavy Gust | 515 | 1660-1662
 Abyssal Stream | 516 | 1663-1665
+Squall | 526 | 1693-1695
+Hailstone | 3037
 
 Kor Sestor
 
@@ -1028,9 +1033,9 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1433
-Ship | 526
-Build | 1693
-Drone | 3037
+Ship | 529
+Build | 1702
+Drone | 3039
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.

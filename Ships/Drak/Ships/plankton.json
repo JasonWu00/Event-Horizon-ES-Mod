@@ -2,7 +2,7 @@
   "ItemType": 6,
   "Id": 461,
   "Name": "Plankton",
-  "Description": "No description.",
+  "Description": "These are tiny space creatures that feed on solar energy, storing it into two receptors found at the front of their bodies. While the ones back at their home territories are docile, the ones that came through the portal have seemingly developed a sense of aggression and a taste for hull platings.",
   "Faction": 215,
   "IconImage": "plankton.png",
   "IconScale": 1.0,

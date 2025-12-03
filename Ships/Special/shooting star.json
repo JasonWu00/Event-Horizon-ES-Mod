@@ -5,7 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 4,
   "Name": "Shooting Star",
-  "Description": "No description.",
+  "Description": "This ship appears to be a hollowed-out asteroid filled with strange equipment. It is unclear what is creating the rays of light, but they must have something to do with how it moves without obvious engines. Some things are better off not questioned.",
   "IconImage": "shooting star.png",
   "IconScale": 1.0,
   "ModelImage": "shooting star.png",

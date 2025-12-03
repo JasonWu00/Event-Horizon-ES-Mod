@@ -5,7 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Battleship",
-  "Description": "No description.",
+  "Description": "Never underestimate how far an individual is willing to go to modify their favorite spacecraft - sometimes before it even enters service.",
   "Faction": 205,
   "IconImage": "battleship icon.png",
   "IconScale": 1.0,

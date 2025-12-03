@@ -4,7 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Swan",
-  "Description": "No description.",
+  "Description": "Compared to the other freighter used by the Remnant the Swan is an old and outdated design: developed at the same time as the agile Starling, but without any integrated cloaking technology. Its main purpose is hauling large quantities of goods between planets, where, if needed, it can land to repair the hull or use its firepower to join the defense fleets.",
   "Faction": 207,
   "IconImage": "swan icon.png",
   "IconScale": 1.0,

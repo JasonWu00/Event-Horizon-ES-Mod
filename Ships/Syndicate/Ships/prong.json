@@ -3,7 +3,7 @@
   "Id": 3036,
   "ShipType": 1,
   "Name": "Prong",
-  "Description": "No description.",
+  "Description": "With the success of the Barb, someone thought it's a good idea to attach another gun to it and turn it into a proper hyperspace capable ship. The result is the Prong, a Barb with another gun pod attached, turning it into the smallest, lightest, and cheapest interceptor available while still capable of installing two Proton Guns. Its status as interceptor is still dubious as it is only capable of only two jumps, the lowest of all hyperspace capable ships.",
   "Faction": 203,
   "IconImage": "prong icon.png",
   "IconScale": 1.0,

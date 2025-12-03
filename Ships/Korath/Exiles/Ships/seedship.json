@@ -3,7 +3,7 @@
   "Id": 488,
   "SizeClass": 2,
   "Name": "Seedship",
-  "Description": "No description.",
+  "Description": "The Korath Seedship was originally built as a colonization vessel. It is controlled mainly by AI  but has bunk space enough for a crew of 5. The things that make this ship special are the integreted scanners, ramscoop systems, and a Cryogenics Bay. The Cryo Bay can hold up to 200 colonists.\n\nKorathi colonization efforts have slowed to a near halt, so nowadays the remaining Seedships are used as makeshift reconnaisance vessels and dropships. The Exiles use these Seedships as troop haulers, dumping hundreds of boarding soldiers into the halls of unsuspecting starbases and space stations.",
   "Faction": 209,
   "IconImage": "seedship.png",
   "IconScale": 1.0,

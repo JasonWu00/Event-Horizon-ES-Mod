@@ -1,0 +1,48 @@
+{
+  "ItemType": 6,
+  "Id": 3037,
+  "ShipType": 1,
+  "Name": "Hailstone",
+  "Description": "The Hailstone is a recent development meant to complement the Scud. Instead of Thunderhead Launchers the Hailstone sports a pair of Moonbeams.",
+  "Faction": 211,
+  "IconImage": "hailstone icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "hailstone.png",
+  "ModelScale": 0.9,
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000010000000000100000000011100000000111000000442224400004422244000011222110000012221000000122210000005555500000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.5
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.5
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

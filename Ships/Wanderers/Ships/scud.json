@@ -3,7 +3,7 @@
   "Id": 3020,
   "ShipType": 1,
   "Name": "Scud",
-  "Description": "No description.",
+  "Description": "Scud drones are used by the Wanderers to keep their star systems safe. Although the original Flycatcher drone was designed to render hostile missiles ineffective, the Scud drone is intended to overwhelm hostiles with many of the Wanderers' Thunderhead Missiles.",
   "Faction": 211,
   "IconImage": "scud icon.png",
   "IconScale": 1.0,

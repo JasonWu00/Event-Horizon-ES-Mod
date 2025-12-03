@@ -1,0 +1,82 @@
+{
+  "ItemType": 6,
+  "Id": 528,
+  "SizeClass": 3,
+  "Name": "Monitor",
+  "Description": "When the Republic first formed, planetary governments and corporations often fielded their own fleets; only the Deep had any form of a combined navy. Earth often found itself inefficiently directing those fleets to fight against pirates or defiant worlds. With a need to bring \"peace among the stars,\" per the Republic motto, the newly formed Republic Navy commissioned the shipyards on Luna to design a robust warship that would be able to project the power of a united Republic. The resulting ship, the Monitor, served as the mainstay of the Navy fleets until the introduction of the more advanced Frigate.\n\nThe few Monitors that still fly today are remnants of those sold by the Navy to the government of Betelgeuse, before they joined the Republic. Of the Monitors that made it into private hands, some eventually found themselves passing through the black markets of the Far North.",
+  "Faction": 202,
+  "IconImage": "monitor icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "monitor.png",
+  "ModelScale": 3.5,
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.34
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.34
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000020000000000000000000002220000000000000000004422244000000000000000044222440000000000000000012221000000000000000001144411000000000000000011444110000000000000000114441100000000000000000122210000000000000000001222100000000000000000012221000000000000000111322231110000000000001113222311100000000000011132223111000000000000111322231110000000000000551222155000000000000005512221550000000000000011144411100000000000001111444111100000000000055114441155000000000000550055500550000000000000000555000000000000000000005550000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.45
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

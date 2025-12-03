@@ -1,12 +1,12 @@
 {
   "ItemType": 6,
-  "Id": 511,
-  "Name": "Gunbarge",
-  "Description": "Captured Star Barges are sometimes refitted into Gun Barges to act as cheap weapon platform, often to quickly buff up a gang's firepower for an upcoming fight against a rival or to repel Republic Navy patrols. In rare cases, Gunbarges can be seen harassing just-as-slow freighters in the wild; in rarer cases, they might survive the encounter.",
+  "Id": 527,
+  "Name": "Jackal",
+  "Description": "The Jackal is notable for being one of the earliest warships that was designed with \"freelancer\" pilots in mind, rather than for corporate or law enforcement use. In its heyday, the Jackal contended with the Berserker for the title of the most popular Interceptor-class ship in human space. However, the Jackal's age and inflexibility regarding new developments in weaponry led to a decline in sales that eventually saw its manufacturer absorbed by the shipyard of its age-old rival, the Betelgeuse Shipyards Berserker.",
   "Faction": 202,
-  "IconImage": "imv gunbarge icon.png",
+  "IconImage": "jackal icon.png",
   "IconScale": 0.5,
-  "ModelImage": "imv gunbarge.png",
+  "ModelImage": "jackal.png",
   "ModelScale": 1.0,
   "EngineColor": "#FFE100",
   "Engines": [

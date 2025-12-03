@@ -913,6 +913,9 @@ Changelog:
   - Renamed a number of Quarg outfits to match latest source material
 - Ships
   - **Added descriptions to a large number of ships**
+  - Added the Jackal and Monitor to Pirates
+  - Added the Squall and Hailstone to Wandrers
+  - Added a number of Quarg ships
   - Removed a small heat shunt from MPT 53 1vet
   - Increased energy regen on the Rainmaker 2vet
   - Reduced cooling on Model 16 2vet
@@ -929,10 +932,8 @@ Changelog:
 - Others
 
 ### Planned changes:
-- Add the Jackal and Monitor to Pirates
 - Add the Flintlock and/or Coffer to Korath Exiles
 - Add the Sea Dragon and Anomalocaris to Hai
-- Add the Squall, Hailstone (https://github.com/endless-sky/endless-sky/pull/10677) to Wanderers
 - Add descriptions for Model 1024, KIV 750, Abyssal Stream, and others
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates

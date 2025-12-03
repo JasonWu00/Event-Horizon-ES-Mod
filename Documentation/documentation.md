@@ -810,6 +810,8 @@ Reasoning Node | 1304
 Model 192 | 489 | 1578-1580
 Model 2 | 3034 | 3034
 Model 128 Surveyor | 510 | 1645-1647
+Model 256 Greenhouse | 529 | 1702-1704
+Model 512 Greenhouse | 530 | 1705-1707
 
 Quarg
 
@@ -1033,8 +1035,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1433
-Ship | 529
-Build | 1702
+Ship | 531
+Build | 1708
 Drone | 3039
 Quest | 1049
 

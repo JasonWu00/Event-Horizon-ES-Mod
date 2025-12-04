@@ -921,6 +921,7 @@ Changelog:
   - Increased energy regen on the Rainmaker 2vet
   - Reduced cooling on Model 16 2vet
   - Added R-series shield generators to some Republic of Earth ships
+  - Changed Kestrel's sprite
 - Tech
 - Others
   - Renamed the Mereti and Sestor

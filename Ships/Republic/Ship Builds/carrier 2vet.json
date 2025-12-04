@@ -222,13 +222,10 @@
       "KeyBinding": 4
     },
     {
-      "ComponentId": 1071,
-      "Modification": 3,
-      "Quality": 5,
-      "X": 9,
+      "ComponentId": 1420,
+      "X": 8,
       "Y": 22,
-      "BarrelId": -1,
-      "KeyBinding": 3
+      "BarrelId": -1
     },
     {
       "ComponentId": 69,
@@ -238,13 +235,10 @@
       "KeyBinding": 4
     },
     {
-      "ComponentId": 1071,
-      "Modification": 3,
-      "Quality": 5,
-      "X": 21,
+      "ComponentId": 1420,
+      "X": 22,
       "Y": 22,
-      "BarrelId": -1,
-      "KeyBinding": 3
+      "BarrelId": -1
     },
     {
       "ComponentId": 3005,

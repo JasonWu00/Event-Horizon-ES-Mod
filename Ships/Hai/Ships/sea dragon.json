@@ -1,0 +1,71 @@
+{
+  "ItemType": 6,
+  "Id": 525,
+  "SizeClass": 3,
+  "Name": "Sea Dragon",
+  "Description": "The Sea Dragon is the 'Mark 2' improvement of the Sea Scorpion, intended to serve as a 'pocket battleship' role to complement the Shield Beetle.",
+  "Faction": 206,
+  "IconImage": "sea dragon icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "sea dragon.png",
+  "ModelScale": 4.25,
+  "EngineColor": "#0094FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000444000000000000000000004440000000000000000000044400000000000000000444222444000000000000004442224440000000000000044422244400000000000444132222231444000000004441322222314440000000044413222223144400000000001132222231100000000000011322222311000000000000113222223110000000000011132222231110000000000111322222311100000000011113222223111100000000111132222231111000000001111322222311110000000011113222223111100000000111132222231111000000000155552225555100000000000555522255550000000000005555222555500000000000055550005555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.3
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.3
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

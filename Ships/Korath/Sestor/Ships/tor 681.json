@@ -1,0 +1,129 @@
+{
+  "ItemType": 6,
+  "Id": 531,
+  "ShipType": 4,
+  "SizeClass": 4,
+  "Name": "Tek Ot Rah 681",
+  "Description": "Originally developed by the Sestor Federation to single-handedly destroy entire Efreti-Korsmanathi and Mereti fleets, the Tek Ot Rah 681 was never completed when the Archons intervened. With the restoration of peace and resumption of trade within and without Korath Space, the Sestor have finally completed the development of this massive ship.\n\nThe Tek Ot Rah 681 is the pinnacle of Korath ship building, an equal to the KIV 750. Four gun ports and sixteen turret points are well-complemented by the ship's massive outfit and weapon spaces. Ample engine space allow the Tek Ot Rah to pursue larger fleeing enemies with ease, which are common sights when one such warship is encountered in the battlefield.\n\nUnlike the KIV 750, who remains a unique ship, the 681 is currently in very limited service in the Sestor armada.",
+  "Faction": 213,
+  "IconImage": "tor 681 icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "tor 681.png",
+  "ModelScale": 8.5,
+  "EngineColor": "#7DEF9F0F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0,
+        "y": -0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.1
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000000000444004440000000000000000000000000000000044400444000000000000000000000000000000004442244400000000000000000000000000000000011221100000000000000000000000000000000044422444000000000000000000000000000000004442244400000000000000000000000000000000444224440000000000000000000000000000000011222211000000000000000000000000000000044422224440000000000000000000000000000004442222444000000000000000000000000000000444222244400000000000000000000000000000011122221110000000000000000000000000000001112222111000000000000000000000000000000111222211100000000000000000000000000000011122221110000000000000000000000000000001112222111000000000000000000000000000000111222211100000000000000000000000000044411122221114440000000000000000000000004441112222111444000000000000000000000000444111222211144400000000000000000000000000111122221111000000000000000000000000000011112222111100000000000000000000000000101111222211110100000000000000000000000444111122221111444000000000000000000000044401112222111044400000000000000000000004442111222211124440000000000000000000000111222222222222111000000000000000000000111122222222222211110000000000000000000011112222222222221111000000000000000000001111222222222222111100000000000000000000111122222222222211110000000000000000000011112222222222221111000000000000000000001111222222222222111100000000000000000000111122222222222211110000000000000000000011112222222222221111000000000000000000001111222222222222111100000000000000000000111115555555555111110000000000000000000004440555555555504440000000000000000000000444055555555550444000000000000000000000044405555555555044400000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.03
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.03
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.05
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.05
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": 0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

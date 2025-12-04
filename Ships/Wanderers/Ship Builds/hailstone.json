@@ -5,80 +5,66 @@
   "BuildFaction": 211,
   "Components": [
     {
-      "ComponentId": 1208,
-      "X": 4
-    },
-    {
-      "ComponentId": 1212,
-      "X": 7,
-      "Y": 10,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1212,
-      "X": 3,
-      "Y": 10,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1213,
-      "X": 8,
-      "Y": 10,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1213,
-      "X": 2,
-      "Y": 10,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1211,
-      "X": 5,
-      "Y": 10,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 11,
-      "X": 2,
-      "Y": 8,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 11,
-      "X": 7,
-      "Y": 8,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
       "ComponentId": 65,
       "X": 4,
-      "Y": 7,
-      "BarrelId": -1,
-      "KeyBinding": 1
+      "Y": 2,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2222,
+      "X": 2,
+      "Y": 4
+    },
+    {
+      "ComponentId": 2222,
+      "X": 7,
+      "Y": 4,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 11,
+      "X": 2,
+      "Y": 6,
+      "BarrelId": -1
     },
     {
       "ComponentId": 1198,
-      "Modification": 9,
+      "Modification": 12,
       "Quality": 5,
       "X": 4,
-      "Y": 3,
-      "BarrelId": -1,
-      "KeyBinding": 1
+      "Y": 6,
+      "BarrelId": -1
     },
     {
-      "ComponentId": 69,
-      "X": 5,
+      "ComponentId": 1199,
+      "X": 7,
       "Y": 6,
-      "BarrelId": -1,
-      "KeyBinding": 1
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1212,
+      "X": 4,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1213,
+      "X": 5,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1212,
+      "X": 6,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1213,
+      "X": 5,
+      "Y": 10,
+      "BarrelId": -1
     }
-  ]
+  ],
+  "Perks": {}
 }

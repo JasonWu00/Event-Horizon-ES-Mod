@@ -4,7 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "World-Ship",
-  "Description": "Korath World-Ships are massive nomadic habitats that hold all that is left of their people. This is the base undifferentiated pattern, from which all other world-ship patterns are derived from.",
+  "Description": "Korath World-Ships are massive nomadic habitats that hold all that is left of their people. They are derived from a common and ancient chassis. This is the base pattern, from which all other world-ship patterns are derived from.",
   "Faction": 209,
   "IconImage": "worldship icon.png",
   "IconScale": 1.0,

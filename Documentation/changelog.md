@@ -915,12 +915,15 @@ Changelog:
   - **Added descriptions to a large number of ships**
   - Added the Jackal and Monitor to Pirates
   - Added the Squall and Hailstone to Wandrers
+  - Added the KIT 7 and 6 World-ship variants to Korath Exiles
   - Added a number of Quarg ships
   - Removed a small heat shunt from MPT 53 1vet
   - Increased energy regen on the Rainmaker 2vet
   - Reduced cooling on Model 16 2vet
+  - Added R-series shield generators to some Republic of Earth ships
 - Tech
 - Others
+  - Renamed the Mereti and Sestor
 
 ### Update Template
 
@@ -933,7 +936,9 @@ Changelog:
 
 ### Planned changes:
 - Add the Flintlock and/or Coffer to Korath Exiles
+- Add [several ships] to Sestor
 - Add the Sea Dragon and Anomalocaris to Hai
+- ADD the TOR 681 to Sestor
 - Add descriptions for Model 1024, KIV 750, Abyssal Stream, and others
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates
@@ -952,5 +957,5 @@ Changelog:
 - Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
-- Add faction interaction missions (such as Exile raids)
-- Change the Mereti and Sestor to reflect new lore
+- Add faction interaction missions (such as Exile raids) and corresponding loot
+- Change the Mereti and Sestor to reflect new lore (reputation, renaming)

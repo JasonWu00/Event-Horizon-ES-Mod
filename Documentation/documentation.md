@@ -409,7 +409,7 @@ R0152 | 1417
 R0234 | 1418
 R0376 | 1419
 R0518 | 1420
-Battleship | 514 | 1657-1659
+Battlecruiser | 514 | 1657-1659
 Typhoon Torpedo VLS Rack | 1424
 
 Hai
@@ -586,6 +586,12 @@ Item Name | Item ID | Build IDs (if applicable)
 Raider | 389 | 1265-1267
 Dredger | 390 | 1268-1270
 World-ship | 391 | 1271-1273
+Lor'kas Ik 577 | 3911 | 12711-12713
+Ra'gru Ik 618 | 3912 | 12721-12723
+Kas'lor Ik 582 | 3913 | 12731-12733
+Lor'nag Ik 590 | 3914 | 12741-12743
+Ra'at Ik 621 | 3915 | 12751-12753
+Kasichara A'awoj | 3916 | 12761-12763
 Chaser | 3015
 Fire-lance | 1155
 Small Heat Shunt | 1156
@@ -789,6 +795,7 @@ Screener | 3027
 FO Detainer | 3028
 FO Ionizer | 3029
 Ionizer | 1318
+TOR 681 | 531 | 1708-1710
 
 Kor Mereti
 
@@ -1034,8 +1041,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1433
-Ship | 531
-Build | 1708
+Ship | 532
+Build | 1711
 Drone | 3039
 Quest | 1049
 

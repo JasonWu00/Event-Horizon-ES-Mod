@@ -907,6 +907,7 @@ Changelog:
 
 Changelog:
 - Major Updates
+  - Added a custom menu image
 - Outfits
   - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
   - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
@@ -937,7 +938,7 @@ Changelog:
 
 ### Planned changes:
 - Add the Flintlock and/or Coffer to Korath Exiles
-- Add [several ships] to Sestor
+- Add the NPT 103, MIP 43, MPT 41 to Sestor
 - Add the Sea Dragon and Anomalocaris to Hai
 - ADD the TOR 681 to Sestor
 - Add descriptions for Model 1024, KIV 750, Abyssal Stream, and others

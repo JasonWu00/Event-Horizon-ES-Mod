@@ -796,6 +796,9 @@ FO Detainer | 3028
 FO Ionizer | 3029
 Ionizer | 1318
 TOR 681 | 531 | 1708-1710
+NPT 103 | 532 | 1711-1713
+MIP 43 | 533 | 1714-1716
+MPT 41 | 534 | 1717-1719
 
 Kor Mereti
 
@@ -1041,8 +1044,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1433
-Ship | 532
-Build | 1711
+Ship | 535
+Build | 1720
 Drone | 3039
 Quest | 1049
 

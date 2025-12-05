@@ -18,6 +18,7 @@ Files:
   Weapons/Impact Effect Images/*
   Weapons/*.png
   Sounds/*.wav
+  ES Loading Screen.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
            endless-sky contributors (see https://github.com/endless-sky/endless-sky/blob/master/credits.txt)
 License: CC-BY-SA-4.0
@@ -262,7 +263,7 @@ Copyright: The Legendary M (https://github.com/The-Legendary-M)
 licenses: Unknown
 Comment: Taken from the Sestor Is Not Yet Lost plugin (https://github.com/The-Legendary-M/Sestor-Is-Not-Yet-Lost-Public) for Endless Sky. The copyright file in the source material did not specify the copyright status of these images.
 
-files:
+Files:
  Ship Images/Republic/battlecruiser*
 Copyright: Quarg Block
 

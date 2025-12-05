@@ -917,6 +917,8 @@ Changelog:
   - Added the Jackal and Monitor to Pirates
   - Added the Squall and Hailstone to Wandrers
   - Added the KIT 7 and 6 World-ship variants to Korath Exiles
+  - Added the Sea Dragon and Anomalocaris to Hai
+  - Added the TOR 681 to Sestor
   - Added a number of Quarg ships
   - Removed a small heat shunt from MPT 53 1vet
   - Increased energy regen on the Rainmaker 2vet
@@ -939,9 +941,6 @@ Changelog:
 ### Planned changes:
 - Add the Flintlock and/or Coffer to Korath Exiles
 - Add the NPT 103, MIP 43, MPT 41 to Sestor
-- Add the Sea Dragon and Anomalocaris to Hai
-- ADD the TOR 681 to Sestor
-- Add descriptions for Model 1024, KIV 750, Abyssal Stream, and others
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile
@@ -959,5 +958,10 @@ Changelog:
 - Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
-- Add faction interaction missions (such as Exile raids) and corresponding loot
+- Add faction interaction missions and corresponding loot
+  - Faction raids and invasions against each other (e.g. Exiles or Unfettered attacks)
+  - Hunter-killer revenge attacks (after you steal and capture one of their unique ships)
+  - Auto -100 reputation with factions you stole unique ships from
+  - <first> <last> challenging the player, a "worthy adversary", with a doomstack
+  - Beacon node battles between different faction groups
 - Change the Mereti and Sestor to reflect new lore (reputation, renaming)

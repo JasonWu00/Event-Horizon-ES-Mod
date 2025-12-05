@@ -5,10 +5,10 @@
   "Name": "Wardrake",
   "Description": "The Quarg, learning closely from their defeat at the hands of the proto-Heliarchs, overhauled the Drake design to a more battle-ready format.",
   "Faction": 214,
-  "IconImage": "drake icon.png",
+  "IconImage": "wardrake icon.png",
   "IconScale": 1.0,
-  "ModelImage": "drake.png",
-  "ModelScale": 4.0,
+  "ModelImage": "wardrake.png",
+  "ModelScale": 4.5,
   "EngineColor": "#B200FF",
   "Engines": [
     {

@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 5,
   "Name": "Lead",
+  "Description": "As one of the densest non-radioactive elements, lead has been the material of choice for bullets ever since the invention of firearms. Its other uses are limited by regulations for preventing lead poisoning.",
   "Icon": "lead.png",
   "Price": 45
 }

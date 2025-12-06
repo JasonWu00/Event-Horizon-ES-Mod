@@ -929,6 +929,8 @@ Changelog:
 - Tech
 - Others
   - Renamed the Mereti and Sestor
+  - Improved the flight range (x4), flight speed (x10), and exploration loot (+25%) skills
+  - Added descriptions to minerals
 
 ### Update Template
 

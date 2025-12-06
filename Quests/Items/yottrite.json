@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 16,
   "Name": "Yottrite",
+  "Description": "An extraordinarily rare crystalline formation, forged over tens of thousands of years in the molecular clouds around supernova remnants. Although less advanced species can potentially harvest it, very few civilizations other than the Quarg have developed the technology needed to incorporate yottrite in an alloy.",
   "Icon": "yottrite.png",
   "Price": 20000
 }

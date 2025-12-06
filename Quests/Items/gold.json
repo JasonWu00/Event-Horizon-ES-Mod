@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 14,
   "Name": "Gold",
+  "Description": "Useful for its high electrical conductivity and prized for its beauty and luxury status, gold can always find a well-paying market.",
   "Icon": "gold.png",
   "Price": 800
 }

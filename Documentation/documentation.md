@@ -474,7 +474,7 @@ Quartz Regenerator | 1411
 Tracker Vertical Pod | 1425
 Antlion | 524 | 1687-1689
 Sea Dragon | 525 | 1690-1692
-Anomalocaris | 531 | 1708-1710
+Anomalocaris | 534 | 1717-1719
 
 Remnant
 
@@ -796,9 +796,9 @@ FO Detainer | 3028
 FO Ionizer | 3029
 Ionizer | 1318
 TOR 681 | 531 | 1708-1710
-NPT 103 | 532 | 1711-1713
-MIP 43 | 533 | 1714-1716
-MPT 41 | 534 | 1717-1719
+MIP 43 | 532 | 1711-1713
+NPT 103 | 533 | 1714-1716
+MPT 41 | 3039
 
 Kor Mereti
 
@@ -1046,7 +1046,7 @@ First unused IDs:
 Component | 1433
 Ship | 535
 Build | 1720
-Drone | 3039
+Drone | 3040
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.

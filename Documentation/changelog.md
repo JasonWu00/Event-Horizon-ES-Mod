@@ -918,13 +918,14 @@ Changelog:
   - Added the Squall and Hailstone to Wandrers
   - Added the KIT 7 and 6 World-ship variants to Korath Exiles
   - Added the Sea Dragon and Anomalocaris to Hai
-  - Added the TOR 681 to Sestor
+  - Added the TOR 681, MPT 41, MIP 43, NPT 103 to Sestor
   - Added a number of Quarg ships
   - Removed a small heat shunt from MPT 53 1vet
   - Increased energy regen on the Rainmaker 2vet
   - Reduced cooling on Model 16 2vet
   - Added R-series shield generators to some Republic of Earth ships
   - Changed Kestrel's sprite
+  - Downgraded TF 109 (Battleship -> Cruiser)
 - Tech
 - Others
   - Renamed the Mereti and Sestor
@@ -940,7 +941,8 @@ Changelog:
 
 ### Planned changes:
 - Add the Flintlock and/or Coffer to Korath Exiles
-- Add the NPT 103, MIP 43, MPT 41 to Sestor
+- Add the Cicada, Antlion, Scarab, Stag Beetle to Hai
+- Add the Harbinger to Syndicated Systems
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile

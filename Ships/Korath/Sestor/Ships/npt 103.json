@@ -1,0 +1,119 @@
+{
+  "ItemType": 6,
+  "Id": 533,
+  "SizeClass": 1,
+  "Name": "Nak Par Tek 103",
+  "Description": "While the combination of the Korath Detainer, the Banisher Grav-Turret, and the Grab-Strike Turret have been proven to be very effective against lone Mereti ships, Sestor ships often lack long-ranged firepower to finish them off before enemy reinforcements could arrive. Utilising four Piercer Missile Launchers and two Banisher turrets, the Nak Par Tek 103 is designed to fulfil this niche, assisting allies in holding an adversarial warship in place, while using its four Piercer Missile Launchers to deal massive amounts of damage to it.",
+  "Faction": 213,
+  "IconImage": "npt 103.png",
+  "IconScale": 1.0,
+  "ModelImage": "npt 103.png",
+  "ModelScale": 4.0,
+  "EngineColor": "#7DEF9F0F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000000000000014404410000000000000000000000000114424411000000000000000000000000442222244000000000000000000000000442222244000000000000000000000001112222211100000000000000000000004442222244400000000000000000000004442222244400000000000000000000004442222244400000000000000000000000112222211000000000000000000000000112222211000000000000000000000000112222211000000000000000000000000112222211000000000000000000000000112222211000000000000000000000000112444211000000000000000000000001112444211100000000000000000000001122444221100000000000000000000111122222221111000000000000000000111122222221111000000000000000004441322222223144400000000000000004443322222223344400000000000000004443322222223344400000000000000001113322222223311100000000000000001113344424443311100000000000000001113344424443311100000000000000001113344424443311100000000000000001113322222223311100000000000000001113322222223311100000000000000001113355222553311100000000000000001113555525555311100000000000000000111555515555111000000000000000000111555515555111000000000000000000010555515555010000000000000000000000550000055000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0,
+        "y": 0.05
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 1.0,
+        "y": -0.05
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.25
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.25
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.15
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.15
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

@@ -7,10 +7,10 @@
   "Availability": 1,
   "ComponentStatsId": 1419,
   "Faction": 205,
+  "Level": 250,
   "Icon": "R0376.png",
   "Layout": "1111111111111111",
   "CellType": "1",
-  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     3,
     12,

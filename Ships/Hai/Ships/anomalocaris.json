@@ -1,0 +1,78 @@
+{
+  "ItemType": 6,
+  "Id": 534,
+  "SizeClass": 3,
+  "Name": "Anomalocaris",
+  "Description": "First created during the Hai's initial conflicts with the Sheragi, the Anomalocaris was supposedly one of the most versatile Hai warships of its time. Its high cargo capacity and low engine space suggest the original purpose of the ship was for mining or hauling, though it could also have found use in looting enemy ships and carrying ammunition. Vessels from the time were manufactured out of more expensive materials, making the Anomalocaris more sturdy and able to take larger amounts of damage.",
+  "Faction": 206,
+  "IconImage": "anomalocaris icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "anomalocaris.png",
+  "ModelScale": 4.5,
+  "EngineColor": "#0094FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.5
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.5
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000000000000000000000000004400000440000000000000000442222244000000000000000012222222100000000000000001222222210000000000000011122222221110000000000011111222221111100000000001444114441144410000000001144411444114441100000000114441144411444110000000111111122222111111100000011555122222221555110000001155522222222255511000000015552222222225551000000000551222222222155000000000000112222222110000000000000001122222110000000000000001111222111100000000000000111144411110000000000000011114441111000000000000001111444111100000000000000011111111100000000000000000111111100000000000000000005111500000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.25
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.25
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

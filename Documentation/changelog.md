@@ -919,6 +919,7 @@ Changelog:
   - Added the KIT 7 and 6 World-ship variants to Korath Exiles
   - Added the Sea Dragon and Anomalocaris to Hai
   - Added the TOR 681, MPT 41, MIP 43, NPT 103 to Sestor
+  - Added greenhouse variants of the Model 256 and 512 to the Mereti
   - Added a number of Quarg ships
   - Removed a small heat shunt from MPT 53 1vet
   - Increased energy regen on the Rainmaker 2vet
@@ -942,9 +943,12 @@ Changelog:
 - Others
 
 ### Planned changes:
+- Builds for:
+  - Quarg: Guivre, Wardrake, Hydra, Lindwyrm, Improved Wardragon, Wyvern
 - Add the Flintlock and/or Coffer to Korath Exiles
 - Add the Cicada, Antlion, Scarab, Stag Beetle to Hai
 - Add the Harbinger to Syndicated Systems
+- Add the Ka'het Aberrants
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile

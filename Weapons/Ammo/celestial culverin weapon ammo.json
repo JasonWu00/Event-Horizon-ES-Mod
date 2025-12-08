@@ -1,0 +1,52 @@
+{
+  "ItemType": 25,
+  "Id": 1431,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 60.0,
+    "Range": 110.0,
+    "Weight": 0.1,
+    "BulletPrefab": 1431,
+    "EnergyCost": 18.0,
+    "CanBeDisarmed": true
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "ribault",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1243,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 11,
+      "DamageType": 1,
+      "Power": 30.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 30.0
+    },
+    {
+      "DamageType": 1,
+      "Power": 22.5
+    },
+    {
+      "Type": 5,
+      "DamageType": 1,
+      "Power": 4.5
+    }
+  ]
+}

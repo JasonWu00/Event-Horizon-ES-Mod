@@ -11,8 +11,8 @@
   "Icon": "culverin.png",
   "Layout": "111111111",
   "CellType": "4",
-  "WeaponId": 1405,
-  "AmmunitionId": 1405,
+  "WeaponId": 1431,
+  "AmmunitionId": 1431,
   "WeaponSlotType": "C",
   "PossibleModifications": [
     16,

@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1432,
+  "Name": "Astral Ribault",
+  "Description": "The rapid flurries shot by this turret cover a wide area at a long range, firing a storm of negative energy particles. Attractive forces guide these particles towards their target, dealing very high damage to enemies within the immediate vicinity while keeping those that flee within the Quarg's reach.",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "ribault.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1432,
+  "AmmunitionId": 1432,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

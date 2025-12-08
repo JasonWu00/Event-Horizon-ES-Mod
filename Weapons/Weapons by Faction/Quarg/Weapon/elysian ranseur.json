@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1403,
+  "Name": "Elysian Ranseur",
+  "Description": "The technology behind this weapon is incomprehensibly complex, creating pulses of energy that bend spacetime itself. Powerful gravitational pulses are forced through the fold, penetrating through multiple targets with ease and delivering dangerous blows to those along the path. How the weapon is able to do any of this is only known to the Quarg.",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "ranseur.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1403,
+  "AmmunitionId": 1403,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

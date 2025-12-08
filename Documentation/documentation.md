@@ -880,12 +880,12 @@ Wyvern | 523 | 1684-1686
 Weapons | ...
 Skydagger | 1401
 Skypiercer (Edenshard sprite) | 1402
-Celestial Culverin | 1403
+Elysian Ranseur | 1403
 Cataclist | 1404
 Edenshard (Starpilum) | 1405
 Turver (Skywrath) | 1406
 Doomscythe (Prismatic Shards) | 1407
-Elysian Ranseur | 1431
+Celestial Culverin | 1431
 Astral Ribault | 1432
 
 Starbases

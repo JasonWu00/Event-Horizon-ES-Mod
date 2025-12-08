@@ -943,6 +943,7 @@ Changelog:
 - Others
 
 ### Planned changes:
+- Renaming any old Quarg weapon names and add new Quarg weapons
 - Builds for:
   - Quarg: Guivre, Wardrake, Hydra, Lindwyrm, Improved Wardragon, Wyvern
 - Add the Flintlock and/or Coffer to Korath Exiles

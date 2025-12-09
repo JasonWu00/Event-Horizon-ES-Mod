@@ -92,5 +92,8 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Features": {
+    "ArmorBonus": -0.4
+  }
 }

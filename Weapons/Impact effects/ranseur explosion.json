@@ -1,0 +1,17 @@
+{
+  "ItemType": 26,
+  "Id": 14031,
+  "Elements": [
+    {
+      "Image": "jump drive+0.png",
+      "Color": "#00000000",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive+1.png",
+      "Color": "#00000000",
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    }
+  ]
+}

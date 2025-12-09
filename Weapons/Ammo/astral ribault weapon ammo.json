@@ -4,15 +4,16 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 78.0,
-    "Range": 40.0,
+    "Range": 52.0,
     "Weight": 0.1,
     "BulletPrefab": 1432,
-    "EnergyCost": 8.0,
-    "CanBeDisarmed": true,
+    "EnergyCost": 13.0,
     "AiBulletBehavior": 1
   },
   "Controller": {
-    "StartingVelocityModifier": 0.1
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "SmartAim": true
   },
   "Triggers": [
     {
@@ -28,7 +29,6 @@
       "Color": "#00000000"
     }
   ],
-  "ImpactType": 1,
   "Effects": [
     {
       "Type": 11,
@@ -42,12 +42,7 @@
     },
     {
       "DamageType": 1,
-      "Power": 3.5
-    },
-    {
-      "Type": 5,
-      "DamageType": 1,
-      "Power": 1.2
+      "Power": 35.0
     }
   ]
 }

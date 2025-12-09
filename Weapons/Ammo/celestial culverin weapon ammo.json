@@ -7,11 +7,12 @@
     "Range": 110.0,
     "Weight": 0.1,
     "BulletPrefab": 1431,
-    "EnergyCost": 18.0,
-    "CanBeDisarmed": true
+    "EnergyCost": 18.0
   },
   "Controller": {
-    "StartingVelocityModifier": 0.1
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "SmartAim": true
   },
   "Triggers": [
     {
@@ -27,7 +28,6 @@
       "Color": "#00000000"
     }
   ],
-  "ImpactType": 1,
   "Effects": [
     {
       "Type": 11,
@@ -46,7 +46,7 @@
     {
       "Type": 5,
       "DamageType": 1,
-      "Power": 4.5
+      "Power": 0.45
     }
   ]
 }

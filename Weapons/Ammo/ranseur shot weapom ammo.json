@@ -1,41 +1,41 @@
 {
   "ItemType": 25,
-  "Id": 1401,
+  "Id": 14031,
   "Body": {
     "Size": 1.0,
     "AttachedToParent": true,
-    "Range": 35.0,
+    "Range": 60.0,
     "Lifetime": 0.1,
-    "BulletPrefab": 1401,
-    "EnergyCost": 24.0,
-    "AiBulletBehavior": 2
+    "BulletPrefab": 1403,
+    "EnergyCost": 90.0
   },
   "Controller": {
-    "Type": 2,
     "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1243
+      "VisualEffect": 1243,
+      "OncePerCollision": true
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 14032,
+      "OncePerCollision": true
     }
   ],
-  "ImpactType": 2,
+  "ImpactType": 1,
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 36.0
-    },
-    {
-      "Type": 3,
-      "DamageType": 1,
-      "Power": 30.0
+      "Power": 150.0
     },
     {
       "Type": 11,
       "DamageType": 1,
-      "Power": 45.0
+      "Power": 210.0
     }
   ]
 }

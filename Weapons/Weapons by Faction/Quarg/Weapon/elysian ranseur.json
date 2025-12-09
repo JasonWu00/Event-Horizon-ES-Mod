@@ -9,10 +9,10 @@
   "Faction": 214,
   "Level": 500,
   "Icon": "ranseur.png",
-  "Layout": "1111",
+  "Layout": "111111111",
   "CellType": "4",
   "WeaponId": 1403,
-  "AmmunitionId": 1403,
+  "AmmunitionId": 14031,
   "WeaponSlotType": "L",
   "PossibleModifications": [
     16,

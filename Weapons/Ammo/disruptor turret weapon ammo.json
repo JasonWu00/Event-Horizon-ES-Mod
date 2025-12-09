@@ -24,6 +24,7 @@
   "ImpactType": 2,
   "Effects": [
     {
+      "Type": 13,
       "DamageType": 1,
       "Power": 17.2
     },

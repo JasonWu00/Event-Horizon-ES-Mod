@@ -1,0 +1,41 @@
+{
+  "ItemType": 26,
+  "Id": 14032,
+  "Elements": [
+    {
+      "Image": "static+0.png",
+      "Color": "#00000000",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "static+1.png",
+      "Color": "#00000000",
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "static+2.png",
+      "Color": "#00000000",
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "static+3.png",
+      "Color": "#00000000",
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "static+4.png",
+      "Color": "#00000000",
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "static+5.png",
+      "Color": "#00000000",
+      "StartTime": 0.25,
+      "Lifetime": 0.1
+    }
+  ]
+}

@@ -1049,6 +1049,12 @@ Build | 1720
 Drone | 3040
 Quest | 1049
 
+Some ships have baked-in stat boosts or debuffs based on lore reasons.
+
+Ship | Stats | Reason
+Model 256 Greenhouse, Model 512 Greenhouse | -40% HP | The greenhouse is a giant weak point
+Kas'lor Ik 582 | +100% Energy | It literally hauls fuel (which abstracts to energy)
+
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
 
 Item Name | Differences

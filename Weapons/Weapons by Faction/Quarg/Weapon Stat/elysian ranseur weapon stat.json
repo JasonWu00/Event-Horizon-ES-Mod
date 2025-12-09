@@ -1,9 +1,9 @@
 {
   "ItemType": 3,
   "Id": 1403,
-  "WeaponClass": 2,
+  "FireRate": 0.6,
   "ActivationType": 1,
-  "ShotSound": "*skylance~",
+  "ShotSound": "ranseur",
   "ShotEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "controls_laser"
+  "ControlButtonIcon": "controls_shot"
 }

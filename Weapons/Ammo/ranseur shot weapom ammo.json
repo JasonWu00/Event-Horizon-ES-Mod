@@ -2,10 +2,9 @@
   "ItemType": 25,
   "Id": 14031,
   "Body": {
-    "Size": 1.0,
-    "AttachedToParent": true,
+    "Size": 2.0,
+    "Velocity": 120.0,
     "Range": 60.0,
-    "Lifetime": 0.1,
     "BulletPrefab": 1403,
     "EnergyCost": 90.0
   },
@@ -16,7 +15,7 @@
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1243,
+      "VisualEffect": 14031,
       "OncePerCollision": true
     },
     {

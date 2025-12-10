@@ -948,6 +948,7 @@ Changelog:
 ### Planned changes:
 - Builds for:
   - Quarg: Guivre, Wardrake, Hydra, Lindwyrm, Improved Wardragon, Wyvern
+  - Sestor and Mereti ships; world-ship variants
 - Add the Flintlock and/or Coffer to Korath Exiles
 - Add the Cicada, Antlion, Scarab, Stag Beetle to Hai
 - Add the Harbinger to Syndicated Systems

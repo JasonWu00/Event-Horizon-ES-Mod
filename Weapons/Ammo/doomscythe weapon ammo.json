@@ -7,8 +7,7 @@
     "Range": 75.0,
     "Weight": 0.1,
     "BulletPrefab": 1407,
-    "EnergyCost": 12.5,
-    "CanBeDisarmed": true
+    "EnergyCost": 12.5
   },
   "Controller": {
     "StartingVelocityModifier": 0.1

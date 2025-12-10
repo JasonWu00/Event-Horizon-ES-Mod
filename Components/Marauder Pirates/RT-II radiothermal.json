@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1319,
   "Name": "RT-II Radiothermal",
-  "Description": "Radiothermals generate more power than fuel cells, but generate more heat.",
+  "Description": "A few hundreds of years ago, the northern anarchists didn't have access to any heavy generator except the RTI-I model, but with the increase of the ship systems power need they were starting to suffer of low energy more and more often. Their situation got better when one of the few manufacturers on their worlds developed a larger and more space efficent version, but they soon found out it creates more heat than the previus model.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1319,

@@ -912,6 +912,9 @@ Changelog:
   - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
   - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
   - Renamed a number of Quarg outfits to match latest source material
+  - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur to Quarg (replacing some older weapons)
+  - Changed names for some Sestor drones to reflect their full Korath names
+  - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
 - Ships
   - **Added descriptions to a large number of ships**
   - Added the Jackal and Monitor to Pirates
@@ -943,7 +946,6 @@ Changelog:
 - Others
 
 ### Planned changes:
-- Renaming any old Quarg weapon names and add new Quarg weapons
 - Builds for:
   - Quarg: Guivre, Wardrake, Hydra, Lindwyrm, Improved Wardragon, Wyvern
 - Add the Flintlock and/or Coffer to Korath Exiles

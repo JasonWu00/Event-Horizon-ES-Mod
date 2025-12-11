@@ -64,7 +64,7 @@ Shooting Star | 5006
 Navy Battleship | 5007 | 5007
 Lycosidae | 5008 | 5008
 Model 1024 Infected | 5009 | 5009
-Model 1024 Greenhouse | 5010 | 5010
+Marauder Carrier (Giftbringer) | 5010 | 5010
 
 First unusued quest ID for special ships:
 
@@ -926,6 +926,7 @@ Scram Drive | 7003
 Shooting Star explosion device | 8000
 Cloaking Device | 9000
 HIPC | 1375
+Spatial Inversion Chamber | 1433
 
 Pug
 
@@ -1043,7 +1044,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1433
+Component | 1434
 Ship | 535
 Build | 1720
 Drone | 3040

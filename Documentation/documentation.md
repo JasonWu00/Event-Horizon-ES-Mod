@@ -315,10 +315,12 @@ Anti-Missile Turret | 1081
 Outfit Scanner | 1307
 Prong | 3036
 Sentinel Reactor | 1414
-Dual Proton Turret | 1415
+Covalent Proton Turret | 1415
 Meteor Turret | 1421
 Sidewinder VLS Rack | 1422
 Torpedo Launch Rack | 1423
+Harbinger | 535 | 1720-1722
+Proton Cascader | 1435
 
 FW
 
@@ -1044,9 +1046,9 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1434
-Ship | 535
-Build | 1720
+Component | 1435
+Ship | 536
+Build | 1723
 Drone | 3040
 Quest | 1049
 

@@ -917,12 +917,14 @@ Changelog:
   - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
 - Ships
   - **Added descriptions to a large number of ships**
+  - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest.
   - Added the Jackal and Monitor to Pirates
   - Added the Squall and Hailstone to Wandrers
   - Added the KIT 7 and 6 World-ship variants to Korath Exiles
   - Added the Sea Dragon and Anomalocaris to Hai
-  - Added the TOR 681, MPT 41, MIP 43, NPT 103 to Sestor
-  - Added greenhouse variants of the Model 256 and 512 to the Mereti
+  - Added the TOR 681, MPT 41, MIP 43, NPT 103 to Sestor Federation
+  - Added the Harbinger to Syndicated Systems
+  - Added greenhouse variants of the Model 256 and 512 to Mereti Collective
   - Added a number of Quarg ships
   - Removed a small heat shunt from MPT 53 1vet
   - Increased energy regen on the Rainmaker 2vet
@@ -935,6 +937,7 @@ Changelog:
   - Renamed the Mereti and Sestor
   - Improved the flight range (x4), flight speed (x10), and exploration loot (+25%) skills
   - Added descriptions to minerals
+  - Fixed an issue with the Finisher Torpedo launch effect sticking to the ammo
 
 ### Update Template
 

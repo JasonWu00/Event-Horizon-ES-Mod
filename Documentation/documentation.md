@@ -642,6 +642,7 @@ Seedship | 488 | 1575-1577
 Firelight Rack | 1427
 Firestorm Pop-up Launcher | 1428
 KIT 7 | 3038
+Fuel Processor | 1435
 
 Bunrodea
 
@@ -1046,7 +1047,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1435
+Component | 1436
 Ship | 536
 Build | 1723
 Drone | 3040

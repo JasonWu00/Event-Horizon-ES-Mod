@@ -909,12 +909,15 @@ Changelog:
 - Major Updates
   - Added a custom menu image
 - Outfits
+  - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur to Quarg (replacing some older weapons)
+  - Added the Fuel Processor and Chaser Expeller to Korath Exiles
+  - Adjusted the Sentinel Reactor for Syndicated Systems
   - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
   - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
   - Renamed a number of Quarg outfits to match latest source material
-  - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur to Quarg (replacing some older weapons)
   - Changed names for some Sestor drones to reflect their full Korath names
   - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
+  - Added visual effects to Jump Drive and Nuke On A Cart
 - Ships
   - **Added descriptions to a large number of ships**
   - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest.
@@ -967,7 +970,6 @@ Changelog:
   - Incipias
   - Decompression of the faction light year requirement list
 - **Add new ships and outfits**
-  - Alternate Worldship designs
   - Mega Freight outfits and possibly ships
   - Minor plugins from Todd: https://github.com/endless-sky/endless-sky/discussions/7928
 - Incorporate scanners as drone and missile capturer weapons (ON HOLD)

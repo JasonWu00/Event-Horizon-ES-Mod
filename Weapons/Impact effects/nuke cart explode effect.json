@@ -1,0 +1,45 @@
+{
+  "ItemType": 26,
+  "Id": 6000,
+  "Elements": [
+    {
+      "Image": "nuke+0.png",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+1.png",
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+2.png",
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+3.png",
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+4.png",
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+5.png",
+      "StartTime": 0.25,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+6.png",
+      "StartTime": 0.3,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "nuke+7.png",
+      "StartTime": 0.35,
+      "Lifetime": 0.1
+    }
+  ]
+}

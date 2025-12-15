@@ -1,0 +1,10 @@
+{
+  "ItemType": 10,
+  "Id": 1431,
+  "ItemId": 1431,
+  "Faction": 214,
+  "Price": 10,
+  "Dependencies": [
+    6500
+  ]
+}

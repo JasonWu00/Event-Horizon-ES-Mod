@@ -1,14 +1,15 @@
 {
   "ItemType": 6,
   "Id": 535,
-  "SizeClass": 3,
+  "ShipType": 4,
+  "SizeClass": 4,
   "Name": "Harbinger",
   "Description": "The Harbinger is a capital ship upsizing of Syndicated Systems' Vanguard, designed to chew apart pirate fleets and bases alike. Like the Vanguards its modeled after, it focuses on powerful fixed guns and even incorporates a centrally mounted experimental upgrade to the well known Proton Gun. Pirates who mistake it for a the Vanguard they're used to will be for quite a shock from not only its higher firepower and range, but also the improvements to its defenses and agility.",
   "Faction": 203,
   "IconImage": "harbinger icon.png",
   "IconScale": 1.0,
   "ModelImage": "harbinger.png",
-  "ModelScale": 4.5,
+  "ModelScale": 5.0,
   "EngineColor": "#009BFF",
   "Engines": [
     {

@@ -920,7 +920,7 @@ Changelog:
   - Added visual effects to Jump Drive and Nuke On A Cart
 - Ships
   - **Added descriptions to a large number of ships**
-  - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest.
+  - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest
   - Added the Jackal and Monitor to Pirates
   - Added the Squall and Hailstone to Wandrers
   - Added the KIT 7 and 6 World-ship variants to Korath Exiles

@@ -320,7 +320,7 @@ Meteor Turret | 1421
 Sidewinder VLS Rack | 1422
 Torpedo Launch Rack | 1423
 Harbinger | 535 | 1720-1722
-Proton Cascader | 1435
+Proton Cascader | 1436
 
 FW
 
@@ -1047,7 +1047,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1436
+Component | 1437
 Ship | 536
 Build | 1723
 Drone | 3040

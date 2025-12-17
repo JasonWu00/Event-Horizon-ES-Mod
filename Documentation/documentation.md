@@ -477,6 +477,8 @@ Tracker Vertical Pod | 1425
 Antlion | 524 | 1687-1689
 Sea Dragon | 525 | 1690-1692
 Anomalocaris | 534 | 1717-1719
+Scarab | 536 | 1723-1725
+Cicada | 537 | 5371-5373
 
 Remnant
 
@@ -1048,8 +1050,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1437
-Ship | 536
-Build | 1723
+Ship | 537
+Build | 1726
 Drone | 3040
 Quest | 1049
 

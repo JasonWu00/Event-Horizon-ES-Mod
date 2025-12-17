@@ -28,10 +28,14 @@ def fill_in_descs(path: str, specific_files: Optional[list[str]] = None, selecti
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
 
-    path: a path to the folder with component jsons.
-    selective_fill: whether to skip over jsons with descriptions already; default True.
-    specific_files: a list of json files to fill in; default empty list.
-    desired_itemtype: specifies which type of file to handle; default 1, components; otherwise 6, ships.
+    :param path: a path to the folder with component jsons.
+    :type path: str
+    :param selective_fill: whether to skip over jsons with descriptions already; default True.
+    :type selective_fill: bool
+    :param specific_files: a list of json files to fill in; default empty list.
+    :type specific_files: Optional[list[str]]
+    :param desired_itemtype: specifies which type of file to handle; default 1, components; otherwise 6, ships.
+    :type desired_itemtype: [1,6]
     """
     if desired_itemtype not in [1,6]:
         print("This function currently only works for desired_itemtype values of 1,6")

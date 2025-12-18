@@ -1,8 +1,8 @@
 {
   "ItemType": 8,
   "Id": 4842,
-  "DifficultyClass": 2,
   "ShipId": 484,
+  "DifficultyClass": 2,
   "BuildFaction": 207,
   "Components": [
     {

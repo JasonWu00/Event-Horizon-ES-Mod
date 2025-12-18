@@ -4,6 +4,5 @@
   "Name": "Sestor Federation",
   "Color": "#C0455F",
   "HomeStarDistance": 400,
-  "WanderingShipsDistance": 400,
-  "NoMissions": true
+  "WanderingShipsDistance": 400
 }

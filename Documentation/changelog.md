@@ -937,7 +937,8 @@ Changelog:
   - Downgraded TF 109 (Battleship -> Cruiser)
 - Tech
 - Others
-  - Renamed the Mereti and Sestor
+  - (Internal) changed ship build IDs to be more intuitive
+  - Renamed the Mereti and Sestor and allowed both factions to offer missions
   - Improved the flight range (x4), flight speed (x10), and exploration loot (+25%) skills
   - Added descriptions to minerals
   - Fixed an issue with the Finisher Torpedo launch effect sticking to the ammo

@@ -160,6 +160,8 @@ Numbers still too big are then halved.
 Numbers too small are increased by 33%.   
 
 Ship IDs start at 300. Component IDs start at 1000.   
+Ship build IDs are equal to Ship ID * 10 + rating.    
+Some early build IDs have a trailing 1 to avoid conflict with drone IDs.    
 Explosion ammo starts at 5000 and correspond to their parent munition in IDs.   
 Gun version of turret weapons start at 2000 and correspond to their turret variant.   
 Submunitions for weapons start at 3000 and correspond to their weapon.   
@@ -168,34 +170,34 @@ Merchants
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Shuttle | 301 | 1001-1003
-Sparrow | 302 | 1004-1006
-Star Barge | 303 | 1007-1007
-Heavy Shuttle | 304 | 1010-1012
-Berserker | 305 | 1013-1015
-Flivver | 306 | 1016-1018
-Fury | 307 | 1019-1021
-Hawk | 308 | 1022-1024
-Wasp | 309 | 1025-1027
-Clipper | 310 | 1028-1030
-Argosy | 311 | 1031-1033
-Freighter | 312 | 1034-1036
-Hauler 1 | 313 | 1037-1039
-Arrow | 314 | 1040-1042
-Blackbird | 315 | 1043-1045
-Bounder | 316 | 1046-1048
-Scout | 317 | 1049-1051
-Star Queen | 318 | 1052-1054
-Hauler 2 | 319 | 1055-1057
-Hauler 3 | 320 | 1058-1060
-Behemoth | 321 | 1061-1063
-Bulk Freighter | 322 | 1064-1066
+Shuttle | 301 | 3010-3012
+Sparrow | 302 | 3020-3022
+Star Barge | 303 | 3030-3032
+Heavy Shuttle | 304 | 3040-3042
+Berserker | 305 | 3050-3052
+Flivver | 306 | 3060-3062
+Fury | 307 | 3070-3072
+Hawk | 308 | 3080-3082
+Wasp | 309 | 3090-3092
+Clipper | 310 | 3100-3102
+Argosy | 311 | 3110-3112
+Freighter | 312 | 3120-3122
+Hauler 1 | 313 | 3130-3132
+Arrow | 314 | 3140-3142
+Blackbird | 315 | 3150-3152
+Bounder | 316 | 3160-3162
+Scout | 317 | 3170-3172
+Star Queen | 318 | 3180-3182
+Hauler 2 | 319 | 3190-3192
+Hauler 3 | 320 | 3200-3202
+Behemoth | 321 | 3210-3212
+Bulk Freighter | 322 | 3220-3222
 nGVF-AA Fuel Cell | 1001
 nGVF-BB Fuel Cell | 1002
 nGVF-CC Fuel Cell | 1003
 nGVF-DD Fuel Cell | 1004
 nGVF-EE Fuel Cell | 1005
-Bactrian | 323 | 1067-1069
+Bactrian | 323 | 3230-3232
 LP036a Battery Pack | 1006
 LP072a Battery Pack | 1007
 LP144a Battery Pack | 1008
@@ -218,31 +220,31 @@ Asteroid Scanner | 1305
 KP-6 Photovoltaic Panel | 1412
 PK-6 Photovoltaic Array | 1413
 Volcano Afterburner | 1409
-Hauler 6 | 517 | 1666-1668
+Hauler 6 | 517 | 5170-5172
 
 Pirates
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Marauder Arrow | 324 | 1070-1072
-Marauder Bounder | 326 | 1076-1078
+Marauder Arrow | 324 | 3240-3242
+Marauder Bounder | 326 | 3260-3262
 Quad Blaster | 1022
 Modified Blaster Turret | 1023
 Modified Blaster | 2023
 Laser Turret | 1024
 Heavy Laser Turret | 1025
-Modified Argosy | 327 | 1079-1081
-Raven | 328 | 1082-1084
-Marauder Fury | 329 | 1085-1087
+Modified Argosy | 327 | 3270-3272
+Raven | 328 | 3280-3282
+Marauder Fury | 329 | 3290-3292
 Meteor Missile Launcher | 1026 (Pod 2026)
 Sidewinder Missile Launcher | 1027 (Pod 2027)
 Javelin Rocket Launcher | 1028 (Pod 2028)
 Gatling Gun | 1029
-Falcon | 352 | 1154-1156
-Leviathan | 353 | 1157-1159
-Hogshead | 477 | 1545-1547
-Gunbarge | 511 | 1648-1650
-Pirate Freighter | 512 | 1651-1653
+Falcon | 352 | 3520-3522
+Leviathan | 353 | 3530-3532
+Hogshead | 477 | 4770-4772
+Gunbarge | 511 | 5110-5112
+Pirate Freighter | 512 | 5120-5122
 Blaster | 2022
 Blaster Turret | 4022
 Laser Beam | 2024
@@ -258,31 +260,31 @@ Medium Interference Plating | 1313
 Large Interference Plating | 1314
 Extra Large Interference Plating | 1315
 Small Radar Jammer | 1321
-Jackal | 527 | 1696-1698
-Monitor | 528 | 1699-1701
+Jackal | 527 | 5270-5272
+Monitor | 528 | 5280-5282
 
 Marauder Pirates
 
 Item Name | Item ID | Build ID (if applicable)
 --- | --- | ---
-Marauder Quicksilver | 436 | 1422-1424
-Marauder Raven | 437 | 1425-1427
-Marauder Manta | 438 | 1428-1430
-Marauder Firebird | 439 | 1431-1433
-Marauder Splinter | 440 | 1434-1436
-Marauder Leviathan | 441 | 1437-1439
-Marauder Falcon | 442 | 1440-1442
-Scrapper | 443 | 1443-1445
-Nighthawk | 444 | 1446-1448
-Cutthroat | 445 | 1449-1451
-Bulwark | 446 | 1452-1454
-Valkyrie | 447 | 1455-1457
-Mammoth | 448 | 1458-1460
+Marauder Quicksilver | 436 | 4360-4362
+Marauder Raven | 437 | 4370-4372
+Marauder Manta | 438 | 4380-4382
+Marauder Firebird | 439 | 4390-4392
+Marauder Splinter | 440 | 4400-4402
+Marauder Leviathan | 441 | 4410-4412
+Marauder Falcon | 442 | 4420-4422
+Scrapper | 443 | 4430-4432
+Nighthawk | 444 | 4440-4442
+Cutthroat | 445 | 4450-4452
+Bulwark | 446 | 4460-4462
+Valkyrie | 447 | 4470-4472
+Mammoth | 448 | 4480-4482
 RT-II Radiothermal | 1319
 Accurate Gatling | 1320
 Large Radar Jammer | 1322
-Enforcer | 476 | 1542-1544
-Saber | 478 | 1548-1550
+Enforcer | 476 | 4760-4762
+Saber | 478 | 4780-4782
 Heavy Blaster Turret | 1393 (gun 2393)
 Overcharged Heavy Blaster | 1430
 
@@ -290,14 +292,14 @@ Syndicate
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Headhunter | 325 | 1073-1075
-Quicksilver | 330 | 1088-1090
-Corvette | 331 | 1091-1093
-Manta | 332 | 1094-1096
-Splinter | 333 | 1097-1099
-Vanguard | 334 | 1101-1103
-Class C Freighter | 335 | 1103-1105
-Protector | 336 | 1106-1108
+Headhunter | 325 | 3250-3252
+Quicksilver | 330 | 3300-3302
+Corvette | 331 | 3310-3312
+Manta | 332 | 3320-3322
+Splinter | 333 | 3330-3332
+Vanguard | 334 | 3340-3342
+Class C Freighter | 335 | 3350-3352
+Protector | 336 | 3360-3362
 Barb | 3001
 RT-I Radiothermal | 1030
 NT200 Nucleiovoltaic | 103
@@ -319,22 +321,22 @@ Covalent Proton Turret | 1415
 Meteor Turret | 1421
 Sidewinder VLS Rack | 1422
 Torpedo Launch Rack | 1423
-Harbinger | 535 | 1720-1722
+Harbinger | 535 | 5350-5352
 Proton Cascader | 1436
 
 FW
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Firebird | 337 | 1109-1111
-Aerie | 338 | 1112-1114
-Bastion | 339 | 1115-1117
-Mule | 340 | 1118-1120
-Osprey | 341 | 1121-1123
-Nest | 342 | 1124-1126
-Roost | 343 | 1127-1129
-Skein | 344 | 1130-1132
-Dreadnought | 345 | 1133-1135
+Firebird | 337 | 3370-3372
+Aerie | 338 | 3380-3382
+Bastion | 339 | 3390-3392
+Mule | 340 | 3400-3402
+Osprey | 341 | 3410-3412
+Nest | 342 | 3420-3422
+Roost | 343 | 3430-3432
+Skein | 344 | 3440-3442
+Dreadnought | 345 | 3450-3452
 Dagger | 3002
 Finch | 3003
 Chipmunk Plasma Thruster | 1040
@@ -370,12 +372,12 @@ Republic
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Rainmaker | 346 | 1136-1138
-Gunboat | 347 | 1139-1141
-Frigate | 348 | 1142-1144
-Cruiser | 349 | 1145-1147
-Carrier | 350 | 1148-1150
-Auxiliary C | 351 | 1151-1153
+Rainmaker | 346 | 3460-3462
+Gunboat | 347 | 3470-3472
+Frigate | 348 | 3480-3482
+Cruiser | 349 | 3490-3492
+Carrier | 350 | 3500-3502
+Auxiliary C | 351 | 3510-3512
 Auxiliary H | 3511 | 11511-11513
 Auxiliary T | 3512 | 11514-11516
 Lance | 3005
@@ -411,22 +413,22 @@ R0152 | 1417
 R0234 | 1418
 R0376 | 1419
 R0518 | 1420
-Battlecruiser | 514 | 1657-1659
+Battlecruiser | 514 | 5140-5142
 Typhoon Torpedo VLS Rack | 1424
 
 Hai
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Aphid | 354 | 1160-1162
-Grasshopper | 355 | 1163-1165
-Lightning Bug | 356 | 1166-1168
-Water Bug | 357 | 1169-1171
-Centipede | 358 | 1172-1174
-Geocoris | 359 | 1175-1177
-Shield Beetle | 360 | 1178-1180
-Solifuge | 361 | 1181-1183
-Pond Strider | 362 | 1184-1186
+Aphid | 354 | 3540-3542
+Grasshopper | 355 | 3550-3552
+Lightning Bug | 356 | 3560-3562
+Water Bug | 357 | 3570-3572
+Centipede | 358 | 3580-3582
+Geocoris | 359 | 3590-3592
+Shield Beetle | 360 | 3600-3602
+Solifuge | 361 | 3610-3612
+Pond Strider | 362 | 3620-3622
 Flea | 3008
 Violin Spider | 3009
 Chasm Battery | 1083
@@ -459,7 +461,7 @@ Bondir Atomic Thruster | 1109
 Bondir Atomic Steering | 1110
 Bufaer Atomic Thruster | 1111
 Bufaer Atomic Steering | 1112
-Sea Scorpion | 425 | 1373-1375
+Sea Scorpion | 425 | 4250-4252
 Ionic Blaster | 2245
 Ionic Turret | 1245
 Tri-pulse Shredder | 1293
@@ -470,26 +472,26 @@ Monolith | 1351
 Ruby Regenerator | 1352
 Predator Engine | 1353
 Locust | 3031 | 3031
-Tarantula | 467 | 1515-1517
-Phrynus | 468 | 1518-1520
+Tarantula | 467 | 4670-4672
+Phrynus | 468 | 4680-4682
 Quartz Regenerator | 1411
 Tracker Vertical Pod | 1425
-Antlion | 524 | 1687-1689
-Sea Dragon | 525 | 1690-1692
-Anomalocaris | 534 | 1717-1719
-Scarab | 536 | 1723-1725
-Cicada | 537 | 5371-5373
+Antlion | 524 | 5240-5242
+Sea Dragon | 525 | 5250-5252
+Anomalocaris | 534 | 5340-5342
+Scarab | 536 | 5360-5362
+Cicada | 537 | 5370-5372
 
 Remnant
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Starling | 363 | 1187-1189
-Gull | 364 | 1190-1192
-Ibis | 365 | 1193-1195
-Peregrine | 366 | 1196-1198
-Pelican | 367 | 1199-1201
-Albatross | 368 | 1202-1204
+Starling | 363 | 3630-3632
+Gull | 364 | 3640-3642
+Ibis | 365 | 3650-3652
+Peregrine | 366 | 3660-3662
+Pelican | 367 | 3670-3672
+Albatross | 368 | 3680-3682
 Petrel | 3010
 Tern | 3011
 Crystal Capacitor | 1114
@@ -511,34 +513,34 @@ Thrasher Turret | 1128
 Inhibitor Cannon | 2129
 Inhibitor Turret | 1129
 EMP Torpedo Bay | 1130 (Pod 2130)
-Penguin | 369 | 1205-1207
+Penguin | 369 | 3690-3692
 Ember Tear | 1278
 Research Laboratory | 1317
 Smew | 3035 | 3035
-Swan | 481 | 1554-1556
-Swan Alt | 482 | 1557-1559
-Robin | 483 | 1560-1562
-Merganser | 484 | 1563-1565
-Hobby | 513 | 1654-1656
+Swan | 481 | 4810-4812
+Swan Alt | 482 | 4820-4822
+Robin | 483 | 4830-4832
+Merganser | 484 | 4840-4842
+Hobby | 513 | 5130-5132
 EMP Torpedo Rack | 1426
 
 Coalition
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Arach Courier | 370 | 1208-1210
-Arach Transport | 371 | 1211-1213
-Arach Freighter | 372 | 1214-1216
-Arach Spindle | 373 | 1217-1219
-Arach Hulk | 374 | 1220-1222
-Kimek Thorn | 375 | 1223-1225
-Kimek Briar | 376 | 1226-1228
-Kimek Thistle | 377 | 1229-1231
-Kimek Spire | 378 | 1232-1234
-Saryd Runabout | 379 | 1235-1237
-Saryd Visitor | 380 | 1238-1240
-Saryd Traveler | 381 | 1241-1243
-Saryd Sojourner | 382 | 1244-1246
+Arach Courier | 370 | 3700-3702
+Arach Transport | 371 | 3710-3712
+Arach Freighter | 372 | 3720-3722
+Arach Spindle | 373 | 3730-3732
+Arach Hulk | 374 | 3740-3742
+Kimek Thorn | 375 | 3750-3752
+Kimek Briar | 376 | 3760-3762
+Kimek Thistle | 377 | 3770-3772
+Kimek Spire | 378 | 3780-3782
+Saryd Runabout | 379 | 3790-3792
+Saryd Visitor | 380 | 3800-3802
+Saryd Traveler | 381 | 3810-3812
+Saryd Sojourner | 382 | 3820-3822
 Small Collector Module | 1131
 Large Collector Module | 1132
 Small Cogeneration Module | 1133
@@ -561,12 +563,12 @@ Heliarchs
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Breacher | 383 | 1247-1249
-Neutralizer | 384 | 1250-1252
-Hunter | 385 | 1253-1255
-Interdictor | 386 | 1256-1258
-Judicator | 387 | 1259-1261
-Punisher | 388 | 1262-1264
+Breacher | 383 | 3830-3832
+Neutralizer | 384 | 3840-3842
+Hunter | 385 | 3850-3852
+Interdictor | 386 | 3860-3862
+Judicator | 387 | 3870-3872
+Punisher | 388 | 3880-3882
 Pursuer | 3012
 Rover | 3013
 Stalker | 3014
@@ -587,9 +589,9 @@ Korath Exiles
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Raider | 389 | 1265-1267
-Dredger | 390 | 1268-1270
-World-ship | 391 | 1271-1273
+Raider | 389 | 3890-3892
+Dredger | 390 | 3900-3902
+World-ship | 391 | 3910-3912
 Lor'kas Ik 577 | 3911 | 12711-12713
 Ra'gru Ik 618 | 3912 | 12721-12723
 Kas'lor Ik 582 | 3913 | 12731-12733
@@ -623,24 +625,24 @@ Planetary Steering | 1193
 Stellar Thruster | 1194
 Stellar Steering | 1195
 Reality Vector Engine | 1196
-Pillager | 395 | 1283-1285
-Marauder Raider | 430 | 1388-1390
+Pillager | 395 | 3950-3952
+Marauder Raider | 430 | 4300-4302
 Firelight Missile Launcher | 1276
 Blaze-Pike | 1289
 Inferno | 1290
-'nra'ret | 432 | 1394-1396
+'nra'ret | 432 | 4320-4322
 Liquid Sodium Cooler | 1291
 Tiny Systems Core | 1292
 Expeller | 1294
 Firestorm Battery | 1295
 Lagrange Heaver | 1299
-Shipper | 433 | 1397-1399
-Courier | 434 | 1400-1402
+Shipper | 433 | 4330-4332
+Courier | 434 | 4340-4342
 Command Center | 1316
-Charm-Scallop | 485 | 1566-1568
-Arch-Carrack | 486 | 1569-1571
-Echo-Galleon | 487 | 1572-1574
-Seedship | 488 | 1575-1577
+Charm-Scallop | 485 | 4850-4852
+Arch-Carrack | 486 | 4860-4862
+Echo-Galleon | 487 | 4870-4872
+Seedship | 488 | 4880-4882
 Firelight Rack | 1427
 Firestorm Pop-up Launcher | 1428
 KIT 7 | 3038
@@ -651,13 +653,13 @@ Bunrodea
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Kaiken | 3033 | 3033
-Sasumata | 469 | 1521-1523
-Tanto | 470 | 1524-1526
-Ararebo | 471 | 1527-1529
-Tekkan | 472 | 1530-1532
-Kunai | 473 | 1533-1535
-Kama | 474 | 1536-1538
-Chigiriki | 475 | 1539-1541
+Sasumata | 469 | 4690-4692
+Tanto | 470 | 4700-4702
+Ararebo | 471 | 4710-4712
+Tekkan | 472 | 4720-4722
+Kunai | 473 | 4730-4732
+Kama | 474 | 4740-4742
+Chigiriki | 475 | 4750-4752
 Nami Rift Thruster | 1354
 Nami Rift Steering | 1355
 Ookii Rift Thruster | 1356
@@ -684,12 +686,12 @@ Ka'het
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Maeri'het | 392 | 1274-1276
-Telis'het | 393 | 1277-1279
-Vareti'het | 394 | 1280-1282
+Maeri'het | 392 | 3920-3922
+Telis'het | 393 | 3930-3932
+Vareti'het | 394 | 3940-3942
 Faes'mar | 3016
 Selii'mar | 3017
-Fetri'sei | 449 | 1461-1463
+Fetri'sei | 449 | 4490-4492
 MHD Generator | 1170
 Reserve Accumulator | 1171
 Shield Restorer | 1172
@@ -712,10 +714,10 @@ Kaltheim
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Bulkort 2-V | 3030 | 3030
-Holzst'nak 11-P | 450 | 1473-1475
-Kru'urlin 89-P | 451 | 1464-1466
-Lenmig'sraor 52-T | 452 | 1467-1469
-Tyar'linhalf 67-G | 453 | 1470-1472
+Holzst'nak 11-P | 450 | 4500-4502
+Kru'urlin 89-P | 451 | 4510-4512
+Lenmig'sraor 52-T | 452 | 4520-4522
+Tyar'linhalf 67-G | 453 | 4530-4532
 Polar Battery | 1323
 Tundra Shield Generator | 1324
 Glacial Shield Generator | 1325
@@ -732,16 +734,16 @@ Wanderers
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Earth Shaper | 396 | 1286-1288
-Deep River | 397 | 1289-1291
-Riptide | 398 | 1292-1294
-Summer Leaf | 399 | 1295-1297
-Autumn Leaf | 400 | 1298-1300
-Winter Gale | 401 | 1301-1303
-Strong Wind | 402 | 1304-1306
-Tempest | 403 | 1307-1309
-Derecho | 404 | 1310-1312
-Hurricane | 405 | 1313-1315
+Earth Shaper | 396 | 3960-3962
+Deep River | 397 | 3970-3972
+Riptide | 398 | 3980-3982
+Summer Leaf | 399 | 3990-3992
+Autumn Leaf | 400 | 4000-4002
+Winter Gale | 401 | 4010-4012
+Strong Wind | 402 | 4020-4022
+Tempest | 403 | 4030-4032
+Derecho | 404 | 4040-4042
+Hurricane | 405 | 4050-4052
 Flycatcher | 3018
 Cool Breeze | 3019
 Scud | 3020
@@ -771,23 +773,23 @@ Type 4 Radiant Steering | 1219
 Type 5 Radiant Thruster | 1220
 Type 5 Radiant Steering | 1221
 Moonbeam | 1222 (Gun 2222)
-Blizzard | 435 | 1419-1421
-Heavy Gust | 515 | 1660-1662
-Abyssal Stream | 516 | 1663-1665
-Squall | 526 | 1693-1695
+Blizzard | 435 | 4350-4352
+Heavy Gust | 515 | 5150-5152
+Abyssal Stream | 516 | 5160-5162
+Squall | 526 | 5260-5262
 Hailstone | 3037
 
 Kor Sestor
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-MPT 53 | 406 | 1316-1318
-TF 71-L | 407 | 1319-1321
-TF 78-O | 408 | 1322-1324
-TF 109 | 409 | 1325-1327
-FET 243 | 410 | 1328-1330
-KIV 349 | 411 | 1331-1333
-KIV 750 | 412 | 1334-1336
+MPT 53 | 406 | 4060-4062
+TF 71-L | 407 | 4070-4072
+TF 78-O | 408 | 4080-4082
+TF 109 | 409 | 4090-4092
+FET 243 | 410 | 4100-4102
+KIV 349 | 411 | 4110-4112
+KIV 750 | 412 | 4120-4122
 FL 14 | 3021
 FO 27 | 3022
 Repeater Turret | 1223 (Gun 2223)
@@ -800,43 +802,43 @@ Screener | 3027
 FO Detainer | 3028
 FO Ionizer | 3029
 Ionizer | 1318
-TOR 681 | 531 | 1708-1710
-MIP 43 | 532 | 1711-1713
-NPT 103 | 533 | 1714-1716
+TOR 681 | 531 | 5310-5312
+MIP 43 | 532 | 5320-5322
+NPT 103 | 533 | 5330-5332
 MPT 41 | 3039
 
 Kor Mereti
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Model 8 | 413 | 1337-1339
-Model 16 | 414 | 1340-1342
-Model 32 | 415 | 1343-1345
-Model 64 | 416 | 1346-1348
-Model 128 | 417 | 1349-1351
-Model 256 | 418 | 1352-1354
-Model 512 | 419 | 1355-1357
-Model 1024 | 420 | 1358-1360
+Model 8 | 413 | 4130-4132
+Model 16 | 414 | 4140-4142
+Model 32 | 415 | 4150-4152
+Model 64 | 416 | 4160-4162
+Model 128 | 417 | 4170-4172
+Model 256 | 418 | 4180-4182
+Model 512 | 419 | 4190-4192
+Model 1024 | 420 | 4200-4202
 Minelayer | 1228 (submunition | 3228)
 Slicer Turret | 1229 (Gun 2229)
 Disruptor Turret | 1230 (Gun 2230)
 Super Minelayer | 1233
 Infected Minelayer | 12331
 Reasoning Node | 1304
-Model 192 | 489 | 1578-1580
+Model 192 | 489 | 4890-4892
 Model 2 | 3034 | 3034
-Model 128 Surveyor | 510 | 1645-1647
-Model 256 Greenhouse | 529 | 1702-1704
-Model 512 Greenhouse | 530 | 1705-1707
+Model 128 Surveyor | 510 | 5100-5102
+Model 256 Greenhouse | 529 | 5290-5292
+Model 512 Greenhouse | 530 | 5300-5302
 
 Quarg
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Skylark | 421 | 1361-1363
-Wardragon | 422 | 1364-1366
-Empyrealdragon | 423 | 1367-1369
-Elderdragon | 424 | 1370-1372
+Skylark | 421 | 4210-4212
+Wardragon | 422 | 4220-4222
+Empyrealdragon | 423 | 4230-4232
+Elderdragon | 424 | 4240-4242
 Battledrake | 3023
 Nanotech Battery | 1234
 Ergosphere Core | 1235
@@ -858,30 +860,30 @@ Gravitational Device | 1386
 Antimatter Core | 1387
 Blazar Core | 1388
 Wardragon-style civilian ships | ...
-Drake | 497 | 1603-1605
-Hydra Precursor | 498 | 1606-1608
-Amphithere | 499 | 1609-1611
-Slibinas | 500 | 1612-1614
-Kaukas | 501 | 1615-1617
+Drake | 497 | 4970-4972
+Hydra Precursor | 498 | 4980-4982
+Amphithere | 499 | 4990-4992
+Slibinas | 500 | 5000-5002
+Kaukas | 501 | 5010-5012
 Skylark-style crystal ships | ...
-Tarasque | 502 | 1618-1620
-Fafnir | 503 | 1621-1623
+Tarasque | 502 | 5020-5022
+Fafnir | 503 | 5030-5032
 Superheavy ships (unused) | ...
-Gtuhanai | 504 | 1624-1626
-Psuchawrl | 505 | 1627-1629
+Gtuhanai | 504 | 5040-5042
+Psuchawrl | 505 | 5050-5052
 Ancient Quarg ships (unused) | ...
-Kalisto | 506 | 1630-1632
-Skylark Alt | 502 | 1633-1635
-Smaug | 507 | 1636-1638
-Zilant | 508 | 1639-1641
-Glaurun | 509 | 1642-1644
+Kalisto | 506 | 5060-5062
+Skylark Alt | 502 | 5020-5022
+Smaug | 507 | 5070-5072
+Zilant | 508 | 5080-5082
+Glaurun | 509 | 5090-5092
 New ships | ...
-Wardrake | 518 | 1669-1671
-Guivre | 519 | 1672-1674
-Hydra | 520 | 1675-1677
-Lindwyrm | 521 | 1678-1680
-Improved Wardragon | 522 | 1681-1683
-Wyvern | 523 | 1684-1686
+Wardrake | 518 | 5180-5182
+Guivre | 519 | 5190-5192
+Hydra | 520 | 5200-5202
+Lindwyrm | 521 | 5210-5212
+Improved Wardragon | 522 | 5220-5222
+Wyvern | 523 | 5230-5232
 Weapons | ...
 Skydagger | 1401
 Skypiercer (Edenshard sprite) | 1402
@@ -937,10 +939,10 @@ Pug
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Zibruka | 426 | 1376-1378
-Enfolta | 427 | 1379-1381
-Maboro | 428 | 1382-1384
-Arfecta | 429 | 1385-1387
+Zibruka | 426 | 4260-4262
+Enfolta | 427 | 4270-4272
+Maboro | 428 | 4280-4282
+Arfecta | 429 | 4290-4292
 Gridfire | 1247
 Tier | 3 AM | 1248
 Zapper | 1249 (turret 2249)
@@ -956,30 +958,30 @@ Zibruka Stats | 1258
 Enfolta Stats | 1259
 Maboro Stats | 1260
 Arfecta Stats | 1261
-Zubera | 431 | 1391-1393
+Zubera | 431 | 4310-4312
 Zubera Stats | 1280
 Zambor | 3025
 Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
-Tulikaa | 490 | 1581-1583
+Tulikaa | 490 | 4900-4902
 Tulikaa Stats | 1392
 
 Drak
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Void Sprite | 462 | 1476-1478
-Void Sprite Infant | 463 | 1479-1481
-Embershade | 464 | 1482-1484
-Astral Cetacean | 465 | 1485-1487
-Ember Waste Node | 454 | 1488-1490
-Jje | 455 | 1491-1493
-Ayym | 456 | 1494-1496
-Embersylph | 457 | 1497-1499
-Embersylph 2 | 458 | 1500-1502
-Squid | 459 | 1503-1505
-Boomerang | 460 | 1506-1508
-Plankton | 461 | 1509-1511
+Void Sprite | 462 | 4620-4622
+Void Sprite Infant | 463 | 4630-4632
+Embershade | 464 | 4640-4642
+Astral Cetacean | 465 | 4650-4652
+Ember Waste Node | 454 | 4540-4542
+Jje | 455 | 4550-4552
+Ayym | 456 | 4560-4562
+Embersylph | 457 | 4570-4572
+Embersylph 2 | 458 | 4580-4582
+Squid | 459 | 4590-4592
+Boomerang | 460 | 4600-4602
+Plankton | 461 | 4610-4612
 Archon | 5000 | 50000
 Antimatter Cannon | 1349
 AM Field | 1350
@@ -1027,12 +1029,12 @@ Particle Waveform Gun | 2269
 Solar Intake | 1399
 Medium EM Battery | 1396
 Fusion Afterburner | 1400
-Bronze Edge | 491 | 1584-1586
-Ruby Hammer | 492 | 1587-1589
-White Brand | 493 | 1590-1592
-Gold Shield | 494 | 1593-1595
-Platinum Spear | 495 | 1596-1598
-Opal Glaive (NOT ADDED) | 496 | 1599-1602
+Bronze Edge | 491 | 4910-4912
+Ruby Hammer | 492 | 4920-4922
+White Brand | 493 | 4930-4932
+Gold Shield | 494 | 4940-4942
+Platinum Spear | 495 | 4950-4952
+Opal Glaive (NOT ADDED) | 496 | 4960-4962
 Fusion Power Converter | 1408
 
 Shooting Star

@@ -918,6 +918,7 @@ Changelog:
   - Changed names for some Sestor drones to reflect their full Korath names
   - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
   - Added visual effects to Jump Drive and Nuke On A Cart
+  - Gave the Quantum Vacuum Battery (formerly Nanotech Battery) cooling to fit latest stats
 - Ships
   - **Added descriptions to a large number of ships**
   - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest

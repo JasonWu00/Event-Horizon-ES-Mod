@@ -13,14 +13,14 @@ Republic of Earth | 200 | 205
 Hai | 250 | 206
 Trisolar Coalition | 250 | 218
 Sheragi | 275 | 217
-Remnants | 300 | 207
+Remnant | 300 | 207
 Korath Exiles | 300 | 209
 Bunrodea | 325 | 221
 Wanderers | 350 | 211
 Ka'het | 350 | 210
 Kaltheim | 375 | 220
-Korath Mereti | 400 | 212
-Korath Sestor | 400 | 213
+Mereti Collective | 400 | 212
+Sestor Federation | 400 | 213
 Heliarchs Security Forces | 450 | 208
 Quarg | 500 | 214
 Pug | 500 | 216
@@ -97,6 +97,8 @@ Model sizes:
 Add (tier-1) to the model size for appropriate factions.   
 
 Conventions for stat conversions:
+
+Note: Since weapons can now deal separate hull and shield damage, set hull and shield damage separately but using the same rules.
 
 Weapon type | Damage conversion
 --- | ---
@@ -894,6 +896,7 @@ Turver (Skywrath) | 1406
 Doomscythe (Prismatic Shards) | 1407
 Celestial Culverin | 1431
 Astral Ribault | 1432
+Slipstream Projector | 1437
 
 Starbases
 
@@ -1051,9 +1054,8 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1437
+Component | 1438
 Ship | 537
-Build | 1726
 Drone | 3040
 Quest | 1049
 

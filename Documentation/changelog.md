@@ -909,7 +909,7 @@ Changelog:
 - Major Updates
   - Added a custom menu image
 - Outfits
-  - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur to Quarg (replacing some older weapons)
+  - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur, Slipstream Projector to Quarg (replacing some older weapons)
   - Added the Fuel Processor and Chaser Expeller to Korath Exiles
   - Adjusted the Sentinel Reactor for Syndicated Systems
   - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
@@ -919,6 +919,8 @@ Changelog:
   - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
   - Added visual effects to Jump Drive and Nuke On A Cart
   - Gave the Quantum Vacuum Battery (formerly Nanotech Battery) cooling to fit latest stats
+  - Increased Heliarch Attractor range from 62 to 64
+  - Fixed a broken sound effect on the Ember Tear
 - Ships
   - **Added descriptions to a large number of ships**
   - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest

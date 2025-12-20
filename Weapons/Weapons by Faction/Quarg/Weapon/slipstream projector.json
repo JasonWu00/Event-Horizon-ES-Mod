@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1437,
+  "Name": "Slipstream Projector",
+  "Description": "While the exact workings of graviton tech are a mystery, it's no secret that this device manipulates gravity in such a wondrous way that it even bends the massive architecture of ringworlds to its whim. While the force is not enough to harm the delicate structure, the negative energy is powerful enough to rip off the shielding of a ship in a remarkably short period of time.",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 600,
+  "Icon": "unknown.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "4",
+  "WeaponId": 1437,
+  "AmmunitionId": 1437,
+  "WeaponSlotType": "X",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

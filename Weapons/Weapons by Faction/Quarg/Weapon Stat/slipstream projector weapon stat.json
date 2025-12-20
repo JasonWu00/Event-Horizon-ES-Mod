@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1437,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*slipstream projector",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

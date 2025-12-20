@@ -12,9 +12,7 @@
   "Layout": "111111111",
   "CellType": "4",
   "DeviceId": 1244,
-  "Restrictions": {
-    "UniqueComponentTag": "pointdefense"
-  },
+  "Restrictions": {},
   "PossibleModifications": [
     2,
     6

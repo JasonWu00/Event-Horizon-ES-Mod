@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1384,
-  "Name": "Peripheral Repair Unit",
-  "Description": "No description.",
+  "Name": "Peripheral Repair Hub",
+  "Description": "The repair systems employed by the Quarg operate in ways that seem to defy reality, somehow gathering matter and injecting it into a ship's hull and fuel systems. This provides essential maintenance that benefits core aspects of spaceflight - durability, longevity, and most importantly, survivability.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1384,

@@ -8,7 +8,7 @@
   "IconImage": "guivre icon.png",
   "IconScale": 1.0,
   "ModelImage": "guivre.png",
-  "ModelScale": 4.0,
+  "ModelScale": 9.0,
   "EngineColor": "#B200FF",
   "Engines": [
     {

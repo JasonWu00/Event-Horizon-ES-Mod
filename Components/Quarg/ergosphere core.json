@@ -9,7 +9,7 @@
   "Faction": 214,
   "Level": 500,
   "Icon": "ergosphere core.png",
-  "Layout": "0111001110011100111001110",
+  "Layout": "1111111111111111",
   "CellType": "2",
   "PossibleModifications": [
     12

@@ -781,7 +781,7 @@ Abyssal Stream | 516 | 5160-5162
 Squall | 526 | 5260-5262
 Hailstone | 3037
 
-Kor Sestor
+Sestor Federation
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
@@ -809,7 +809,7 @@ MIP 43 | 532 | 5320-5322
 NPT 103 | 533 | 5330-5332
 MPT 41 | 3039
 
-Kor Mereti
+Mereti Collective
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
@@ -842,7 +842,7 @@ Wardragon | 422 | 4220-4222
 Empyrealdragon | 423 | 4230-4232
 Elderdragon | 424 | 4240-4242
 Battledrake | 3023
-Nanotech Battery | 1234
+Quantum Vacuum Battery | 1234
 Ergosphere Core | 1235
 Quantum Shield Generator | 1236
 Small Graviton Thruster | 1237
@@ -852,7 +852,7 @@ Medium Graviton Steering | 1240
 Large Graviton Thruster | 1241
 Large Graviton Steering | 1242
 Skylance | 1243
-Quarg Antimissile | 1244
+Stratospear | 1244
 New outfits | ...
 Fluxion Shield Generator | 1382
 Infimum Shield Generator | 1383
@@ -1054,7 +1054,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1438
+Component | 1439
 Ship | 537
 Drone | 3040
 Quest | 1049

@@ -909,17 +909,24 @@ Changelog:
 - Major Updates
   - Added a custom menu image
 - Outfits
-  - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur, Slipstream Projector to Quarg (replacing some older weapons)
-  - Added the Fuel Processor and Chaser Expeller to Korath Exiles
+  - Quarg
+    - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur, Slipstream Projector to Quarg (replacing some older weapons)
+    - Renamed a number of Quarg outfits to match latest source material
+    - Gave the Quantum Vacuum Battery (formerly Nanotech Battery) cooling to fit latest stats
+    - Adjusted Quarg reactors
+      - Antimatter Core: Energy per cell: 36.97 -> 14.4; heat per cell: 0.23 -> 0.048
+      - Ergosphere Core: Energy per cell: 42 -> 17.625; heat per cell: 0.2 -> 0.0675; mass per cell: 25 -> 100
+      - Blazar Core: Energy per cell: 39.5 -> 18.75; heat per cell: 0.221 -> 0.07; mass per cell: 25 -> 100
+  - Korath (Exiles, Sestor, Mereti)
+    - Added the Fuel Processor and Chaser Expeller to Korath Exiles
+    - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
+    - Changed names for some Sestor drones to reflect their full Korath names
   - Adjusted the Sentinel Reactor for Syndicated Systems
-  - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
   - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
-  - Renamed a number of Quarg outfits to match latest source material
-  - Changed names for some Sestor drones to reflect their full Korath names
   - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
   - Added visual effects to Jump Drive and Nuke On A Cart
-  - Gave the Quantum Vacuum Battery (formerly Nanotech Battery) cooling to fit latest stats
   - Increased Heliarch Attractor range from 62 to 64
+  - Added a missing tech file for the Small Recovery Module
   - Fixed a broken sound effect on the Ember Tear
 - Ships
   - **Added descriptions to a large number of ships**

@@ -945,9 +945,11 @@ Changelog:
   - Added R-series shield generators to some Republic of Earth ships
   - Changed Kestrel's sprite
   - Downgraded TF 109 (Battleship -> Cruiser)
+  - Updated all Exiles, Mereti, and Sestor builds with Fuel Processors in place of Large Fuel Cells
 - Tech
+  - Added a missing tech for the Small Recovery Module for Trisolar Coalition
 - Others
-  - (Internal) changed ship build IDs to be more intuitive
+  - (internal) Changed ship build IDs to be more intuitive
   - Renamed the Mereti and Sestor and allowed both factions to offer missions
   - Improved the flight range (x4), flight speed (x10), and exploration loot (+25%) skills
   - Added descriptions to minerals

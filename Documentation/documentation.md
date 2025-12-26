@@ -858,7 +858,7 @@ Fluxion Shield Generator | 1382
 Infimum Shield Generator | 1383
 Peripheral Repair Hub | 1384
 Central Repair Hub | 1385
-Gravitational Device | 1386
+Gravitational Core | 1386
 Antimatter Core | 1387
 Blazar Core | 1388
 Wardragon-style civilian ships | ...

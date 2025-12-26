@@ -5,5 +5,9 @@
   "ArmorRepairCooldownModifier": -0.23,
   "EnergyRechargeCooldownModifier": -0.23,
   "ShieldRechargeCooldownModifier": -0.23,
-  "Weight": 25.0
+  "Weight": -550.0,
+  "EnergyAbsorption": 15.0,
+  "KineticResistance": 15.0,
+  "EnergyResistance": 15.0,
+  "ThermalResistance": 15.0
 }

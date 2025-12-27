@@ -954,6 +954,7 @@ Changelog:
   - Improved the flight range (x4), flight speed (x10), and exploration loot (+25%) skills
   - Added descriptions to minerals
   - Fixed an issue with the Finisher Torpedo launch effect sticking to the ammo
+  - Fixed an issue where the Torpedo and Typhoon Torpedo had unusually large antimissile disarm effects
 
 ### Update Template
 

@@ -34,8 +34,8 @@
         "x": 0.9,
         "y": 0.15
       },
-      "AutoAimingArc": 80.0,
-      "WeaponClass": "CL"
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -50,8 +50,8 @@
         "x": 0.6,
         "y": 0.3
       },
-      "AutoAimingArc": 20.0,
-      "WeaponClass": "CLGM"
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
     },
     {
       "Position": {

@@ -710,6 +710,26 @@ Ravager Turret | 1182 (Gun 2182)
 EMP Deployer | 1183
 MHD Deployer | 1184
 Nullifier | 1185
+Ka'het Aberrants |
+Aberrant Spiker | 1439
+Nucleolysis Beam | 1440
+Telescopic Antimissile | 1441 
+Anomalous Shield Restorer | 1442
+Antimatter Power Cell | 1443
+Anomalous Mass | 1444
+Aberrant Latte | 537
+Aberrant Chomper ("heavily armed") | 538
+Aberrant Pileup ("larger and sturdier") | 539
+Aberrant Hugger ("lighter, yet still enlarged armaments") | 540
+Aberrant Longfellow ("extra thrusters") | 541
+Aberrant Dancer ("extra turrets") | 542
+Aberrant Junior ("compact, still growing") | 543
+Aberrant Icebreaker ("tougher hull than most") | 544
+Aberrant Pike ("sleek, elongated") | 545
+Aberrant Mole ("sharp, bladed prow, more guns") | 546
+Aberrant Whiskers ("tail structure, agility") | 547
+Aberrant Trip ("lopsided, deformed") | 548
+Aberrant Triplet ("two or three fused") | 549
 
 Kaltheim
 
@@ -1050,12 +1070,34 @@ Crystalline Formation | 1285
 Hexagonal Crystal | 1286
 Tree Skeleton Key Stone | 1287
 
+Patir Asteroids
+
+Item Name | Item and Build ID
+--- | ---
+Asteroid Large (5) | 550-554
+Asteroid Medium | 555
+Asteroid Young (4) | 556-559
+Asteroid Anti-Missile (weapon 2)| 1445
+Asteroid Anti-Missile 2 (weapon 8)| 1446
+Asteroid Weapon Small (weapon 3) | 1447
+Asteroid Weapon Large (weapon 6) | 1448
+Asteroid Weapon Large 2 (weapon 1) | 1449
+Asteroid Weapon Large 3 (weapon 5) | 1450
+Asteroid Weapon Large 4 (weapon 4) | 1451
+Asteroid Jump Drive (weapon 7) | 1452
+
+Minable Asteroids
+
+Item Name | Item and Build ID
+--- | ---
+??? | ???
+
 First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1439
-Ship | 537
+Component | 1453
+Ship | 560
 Drone | 3040
 Quest | 1049
 

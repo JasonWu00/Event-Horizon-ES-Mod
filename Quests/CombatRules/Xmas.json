@@ -3,5 +3,6 @@
   "Id": 8,
   "InitialEnemyShips": "5",
   "MaxEnemyShips": "100",
+  "TimeLimit": "MAX(30, 90 - level/3.33)",
   "DisablePlanet": true
 }

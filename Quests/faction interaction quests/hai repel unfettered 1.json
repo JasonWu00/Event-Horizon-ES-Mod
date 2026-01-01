@@ -22,7 +22,7 @@
       "Id": 1,
       "Type": 10,
       "Message": "Our Unfettered brethren are once again threatening our borders. Please pursuade them to leave.",
-      "Character": 1046,
+      "Character": 206,
       "Actions": [
         {
           "TargetNode": 2,
@@ -49,7 +49,7 @@
       "Type": 10,
       "Message": "It seems they are not willing to listen to my words. Make them listen to your guns.",
       "Enemy": 1046,
-      "Character": 1046,
+      "Character": 206,
       "Actions": [
         {
           "TargetNode": 4,
@@ -80,7 +80,7 @@
       "Id": 5,
       "Type": 10,
       "Message": "I hope they will learn the lesson this time.",
-      "Character": 1046,
+      "Character": 206,
       "Actions": [
         {
           "TargetNode": 7,
@@ -92,7 +92,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "What a terrible tragedy.",
-      "Character": 1046,
+      "Character": 206,
       "Actions": [
         {
           "TargetNode": 8,

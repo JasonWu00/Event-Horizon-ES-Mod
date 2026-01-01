@@ -22,7 +22,7 @@
       "Id": 1,
       "Type": 10,
       "Message": "Another pirate gang is getting too confident and stepping into our territory. Go teach them a lesson.",
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 2,
@@ -49,7 +49,7 @@
       "Type": 10,
       "Message": "There they are. Get them!",
       "Enemy": 1044,
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 4,
@@ -80,7 +80,7 @@
       "Id": 5,
       "Type": 10,
       "Message": "They won't be bothering us any longer.",
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 7,
@@ -92,7 +92,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "Look what you have done.",
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 8,

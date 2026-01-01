@@ -1,7 +1,8 @@
 {
   "ItemType": 30,
   "Id": 4,
-  "InitialEnemyShips": "3",
+  "InitialEnemyShips": "5",
   "MaxEnemyShips": "50",
+  "TimeLimit": "MAX(30, 90 - level/3.33)",
   "DisablePlanet": true
 }

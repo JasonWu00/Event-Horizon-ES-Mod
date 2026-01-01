@@ -9,5 +9,6 @@
   },
   "SpecificShips": [
     3902
-  ]
+  ],
+  "CombatRules": 100000
 }

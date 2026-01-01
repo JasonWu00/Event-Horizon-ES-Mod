@@ -1,15 +1,16 @@
 {
   "ItemType": 18,
-  "Id": 10471,
+  "Id": 2092,
   "Factions": {
     "Type": 1,
     "List": [
-      213
+      209
     ]
   },
   "SpecificShips": [
-    4092,
-    4102
+    12733,
+    4322,
+    12743
   ],
   "CombatRules": 100000
 }

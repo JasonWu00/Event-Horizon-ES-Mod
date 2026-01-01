@@ -37,7 +37,7 @@
       "Type": 10,
       "Message": "$Mission_Resources_Intro",
       "Loot": 1048,
-      "Character": 1048,
+      "Character": 208,
       "Actions": [
         {
           "TargetNode": 5,
@@ -54,7 +54,7 @@
       "Type": 10,
       "Message": "$Mission_Resources_Intro",
       "Loot": 1048,
-      "Character": 1048,
+      "Character": 208,
       "Actions": [
         {
           "TargetNode": 4,
@@ -92,7 +92,7 @@
       "Type": 10,
       "Message": "A great service to our efforts, your donation is. Properly compensated, you will be.",
       "Loot": 10481,
-      "Character": 1048,
+      "Character": 208,
       "Actions": [
         {
           "TargetNode": 6,

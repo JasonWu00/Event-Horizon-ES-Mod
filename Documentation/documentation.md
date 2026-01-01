@@ -1090,7 +1090,17 @@ Minable Asteroids
 
 Item Name | Item and Build ID
 --- | ---
-??? | ???
+Gold Asteroid | 560
+Iron Asteroid | 561
+Large Metal Asteroid | 562
+Large Rock Asteroid | 563
+Lead Asteroid | 564
+Medium Metal Asteroid | 565
+Medium Rock Asteroid | 566
+Silicon Asteroid | 567
+Silver Asteroid | 568
+Titanium Asteroid | 569
+Yottrite Asteroid | 570
 
 First unused IDs:
 

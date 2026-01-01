@@ -955,6 +955,8 @@ Changelog:
   - Added descriptions to minerals
   - Fixed an issue with the Finisher Torpedo launch effect sticking to the ammo
   - Fixed an issue where the Torpedo and Typhoon Torpedo had unusually large antimissile disarm effects
+  - Adjusted parameters for many battles (starbase capture, local pirates, etc)
+    - Timer now ranges from 90 at 0LY to 30 at 200LY
 
 ### Update Template
 

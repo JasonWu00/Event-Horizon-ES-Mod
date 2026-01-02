@@ -25,6 +25,7 @@ Heliarchs Security Forces | 450 | 208
 Quarg | 500 | 214
 Pug | 500 | 216
 Drak | 750 | 215
+Asteroids | n/a | 222
 
 Special ships and encounter distances
 

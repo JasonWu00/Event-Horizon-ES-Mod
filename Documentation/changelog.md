@@ -908,6 +908,7 @@ Changelog:
 Changelog:
 - Major Updates
   - Added a custom menu image
+  - Added a number of "faction invasion" missions that occur spontaneously
 - Outfits
   - Quarg
     - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur, Slipstream Projector to Quarg (replacing some older weapons)

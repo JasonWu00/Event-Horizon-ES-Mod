@@ -1,0 +1,221 @@
+{
+  "ItemType": 15,
+  "Id": 2092111,
+  "Name": "Exiles Invasion",
+  "QuestType": 4,
+  "StartCondition": 6,
+  "Weight": 0.1,
+  "Origin": {
+    "Type": 2,
+    "Factions": {
+      "Type": 1,
+      "List": [
+        211
+      ]
+    },
+    "MinDistance": 350,
+    "MaxDistance": 500,
+    "MaxRelations": 100
+  },
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 211
+      },
+      {
+        "Type": 17
+      }
+    ]
+  },
+  "Level": 350,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "We are [under attack, under siege]. An Exiles invasion force approaches us. We cannot [survive, endure] this alone.",
+      "Character": 211,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": "Acknowledged"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "The Exiles invasion force is already besieging the starbase. You will have to fight them all at once.",
+      "Enemy": 2092,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": "Go on"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 20,
+      "DefaultTransition": 13,
+      "FailureTransition": 10,
+      "Enemy": 2092
+    },
+    {
+      "Id": 10,
+      "Type": 61,
+      "DefaultTransition": 11
+    },
+    {
+      "Id": 11,
+      "Type": 62,
+      "DefaultTransition": 12,
+      "Faction": 209
+    },
+    {
+      "Id": 12,
+      "Type": 51,
+      "DefaultTransition": 16,
+      "Value": -100
+    },
+    {
+      "Id": 13,
+      "Type": 56,
+      "DefaultTransition": 14,
+      "Value": 30
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "We extend our [greatest, highest] gratitude for your aid. You may peruse our outfitters and salvage the [raiders, bandits] as you please.",
+      "Loot": 2091,
+      "Character": 211,
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": "Conclude the mission"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 35,
+      "DefaultTransition": 100,
+      "Loot": 2091
+    },
+    {
+      "Id": 100,
+      "Type": 40
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "You would be wise to remain out of our way, fool.",
+      "Character": 209,
+      "Actions": [
+        {
+          "TargetNode": 100,
+          "ButtonText": "Conclude the mission"
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 10,
+      "Message": "Or you can backstab the Wanderers and gain favor with the invading Exiles, if you prefer.",
+      "Enemy": 2111,
+      "Actions": [
+        {
+          "TargetNode": 18,
+          "ButtonText": "Go on"
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 10,
+      "Message": "What is your choice?",
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Intervene (support Wanderers)"
+        },
+        {
+          "TargetNode": 3,
+          "ButtonText": "Check the situation again"
+        },
+        {
+          "TargetNode": 19,
+          "ButtonText": "Intervene (support Exiles)"
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Type": 20,
+      "DefaultTransition": 20,
+      "FailureTransition": 24,
+      "Enemy": 2111
+    },
+    {
+      "Id": 20,
+      "Type": 61,
+      "DefaultTransition": 21
+    },
+    {
+      "Id": 21,
+      "Type": 62,
+      "DefaultTransition": 22,
+      "Faction": 211
+    },
+    {
+      "Id": 22,
+      "Type": 51,
+      "DefaultTransition": 26,
+      "Value": 30
+    },
+    {
+      "Id": 23,
+      "Type": 56,
+      "DefaultTransition": 25,
+      "Value": -100
+    },
+    {
+      "Id": 24,
+      "Type": 61,
+      "DefaultTransition": 23
+    },
+    {
+      "Id": 25,
+      "Type": 10,
+      "Message": "Your attempted betrayal is [noted, recorded]. You are not welcome in our space.",
+      "Character": 209,
+      "Actions": [
+        {
+          "TargetNode": 100,
+          "ButtonText": "Conclude the mission"
+        }
+      ]
+    },
+    {
+      "Id": 26,
+      "Type": 10,
+      "Message": "Your assistance is unexpected, but welcome. You may take your share of the plunder.",
+      "Loot": 2111,
+      "Character": 209,
+      "Actions": [
+        {
+          "TargetNode": 27,
+          "ButtonText": "Conclude the mission"
+        }
+      ]
+    },
+    {
+      "Id": 27,
+      "Type": 35,
+      "DefaultTransition": 100,
+      "Loot": 2111
+    }
+  ]
+}

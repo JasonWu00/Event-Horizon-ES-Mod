@@ -903,7 +903,7 @@ Changelog:
   - Updated the mod to Event Horizon 1.13.0
   - Shortened description of Ruby Regenerator
 
-### 0.16.3 "Third Australian Bloody Pissmas Miracle" Update
+### 0.16.3 "Chanai" Update
 
 Changelog:
 - Major Updates
@@ -995,3 +995,14 @@ Changelog:
   - <first> <last> challenging the player, a "worthy adversary", with a doomstack
   - Beacon node battles between different faction groups
 - Change the Mereti and Sestor to reflect new lore (reputation, renaming)
+- Quests
+  - Invasion quests (planned; Exiles->Wanderers implemented right now; attacker->defender):
+    - Exiles -> Wanderers, Mereti, Sestor, Hai, Syndicate, Republic, Remnant
+    - Pirates -> Merchants, Syndicate, FW
+    - Marauders -> FW, Republic, Hai
+    - Republic, FW -> Marauders
+    - FW, Merchants, Syndicate -> Pirates
+    - Possibly "extra large" variants of these quests with more ships at higher light years
+  - Random beacon encounters:
+    - Basically the above events, except you only get loot from attacking this or that ships force
+    - Asteroid mining

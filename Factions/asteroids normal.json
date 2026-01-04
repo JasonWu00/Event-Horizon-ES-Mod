@@ -1,0 +1,10 @@
+{
+  "ItemType": 14,
+  "Id": 222,
+  "Name": "Asteroids",
+  "NoTerritories": true,
+  "NoWanderingShips": true,
+  "HideFromMerchants": true,
+  "HideResearchTree": true,
+  "NoMissions": true
+}

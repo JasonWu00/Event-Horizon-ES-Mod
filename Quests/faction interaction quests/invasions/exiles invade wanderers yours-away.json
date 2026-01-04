@@ -34,6 +34,17 @@
     {
       "Id": 1,
       "Type": 10,
+      "Message": "You detect a transmission from a starbase some light years away. It appears to be a distress call from one of your controlled stations.",
+      "Actions": [
+        {
+          "TargetNode": 1000,
+          "ButtonText": "Listen to the transmission"
+        }
+      ]
+    },
+    {
+      "Id": 1000,
+      "Type": 10,
       "Message": "We are [under attack, under siege]. An Exiles invasion force besieges us. We cannot [survive, endure] this alone.",
       "Character": 211,
       "Actions": [

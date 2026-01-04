@@ -25,7 +25,9 @@
         "Faction": 207
       },
       {
-        "Type": 17
+        "Type": 18,
+        "MinValue": 5,
+        "MaxValue": 1000
       }
     ]
   },
@@ -33,6 +35,17 @@
   "Nodes": [
     {
       "Id": 1,
+      "Type": 10,
+      "Message": "You detect a transmission from the starbase in this very system.",
+      "Actions": [
+        {
+          "TargetNode": 1000,
+          "ButtonText": "Listen to the transmission"
+        }
+      ]
+    },
+    {
+      "Id": 1000,
       "Type": 10,
       "Message": "Incoming Korath invasion force approaching perimeter. All allied units report to muster stations, be ready for blood.",
       "Character": 207,

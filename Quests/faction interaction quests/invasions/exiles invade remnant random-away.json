@@ -123,10 +123,17 @@
       "Character": 207,
       "Actions": [
         {
-          "TargetNode": 15,
+          "TargetNode": 37,
           "ButtonText": "Conclude the mission"
         }
       ]
+    },
+    {
+      "Id": 37,
+      "Type": 55,
+      "DefaultTransition": 15,
+      "Character": 207,
+      "Value": 5
     },
     {
       "Id": 15,
@@ -223,10 +230,17 @@
       "Character": 209,
       "Actions": [
         {
-          "TargetNode": 100,
+          "TargetNode": 47,
           "ButtonText": "Conclude the mission"
         }
       ]
+    },
+    {
+      "Id": 47,
+      "Type": 55,
+      "DefaultTransition": 100,
+      "Character": 207,
+      "Value": -5
     },
     {
       "Id": 26,
@@ -236,10 +250,17 @@
       "Character": 209,
       "Actions": [
         {
-          "TargetNode": 27,
+          "TargetNode": 57,
           "ButtonText": "Conclude the mission"
         }
       ]
+    },
+    {
+      "Id": 57,
+      "Type": 55,
+      "DefaultTransition": 27,
+      "Character": 209,
+      "Value": 5
     },
     {
       "Id": 27,

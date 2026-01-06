@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1440,
+  "Name": "Nucleolysis Beam",
+  "Description": "This beam weapon creates a field inside which otherwise stable atomic nuclei rapidly decay. This effect seems to be inversely proportional to the mass of the nucleus, causing isotopes like deuterium to break down at a higher rate than heavier elements. As the resultant products have a higher energy state than the original nucleus, the beam cools its target, defying conventional thermodynamics.",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 223,
+  "Level": 375,
+  "Icon": "nucleolysis beam.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1440,
+  "AmmunitionId": 1440,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

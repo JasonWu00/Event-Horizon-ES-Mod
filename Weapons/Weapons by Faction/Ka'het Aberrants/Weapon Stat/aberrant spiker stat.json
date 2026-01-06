@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1497,
+  "FireRate": 0.7,
+  "Spread": 5.0,
+  "ActivationType": 1,
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "kinetic spear icon.png"
+}

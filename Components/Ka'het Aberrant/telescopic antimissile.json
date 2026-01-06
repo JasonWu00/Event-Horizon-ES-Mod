@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1441,
+  "Name": "Telescopic Antimissile",
+  "Description": "Oddly enough, this antimissile system resembles an array of scanners and telescopes. Such an assortment of sensing devices was certainly not intended to be used as a weapon, but somehow enough power has been pumped through this scanner's optics to make it a potent antimissile defense.\n\nThe various lenses and mirrors that make up a large telescope seem to be used to focus the emitted beam, giving this antimissile system a very long range.",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 1441,
+  "Faction": 223,
+  "Level": 325,
+  "Icon": "telescopic antimissile.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1441,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6,
+    7
+  ]
+}

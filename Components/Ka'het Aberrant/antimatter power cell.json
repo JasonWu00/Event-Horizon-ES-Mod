@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1443,
+  "Name": "Antimatter Power Cell",
+  "Description": "This strange device seems to be partially organic in nature, slowly leaking antiprotons through a constantly-regrowing spongelike structure to release energy. The amount of power produced is inconsistent with the amount of matter and antimatter annihilated, generating more energy than should be possible.",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1443,
+  "Faction": 223,
+  "Level": 300,
+  "Icon": "antimatter power cell.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

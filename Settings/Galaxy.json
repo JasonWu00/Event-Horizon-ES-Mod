@@ -2,8 +2,8 @@
   "ItemType": 101,
   "AbandonedStarbaseFaction": 215,
   "StartingShipBuilds": [
-    3010,
     3020,
+    3010,
     3030
   ],
   "StartingInventory": 12,

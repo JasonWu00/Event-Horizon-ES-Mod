@@ -97,6 +97,77 @@
             "MinValue": -18,
             "Character": 207
           }
+        },
+        {
+          "TargetNode": 50,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -100,
+            "MaxValue": -19,
+            "Character": 207
+          }
+        }
+      ]
+    },
+    {
+      "Id": 100,
+      "Type": 15,
+      "DefaultTransition": 50,
+      "Transitions": [
+        {
+          "TargetNode": 101,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "MaxValue": 1,
+            "Character": 207
+          }
+        },
+        {
+          "TargetNode": 102,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -20,
+            "MaxValue": -1,
+            "Character": 207
+          }
+        }
+      ]
+    },
+    {
+      "Id": 101,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Remnant is Neutral (0)",
+      "Actions": [
+        {
+          "TargetNode": 110,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 102,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Remnant is Hostile (-20 to -1)",
+      "Actions": [
+        {
+          "TargetNode": 110,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 110,
+      "Type": 15,
+      "DefaultTransition": 50,
+      "Transitions": [
+        {
+          "TargetNode": 40,
+          "Requirement": {
+            "Type": 17
+          }
         }
       ]
     }

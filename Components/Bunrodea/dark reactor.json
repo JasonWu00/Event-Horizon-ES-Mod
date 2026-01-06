@@ -11,7 +11,6 @@
   "Icon": "dark reactor.png",
   "Layout": "0000011111111111111100000",
   "CellType": "2",
-  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12
   ]

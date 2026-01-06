@@ -908,7 +908,6 @@ Changelog:
 Changelog:
 - Major Updates
   - Added a custom menu image
-  - Added a number of "faction invasion" missions that occur spontaneously
 - Outfits
   - Quarg
     - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur, Slipstream Projector to Quarg (replacing some older weapons)
@@ -959,6 +958,17 @@ Changelog:
   - Adjusted parameters for many battles (starbase capture, local pirates, etc)
     - Timer now ranges from 90 at 0LY to 30 at 200LY
 
+### 0.16.4 ??? Update
+
+Changelog:
+- Major Updates
+  - Added a "global faction reputation" system
+  - Added a number of "faction invasion" missions that occur spontaneously
+- Outfits
+- Ships
+- Tech
+- Others
+
 ### Update Template
 
 Changelog:
@@ -988,21 +998,22 @@ Changelog:
 - Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
-- Add faction interaction missions and corresponding loot
-  - Faction raids and invasions against each other (e.g. Exiles or Unfettered attacks)
-  - Hunter-killer revenge attacks (after you steal and capture one of their unique ships)
-  - Auto -100 reputation with factions you stole unique ships from
-  - <first> <last> challenging the player, a "worthy adversary", with a doomstack
-  - Beacon node battles between different faction groups
 - Change the Mereti and Sestor to reflect new lore (reputation, renaming)
-- Quests
-  - Invasion quests (planned; Exiles->Wanderers implemented right now; attacker->defender):
+- Faction interaction missions and corresponding loot
+  - Faction raids and invasions against each other (e.g. Exiles or Unfettered attacks)
     - Exiles -> Wanderers, Mereti, Sestor, Hai, Syndicate, Republic, Remnant
     - Pirates -> Merchants, Syndicate, FW
     - Marauders -> FW, Republic, Hai
     - Republic, FW -> Marauders
     - FW, Merchants, Syndicate -> Pirates
     - Possibly "extra large" variants of these quests with more ships at higher light years
+  - Hunter-killer revenge attacks (after reaching a relation limit; includes unique ships)
+    - Auto -100 reputation with factions you stole unique ships from
+  - <first> <last> challenging the player, a "worthy adversary", with a doomstack
   - Random beacon encounters:
-    - Basically the above events, except you only get loot from attacking this or that ships force
+    - Beacon node battles between different faction groups
     - Asteroid mining
+  - Reclaim quests
+    - Various factions attacking stations you took from them
+  - <first> <last>
+    - Undecided as of now

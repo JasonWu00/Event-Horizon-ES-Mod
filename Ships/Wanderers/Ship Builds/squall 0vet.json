@@ -5,7 +5,7 @@
   "BuildFaction": 211,
   "Components": [
     {
-      "ComponentId": 3037,
+      "ComponentId": 9037,
       "X": 13,
       "Y": 3,
       "BarrelId": -1,
@@ -48,14 +48,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3037,
+      "ComponentId": 9037,
       "X": 7,
       "Y": 19,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3037,
+      "ComponentId": 9037,
       "X": 19,
       "Y": 19,
       "BarrelId": -1,
@@ -81,14 +81,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3020,
+      "ComponentId": 9020,
       "X": 7,
       "Y": 22,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3020,
+      "ComponentId": 9020,
       "X": 19,
       "Y": 22,
       "BarrelId": -1,
@@ -107,14 +107,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3018,
+      "ComponentId": 9018,
       "X": 8,
       "Y": 25,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3018,
+      "ComponentId": 9018,
       "X": 19,
       "Y": 25,
       "BarrelId": -1,

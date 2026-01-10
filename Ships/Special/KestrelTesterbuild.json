@@ -23,18 +23,6 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1235,
-      "X": 51,
-      "Y": 22,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 1385,
-      "X": 48,
-      "Y": 26,
-      "BarrelId": -1
-    },
-    {
       "ComponentId": 1387,
       "X": 45,
       "Y": 27,
@@ -62,6 +50,12 @@
       "ComponentId": 1382,
       "X": 52,
       "Y": 33,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1386,
+      "X": 48,
+      "Y": 47,
       "BarrelId": -1
     },
     {

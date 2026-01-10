@@ -90,7 +90,7 @@
       "KeyBinding": 1
     },
     {
-      "ComponentId": 3007,
+      "ComponentId": 9007,
       "X": 9,
       "Y": 14,
       "BarrelId": -1,
@@ -103,7 +103,7 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3007,
+      "ComponentId": 9007,
       "X": 16,
       "Y": 14,
       "BarrelId": -1,

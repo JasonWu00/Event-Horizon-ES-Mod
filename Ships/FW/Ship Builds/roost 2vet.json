@@ -6,25 +6,25 @@
   "BuildFaction": 204,
   "Components": [
     {
-      "ComponentId": 3003,
+      "ComponentId": 9003,
       "X": 13,
       "Y": 7,
       "BarrelId": -1
     },
     {
-      "ComponentId": 3003,
+      "ComponentId": 9003,
       "X": 6,
       "Y": 7,
       "BarrelId": -1
     },
     {
-      "ComponentId": 3003,
+      "ComponentId": 9003,
       "X": 13,
       "Y": 13,
       "BarrelId": -1
     },
     {
-      "ComponentId": 3003,
+      "ComponentId": 9003,
       "Modification": 17,
       "Quality": 5,
       "X": 6,

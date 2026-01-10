@@ -9,18 +9,18 @@ Below is an example of a component file, followed by a description of what each 
 ```json
 {
   "ItemType": 1,
-  "Id": 3004,
+  "Id": 9004,
   "Name": "Boxwing",
   "DisplayCategory": 5,
   "Availability": 2,
-  "ComponentStatsId": 3004,
+  "ComponentStatsId": 9004,
   "Faction": 203,
   "Level": 25,
   "Icon": "boxwing icon.png",
   "Layout": "111111111",
   "CellType": "1",
-  "DroneBayId": 3004,
-  "DroneId": 3004,
+  "DroneBayId": 9004,
+  "DroneId": 9004,
   "PossibleModifications": [
     17,
     18,

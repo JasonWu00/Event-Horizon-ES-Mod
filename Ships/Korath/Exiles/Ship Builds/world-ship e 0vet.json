@@ -29,42 +29,42 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 22,
       "Y": 18,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 42,
       "Y": 18,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 25,
       "Y": 23,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 39,
       "Y": 23,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 28,
       "Y": 24,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 36,
       "Y": 24,
       "BarrelId": -1,
@@ -107,28 +107,28 @@
       "BarrelId": 6
     },
     {
-      "ComponentId": 3038,
+      "ComponentId": 9038,
       "X": 26,
       "Y": 39,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3038,
+      "ComponentId": 9038,
       "X": 38,
       "Y": 39,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3038,
+      "ComponentId": 9038,
       "X": 23,
       "Y": 42,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3038,
+      "ComponentId": 9038,
       "X": 41,
       "Y": 42,
       "BarrelId": -1,
@@ -177,28 +177,28 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 30151,
+      "ComponentId": 90151,
       "X": 26,
       "Y": 56,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 30151,
+      "ComponentId": 90151,
       "X": 29,
       "Y": 56,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 30151,
+      "ComponentId": 90151,
       "X": 35,
       "Y": 56,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 30151,
+      "ComponentId": 90151,
       "X": 38,
       "Y": 56,
       "BarrelId": -1,

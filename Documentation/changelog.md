@@ -958,7 +958,7 @@ Changelog:
   - Adjusted parameters for many battles (starbase capture, local pirates, etc)
     - Timer now ranges from 90 at 0LY to 30 at 200LY
 
-### 0.16.4 ??? Update
+### 0.17.1 ??? Update
 
 Changelog:
 - Major Updates
@@ -979,6 +979,8 @@ Changelog:
 - Others
 
 ### Planned changes:
+- Add 1vet and 2vet variants of all new ships (except drones)
+- Add new Quarg weapons (and some unused old ones) to new and old Quarg builds
 - Add the Flintlock and/or Coffer to Korath Exiles
 - Add the Cicada, Antlion, Scarab, Stag Beetle to Hai
 - Add the Ka'het Aberrants
@@ -986,7 +988,6 @@ Changelog:
 - Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile
 - **Add the new aliens**
-  - Ka'het Aberrants (as separate faction or as Ka'het expansion?)
   - Gegno (all 3 subfactions at once)
   - Vyu-ira and other misc alien ships
   - Successors
@@ -998,7 +999,6 @@ Changelog:
 - Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
-- Change the Mereti and Sestor to reflect new lore (reputation, renaming)
 - Faction interaction missions and corresponding loot
   - Faction raids and invasions against each other (e.g. Exiles or Unfettered attacks)
     - Exiles -> Wanderers, Mereti, Sestor, Hai, Syndicate, Republic, Remnant

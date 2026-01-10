@@ -56,16 +56,16 @@ Kestrel | 1001 | 10001
 Star Fortress | 2000 | 20000
 Heron | 3000 | 30000
 Emerald Sword | 4000 | 40000
-Modified Boxwing | 5001 | 5001
-Modified Vanguard | 5003 | 5003
-Marauder Bactrian | 5004 | 5004
-Ursa Polaris | 5005 | 5005
+Modified Boxwing | 5001 | 50010
+Modified Vanguard | 5003 | 50030
+Marauder Bactrian | 5004 | 50040
+Ursa Polaris | 5005 | 50050
 Black Diamond | 3024
-Shooting Star | 5006
-Navy Battleship | 5007 | 5007
-Lycosidae | 5008 | 5008
-Model 1024 Infected | 5009 | 5009
-Marauder Carrier (Giftbringer) | 5010 | 5010
+Shooting Star | 50060
+Navy Battleship | 5007 | 50070
+Lycosidae | 5008 | 50080
+Model 1024 Infected | 5009 | 50090
+Marauder Carrier (Giftbringer) | 5010 | 50100
 
 First unusued quest ID for special ships:
 
@@ -1006,7 +1006,7 @@ Embersylph 2 | 458 | 4580-4582
 Squid | 459 | 4590-4592
 Boomerang | 460 | 4600-4602
 Plankton | 461 | 4610-4612
-Archon | 5000 | 50000
+Archon | 5000 | 50000, 50001
 Antimatter Cannon | 1349
 AM Field | 1350
 Distancer | 1334
@@ -1109,7 +1109,7 @@ First unused IDs:
 --- | ---
 Component | 1453
 Ship | 560
-Drone | 3040
+Drone | 9040
 Quest | 1049
 
 Some ships have baked-in stat boosts or debuffs based on lore reasons.

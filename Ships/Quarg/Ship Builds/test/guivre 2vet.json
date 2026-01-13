@@ -54,7 +54,37 @@
     },
     {
       "ComponentId": 1387,
+      "X": 8,
+      "Y": 10,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1387,
+      "X": 23,
+      "Y": 10,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1387,
       "X": 10,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 69,
+      "X": 16,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 69,
+      "X": 17,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 69,
+      "X": 18,
       "Y": 12,
       "BarrelId": -1
     },
@@ -77,14 +107,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1401,
-      "X": 10,
+      "ComponentId": 1432,
+      "X": 9,
       "Y": 21,
       "BarrelId": 1,
       "KeyBinding": 1
     },
     {
-      "ComponentId": 1401,
+      "ComponentId": 1432,
       "X": 23,
       "Y": 21,
       "BarrelId": 2,
@@ -103,6 +133,12 @@
       "BarrelId": -1
     },
     {
+      "ComponentId": 2110,
+      "X": 16,
+      "Y": 24,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 1239,
       "X": 13,
       "Y": 27,
@@ -114,5 +150,6 @@
       "Y": 27,
       "BarrelId": -1
     }
-  ]
+  ],
+  "Perks": {}
 }

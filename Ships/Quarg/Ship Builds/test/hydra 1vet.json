@@ -142,21 +142,58 @@
       "KeyBinding": -2
     },
     {
+      "ComponentId": 7000,
+      "X": 21,
+      "Y": 25,
+      "BarrelId": -1,
+      "KeyBinding": 3
+    },
+    {
       "ComponentId": 2100,
-      "X": 18,
-      "Y": 26,
+      "X": 17,
+      "Y": 27,
       "BarrelId": -1
     },
     {
       "ComponentId": 2100,
-      "X": 23,
-      "Y": 26,
+      "X": 24,
+      "Y": 27,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2110,
+      "X": 21,
+      "Y": 28,
       "BarrelId": -1
     },
     {
       "ComponentId": 1388,
       "X": 20,
       "Y": 31,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 71,
+      "X": 18,
+      "Y": 35,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 71,
+      "X": 25,
+      "Y": 35,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 71,
+      "X": 20,
+      "Y": 36,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 71,
+      "X": 23,
+      "Y": 36,
       "BarrelId": -1
     },
     {
@@ -171,5 +208,6 @@
       "Y": 37,
       "BarrelId": -1
     }
-  ]
+  ],
+  "Perks": {}
 }

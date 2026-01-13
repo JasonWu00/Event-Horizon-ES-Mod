@@ -6,11 +6,11 @@
   "BuildFaction": 213,
   "Components": [
     {
-      "ComponentId": 2223,
+      "ComponentId": 2224,
       "X": 7
     },
     {
-      "ComponentId": 2223,
+      "ComponentId": 2224,
       "X": 10,
       "BarrelId": 1
     },
@@ -21,28 +21,52 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 2223,
+      "ComponentId": 2224,
       "X": 5,
       "Y": 2,
       "BarrelId": 2
     },
     {
-      "ComponentId": 2223,
+      "ComponentId": 2224,
       "X": 12,
       "Y": 2,
       "BarrelId": 3
     },
     {
-      "ComponentId": 2223,
+      "ComponentId": 2224,
       "X": 3,
       "Y": 4,
       "BarrelId": 4
     },
     {
-      "ComponentId": 2223,
+      "ComponentId": 1164,
+      "X": 5,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "X": 12,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2224,
       "X": 14,
       "Y": 4,
       "BarrelId": 5
+    },
+    {
+      "ComponentId": 1156,
+      "X": 7,
+      "Y": 5,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1156,
+      "X": 10,
+      "Y": 5,
+      "BarrelId": -1
     },
     {
       "ComponentId": 2100,
@@ -68,5 +92,6 @@
       "Y": 15,
       "BarrelId": -1
     }
-  ]
+  ],
+  "Perks": {}
 }

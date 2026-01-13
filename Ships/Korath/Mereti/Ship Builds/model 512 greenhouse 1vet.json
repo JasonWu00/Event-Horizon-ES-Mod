@@ -91,14 +91,20 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1157,
-      "X": 15,
-      "Y": 11,
+      "ComponentId": 71,
+      "X": 14,
+      "Y": 10,
       "BarrelId": -1
     },
     {
-      "ComponentId": 1157,
-      "X": 24,
+      "ComponentId": 71,
+      "X": 26,
+      "Y": 10,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 71,
+      "X": 16,
       "Y": 11,
       "BarrelId": -1
     },
@@ -109,11 +115,41 @@
       "BarrelId": -1
     },
     {
+      "ComponentId": 2110,
+      "X": 12,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1291,
+      "X": 15,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1157,
+      "X": 24,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2110,
+      "X": 27,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 1230,
       "X": 31,
       "Y": 12,
       "BarrelId": 4,
       "KeyBinding": 1
+    },
+    {
+      "ComponentId": 71,
+      "X": 10,
+      "Y": 14,
+      "BarrelId": -1
     },
     {
       "ComponentId": 1230,
@@ -156,6 +192,18 @@
       "BarrelId": -1
     },
     {
+      "ComponentId": 2110,
+      "X": 11,
+      "Y": 26,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1157,
+      "X": 14,
+      "Y": 26,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 1195,
       "X": 2,
       "Y": 27,
@@ -167,12 +215,6 @@
       "Y": 27,
       "BarrelId": 7,
       "KeyBinding": 2
-    },
-    {
-      "ComponentId": 1157,
-      "X": 14,
-      "Y": 27,
-      "BarrelId": -1
     },
     {
       "ComponentId": 1163,
@@ -187,9 +229,21 @@
       "BarrelId": -1
     },
     {
+      "ComponentId": 2110,
+      "X": 26,
+      "Y": 27,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 1194,
       "X": 32,
       "Y": 27,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 71,
+      "X": 13,
+      "Y": 29,
       "BarrelId": -1
     },
     {
@@ -236,6 +290,12 @@
       "KeyBinding": 2
     },
     {
+      "ComponentId": 1166,
+      "X": 20,
+      "Y": 33,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 1435,
       "X": 27,
       "Y": 33,
@@ -265,5 +325,6 @@
       "Y": 35,
       "BarrelId": -1
     }
-  ]
+  ],
+  "Perks": {}
 }

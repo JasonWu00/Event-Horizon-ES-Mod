@@ -946,6 +946,7 @@ Changelog:
   - Changed Kestrel's sprite
   - Downgraded TF 109 (Battleship -> Cruiser)
   - Updated all Exiles, Mereti, and Sestor builds with Fuel Processors in place of Large Fuel Cells
+  - Adjusted FW Dreadnought's energy reserves
 - Tech
   - Added a missing tech for the Small Recovery Module for Trisolar Coalition
 - Others

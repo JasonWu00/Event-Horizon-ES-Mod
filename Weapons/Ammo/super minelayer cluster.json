@@ -19,7 +19,8 @@
       "EffectType": 2,
       "Ammunition": 3228,
       "Color": "#00000000",
-      "Quantity": 10
+      "Quantity": 10,
+      "RandomFactor": 1.0
     },
     {
       "Condition": 5,

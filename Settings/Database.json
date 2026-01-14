@@ -2,6 +2,5 @@
   "ItemType": 102,
   "DatabaseVersion": 1,
   "DatabaseVersionMinor": 7,
-  "ModName": "Endless Sky",
-  "UnloadOriginalDatabase": true
+  "ModName": "Endless Sky"
 }

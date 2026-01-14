@@ -928,6 +928,7 @@ Changelog:
   - Increased Heliarch Attractor range from 62 to 64
   - Added a missing tech file for the Small Recovery Module
   - Fixed a broken sound effect on the Ember Tear
+  - Halved passive energy consumption of all modded drones
 - Ships
   - **Added descriptions to a large number of ships**
   - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest

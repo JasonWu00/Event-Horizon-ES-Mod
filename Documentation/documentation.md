@@ -136,6 +136,7 @@ Shield generation | Shield health / 10
 Shield gen energy cost | (Shield energy + energy consumption, per second) / size
 Hull regeneration | Regen / size
 Pug ship stat blocks | Shield, health / 25; 5% shield -> regen
+Ramscoop energy regen | 10 * ramscoop / outfit size
 
 Determining stats:
 
@@ -224,6 +225,7 @@ KP-6 Photovoltaic Panel | 1412
 PK-6 Photovoltaic Array | 1413
 Volcano Afterburner | 1409
 Hauler 6 | 517 | 5170-5172
+Ramscoop | 1453
 
 Pirates
 
@@ -370,6 +372,7 @@ Heavy Rocket Turret | 1378
 Caldera Afterburner | 1410
 Proton Punt Gun | 1394
 Proton Punt Cannon | 1395
+Catalytic Ramscoop | 1454
 
 Republic
 
@@ -526,6 +529,7 @@ Robin | 483 | 4830-4832
 Merganser | 484 | 4840-4842
 Hobby | 513 | 5130-5132
 EMP Torpedo Rack | 1426
+Emergency Ramscoop | 1455
 
 Coalition
 
@@ -801,6 +805,7 @@ Heavy Gust | 515 | 5150-5152
 Abyssal Stream | 516 | 5160-5162
 Squall | 526 | 5260-5262
 Hailstone | 3037
+Wanderers Ramscoop | 1456
 
 Sestor Federation
 

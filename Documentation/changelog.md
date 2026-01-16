@@ -918,9 +918,10 @@ Changelog:
       - Ergosphere Core: Energy per cell: 42 -> 17.625; heat per cell: 0.2 -> 0.0675; mass per cell: 25 -> 100
       - Blazar Core: Energy per cell: 39.5 -> 18.75; heat per cell: 0.221 -> 0.07; mass per cell: 25 -> 100
   - Korath (Exiles, Sestor, Mereti)
-    - Added the Fuel Processor and Chaser Expeller to Korath Exiles
+    - Added Chaser Expeller to Korath Exiles
     - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
     - Changed names for some Sestor drones to reflect their full Korath names
+  - Added the Fuel Processor, Ramscoop, Catalytic Ramscoop, and Wanderer Ramscoop to their respective factions
   - Adjusted the Sentinel Reactor for Syndicated Systems
   - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
   - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
@@ -982,6 +983,8 @@ Changelog:
 - Others
 
 ### Planned changes:
+- Add ramscoops as blue-slot energy recovery outfits
+- Add Korath afterburners (and maybe reversers too?)
 - Add 1vet and 2vet variants of all new ships (except drones)
 - Add new Quarg weapons (and some unused old ones) to new and old Quarg builds
 - Add the Flintlock and/or Coffer to Korath Exiles

@@ -3,6 +3,7 @@
   "Id": 497,
   "ShipRarity": 1,
   "Name": "Drake",
+  "Description": "The Drake is an older ship used by the Quarg for reconnaissance and initial contact with emerging spacefaring species. A popular legend states that a Drake surveyed Sol while humans began to discover spaceflight.",
   "Faction": 214,
   "IconImage": "drake icon.png",
   "IconScale": 1.0,

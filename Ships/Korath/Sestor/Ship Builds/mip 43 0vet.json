@@ -1,0 +1,72 @@
+{
+  "ItemType": 8,
+  "Id": 5320,
+  "ShipId": 532,
+  "BuildFaction": 213,
+  "Components": [
+    {
+      "ComponentId": 2223,
+      "X": 7
+    },
+    {
+      "ComponentId": 2223,
+      "X": 10,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 1162,
+      "X": 7,
+      "Y": 1,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2223,
+      "X": 5,
+      "Y": 2,
+      "BarrelId": 2
+    },
+    {
+      "ComponentId": 2223,
+      "X": 12,
+      "Y": 2,
+      "BarrelId": 3
+    },
+    {
+      "ComponentId": 2223,
+      "X": 3,
+      "Y": 4,
+      "BarrelId": 4
+    },
+    {
+      "ComponentId": 2223,
+      "X": 14,
+      "Y": 4,
+      "BarrelId": 5
+    },
+    {
+      "ComponentId": 2100,
+      "X": 3,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1166,
+      "X": 12,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1190,
+      "X": 5,
+      "Y": 15,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1191,
+      "X": 11,
+      "Y": 15,
+      "BarrelId": -1
+    }
+  ],
+  "Perks": {}
+}

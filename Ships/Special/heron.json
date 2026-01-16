@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 4,
   "Name": "Heron",
+  "Description": "The Heron is the Remnant's ultimate last resort: Flight. These mobile starports are built to serve as the core elements of evacuation fleets when the Remnant are ultimately pushed to the brink of destruction in their home systems. These massive ships are capable of lifting enormous amounts of resources and operate both in space and on land, and are continuously updated to make full use of the latest technological innovations.",
   "Faction": 207,
   "IconImage": "heron.png",
   "IconScale": 1.0,

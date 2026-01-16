@@ -18,15 +18,7 @@ The first few versions were released informally on the official Discord server f
 
 Note that the account uploading to the itch.io page uses a personal username instead of my actual name. This is because I was initially not keen on allowing random people on the Internet to know my real name.
 
-## Questions
-
-Q: "This isn't technically impressive. It doesn't show off any flashy or marketable skills. Why are you showing this to us?"
-
-A: It's work that I am proud of.
-
-Q: "What do all of these `.json` files do?"
-
-A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly can, but it is a bit of a long read.
+1000th commit to this GitHub repo pushed on 00:00 EST, December 7, 2025.
 
 ## Installation instructions
 

@@ -21,8 +21,8 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "Our [guards, patrols] report a mass of Korath Mereti ships approaching our [heartland, homeland]. We require your aid to [halt, stop] them.",
-      "Character": 1047,
+      "Message": "Our [guards, patrols] report a mass of rogue Mereti drones approaching our [heartland, homeland]. We require your aid to [halt, stop] them.",
+      "Character": 211,
       "Actions": [
         {
           "TargetNode": 2,
@@ -49,7 +49,7 @@
       "Type": 10,
       "Message": "[repel, drive out] these invaders.",
       "Enemy": 1047,
-      "Character": 1047,
+      "Character": 211,
       "Actions": [
         {
           "TargetNode": 4,
@@ -80,7 +80,7 @@
       "Id": 5,
       "Type": 10,
       "Message": "We are grateful for your [service, sacrifice].",
-      "Character": 1047,
+      "Character": 211,
       "Actions": [
         {
           "TargetNode": 7,
@@ -92,7 +92,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "This [bodes ill, bodes poorly] for us.",
-      "Character": 1047,
+      "Character": 211,
       "Actions": [
         {
           "TargetNode": 8,

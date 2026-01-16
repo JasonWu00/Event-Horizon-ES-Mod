@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 11,
   "Name": "Aluminium",
+  "Description": "Lightweight and rust resistant, aluminum is often used for the hulls of civilian spacecraft that do not need to be able to stand up to prolonged weapons fire.",
   "Icon": "aluminium.png",
   "Price": 125
 }

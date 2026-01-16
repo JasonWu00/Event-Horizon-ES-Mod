@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 566,
+  "ShipType": 3,
+  "ShipRarity": 3,
+  "SizeClass": 4,
+  "Name": "Asteroid",
+  "Description": "???",
+  "Faction": 222,
+  "IconImage": "medium rock asteroid.png",
+  "IconScale": 1.0,
+  "ModelImage": "medium rock asteroid.png",
+  "ModelScale": 4.0,
+  "EngineColor": "#E915E5",
+  "Layout": "0000000000000000000000000000333330000000000000033333330000000000033333333330000000003333333333330000000033333333333330000003333333333333300000033333333333333000000333333333333330000033333333333333300000333333333333333000003333333333333330000003333333333333300000003333333333330000000033333333333000000000033333333300000000000003333300000000000000000000000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.35
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "ArmorBonus": 0.5
+  }
+}

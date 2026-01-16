@@ -1,0 +1,7 @@
+{
+  "ItemType": 30,
+  "Id": 100000,
+  "InitialEnemyShips": "50",
+  "MaxEnemyShips": "50",
+  "TimeLimit": "MAX(30, 90 - level/3.33)"
+}

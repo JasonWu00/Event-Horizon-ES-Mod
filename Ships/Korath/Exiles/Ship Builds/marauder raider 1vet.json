@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1389,
+  "Id": 4301,
   "ShipId": 430,
   "DifficultyClass": 1,
   "BuildFaction": 209,
@@ -155,7 +155,7 @@
       "KeyBinding": 3
     },
     {
-      "ComponentId": 65,
+      "ComponentId": 1435,
       "Modification": 9,
       "Quality": 5,
       "X": 17,
@@ -164,7 +164,7 @@
       "KeyBinding": 3
     },
     {
-      "ComponentId": 65,
+      "ComponentId": 1435,
       "Modification": 9,
       "Quality": 5,
       "X": 9,

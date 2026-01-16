@@ -3,6 +3,7 @@
   "Id": 384,
   "SizeClass": 1,
   "Name": "Neutralizer",
+  "Description": "The most common Heliarch patrol ship, Neutralizers are designed to be just strong enough to keep an enemy vessel occupied until reinforcements can arrive.",
   "Faction": 208,
   "IconImage": "neutralizer icon.png",
   "IconScale": 1.0,

@@ -3,6 +3,7 @@
   "Id": 318,
   "SizeClass": 2,
   "Name": "Star Queen",
+  "Description": "The Star Queen is a relic of a more peaceful period of galactic history: a luxury liner for high-end tourists. Every cabin has its own mini-bar, and the bathrooms have marble tile and showers that use actual hot water instead of chemicals or sonic vibrations.",
   "Faction": 201,
   "IconImage": "star queen icon.png",
   "IconScale": 1.0,

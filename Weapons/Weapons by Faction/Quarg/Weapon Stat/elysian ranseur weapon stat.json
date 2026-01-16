@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1403,
+  "FireRate": 0.6,
+  "ActivationType": 1,
+  "ShotSound": "ranseur",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_shot"
+}

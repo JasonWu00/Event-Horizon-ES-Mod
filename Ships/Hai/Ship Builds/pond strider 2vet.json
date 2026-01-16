@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1186,
+  "Id": 3622,
   "ShipId": 362,
   "DifficultyClass": 2,
   "BuildFaction": 206,
@@ -34,56 +34,56 @@
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 15,
       "Y": 10,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 8,
       "Y": 10,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 15,
       "Y": 12,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 8,
       "Y": 12,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 8,
       "Y": 14,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 8,
       "Y": 19,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 15,
       "Y": 19,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 15,
       "Y": 14,
       "BarrelId": -1,
@@ -201,14 +201,14 @@
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 9,
       "Y": 4,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3008,
+      "ComponentId": 9008,
       "X": 14,
       "Y": 4,
       "BarrelId": -1,

@@ -3,6 +3,7 @@
   "Id": 393,
   "SizeClass": 3,
   "Name": "Telis'het",
+  "Description": "When the Builders designed the exoskeleton of the Telis, they came to the conclusion that it would have been impossible to make it resilient enough without compromising its agility and integrity. Instead, they focused heavily on improving their shield technology, giving the Telis many of their regenerators.",
   "Faction": 210,
   "IconImage": "telis'het icon.png",
   "IconScale": 1.0,

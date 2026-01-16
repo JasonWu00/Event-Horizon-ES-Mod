@@ -2,9 +2,9 @@
   "ItemType": 101,
   "AbandonedStarbaseFaction": 215,
   "StartingShipBuilds": [
-    1001,
-    1004,
-    1007
+    3020,
+    3010,
+    3030
   ],
   "StartingInventory": 12,
   "SupporterPackShip": 92,

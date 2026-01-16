@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1138,
+  "Id": 3462,
   "ShipId": 346,
   "DifficultyClass": 2,
   "BuildFaction": 205,
@@ -38,6 +38,8 @@
     },
     {
       "ComponentId": 1052,
+      "Modification": 12,
+      "Quality": 5,
       "X": 6,
       "Y": 9,
       "BarrelId": -1

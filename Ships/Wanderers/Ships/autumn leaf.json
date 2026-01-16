@@ -3,6 +3,7 @@
   "Id": 400,
   "SizeClass": 1,
   "Name": "Autumn Leaf",
+  "Description": "The Autumn Leaf is based on the Wanderer Summer Leaf light warship, but slightly larger and better equipped for combat. Unlike Wanderer peacetime ships, it is equipped with a turret mount in addition to the ports for fixed guns.",
   "Faction": 211,
   "IconImage": "autumn leaf icon.png",
   "IconScale": 1.0,

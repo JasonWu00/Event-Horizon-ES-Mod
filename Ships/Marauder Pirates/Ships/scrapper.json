@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 443,
   "Name": "Scrapper",
+  "Description": "Rather than being a specific model of ship, the Scrappers are instead a family of vessels cobbled together from the remains of broken shuttles. On the rare occasion that Republic authorities bother to recognize their existence, Scrappers are treated as almost-illegal, patent-infringing death traps. Despite this, these ships are where many captains (and pirates) from poorer backgrounds get their start.",
   "Faction": 219,
   "IconImage": "scrapper icon.png",
   "IconScale": 0.75,

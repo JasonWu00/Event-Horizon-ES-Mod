@@ -3,6 +3,7 @@
   "Id": 399,
   "SizeClass": 1,
   "Name": "Summer Leaf",
+  "Description": "The Summer Leaf is mostly used by the Wanderers as a light transport, but it is also quite effective in combat.",
   "Faction": 211,
   "IconImage": "summer leaf icon.png",
   "IconScale": 1.0,

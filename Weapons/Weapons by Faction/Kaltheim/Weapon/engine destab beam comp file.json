@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 2329,
+  "Name": "Engine Destabilizer Beam",
+  "Description": "Kaltheim ships have frequently had problems with preventing enemy ships from jumping into hyperspace; while Phase Missiles are somewhat effective, they are also rather expensive and can be foiled by anti-missile systems. As a result, the Engine Destabiliser was built, designed to mess with the output of the target's engines, making their main thrusters and steering ineffective for a time. The Destabiliser also has the side effect of the target ship being thrown off into space once the weapon's effects begin to recede.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 220,
+  "Level": 450,
+  "Icon": "destabilizer.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2329,
+  "AmmunitionId": 2329,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

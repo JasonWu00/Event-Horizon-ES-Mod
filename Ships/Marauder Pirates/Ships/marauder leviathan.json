@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Marauder Leviathan",
+  "Description": "The Betelgeuse Shipyards Leviathan has been in service for a long time, and captains have had some very interesting ideas about how to modify them for optimum performance. This one has had the hull surface completely stripped and replaced, with the new layout containing more shield projectors per square meter.",
   "Faction": 219,
   "IconImage": "marauder leviathan icon.png",
   "IconScale": 1.0,

@@ -22,7 +22,7 @@
       "Id": 1,
       "Type": 10,
       "Message": "Some Merchant Alliance ships escaped our ambush earlier. Go clean them up and we might let you keep some loot.",
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 2,
@@ -49,7 +49,7 @@
       "Type": 10,
       "Message": "There they are. Get them!",
       "Enemy": 1043,
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 4,
@@ -81,7 +81,7 @@
       "Type": 10,
       "Message": "Excellent work. Here's some of the loot we recovered from the ships. It's all yours.",
       "Loot": 1043,
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 15,
@@ -93,7 +93,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "Look what you have done.",
-      "Character": 1043,
+      "Character": 202,
       "Actions": [
         {
           "TargetNode": 8,

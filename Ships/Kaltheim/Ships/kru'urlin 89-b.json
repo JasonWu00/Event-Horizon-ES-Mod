@@ -3,6 +3,7 @@
   "Id": 451,
   "SizeClass": 2,
   "Name": "Kru'urlin 89-B",
+  "Description": "The Kru'urlin 89-B is a small Kaltheim warship, designed to be able to hop in and out of systems quickly in order to somewhat shred defences before the larger warships arrive.",
   "Faction": 220,
   "IconImage": "Kru'urlin 89-B.png",
   "IconScale": 1.0,
@@ -53,6 +54,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

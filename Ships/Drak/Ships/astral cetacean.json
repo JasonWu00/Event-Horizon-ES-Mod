@@ -3,6 +3,7 @@
   "Id": 465,
   "SizeClass": 3,
   "Name": "Astral Cetacean",
+  "Description": "Only a few captains have had the chance to observe this illustrious creature. Its natural attenuation to the depths of space allows it to travel beyond where most ships are able, and its appearance reflects both the beauty and mystery of the void itself.",
   "Faction": 215,
   "IconImage": "astral cetacean.png",
   "IconScale": 1.0,

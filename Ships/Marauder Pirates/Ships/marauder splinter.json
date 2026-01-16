@@ -3,6 +3,7 @@
   "Id": 440,
   "SizeClass": 3,
   "Name": "Marauder Splinter",
+  "Description": "The Splinter is the largest warship produced by Megaparsec. Apparently someone wanted a bit more out of it, and has covered large sections of the hull with extra shield emitters and hull plating. Much of the stock cargo space has been converted to outfit, weapons, and engines space; coupled with a streamlining of existing internal systems, it makes this warship an agile and flexible war machine.",
   "Faction": 219,
   "IconImage": "marauder splinter icon.png",
   "IconScale": 1.0,

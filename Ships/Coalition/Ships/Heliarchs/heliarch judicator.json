@@ -3,6 +3,7 @@
   "Id": 387,
   "SizeClass": 3,
   "Name": "Judicator",
+  "Description": "During their time battling the Quarg, the Coalition focused on producing the strongest, toughest warships they could, so fightercraft were out of the question. Now, however, the Heliarch's shield matrix and hull integrity technology is much more advanced, and they have recently experimented with such ships. The Judicator was made for transportation of these new fighters.",
   "Faction": 208,
   "IconImage": "judicator icon.png",
   "IconScale": 1.0,

@@ -1,0 +1,27 @@
+{
+  "ItemType": 8,
+  "Id": 5680,
+  "ShipId": 568,
+  "BuildFaction": 222,
+  "Components": [
+    {
+      "ComponentId": 2100,
+      "X": 11,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2100,
+      "X": 2,
+      "Y": 7,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2100,
+      "X": 13,
+      "Y": 10,
+      "BarrelId": -1
+    }
+  ],
+  "Perks": {}
+}

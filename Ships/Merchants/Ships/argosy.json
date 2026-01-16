@@ -3,6 +3,7 @@
   "Id": 311,
   "SizeClass": 1,
   "Name": "Argosy",
+  "Description": "The Argosy from Southbound Shipyards is very popular with merchants not because of its capacity, which is actually slightly smaller than the Syndicate Freighter, but because it can hold its own in combat even against a small pirate fleet.",
   "Faction": 201,
   "IconImage": "argosy icon.png",
   "IconScale": 0.75,

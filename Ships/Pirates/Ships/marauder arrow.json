@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 324,
   "Name": "Marauder Arrow",
+  "Description": "This Arrow has had numerous modifications to its hull and internal systems to make more room for outfits - mostly with combat in mind. More shields, weapons, engines, outfit space, and a turret mount nearly push this ship into classification as a light warship, and definitely make it one of the heaviest interceptors you're likely to find.",
   "Faction": 202,
   "IconImage": "marauder arrow icon.png",
   "IconScale": 0.75,

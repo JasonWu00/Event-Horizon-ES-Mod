@@ -3,6 +3,7 @@
   "Id": 433,
   "SizeClass": 1,
   "Name": "Shipper",
+  "Description": "The Shipper is a vessel of old design, used by the Korath mainly for exploration and to transport small groups of people. Only a small number of Shippers is still produced, and even fewer are being actively used as transport. The Exiles, faced with a vast variety of new alien species to raid, has pressed the remaining few into service as makeshift warships and loot haulers.",
   "Faction": 209,
   "IconImage": "shipper icon.png",
   "IconScale": 1.0,

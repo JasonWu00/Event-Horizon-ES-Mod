@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1579,
+  "Id": 4891,
   "ShipId": 489,
   "DifficultyClass": 1,
   "BuildFaction": 212,
@@ -184,7 +184,7 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3034,
+      "ComponentId": 9034,
       "X": 28,
       "Y": 34,
       "BarrelId": -1,
@@ -245,14 +245,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3034,
+      "ComponentId": 9034,
       "X": 29,
       "Y": 38,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3034,
+      "ComponentId": 9034,
       "X": 27,
       "Y": 7,
       "BarrelId": -1,

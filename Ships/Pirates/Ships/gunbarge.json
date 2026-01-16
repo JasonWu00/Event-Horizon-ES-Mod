@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 511,
   "Name": "Gunbarge",
+  "Description": "Captured Star Barges are sometimes refitted into Gun Barges to act as cheap weapon platform, often to quickly buff up a gang's firepower for an upcoming fight against a rival or to repel Republic Navy patrols. In rare cases, Gunbarges can be seen harassing just-as-slow freighters in the wild; in rarer cases, they might survive the encounter.",
   "Faction": 202,
   "IconImage": "imv gunbarge icon.png",
   "IconScale": 0.5,

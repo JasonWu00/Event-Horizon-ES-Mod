@@ -11,9 +11,7 @@
   "Layout": "111111111",
   "CellType": "2",
   "DeviceId": 7000,
-  "Restrictions": {
-    "UniqueComponentTag": "teleporter"
-  },
+  "Restrictions": {},
   "PossibleModifications": [
     2,
     6

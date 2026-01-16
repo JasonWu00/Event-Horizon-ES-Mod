@@ -3,6 +3,7 @@
   "Id": 512,
   "SizeClass": 1,
   "Name": "Pirate Freighter",
+  "Description": "Up-armoured, up-armed Freighter made by a pirate warlord who happens to have captured too many Freighters - to the point where the shipyard refused to buy them off him. He turned surplus Freighters into warship to be used as a rear guard for his fleet, covering their escape route while faster ships in the fleet do the plundering. Some were also sold to other pirates.",
   "Faction": 202,
   "IconImage": "imv pirate freighter icon.png",
   "IconScale": 0.75,

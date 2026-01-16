@@ -1,0 +1,55 @@
+{
+  "ItemType": 26,
+  "Id": 7000,
+  "Elements": [
+    {
+      "Image": "jump drive red^0.png",
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^1.png",
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^2.png",
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^3.png",
+      "StartTime": 0.3,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^4.png",
+      "StartTime": 0.4,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^5.png",
+      "StartTime": 0.5,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^6.png",
+      "StartTime": 0.6,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive red^7.png",
+      "StartTime": 0.7,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "jump drive+0.png",
+      "StartTime": 0.05,
+      "Lifetime": 0.4
+    },
+    {
+      "Image": "jump drive+1.png",
+      "StartTime": 0.45,
+      "Lifetime": 0.4
+    }
+  ]
+}

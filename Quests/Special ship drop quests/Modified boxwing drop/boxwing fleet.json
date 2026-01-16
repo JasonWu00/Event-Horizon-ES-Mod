@@ -5,8 +5,8 @@
   "NoRandomShips": true,
   "CombatTimeLimit": 1,
   "SpecificShips": [
-    5001,
-    5001,
-    5001
+    50010,
+    50010,
+    50010
   ]
 }

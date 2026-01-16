@@ -3,6 +3,7 @@
   "Id": 434,
   "SizeClass": 2,
   "Name": "Courier",
+  "Description": "During the first stages of their civil war, the Korath developed this autonomous freighter as the backbone of their deliveries across their space. Today, hundreds of years after the end of the war that nearly brought their species to an extinction, most of the remaining Couriers are being used by the Korath Efret together with their World-Ships. These Couriers carry drones instead of cargo in their bays, to be released to support Exile raiding parties",
   "Faction": 209,
   "IconImage": "courier icon.png",
   "IconScale": 1.0,

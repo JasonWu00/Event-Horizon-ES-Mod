@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 304,
   "Name": "Heavy Shuttle",
+  "Description": "The Heavy Shuttle is an updated shuttle model from Betelgeuse Shipyards, attempting to improve on their perennial classic by offering slightly better cargo and passenger capacity, at the expense of some speed and maneuverability.",
   "Faction": 201,
   "IconImage": "heavy shuttle icon.png",
   "IconScale": 0.5,

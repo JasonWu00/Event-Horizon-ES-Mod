@@ -3,6 +3,7 @@
   "Id": 473,
   "SizeClass": 2,
   "Name": "Kunai",
+  "Description": "The Kunai is the smallest of the Bunrodea's gunships, warships which focus heavily on the power of their forward-facing guns. Lacking any turret mounts and focusing more on turning quickly than traveling fast, the Kunai is highly susceptible to missile weaponry and must rely on other ships in the fleet to carry anti-missile turrets.",
   "Faction": 221,
   "IconImage": "kunai icon.png",
   "IconScale": 1.0,

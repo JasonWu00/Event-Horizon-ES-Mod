@@ -4,6 +4,7 @@
   "ShipType": 3,
   "SizeClass": 4,
   "Name": "Arfecta",
+  "Description": "This is a Pug \"tier 3\" warship, intended for use in combat against either a species on par with the Quarg, or a lesser species that has decided to be particularly meddlesome.",
   "Faction": 216,
   "IconImage": "arfecta icon.png",
   "IconScale": 1.0,

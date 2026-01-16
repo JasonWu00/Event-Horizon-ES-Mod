@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1575,
+  "Id": 4880,
   "ShipId": 488,
   "BuildFaction": 209,
   "Components": [
@@ -12,7 +12,7 @@
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 12,
       "Y": 8,
       "BarrelId": -1
@@ -71,28 +71,28 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 12,
       "Y": 24,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 18,
       "Y": 24,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 12,
       "Y": 21,
       "BarrelId": -1,
       "KeyBinding": -2
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 18,
       "Y": 21,
       "BarrelId": -1,
@@ -111,7 +111,7 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 3015,
+      "ComponentId": 9015,
       "X": 18,
       "Y": 8,
       "BarrelId": -1

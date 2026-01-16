@@ -1,0 +1,62 @@
+{
+  "ItemType": 6,
+  "Id": 518,
+  "ShipRarity": 1,
+  "Name": "Wardrake",
+  "Description": "The Quarg, learning closely from their defeat at the hands of the proto-Heliarchs, drafted a successor design fitting a more battle-ready format.",
+  "Faction": 214,
+  "IconImage": "wardrake icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "wardrake.png",
+  "ModelScale": 4.5,
+  "EngineColor": "#B200FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.35
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.35
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000110110000000000000000000011011000000000000000000001101100000000000000000001122211000000000000000000112221100000000000000000011222110000000000000010001144411000100000000011000114441100011000000001100011444110001100000000111002222222001110000000011100222222200111000000001110022222220011100000001444112222222114441000000044411224442211444000000004441122444221144400000000111112244422111110000000011111122222111111000000000110112222211011000000000011011222221101100000000000101122222110100000000000000112222211000000000000000005552555000000000000000000555055500000000000000000055505550000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.6
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.6
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.1
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

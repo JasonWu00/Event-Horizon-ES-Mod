@@ -4,7 +4,7 @@
   "Body": {
     "Size": 1.0,
     "AttachedToParent": true,
-    "Range": 62.0,
+    "Range": 64.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1148,
     "EnergyCost": 6.0,

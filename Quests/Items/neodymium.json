@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 7,
   "Name": "Neodymium",
+  "Description": "One of the most abundant of the rare earth elements, neodymium is used to make strongly magnetic alloys for use in engines and generators",
   "Icon": "neodymium.png",
   "Price": 250
 }

@@ -1,0 +1,55 @@
+{
+  "ItemType": 6,
+  "Id": 9039,
+  "ShipType": 1,
+  "Name": "Met Par Tek 41",
+  "Description": "Centuries ago, the emergence of the Scatter Mine means that a small Mereti squadron could defeat a massive Sestor fighter swarm with ease. To remedy this, the Sestor created the Met Par Tek 41 to combat this problem. Equipped with a Warder Anti-Missile, the MPT-41 would jump into the battlefield, clear the mines around it, before accompanying Sestor carriers would deploy their fighters. However, its impact on the battlefield would be quickly proven to be limited, as the low shield and hull integrity of the MPT-41 means that the Mereti could destroy the minesweeping ship quickly before the Warder could clear much of the minefields. When its successor, the Met Par Tek 53, entered production, the MPT-41 was quickly taken out of service.\n\nThe comparably low mass and high speed of the SL-41 design, however, would later prove to be key in future developments, as their designers would use it as a base to develop the next generation of Sestor parasite spacecraft, the FL-14 and FS-27, both of which still remain heavily in use in the Sestor navy up to this day.",
+  "Faction": 213,
+  "IconImage": "mpt 41.png",
+  "IconScale": 1.0,
+  "ModelImage": "mpt 41.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#7DEF9F0F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000110110000000044044000000004404400000001122211000000112221100000011222110000001144411000000114441100000111444111000011122211100000112221100000001525100000000505050000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

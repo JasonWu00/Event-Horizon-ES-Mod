@@ -3,6 +3,7 @@
   "Id": 312,
   "SizeClass": 1,
   "Name": "Freighter",
+  "Description": "The Freighter is designed by the Syndicate to be an efficient means of carrying cargo from system to system, but is so slow and difficult to land that most pilots hate flying them.",
   "Faction": 201,
   "IconImage": "freighter icon.png",
   "IconScale": 0.75,

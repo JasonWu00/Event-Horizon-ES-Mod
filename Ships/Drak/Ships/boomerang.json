@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 460,
   "Name": "Boomerang",
+  "Description": "Oddly shaped like a boomerang, these space creatures are in a constant rotary motion caused by a small internal organ. The motion provides a natural defense against small debris and projectiles that threaten to intercept the creature.",
   "Faction": 215,
   "IconImage": "boomerang.png",
   "IconScale": 1.0,

@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1383,
-  "Name": "Infimum Shield Generator",
-  "Description": "No description.",
+  "Name": "Ancile Shield Generator",
+  "Description": "In addition to being able to recover their shields more quickly and efficiently than any other technology of considerable size, Quarg shield generators also provide an impressive degree of protection against weapons designed to bypass shields entirely.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1383,

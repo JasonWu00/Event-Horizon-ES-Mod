@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 6,
   "Name": "Iron",
+  "Description": "Although it is one of the most common metals, iron is also one of the most useful.",
   "Icon": "iron.png",
   "Price": 30
 }

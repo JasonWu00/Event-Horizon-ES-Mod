@@ -3,6 +3,7 @@
   "Id": 447,
   "SizeClass": 1,
   "Name": "Valkyrie",
+  "Description": "Valkyries are pirate Aeries converted into more of a standalone warship than a support carrier. Losing a turret and a few bunks in place of increased armor protection, as well as boasting two more gun mounts, allows Valkyries to both take and put out noticeable amounts of damage. However, due to the extra weight, they are somewhat slower and lose a bit of shield efficiency.",
   "Faction": 219,
   "IconImage": "valkyrie icon.png",
   "IconScale": 1.0,

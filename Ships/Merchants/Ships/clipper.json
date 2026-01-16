@@ -3,6 +3,7 @@
   "Id": 310,
   "SizeClass": 1,
   "Name": "Clipper",
+  "Description": "The Clipper is the smaller sister ship to the popular Southbound Shipyards Argosy. Although not able to carry as much cargo, Clippers are versatile ships that can be used as passenger transports, couriers, or even warships in a pinch, and they come with enough free space to be customized based on an individual captain's needs.",
   "Faction": 201,
   "IconImage": "clipper icon.png",
   "IconScale": 0.75,

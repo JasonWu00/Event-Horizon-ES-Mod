@@ -3,6 +3,7 @@
   "Id": 326,
   "SizeClass": 1,
   "Name": "Marauder Bounder",
+  "Description": "This Megaparsec Bounder has been modified from a courier-scout into a heavy escort interceptor - currently the largest in the class. A little extra outfit space, reinforced turret mounts, a new gun port in front of the pilot, and additional shield emitters grant this former transport both fearsome speed and armament.",
   "Faction": 202,
   "IconImage": "marauder bounder icon.png",
   "IconScale": 1.0,

@@ -1,18 +1,18 @@
 {
   "ItemType": 8,
-  "Id": 1457,
+  "Id": 4472,
   "ShipId": 447,
   "DifficultyClass": 2,
   "BuildFaction": 219,
   "Components": [
     {
-      "ComponentId": 3002,
+      "ComponentId": 9002,
       "X": 13,
       "Y": 9,
       "BarrelId": -1
     },
     {
-      "ComponentId": 3002,
+      "ComponentId": 9002,
       "X": 2,
       "Y": 9,
       "BarrelId": -1

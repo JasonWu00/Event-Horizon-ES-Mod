@@ -3,6 +3,7 @@
   "Id": 464,
   "SizeClass": 1,
   "Name": "Embershade",
+  "Description": "Long regarded as mere ghost stories, the ray-like Embershades have finally been proven to exist thanks to recent generations of ion storm resistant sensor suites. Shy by nature, these creatures generate a natural cloaking field and prefer to move unseen.",
   "Faction": 215,
   "IconImage": "embershade.png",
   "IconScale": 1.0,

@@ -1,0 +1,174 @@
+{
+  "ItemType": 6,
+  "Id": 5010,
+  "ShipType": 3,
+  "ShipRarity": 3,
+  "SizeClass": 3,
+  "Name": "Giftbringer",
+  "Description": "This particular Republic of Earth Navy Carrier exists nowhere on the Geminus Shipyards registry list. Its hull carries extensive modifications that push the design to its limits. The Unfettered Hai know it as Giftbringer, source of many alien technologies. The Sestor Federation and Mereti Collective knows it as a pest, raiding its smaller automata patrols and plundering their outfits. Republic Intelligence desires to see it destroyed and will handsomely compensate you if you are to bring it down.",
+  "Faction": 205,
+  "IconImage": "marauder carrier icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "marauder carrier.png",
+  "ModelScale": 6.5,
+  "EngineColor": "#00B2FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "000000000000000444222444000000000000000000000000000000444222444000000000000000000000000000000444222444000000000000000000000000000444012222210444000000000000000000000000444012222210444000000000000000000000000444022222220444000000000000000000000000000022222220000000000000000000000000000000022222220000000000000000000000000000000122222221000000000000000000000000000000002222200000000000000000000000000000004441222144400000000000000000000000000004440222044400000000000000000000000000004440222044400000000000000000000000000441112444211144000000000000000000000000441112444211144000000000000000000000001111112444211111100000000000000000000111111112222211111111000000000000000000111111112222211111111000000000000000000001111112222211111100000000000000000000000122222222222221000000000000000000000000001222444222100000000000000000000000000004442444244400000000000000000000000000004442444244400000000000000000000004404414442222244414404400000000000000004404411112222211114404400000000000000001111111112222211111111100000000000000111111111112222211111111111000000000000111111111112444211111111111000000000000111111111112444211111111111000000000000000011111112444211111110000000000000000000000000222222222000000000000000000000000000000022444220000000000000000000000000000005552444255500000000000000000000000000015552444255510000000000000000000000000015552222255510000000000000000000000000015555525555510000000000000000000000000015555505555510000000000000000000000000015555505555510000000000000000000000000005555505555500000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.85,
+        "y": -0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.85,
+        "y": 0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.35,
+        "y": 0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.35,
+        "y": -0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.25,
+        "y": 0.35
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.25
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.25,
+        "y": -0.35
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.1
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.5
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.4
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.4
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.5
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.45
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.7
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

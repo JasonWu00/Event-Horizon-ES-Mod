@@ -1,8 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 3008,
+  "Id": 9008,
   "ShipType": 1,
   "Name": "Flea",
+  "Description": "This combat drone is built to amplify the strength of any combat force for as few credits as possible. It was designed in conjunction with the tactical recoil of the Skipper Railgun to allow it to kite its targets, prolonging its combat efficacy while it supports its allies with debilitating ion damage.",
   "Faction": 206,
   "IconImage": "flea icon.png",
   "IconScale": 1.0,

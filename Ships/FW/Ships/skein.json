@@ -4,6 +4,7 @@
   "ShipRarity": 1,
   "SizeClass": 3,
   "Name": "Skein",
+  "Description": "This particular cockpit and engine set has found itself attached to three of Southbound Shipyards' new \"Type F\" Fighter-carrier pods. When the Free Worlds asked for a carrier, they did not expect one that would be able to carry almost as many fighters as the heaviest Navy warships. Given this fact, the Free Worlds have asked Southbound and Tarazed to restrict sale of the \"Hauler III: Type F,\" \"Skein\" to its Militia only.",
   "Faction": 204,
   "IconImage": "skein icon.png",
   "IconScale": 1.0,

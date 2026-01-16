@@ -2,6 +2,7 @@
   "ItemType": 20,
   "Id": 13,
   "Name": "Titanium",
+  "Description": "Strong, lightweight, and resistant to corrosion, titanium is one of the chief metals used for starship hulls and structural members",
   "Icon": "titanium.png",
   "Price": 500
 }

@@ -3,6 +3,7 @@
   "Id": 444,
   "SizeClass": 1,
   "Name": "Nighthawk",
+  "Description": "This is a modified Blackbird for ground raids and slave trading. It comes with an extra turret mount for suppressive fire on ground operations and additional hull reinforcement to resist returning fire.",
   "Faction": 219,
   "IconImage": "nighthawk icon.png",
   "IconScale": 1.0,

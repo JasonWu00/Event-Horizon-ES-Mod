@@ -8,7 +8,11 @@
     "Color": "#7ACFFF",
     "BulletPrefab": 5,
     "EnergyCost": 5.0,
-    "Type": 3
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

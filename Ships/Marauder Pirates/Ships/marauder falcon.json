@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Marauder Falcon",
+  "Description": "This Tarazed Falcon has been heavily modified by some very dedicated craftsmen. The hull is riddled with extra shield emitters and expanded equipment bays, adding bulk and definitely voiding the warranty.",
   "Faction": 219,
   "IconImage": "marauder falcon icon.png",
   "IconScale": 1.0,

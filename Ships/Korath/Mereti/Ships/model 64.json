@@ -3,6 +3,7 @@
   "Id": 416,
   "SizeClass": 2,
   "Name": "Model 64",
+  "Description": "This medium-sized drone serves the Kor Mereti fleets in much the same way as a human Frigate, but in terms of total firepower it is far beyond anything humans have constructed.",
   "Faction": 212,
   "IconImage": "model 64 icon.png",
   "IconScale": 1.0,

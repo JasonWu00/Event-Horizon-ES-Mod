@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Modified Vanguard",
+  "Description": "No description.",
   "Faction": 203,
   "IconImage": "vanguard icon.png",
   "IconScale": 1.0,

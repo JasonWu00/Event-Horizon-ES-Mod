@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 314,
   "Name": "Arrow",
+  "Description": "The Arrow is a light transport, designed for bringing a small number of very rich passengers - Syndicate CEOs, for example - from one planet to another with speed and style. It makes up for its light armament by being able to outrun nearly every other ship in the sky.",
   "Faction": 201,
   "IconImage": "arrow icon.png",
   "IconScale": 0.75,

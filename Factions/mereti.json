@@ -1,9 +1,8 @@
 {
   "ItemType": 14,
   "Id": 212,
-  "Name": "Kor Mereti",
+  "Name": "Mereti Collective",
   "Color": "#525CA6",
   "HomeStarDistance": 400,
-  "WanderingShipsDistance": 400,
-  "NoMissions": true
+  "WanderingShipsDistance": 400
 }

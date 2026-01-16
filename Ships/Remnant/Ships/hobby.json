@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Hobby",
+  "Description": "Not actually a standalone ship design, the 'Hobby' is the name given to a certain modification of the Albatross. Literally an Albatross with its wings removed off the base model, this popular modification also is usually paired with a modification to the core internals, focused on engine tuning. Despite the focus on engines, the 'Hobby' modification can keep the majority of its arsenal even after the heavy modifications to the stock hull.",
   "Faction": 207,
   "IconImage": "hobby icon.png",
   "IconScale": 1.0,

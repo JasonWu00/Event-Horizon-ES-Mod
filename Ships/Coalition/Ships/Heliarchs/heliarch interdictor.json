@@ -3,6 +3,7 @@
   "Id": 386,
   "SizeClass": 2,
   "Name": "Interdictor",
+  "Description": "Anyone who incurs the wrath of the Heliarchs cannot count on making a fast getaway thanks to the Interdictors, which were primarily designed to carry a pair of attractor and repulsor beams that can hold a ship a safe distance away while pushing it around enough to prevent it from getting a hyperspace lock to jump out of the system.",
   "Faction": 208,
   "IconImage": "interdictor icon.png",
   "IconScale": 1.0,

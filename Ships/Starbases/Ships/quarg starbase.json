@@ -4,6 +4,7 @@
   "ShipType": 2,
   "SizeClass": 5,
   "Name": "Starbase",
+  "Description": "No description.",
   "Faction": 214,
   "IconImage": "quarg station.png",
   "IconScale": 1.0,

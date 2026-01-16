@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1388,
+  "Name": "Blazar Core",
+  "Description": "This larger generator appears similar to the Ergosphere Core, only even more powerful. Little is known about its exact function, but purely based on its name, some have speculated that the Blazar Core's increased output is the result of the black hole at its core being fed enough mass to form a small accretion disk, releasing light and heat as it falls towards the event horizon and is compressed to an unimaginable degree.\n\nWhile this process should be far less fuel-efficient than simply capturing the Hawking radiation emitted by the black hole alone, the staggering power density of this generator appears to be evidence it was worth the trade.",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1388,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "blazar core.png",
+  "Layout": "1111111111111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

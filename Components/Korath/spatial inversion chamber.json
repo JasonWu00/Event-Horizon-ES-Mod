@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1433,
+  "Name": "Spatial Inversion Chamber",
+  "Description": "This vast chamber is the key component of a larger system that manufactures Jump Drives and Spatial Inversion Chambers. It contains a rupture in spacetime which emits vast amounts of heat and energy, and radiates extra-universal matter. If the energy and heat are not suitably contained, the drive will explode with a force sufficient to shatter a small moon. Adventurous captains will use this as a dangerous power source, if they have sufficient cooling to keep their ship from exploding.",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1433,
+  "Faction": 209,
+  "Level": 1000,
+  "Icon": "spatial inversion chamber.png",
+  "Layout": "0111110111111111111111111111111111111111110111110",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

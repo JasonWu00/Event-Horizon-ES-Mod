@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1331,
+  "Name": "Kelvin Turret",
+  "Description": "For greater firepower, the Kaltheim mounted two of their already formidable Kelvin Beams onto a rotating turret. While the energy requirements for this weapon are high, so is the damage output.",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 220,
+  "Level": 450,
+  "Icon": "kelvin turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1331,
+  "AmmunitionId": 1331,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

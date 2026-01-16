@@ -3,6 +3,7 @@
   "Id": 407,
   "SizeClass": 2,
   "Name": "Tek Far 71-Lek",
+  "Description": "The Kor Sestor war fleets rely heavily on small, powerful fighters and drones. This ship can carry up to ten of their drones, clamped to the exterior of its hull.",
   "Faction": 213,
   "IconImage": "tf 71-l icon.png",
   "IconScale": 1.0,

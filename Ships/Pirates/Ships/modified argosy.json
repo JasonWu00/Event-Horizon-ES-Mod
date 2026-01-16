@@ -3,6 +3,7 @@
   "Id": 327,
   "SizeClass": 2,
   "Name": "Modified Argosy",
+  "Description": "The Argosy has long been a favorite ship for pirates, who have come up with many tricks for modifying them to be more suitable as warships.",
   "Faction": 202,
   "IconImage": "modified argosy icon.png",
   "IconScale": 1.0,

@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 9039,
+  "Name": "Met Par Tek 41",
+  "Description": "Made mostly from repurposed Chaser parts but incorporating automated systems and weapons the Korath Exiles recently re-acquired, the Screener is a new fighter that sacrifices movement ability to to field enough small missile launchers to overcome most defensive systems.",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 9039,
+  "Faction": 213,
+  "Level": 400,
+  "Icon": "mpt 41.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 9039,
+  "DroneId": 9039,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

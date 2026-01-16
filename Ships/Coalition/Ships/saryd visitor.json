@@ -3,6 +3,7 @@
   "Id": 380,
   "SizeClass": 1,
   "Name": "Saryd Visitor",
+  "Description": "Rather than specializing in carrying passengers or carrying cargo, Saryds seek to make their ships as well-balanced and versatile as possible. As a result, the crew of a typical Visitor can count on performing a different sort of job every week.",
   "Faction": 218,
   "IconImage": "saryd visitor icon.png",
   "IconScale": 1.0,

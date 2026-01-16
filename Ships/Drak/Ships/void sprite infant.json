@@ -3,6 +3,7 @@
   "Id": 463,
   "SizeClass": 1,
   "Name": "Void Sprite Infant",
+  "Description": "This is the immature form of the void sprite. While they typically rely on their tendrils and natural buoyancy to fly within atmospheres, they have demonstrated the unusual ability to manipulate gravitational fields to propel themselves off-world.",
   "Faction": 215,
   "IconImage": "void sprite infant icon.png",
   "IconScale": 1.0,

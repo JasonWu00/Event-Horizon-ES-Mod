@@ -22,7 +22,7 @@
       "Id": 1,
       "Type": 10,
       "Message": "Our customers are avoiding our ports due to increased piracy in the region. Resolve this immediately.",
-      "Character": 1044,
+      "Character": 203,
       "Actions": [
         {
           "TargetNode": 2,
@@ -49,7 +49,7 @@
       "Type": 10,
       "Message": "Destroy these pirates and clear out the trade route.",
       "Enemy": 1044,
-      "Character": 1044,
+      "Character": 203,
       "Actions": [
         {
           "TargetNode": 4,
@@ -80,7 +80,7 @@
       "Id": 5,
       "Type": 10,
       "Message": "Your success will be appropriately awarded.",
-      "Character": 1044,
+      "Character": 203,
       "Actions": [
         {
           "TargetNode": 7,
@@ -92,7 +92,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "Your failure has harmed our profits to an unacceptable degree. You are dismissed.",
-      "Character": 1044,
+      "Character": 203,
       "Actions": [
         {
           "TargetNode": 8,

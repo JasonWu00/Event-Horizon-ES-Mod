@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Ursa Polaris",
+  "Description": "No description.",
   "IconImage": "ursa polaris.png",
   "IconScale": 1.0,
   "ModelImage": "ursa polaris.png",

@@ -3,6 +3,7 @@
   "Id": 468,
   "SizeClass": 3,
   "Name": "Phrynus",
+  "Description": "A new design for dealing with the Wanderer ramp up in ship production and durability, meant en masse to provide a broad base for delivering ionizing damage at range in order to expose targets to more direct fire from other ships. Running with a lighter crew but greatly expanded cargo space compared to the classic Shield Beetle, it also serves as a platform to acquire plunder in battle or bring weapons and war supplies to the newly conquered worlds while fielding more firepower and durability than the Water Bug.\n\nDue to its lack of turrets, this ship can be vulnerable to missiles and relies on cover from accompanying ships to screen them out for it. Violin Spiders can be especially adept at protecting it against smaller, more agile enemies as well.",
   "Faction": 206,
   "IconImage": "hai phrynus icon.png",
   "IconScale": 1.0,

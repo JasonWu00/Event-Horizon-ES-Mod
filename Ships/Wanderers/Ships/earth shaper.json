@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 396,
   "Name": "Earth Shaper",
+  "Description": "The Earth Shaper is a robotic drone that the Wanderers use for mining, exploring, surveying, and terraforming.",
   "Faction": 211,
   "IconImage": "earth shaper icon.png",
   "IconScale": 1.0,

@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 567,
+  "ShipType": 3,
+  "ShipRarity": 3,
+  "SizeClass": 4,
+  "Name": "Asteroid",
+  "Description": "???",
+  "Faction": 222,
+  "IconImage": "silicon asteroid.png",
+  "IconScale": 1.0,
+  "ModelImage": "silicon asteroid.png",
+  "ModelScale": 4.0,
+  "EngineColor": "#E915E5",
+  "Layout": "0000000000000000000000000000000000000000000000000000000000000000000333330000000000000033333333000000000003333333333000000000033333333333000000003333333333333000000033333333333330000003333333333333300000033333333333330000000333333333333300000000333333333330000000003333333333300000000003333333333000000000033333333300000000000033333333000000000000000000000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.35
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "ArmorBonus": 0.25
+  }
+}

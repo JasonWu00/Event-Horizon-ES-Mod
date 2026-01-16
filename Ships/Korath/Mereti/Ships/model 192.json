@@ -3,6 +3,7 @@
   "Id": 489,
   "SizeClass": 3,
   "Name": "Model 192",
+  "Description": "A wartime modification to the Model 128 using Model 64s and 32s damaged in battle beyond repair.",
   "Faction": 212,
   "IconImage": "model 192 icon.png",
   "IconScale": 1.0,

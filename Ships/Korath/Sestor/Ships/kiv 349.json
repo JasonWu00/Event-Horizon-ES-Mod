@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Kar Ik Vot 349",
+  "Description": "The largest and deadliest of the Kor Sestor robotic warships, a single one of these battlecruisers can hold its own against an entire fleet of lesser ships.",
   "Faction": 213,
   "IconImage": "kiv 349 icon.png",
   "IconScale": 1.0,

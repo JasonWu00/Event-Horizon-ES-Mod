@@ -1,8 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 3025,
+  "Id": 9025,
   "ShipType": 1,
   "Name": "Zambor",
+  "Description": "The Pug Zambor is a fighter designed by the Pug. These fighters are far more powerful than conventional fighters.",
   "Faction": 216,
   "IconImage": "zambor.png",
   "IconScale": 1.0,

@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 302,
   "Name": "Sparrow",
+  "Description": "Classified as an interceptor rather than a fighter because it has its own hyperdrive instead of needing to be carried inside a larger ship, the Tarazed Sparrow is the smallest and cheapest combat ship available. Because of its limited cargo and passenger space, the primary way for a Sparrow pilot to pay the bills is to upgrade the weapons and hunt pirates... or become one. In either case, it is a perilous way to earn a living.",
   "Faction": 201,
   "IconImage": "sparrow icon.png",
   "IconScale": 0.5,

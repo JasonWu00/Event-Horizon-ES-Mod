@@ -3,6 +3,7 @@
   "Id": 486,
   "SizeClass": 3,
   "Name": "Arch-Carrack",
+  "Description": "Although they do not effectively provide for their own defense, the Efreti remain responsible for the day-to-day needs of civilian and cargo transportation. While not as bulky or powerful as other Korath designs, this freighter is much faster at making runs back and forth between the Efreti's handful of remaining planets, while still holding enough defensive loadout to ward off the odd Mereti drone that slips past the Quarg.",
   "Faction": 209,
   "IconImage": "arch-carrack icon.png",
   "IconScale": 1.0,

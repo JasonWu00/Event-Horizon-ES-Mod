@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 305,
   "Name": "Berserker",
+  "Description": "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old.",
   "Faction": 201,
   "IconImage": "berserker icon.png",
   "IconScale": 0.5,

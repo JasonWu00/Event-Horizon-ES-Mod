@@ -3,6 +3,7 @@
   "Id": 332,
   "SizeClass": 2,
   "Name": "Manta",
+  "Description": "After their Quicksilver light warship with its armament of Particle Cannons became a large success with convoy escorts and planetary defense forces, Megaparsec decided to develop a larger ship with similar maneuverability but heavier firepower. The Manta is the result: a ship with enough long-range firepower that fleeing from a battle with it is almost impossible.",
   "Faction": 203,
   "IconImage": "manta icon.png",
   "IconScale": 1.0,

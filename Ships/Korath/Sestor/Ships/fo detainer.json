@@ -1,8 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 3028,
+  "Id": 9028,
   "ShipType": 1,
   "Name": "Far Osk Detainer",
+  "Description": "Because it is piloted by a computer and has no need for a cockpit or life support systems, the FS27 fighter is able to carry far more weaponry than any comparable human ship. This variant carries a single Detainer, a terror to any speedy ship.",
   "Faction": 213,
   "IconImage": "fo detainer icon.png",
   "IconScale": 1.0,

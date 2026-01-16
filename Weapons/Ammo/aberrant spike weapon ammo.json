@@ -1,0 +1,49 @@
+{
+  "ItemType": 25,
+  "Id": 1439,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 36.0,
+    "Range": 105.0,
+    "Weight": 0.25,
+    "HitPoints": 400,
+    "BulletPrefab": 1439,
+    "EnergyCost": 4.0,
+    "CanBeDisarmed": true,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 4,
+      "EffectType": 1,
+      "VisualEffect": 1439,
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1439,
+      "AudioClip": "explosion medium",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "piercer"
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 73.0
+    },
+    {
+      "Type": 11,
+      "Power": 127.0
+    }
+  ]
+}

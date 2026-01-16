@@ -1,8 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1385,
-  "Name": "Central Repair Unit",
-  "Description": "No description.",
+  "Name": "Central Repair Hub",
+  "Description": "In a manner which is not easily discernible to humans, this system collects ambient matter in space and feeds it back to the ship from a large central hub of wires and tubes. The accumulated matter is then used to both regenerate the ship's hull and refill its fuel reserves.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1385,

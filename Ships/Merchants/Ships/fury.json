@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 307,
   "Name": "Fury",
+  "Description": "The Fury is Southbound Shipyards' most popular design of escort ship. They have greater firepower than any other interceptor-class vessel, meaning that any pirate flying solo will think twice before attacking a convoy that is accompanied by a Fury. However, Furies are also much less maneuverable than other small ships.",
   "Faction": 201,
   "IconImage": "fury icon.png",
   "IconScale": 0.5,

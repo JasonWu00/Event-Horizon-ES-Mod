@@ -1,8 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 3023,
+  "Id": 9023,
   "ShipType": 1,
   "Name": "Battledrake",
+  "Description": "The Battledrake is used by the Quarg as a multi-role fightercraft. Their heavy use of hybrid and integrated systems make them an anomaly among Quarg craft. The Quarg, normally masters of hyper efficient specialization, were forced to build both reactors and capacitors directly into the engine assembly. This unconventional decision seems to have paid off; a single Battledrake is superior to any human warship.",
   "Faction": 214,
   "IconImage": "battledrake.png",
   "IconScale": 1.0,
@@ -25,7 +26,7 @@
       "Size": 0.1
     }
   ],
-  "Layout": "000000444000000000000444000000000000444000000000000222000000000000222000000000012222210000111112222211111111112222211111111112222211111011112222211110000555222555000000555222555000000555222555000000000020000000000000020000000",
+  "Layout": "000000444000000000000444000000000000444000000000000222000000000002222200000000012222210000111112222211111111112222211111111112222211111011112222211110000112222211000005552222255500005552222255500005550222055500000000020000000",
   "Barrels": [
     {
       "Position": {

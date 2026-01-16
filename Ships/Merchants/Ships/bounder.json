@@ -3,6 +3,7 @@
   "Id": 316,
   "SizeClass": 1,
   "Name": "Bounder",
+  "Description": "The Megaparsec Bounder is a scout ship and courier, designed not for battle but for carrying passengers and small amounts of cargo across large distances quickly.",
   "Faction": 201,
   "IconImage": "bounder icon.png",
   "IconScale": 0.75,

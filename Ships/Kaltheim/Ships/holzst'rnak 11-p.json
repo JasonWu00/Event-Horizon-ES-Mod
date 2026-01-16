@@ -3,6 +3,7 @@
   "Id": 450,
   "SizeClass": 1,
   "Name": "Holzst'rnak 11-P",
+  "Description": "The Holzst'rnak 11-P is fresh off the Kaltheim production lines, the most advanced ship the species has access to. Intended to replace the aging Lenmig'sraor 52-T hulls still used by the Kaltheim military, the Holzst'rnak 11-P boasts greater automation, cutting down on crew requirements by almost a third, a lighter hull, allowing for faster movement, and far stronger shields.",
   "Faction": 220,
   "IconImage": "Holzst'rnak 11-P.png",
   "IconScale": 1.0,
@@ -81,6 +82,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

@@ -3,6 +3,7 @@
   "Id": 515,
   "SizeClass": 2,
   "Name": "Heavy Gust",
+  "Description": "With a reinforced hull and two turret mounts added, the Heavy Gust is developed as a successor to the Strong Wind, being a dedicated warship that fills the niche originally fulfilled only by retrofitting a scientific vessel. Expanded engine space also allows it to carry out interception roles, quickly disabling enemy ships with its six gun ports.",
   "Faction": 211,
   "IconImage": "heavy gust icon.png",
   "IconScale": 1.0,

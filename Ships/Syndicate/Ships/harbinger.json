@@ -1,0 +1,116 @@
+{
+  "ItemType": 6,
+  "Id": 535,
+  "ShipType": 4,
+  "SizeClass": 4,
+  "Name": "Harbinger",
+  "Description": "The Harbinger is a capital ship upsizing of Syndicated Systems' Vanguard, designed to chew apart pirate fleets and bases alike. Like the Vanguards its modeled after, it focuses on powerful fixed guns and even incorporates a centrally mounted experimental upgrade to the well known Proton Gun. Pirates who mistake it for a the Vanguard they're used to will be for quite a shock from not only its higher firepower and range, but also the improvements to its defenses and agility.",
+  "Faction": 203,
+  "IconImage": "harbinger icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "harbinger.png",
+  "ModelScale": 5.0,
+  "EngineColor": "#009BFF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.1
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000044400000000000000000004414441440000000000000000441444144000000000000000000222220000000000000000000022222000000000000000000002222200000000000000000000222220000000000000000004414441440000000000000000441444144000000000000000011144411100000000000000044112221144000000000000004411222114400000000000000014422244100000000000000011442224411000000000000001111222111100000000000000001144411000000000000000000114441100000000000000000011444110000000000000000001222221000000000000000001122222110000000000000000115525511000000000000000011552551100000000000000001555255510000000000000000055525550000000000000000005550555000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.15
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.3
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.35
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.3
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.25
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.25
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "y": 0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "y": -0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.3
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

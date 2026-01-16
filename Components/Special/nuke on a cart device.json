@@ -11,7 +11,7 @@
   "Lifetime": 2.5,
   "ActivationType": 1,
   "Color": "#FF5500",
-  "Sound": "alert",
-  "EffectPrefab": "Flash",
+  "Sound": "alarm_custom",
+  "VisualEffect": 6000,
   "ControlButtonIcon": "bomb cart.png"
 }

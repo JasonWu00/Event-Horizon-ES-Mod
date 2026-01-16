@@ -22,7 +22,7 @@
       "Id": 1,
       "Type": 10,
       "Message": "Our early warning stations detect an Exiles raiding force headed our way. Drive them off.",
-      "Character": 1045,
+      "Character": 207,
       "Actions": [
         {
           "TargetNode": 2,
@@ -49,7 +49,7 @@
       "Type": 10,
       "Message": "Destroy the Exile raiders.",
       "Enemy": 1045,
-      "Character": 1045,
+      "Character": 207,
       "Actions": [
         {
           "TargetNode": 4,
@@ -80,7 +80,7 @@
       "Id": 5,
       "Type": 10,
       "Message": "Excellent work.",
-      "Character": 1045,
+      "Character": 207,
       "Actions": [
         {
           "TargetNode": 7,
@@ -92,7 +92,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "Your failure costed us valuable time and resources we cannot always afford to spare.",
-      "Character": 1045,
+      "Character": 207,
       "Actions": [
         {
           "TargetNode": 8,

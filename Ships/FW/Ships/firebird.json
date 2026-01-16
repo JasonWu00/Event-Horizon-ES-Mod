@@ -3,6 +3,7 @@
   "Id": 337,
   "SizeClass": 2,
   "Name": "Firebird",
+  "Description": "The Betelgeuse Shipyards Firebird is a warship with a long and storied past; Firebirds fought on both sides of the Alpha Wars over half a millennium ago, and although the equipment and systems have been upgraded continuously since then, the basic design remains almost the same. The Firebird is also a very rugged ship and easy to repair; supposedly a few of the Firebirds that fought in those wars are still in service today.",
   "Faction": 204,
   "IconImage": "firebird icon.png",
   "IconScale": 1.0,

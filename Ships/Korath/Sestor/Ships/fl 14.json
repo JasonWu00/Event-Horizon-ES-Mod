@@ -1,8 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 3021,
+  "Id": 9021,
   "ShipType": 1,
   "Name": "Far Lek 14",
+  "Description": "At the peak of their recent civil war, the Kor Sestor faction developed these automated attack drones, easy to manufacture and encased in an ultra-dense hull that can absorb a significant amount of damage.",
   "Faction": 213,
   "IconImage": "fl 14 icon.png",
   "IconScale": 1.0,

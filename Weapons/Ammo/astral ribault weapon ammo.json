@@ -1,0 +1,48 @@
+{
+  "ItemType": 25,
+  "Id": 1432,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 78.0,
+    "Range": 52.0,
+    "Weight": 0.05,
+    "BulletPrefab": 1432,
+    "EnergyCost": 13.0,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "SmartAim": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "ribault",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1073,
+      "Color": "#00000000"
+    }
+  ],
+  "Effects": [
+    {
+      "Type": 11,
+      "DamageType": 1,
+      "Power": 17.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 17.0
+    },
+    {
+      "DamageType": 1,
+      "Power": 35.0
+    }
+  ]
+}

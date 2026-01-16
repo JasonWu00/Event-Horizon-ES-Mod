@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Solifuge",
+  "Description": "Impressed by the Alphas' \"Giftbringer,\" the Unfettered endeavored to build their own fighter carrier to take more advantage of their supply of jump drives.",
   "Faction": 206,
   "IconImage": "solifuge icon.png",
   "IconScale": 1.0,

@@ -1,8 +1,10 @@
 {
   "ItemType": 6,
   "Id": 517,
+  "ShipType": 4,
   "SizeClass": 4,
-  "Name": "Hauler 6",
+  "Name": "Hauler VI",
+  "Description": "The Hauler cargo ships are considered by many to be outdated, and it is unclear if upgrading the cargo space to six containers is sufficient to make this Hauler ship popular. It certainly doesn't help that the Hauler VI is more expensive than four Hauler IIIs.",
   "Faction": 201,
   "IconImage": "hauler 6 icon.png",
   "IconScale": 1.0,

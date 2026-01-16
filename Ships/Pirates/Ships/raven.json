@@ -3,6 +3,7 @@
   "Id": 328,
   "SizeClass": 1,
   "Name": "Raven",
+  "Description": "The Lionheart Raven is their most popular warship, an agile and elegant vessel that can nevertheless deal out and absorb considerable damage. Ravens are a favorite ship for bounty hunters, because they are more than a match for pirate interceptors and can be used by a skilled pilot to take down much larger ships as well.",
   "Faction": 202,
   "IconImage": "raven icon.png",
   "IconScale": 1.0,

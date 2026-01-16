@@ -4,6 +4,7 @@
   "ShipType": 3,
   "ShipRarity": 3,
   "Name": "Super Kestrel",
+  "Description": "No description.",
   "IconImage": "kestrel icon.png",
   "IconScale": 1.2,
   "ModelImage": "kestrel.png",

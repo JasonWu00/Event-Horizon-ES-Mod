@@ -903,6 +903,76 @@ Changelog:
   - Updated the mod to Event Horizon 1.13.0
   - Shortened description of Ruby Regenerator
 
+### 0.16.3 "Chanai" Update
+
+Changelog:
+- Major Updates
+  - Added a custom menu image
+- Outfits
+  - Quarg
+    - Added the Astral Ribault, Celestial Culverin, Elysian Ranseur, Slipstream Projector to Quarg (replacing some older weapons)
+    - Renamed a number of Quarg outfits to match latest source material
+    - Gave the Quantum Vacuum Battery (formerly Nanotech Battery) cooling to fit latest stats
+    - Adjusted Quarg reactors
+      - Antimatter Core: Energy per cell: 36.97 -> 14.4; heat per cell: 0.23 -> 0.048
+      - Ergosphere Core: Energy per cell: 42 -> 17.625; heat per cell: 0.2 -> 0.0675; mass per cell: 25 -> 100
+      - Blazar Core: Energy per cell: 39.5 -> 18.75; heat per cell: 0.221 -> 0.07; mass per cell: 25 -> 100
+  - Korath (Exiles, Sestor, Mereti)
+    - Added Chaser Expeller to Korath Exiles
+    - Fixed an issue with the Piercer Launcher firing effect sticking to the missile
+    - Changed names for some Sestor drones to reflect their full Korath names
+  - Added the Fuel Processor, Ramscoop, Catalytic Ramscoop, and Wanderer Ramscoop to their respective factions
+  - Adjusted the Sentinel Reactor for Syndicated Systems
+  - Fixed a bug with the Infinity Stone not having the "only one per ship" rule
+  - Fixed an issue with the Overcharged Heavy Blaster not having a weapon stats file
+  - Added visual effects to Jump Drive and Nuke On A Cart
+  - Increased Heliarch Attractor range from 62 to 64
+  - Added a missing tech file for the Small Recovery Module
+  - Fixed a broken sound effect on the Ember Tear
+  - Halved passive energy consumption of all modded drones
+  - Fixed an issue causing the Heavy Lightning Cannon to not function
+- Ships
+  - **Added descriptions to a large number of ships**
+  - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest
+  - Added the Jackal and Monitor to Pirates
+  - Added the Squall and Hailstone to Wandrers
+  - Added the KIT 7 and 6 World-ship variants to Korath Exiles
+  - Added the Sea Dragon and Anomalocaris to Hai
+  - Added the TOR 681, MPT 41, MIP 43, NPT 103 to Sestor Federation
+  - Added the Harbinger to Syndicated Systems
+  - Added greenhouse variants of the Model 256 and 512 to Mereti Collective
+  - Added a number of Quarg ships
+  - Removed a small heat shunt from MPT 53 1vet
+  - Increased energy regen on the Rainmaker 2vet
+  - Reduced cooling on Model 16 2vet
+  - Added R-series shield generators to some Republic of Earth ships
+  - Changed Kestrel's sprite
+  - Downgraded TF 109 (Battleship -> Cruiser)
+  - Updated all Exiles, Mereti, and Sestor builds with Fuel Processors in place of Large Fuel Cells
+  - Adjusted FW Dreadnought's energy reserves
+- Tech
+  - Added a missing tech for the Small Recovery Module for Trisolar Coalition
+- Others
+  - (internal) Changed ship build IDs to be more intuitive
+  - Renamed the Mereti and Sestor and allowed both factions to offer missions
+  - Improved the flight range (x4), flight speed (x10), and exploration loot (+25%) skills
+  - Added descriptions to minerals
+  - Fixed an issue with the Finisher Torpedo launch effect sticking to the ammo
+  - Fixed an issue where the Torpedo and Typhoon Torpedo had unusually large antimissile disarm effects
+  - Adjusted parameters for many battles (starbase capture, local pirates, etc)
+    - Timer now ranges from 90 at 0LY to 30 at 200LY
+
+### 0.17.1 ??? Update
+
+Changelog:
+- Major Updates
+  - Added a "global faction reputation" system
+  - Added a number of "faction invasion" missions that occur spontaneously
+- Outfits
+- Ships
+- Tech
+- Others
+
 ### Update Template
 
 Changelog:
@@ -913,8 +983,16 @@ Changelog:
 - Others
 
 ### Planned changes:
+- Add ramscoops as blue-slot energy recovery outfits
+- Add Korath afterburners (and maybe reversers too?)
+- Add 1vet and 2vet variants of all new ships (except drones)
+- Add new Quarg weapons (and some unused old ones) to new and old Quarg builds
+- Add the Flintlock and/or Coffer to Korath Exiles
+- Add the Cicada, Antlion, Scarab, Stag Beetle to Hai
+- Add the Ka'het Aberrants
 - Create 3vet Merchants builds to be used in Pirates
-- Create Syndicate Extremists faction to contain the regenerators and nuclear missile
+- Create 3vet Pirates builds to be used in Marauder Pirates
+- Create Syndicate Extremists faction to contain the nuclear missile
 - **Add the new aliens**
   - Gegno (all 3 subfactions at once)
   - Vyu-ira and other misc alien ships
@@ -922,13 +1000,26 @@ Changelog:
   - Incipias
   - Decompression of the faction light year requirement list
 - **Add new ships and outfits**
-  - Alternate Worldship designs
-  - Hobby
   - Mega Freight outfits and possibly ships
   - Minor plugins from Todd: https://github.com/endless-sky/endless-sky/discussions/7928
-- Rebalance human engines based on most recent engines stat
-- Incorporate scanners as drone and missile capturer weapons
+- Incorporate scanners as drone and missile capturer weapons (ON HOLD)
 - Incorporate the Shunt-Strike
-- Incorporate the following ships from Becca's Endless Expansion mod:
-  - Robin, Swan (Remnant)
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
+- Faction interaction missions and corresponding loot
+  - Faction raids and invasions against each other (e.g. Exiles or Unfettered attacks)
+    - Exiles -> Wanderers, Mereti, Sestor, Hai, Syndicate, Republic, Remnant
+    - Pirates -> Merchants, Syndicate, FW
+    - Marauders -> FW, Republic, Hai
+    - Republic, FW -> Marauders
+    - FW, Merchants, Syndicate -> Pirates
+    - Possibly "extra large" variants of these quests with more ships at higher light years
+  - Hunter-killer revenge attacks (after reaching a relation limit; includes unique ships)
+    - Auto -100 reputation with factions you stole unique ships from
+  - <first> <last> challenging the player, a "worthy adversary", with a doomstack
+  - Random beacon encounters:
+    - Beacon node battles between different faction groups
+    - Asteroid mining
+  - Reclaim quests
+    - Various factions attacking stations you took from them
+  - <first> <last>
+    - Undecided as of now

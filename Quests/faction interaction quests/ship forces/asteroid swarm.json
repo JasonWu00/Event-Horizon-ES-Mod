@@ -1,0 +1,12 @@
+{
+  "ItemType": 18,
+  "Id": 2220,
+  "Factions": {
+    "Type": 1,
+    "List": [
+      222
+    ]
+  },
+  "LevelBonus": 25,
+  "CombatRules": 100000
+}

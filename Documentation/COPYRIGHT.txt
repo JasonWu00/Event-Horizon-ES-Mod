@@ -18,6 +18,7 @@ Files:
   Weapons/Impact Effect Images/*
   Weapons/*.png
   Sounds/*.wav
+  ES Loading Screen.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
            endless-sky contributors (see https://github.com/endless-sky/endless-sky/blob/master/credits.txt)
 License: CC-BY-SA-4.0
@@ -44,7 +45,7 @@ Files:
   Ship Images/Quarg/elderdragon*
   Ship Images/Quarg/empyrealdragon*
   Ship Images/Quarg/battledrake*
-Copyright:
+Copyright: Unknown
 License: CC-BY-SA-4.0
 Comment: Source mod (ZAmalgamation) did not provide specific copyright data on these images.
 
@@ -88,7 +89,7 @@ Files:
   Ship Images/Kaltheim/*
 Copyright: Makuta-Miras (https://github.com/Makuta-Miras)
 License: CC-BY-SA-4.0
-Comment:
+Comment: Taken from The Enclave plugin for Endless Sky.
 
 Files:
   Component Images/dimensional eraser*
@@ -161,7 +162,7 @@ Files:
   Component Images/Quarg/amphithere*
   Component Images/Quarg/drake*
   Component Images/Quarg/fafnir*
-  Component Images/Quarg/hydra*
+  Component Images/Quarg/hydra precursor*
   Component Images/Quarg/kaukas*
   Component Images/Quarg/slibinas*
   Component Images/Quarg/tarasque*
@@ -205,12 +206,13 @@ Files:
   Component Images/Marauder Pirates/stabilized gatling gun*
   Component Images/Republic/ion beam*
   Component Images/Republic/ion beam turret*
+  Ship Images/Wanderers/abyssal stream*
   Ship Images/Wanderers/blizzard*
   Ship Images/Korath/Exiles/courier*
   Ship Images/Korath/Exiles/shipper*
   Ship Images/Hai/sea scorpion*
-  Ship Images/Wanderers/abyssal stream*
-Copyright: Becca Tomaso
+  Ship Images/Hai/sea dragon*
+Copyright: Becca Tomaso (https://github.com/beccabunny)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
@@ -242,9 +244,28 @@ Comments: Derived from works by Michael Zahniser (under the same license).
 
 Files:
   Component Images/Hai/quartz regenerator*
+  Component Images/Republic/R*
 Copyright: bene-dictator (benstaples8068@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com).
+
+Files:
+  Component Images/Republic/dual particle*
+  Turret Images/dual particle*
+Copyright: J.C. Hamlin
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser.
+
+Files:
+  Ships/coffer*
+  Ships/flintlock*
+Copyright: The Legendary M (https://github.com/The-Legendary-M)
+licenses: Unknown
+Comment: Taken from the Sestor Is Not Yet Lost plugin (https://github.com/The-Legendary-M/Sestor-Is-Not-Yet-Lost-Public) for Endless Sky. The copyright file in the source material did not specify the copyright status of these images.
+
+Files:
+ Ship Images/Republic/battlecruiser*
+Copyright: Quarg Block
 
 License: GPL-3+
   This program is free software: you can redistribute it and/or modify

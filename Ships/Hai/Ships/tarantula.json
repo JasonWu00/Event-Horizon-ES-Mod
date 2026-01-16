@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Tarantula",
+  "Description": "This ship was built by the Unfettered using their unique Solifuge design and improving it, using Wanderer technology and shipyards. It is the first ship they built that is this big, and is meant to duel even the biggest of Wanderer ships, at close range.",
   "Faction": 206,
   "IconImage": "hai tarantula icon.png",
   "IconScale": 1.0,

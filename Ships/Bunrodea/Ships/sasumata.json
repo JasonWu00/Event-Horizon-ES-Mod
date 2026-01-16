@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 469,
   "Name": "Sasumata",
+  "Description": "The Sasumata is the chief scout ship of the Bunrodea. While not designed for combat, this stealth transport vessel is still capable of holding its own against some smaller warships; its four fighter bays turn the Sasumata into a force to be reckoned with when its fighters are deployed.",
   "Faction": 221,
   "IconImage": "sasumata icon.png",
   "IconScale": 1.0,

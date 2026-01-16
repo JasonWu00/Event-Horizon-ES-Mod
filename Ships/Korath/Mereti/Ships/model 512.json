@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Model 512",
+  "Description": "This is the final state in the evolution of a Kor Mereti war drone: a perfect ring, with incredibly powerful shields and turrets firing in every direction.",
   "Faction": 212,
   "IconImage": "model 512 icon.png",
   "IconScale": 1.0,

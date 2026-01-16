@@ -1,0 +1,65 @@
+{
+  "ItemType": 6,
+  "Id": 521,
+  "ShipRarity": 1,
+  "SizeClass": 1,
+  "Name": "Lindwyrm",
+  "Description": "The Quarg use the Lindwyrm as a heavy freighter, transporting in its ample cargo bays items both mundane and fantastical. In the days before the advent of modern cargo scanners revealed some measure of their contents, \"the inside of a Quarg cargo hold\" was slang used to describe any thing or place thought to be unknowable.",
+  "Faction": 214,
+  "IconImage": "lindwyrm icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "lindwyrm.png",
+  "ModelScale": 7.0,
+  "EngineColor": "#B200FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.25
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.25
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000000000000000000000000000000000002220000000000000000000000111222221110000000000000000111112222211111000000000000001111444244411110000000000000111114442444111110000000000001111144424441111100000000000111111122222111111100000000001111111222221111111000000000011111112222211111110000000000111111122222111111100000000001111111222221111111000000000001111112222211111100000000000011111122222111111000000000000111111222221111110000000000001111112222211111100000000000001111122222111110000000000000001111222221111000000000000000001122222221100000000000000000002222222220000000000000000000044422244400000000000000000000444222444000000000000000000004442224440000000000000000000022222222200000000000000000000222222222000000000000000000005552225550000000000000000000055522255500000000000000000000555222555000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.1
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.1
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.2
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ]
+}

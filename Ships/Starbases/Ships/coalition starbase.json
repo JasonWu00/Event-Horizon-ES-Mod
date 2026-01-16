@@ -4,6 +4,7 @@
   "ShipType": 2,
   "SizeClass": 5,
   "Name": "Starbase",
+  "Description": "No description.",
   "Faction": 218,
   "IconImage": "coalition station.png",
   "IconScale": 1.0,

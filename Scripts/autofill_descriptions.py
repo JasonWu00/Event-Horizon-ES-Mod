@@ -6,6 +6,7 @@ NOTE TO SELF: RUN THIS CODE USING THE WINDOWS CMD. WSL2 DOES NOT WORK.
 import json
 import os
 import time
+from typing import Optional
 #import requests
 from selenium import webdriver # 7vn pages load dynamically, requests cant handle it
 #from selenium.webdriver.support.ui import WebDriverWait
@@ -18,24 +19,31 @@ SHIPS_PATH = "../Ships"
 ES_7VN_LINK = "http://dev.endless-sky.7vn.io/"
 OUTFITS = "outfits/"
 SHIPS = "ships/"
-USERAGENT = "404found_eh_es_parser/1.0 (https://github.com/JasonWu00/Event-Horizon-ES-Mod; https://github.com/JasonWu00)"
+USERAGENT = "404found_eh_es_parser/1.1 (https://github.com/JasonWu00/Event-Horizon-ES-Mod; https://github.com/JasonWu00)"
 INDEXERROR = "IndexError"
 NO_DESC = "No description."
 
-def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = True, desired_itemtype = 1,):
+def fill_in_descs(path: str, specific_files: Optional[list[str]] = None, selective_fill = True, desired_itemtype = 1, prefix=""):
     """
     Given a directory, recursively inspect all subdirectories
     and fill in descriptions for all eligible json files.
 
-    path: a path to the folder with component jsons.
-    selective_fill: whether to skip over jsons with descriptions already.
-    specific_files: a list of json files to fill in, or None by default.
-    desired_itemtype: specifies which type of file to handle. Default 1, components; otherwise 6, ships.
+    :param path: a path to the folder with component jsons.
+    :type path: str
+    :param selective_fill: whether to skip over jsons with descriptions already; default True.
+    :type selective_fill: bool
+    :param specific_files: a list of json files to fill in; default empty list.
+    :type specific_files: Optional[list[str]]
+    :param desired_itemtype: specifies which type of file to handle; default 1, components; otherwise 6, ships.
+    :type desired_itemtype: [1,6]
     """
-    IS_SHIPS = desired_itemtype == 1
+    if desired_itemtype not in [1,6]:
+        print("This function currently only works for desired_itemtype values of 1,6")
+        return 0
+    IS_SHIPS = desired_itemtype == 6
     print(f"Path is: {path}")
     dir_list = []
-    if specific_files != []:
+    if specific_files is not None:
         dir_list = specific_files
     else:
         dir_list = os.listdir(path)
@@ -46,16 +54,18 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                 data: dict = json.load(file)
                 itemtype = data["ItemType"]
                 print(f"Checking filename {filename}")
-                print(f"Item type is {itemtype}")
+                print(f"Item type is {itemtype}; desired_itemtype is {desired_itemtype}")
                 if itemtype != desired_itemtype: # ItemType 1 is components; 6 is ships, others irrelevant
                     print(f"Skipping non-desired file {filename}")
                     continue
                 compname: str = data["Name"]
+                compname = compname.replace(' ', '-').replace('\'', '').lower()
+                if prefix != "":
+                    compname = prefix + "-" + compname
                 print(f"Selective fill value is: {selective_fill}")
                 if "Description" in data and selective_fill:
                     print(f"Skipping file with item name {compname}; desc already here")
                     continue
-
 
                 # r = requests.get(ES_7VN_LINK+compname, timeout=10,
                 #                  headers={"User-Agent": USERAGENT})
@@ -64,12 +74,12 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                 findship = False
                 if not IS_SHIPS:
                     if "DisplayCategory" in data and data["DisplayCategory"] == 5: # drones use ship descs and have DispCat=5
-                        final_link=ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                        final_link=ES_7VN_LINK+SHIPS+compname#.replace(' ', '-').replace('\'', '').lower()
                         findship = True
                     else:
-                        final_link=ES_7VN_LINK+OUTFITS+compname.replace(' ', '-').replace('\'', '').lower()
+                        final_link=ES_7VN_LINK+OUTFITS+compname#.replace(' ', '-').replace('\'', '').lower()
                 else:
-                    final_link=ES_7VN_LINK+SHIPS+compname.replace(' ', '-').replace('\'', '').lower()
+                    final_link=ES_7VN_LINK+SHIPS+compname#.replace(' ', '-').replace('\'', '').lower()
                     findship = True
 
                 soup = grab_page_with_selenium(final_link)
@@ -104,9 +114,10 @@ def fill_in_descs(path: str, specific_files: list[str] = [], selective_fill = Tr
                 file.truncate() # in case any old data remains
 
         elif "Stat" not in filename and "." not in filename:
+            # This selects folders without "Stat" in their names
             # ignore all Components Stats folders, recursively check other folders
             # Also ignore files (they have extensions)
-            fill_in_descs(path+"/"+filename, selective_fill=selective_fill)
+            fill_in_descs(path+"/"+filename, selective_fill=selective_fill, desired_itemtype=desired_itemtype)
 
 def grab_page_with_selenium(link: str):
     """
@@ -158,15 +169,15 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str 
         print(f"IndexError reached for file {compname}")
         return INDEXERROR
 
-mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/anomalocaris")
-desc = check_bs4_for_desc(mysoup, "test", find_class="well")
-print(desc)
+# mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/anomalocaris")
+# desc = check_bs4_for_desc(mysoup, "test", find_class="well")
+# print(desc)
 
 # for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
 #              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-# fill_in_descs(SHIPS_PATH, selective_fill=False)
+fill_in_descs(WEAPONS_PATH+"/Kaltheim/Weapon/", selective_fill=False, desired_itemtype=1, prefix="kaltheim")
 # for subdir in ["Bunrodea"]:
 #     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

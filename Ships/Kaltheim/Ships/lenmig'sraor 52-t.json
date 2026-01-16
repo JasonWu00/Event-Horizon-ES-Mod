@@ -3,6 +3,7 @@
   "Id": 452,
   "SizeClass": 3,
   "Name": "Lenmig'sraor 52-T",
+  "Description": "The Lenmig'sraor 52-T is a somewhat antiquated Kaltheim design, from the days before they began ramping up for the invasion. The original versions were equipped with a number of fighter bays, but in the run-up to war many were heavily modified to become hunter-killers, sacrificing the fighters in favour of more maneuverability as well as more gun slots and turrets. While the old versions of the ship are rarely seen nowadays, despite Kaltheim rush orders to reactivate old mothballed units, when they are deemed suitable for a battle they are a major force on the battlefield.",
   "Faction": 220,
   "IconImage": "Lenmig'sraor 52-T.png",
   "IconScale": 1.0,
@@ -81,6 +82,5 @@
       "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "Description": "No description."
+  ]
 }

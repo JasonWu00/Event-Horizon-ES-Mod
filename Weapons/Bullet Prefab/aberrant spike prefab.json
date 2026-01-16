@@ -1,0 +1,10 @@
+{
+  "ItemType": 27,
+  "Id": 1439,
+  "Shape": 1,
+  "Image": "aberrant spike.png",
+  "Size": 0.75,
+  "Margins": 0.7,
+  "SecondColor": "#FFCF32",
+  "SecondColorMode": 1
+}

@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Elderdragon",
+  "Description": "No description.",
   "Faction": 214,
   "IconImage": "elderdragon.png",
   "IconScale": 1.0,

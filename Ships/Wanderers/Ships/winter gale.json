@@ -3,6 +3,7 @@
   "Id": 401,
   "SizeClass": 2,
   "Name": "Winter Gale",
+  "Description": "The Winter Gale was designed by the Wanderers as a hardier and better-armed alternative to their existing light patrol ships. The Gale's large number of weapon hardpoints makes it flexible enough to reconfigure for facing a wide variety of enemies.",
   "Faction": 211,
   "IconImage": "winter gale icon.png",
   "IconScale": 1.0,

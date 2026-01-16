@@ -5,6 +5,7 @@
   "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Lycosidae",
+  "Description": "This is an old super carrier design that was deemed too expensive and unpractical by the Hai, who never completed the project, also partly because of technical limitations. However, with new Alpha and Hai insights, the Unfettered managed to complete the prototype, or at least make it good enough to fight.",
   "Faction": 206,
   "IconImage": "hai lycosidae icon.png",
   "IconScale": 1.0,

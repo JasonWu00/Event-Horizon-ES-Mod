@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 1244,
+  "Name": "Stratospear",
+  "Description": "While those who can directly match the power of Quarg energy weapons are rare, some foolish younger races have attempted to oppose the Quarg with missile-based nuclear weapons, hoping for their destructive power to even the playing field. These Quarg anti-missile defenses, firing pinpoint beams of energy, have often dashed these hopes, targeting projectiles from considerable range and ensuring that only the most powerful missiles are capable of getting near a Quarg ship.",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "quarg antimissile.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1244,
+  "Restrictions": {},
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

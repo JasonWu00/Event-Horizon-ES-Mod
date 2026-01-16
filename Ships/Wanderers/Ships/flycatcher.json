@@ -1,8 +1,9 @@
 {
   "ItemType": 6,
-  "Id": 3018,
+  "Id": 9018,
   "ShipType": 1,
   "Name": "Flycatcher",
+  "Description": "Flycatcher drones are used by the Wanderers to keep their star systems safe. Rather than carrying weapons of its own, a stock Flycatcher just carries an anti-missile turret for defending other ships.",
   "Faction": 211,
   "IconImage": "flycatcher icon.png",
   "IconScale": 1.0,

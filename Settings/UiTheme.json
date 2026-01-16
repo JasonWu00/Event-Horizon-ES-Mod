@@ -17,5 +17,6 @@
   "ObtainedTechColor": "#F0F0F0",
   "HiddenTechColor": "#000000",
   "StarsColor": "#FFF070",
-  "MoneyColor": "#FFF070"
+  "MoneyColor": "#FFF070",
+  "MainMenuBackgroundImage": "ES Loading Screen.png"
 }

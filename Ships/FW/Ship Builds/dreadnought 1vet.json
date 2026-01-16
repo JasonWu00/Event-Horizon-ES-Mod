@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1134,
+  "Id": 3451,
   "ShipId": 345,
   "DifficultyClass": 1,
   "BuildFaction": 204,
@@ -34,12 +34,6 @@
       "X": 23,
       "Y": 4,
       "BarrelId": 3
-    },
-    {
-      "ComponentId": 1053,
-      "X": 14,
-      "Y": 5,
-      "BarrelId": -1
     },
     {
       "ComponentId": 1051,
@@ -90,11 +84,10 @@
       "KeyBinding": 2
     },
     {
-      "ComponentId": 70,
+      "ComponentId": 1052,
       "X": 14,
       "Y": 18,
-      "BarrelId": -1,
-      "KeyBinding": 2
+      "BarrelId": -1
     },
     {
       "ComponentId": 1051,
@@ -132,6 +125,18 @@
       "KeyBinding": 2
     },
     {
+      "ComponentId": 2110,
+      "X": 14,
+      "Y": 24,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1007,
+      "X": 10,
+      "Y": 27,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 1046,
       "X": 12,
       "Y": 27,
@@ -144,6 +149,12 @@
       "Y": 27,
       "BarrelId": -1,
       "KeyBinding": 2
+    },
+    {
+      "ComponentId": 1007,
+      "X": 20,
+      "Y": 27,
+      "BarrelId": -1
     }
   ],
   "Perks": {}

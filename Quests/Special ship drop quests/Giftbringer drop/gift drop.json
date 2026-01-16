@@ -1,0 +1,16 @@
+{
+  "ItemType": 16,
+  "Id": 5010,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 30,
+          "ItemId": 50100
+        }
+      }
+    ]
+  }
+}

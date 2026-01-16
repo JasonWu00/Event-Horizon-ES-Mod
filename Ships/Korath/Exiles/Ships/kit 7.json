@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 9038,
+  "ShipType": 1,
+  "Name": "Kas'ik Tek 7",
+  "Description": "These small probes are primarily deployed by larger Korath Exile ships to scan for intruders, evaluate foreign vessels and analyze system bodies. Their secondary function is to retrieve small debris and deactivated microbots spread across Korath space which have fallen off their ships, been fired from Shunt-Strikes, or were even deliberately deployed. Although the data observed and logged by an individual microbot is extremely limited, processing them in bulk yields a valuable gestalt of information. More importantly, the microbots can be recycled for use afterwards.\n\nThe Exiles, in their bid to further upgun their raiding armadas, outfitted these probes with small Warders and extra armor.",
+  "Faction": 209,
+  "IconImage": "kas-ik tek 7 icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "kas-ik tek 7.png",
+  "ModelScale": 0.7,
+  "EngineColor": "#FFA100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.3
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000444000000004440000000144410000001111100000011111000000111110000002222200000022222000000222220000005555500000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

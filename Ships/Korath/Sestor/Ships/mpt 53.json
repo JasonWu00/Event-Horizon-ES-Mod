@@ -3,6 +3,7 @@
   "Id": 406,
   "SizeClass": 1,
   "Name": "Met Par Tek 53",
+  "Description": "Although this is the smallest Kor Sestor ship other than their fighters, it is larger than most human capital ships and considerably more powerful.",
   "Faction": 213,
   "IconImage": "mpt 53 icon.png",
   "IconScale": 1.0,

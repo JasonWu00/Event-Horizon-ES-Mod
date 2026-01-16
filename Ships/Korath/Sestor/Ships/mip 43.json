@@ -1,0 +1,79 @@
+{
+  "ItemType": 6,
+  "Id": 532,
+  "Name": "Met Ik Par 43",
+  "Description": "With the Mereti \"wolf pack\" tactic of using massed Model 16s to outgun and outlast Sestor warships proven to be successful, the Sestor military is pressured to develop a countermeasure. The Met Ik Par 43 is developed as a counter to it. Sporting six gun ports, all equipped with Thermal Repeaters, the Met Ik Par 43 designed specifically to duel Model 16s and come out victorious. These ships would prove to be popular, widely deployed in most Sestor fleets.",
+  "Faction": 213,
+  "IconImage": "mip 43.png",
+  "IconScale": 1.0,
+  "ModelImage": "mip 43.png",
+  "ModelScale": 2.5,
+  "EngineColor": "#7DEF9F0F",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.3
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000440440000000000001044044010000000001442222244100000000144222224410000000441122222114400000044112222211440000001111222221111000000111122222111100000011112222211110000001111222221111000000111122222111100000011112222211110000001111222221111000000111122222111100000011112222211110000001155522255511000000015550005551000000000555000555000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.25
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.25
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.4
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.4
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

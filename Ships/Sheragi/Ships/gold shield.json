@@ -3,6 +3,7 @@
   "Id": 494,
   "SizeClass": 3,
   "Name": "Gold Shield",
+  "Description": "A powerful Sheragi carrier designed to quickly deploy fighters to swarm enemy ships. The ship comes equipped with a more powerful version of the repair system the Black Diamonds use. This increases its survivability, providing time for the fighters to finish off the enemy. For the Sheragi, this ship could hold arouned 90 individuals. For others, however, that number more than doubles, bringing it on par with the largest city ships.",
   "Faction": 217,
   "IconImage": "gold shield icon.png",
   "IconScale": 1.0,

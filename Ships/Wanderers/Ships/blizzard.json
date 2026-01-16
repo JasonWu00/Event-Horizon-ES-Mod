@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "Blizzard",
+  "Description": "The cumulation of Wanderer-Sestor technological exchange, the Blizzard-class Heavy Warship is a powerful warship capable of single-handedly defeating the strongest ships seen in Hai, Wanderer, and Korath spaces, its six gun ports and turret mounts capable of outputting damage potential only seen in the most powerful of ships imaginable.",
   "Faction": 211,
   "IconImage": "blizzard.png",
   "IconScale": 1.0,

@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1649,
+  "Id": 5111,
   "ShipId": 511,
   "DifficultyClass": 1,
   "BuildFaction": 202,
@@ -33,6 +33,18 @@
       "BarrelId": 1
     },
     {
+      "ComponentId": 1006,
+      "X": 2,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1006,
+      "X": 9,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
       "ComponentId": 11,
       "X": 2,
       "Y": 5,
@@ -42,7 +54,8 @@
       "ComponentId": 2028,
       "X": 5,
       "Y": 5,
-      "BarrelId": 2
+      "BarrelId": 2,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 11,
@@ -65,6 +78,18 @@
     {
       "ComponentId": 1006,
       "X": 4,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1001,
+      "X": 5,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1001,
+      "X": 6,
       "Y": 9,
       "BarrelId": -1
     },

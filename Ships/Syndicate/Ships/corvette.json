@@ -3,6 +3,7 @@
   "Id": 331,
   "SizeClass": 2,
   "Name": "Corvette",
+  "Description": "Incorporating new, experimental lightweight materials, the Lionheart Corvette combines the speed and agility of a fighter with the armament of a heavy warship. Its weak hull is more than compensated for by its advanced shielding matrix.",
   "Faction": 203,
   "IconImage": "corvette icon.png",
   "IconScale": 1.0,

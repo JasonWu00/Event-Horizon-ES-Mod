@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 4000,
+  "Id": 40000,
   "ShipId": 4000,
   "Components": [
     {
@@ -167,37 +167,37 @@
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3024,
+      "ComponentId": 9024,
       "X": 22,
       "Y": 13,
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3024,
+      "ComponentId": 9024,
       "X": 16,
       "Y": 13,
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3024,
+      "ComponentId": 9024,
       "X": 24,
       "Y": 20,
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3024,
+      "ComponentId": 9024,
       "X": 14,
       "Y": 20,
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3024,
+      "ComponentId": 9024,
       "X": 28,
       "Y": 32,
       "KeyBinding": 3
     },
     {
-      "ComponentId": 3024,
+      "ComponentId": 9024,
       "X": 10,
       "Y": 32,
       "KeyBinding": 3

@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 449,
   "Name": "Fetri'sei",
+  "Description": "The Fetri is a self replicating probe, built to harvest iridium away from the Graveyard and transport it back to the Builders.",
   "Faction": 210,
   "IconImage": "fetri'sei icon.png",
   "IconScale": 1.0,

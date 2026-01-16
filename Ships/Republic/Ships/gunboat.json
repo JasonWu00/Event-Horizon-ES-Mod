@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 347,
   "Name": "Gunboat",
+  "Description": "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo.",
   "Faction": 205,
   "IconImage": "gunboat icon.png",
   "IconScale": 1.0,

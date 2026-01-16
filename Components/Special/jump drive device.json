@@ -6,11 +6,12 @@
   "ScaleEnergyWithShipSize": false,
   "Power": 1.0,
   "Range": 35.0,
-  "Size": 3.0,
+  "Size": 1.0,
   "Cooldown": 10.0,
   "ActivationType": 1,
   "Color": "#FA00FF",
   "Sound": "jump drive",
   "EffectPrefab": "FlashAdditive",
+  "VisualEffect": 7000,
   "ControlButtonIcon": "jump drive.png"
 }

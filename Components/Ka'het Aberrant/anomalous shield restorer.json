@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1442,
+  "Name": "Anomalous Shield Restorer",
+  "Description": "This emitter produces no detectable fields of any kind, but a shield springs into existence whenever any danger comes near.",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1442,
+  "Faction": 223,
+  "Level": 300,
+  "Icon": "anomalous shield restorer.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

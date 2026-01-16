@@ -2,16 +2,16 @@
   "ItemType": 1,
   "Id": 1386,
   "Name": "Gravitational Device",
-  "Description": "No description.",
-  "DisplayCategory": 3,
+  "Description": "The Quarg's mastery of manipulating the spacetime metric extends to this unusual device, operating through rules of science unknown to humankind, that somehow reduces the mass of the ship it is mounted on. Knock-on effects from its internal functions also draw heat away from mission-critical systems and outfits.",
+  "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1386,
   "Faction": 214,
   "Level": 500,
   "Icon": "gravitational device.png",
-  "Layout": "111111111",
+  "Layout": "0111011111111111111101110",
   "CellType": "2",
   "PossibleModifications": [
-    12
+    3
   ]
 }

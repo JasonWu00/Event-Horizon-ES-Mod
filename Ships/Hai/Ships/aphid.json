@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 354,
   "Name": "Aphid",
+  "Description": "The Aphid is the lightest freighter used by the Hai and was for many millennia the backbone of the Hai interplanetary economy. Because of how peaceful Hai space has been for much of its history, Aphids only come with basic defenses as stock, and rely on larger Hai ships for more serious protection.",
   "Faction": 206,
   "IconImage": "aphid icon.png",
   "IconScale": 1.0,

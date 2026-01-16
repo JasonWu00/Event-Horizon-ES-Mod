@@ -3,6 +3,7 @@
   "Id": 381,
   "SizeClass": 2,
   "Name": "Saryd Traveler",
+  "Description": "Travelers were originally designed as science vessels, thousands of years ago before the Saryds had catalogued all the life forms and physical phenomena of every world in Coalition space. Today, many Saryd communities still choose to live in a Traveler and journey together from system to system rather than putting down roots on a planet.",
   "Faction": 218,
   "IconImage": "saryd traveler icon.png",
   "IconScale": 1.0,

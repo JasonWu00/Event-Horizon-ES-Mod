@@ -1,6 +1,6 @@
 {
   "ItemType": 8,
-  "Id": 1112,
+  "Id": 3380,
   "ShipId": 338,
   "BuildFaction": 204,
   "Components": [
@@ -60,13 +60,13 @@
       "KeyBinding": 2
     },
     {
-      "ComponentId": 3002,
+      "ComponentId": 9002,
       "X": 12,
       "Y": 9,
       "BarrelId": -1
     },
     {
-      "ComponentId": 3002,
+      "ComponentId": 9002,
       "X": 3,
       "Y": 9,
       "BarrelId": -1

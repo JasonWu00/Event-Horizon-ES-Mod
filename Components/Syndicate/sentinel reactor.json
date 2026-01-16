@@ -7,9 +7,9 @@
   "Availability": 1,
   "ComponentStatsId": 1414,
   "Faction": 203,
-  "Level": 80,
+  "Level": 100,
   "Icon": "sentinel reactor.png",
-  "Layout": "0000111111110000",
+  "Layout": "0000011111111111111100000",
   "CellType": "2",
   "PossibleModifications": [
     12

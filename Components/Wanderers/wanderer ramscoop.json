@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1456,
+  "Name": "Wanderer Ramscoop",
+  "Description": "Wanderer ships are designed to be self-sufficient even when traveling through uninhabited space, and their compact and efficient ramscoops are a key part of that self-sufficiency.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1453,
+  "Faction": 211,
+  "Level": 400,
+  "Icon": "wanderer ramscoop.png",
+  "Layout": "0000111111110000",
+  "PossibleModifications": [
+    12
+  ]
+}

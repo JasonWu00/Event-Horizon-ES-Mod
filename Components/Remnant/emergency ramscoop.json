@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1455,
+  "Name": "Emergency Ramscoop",
+  "Description": "The Ember Waste is the sort of place where only a very foolish captain would travel without some sort of device for replenishing hyperspace fuel. While this risk is non-existent in Remnant ships due to their \"gills,\" which are effectively built-in ramscoops, some captains prefer to speed up the process by adding additional capacity. For the rare captain braving the area in non-Remnant ships, this ramscoop is not particularly powerful, but it allows a ship to explore without fear of getting stranded.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1453,
+  "Faction": 207,
+  "Level": 325,
+  "Icon": "emergency ramscoop.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    12
+  ]
+}

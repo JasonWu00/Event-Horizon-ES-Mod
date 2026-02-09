@@ -92,6 +92,47 @@
       ]
     },
     {
+      "Id": 2012,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 201,
+      "Value": -2
+    },
+    {
+      "Id": 2022,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 202,
+      "Value": -2
+    },
+    {
+      "Id": 2032,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 203,
+      "Value": -2
+    },
+    {
+      "Id": 2042,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 204,
+      "Value": -2
+    },
+    {
+      "Id": 2052,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 205,
+      "Value": -2
+    },{
+      "Id": 2062,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 206,
+      "Value": -2
+    },
+    {
       "Id": 2072,
       "Type": 50,
       "DefaultTransition": 50,
@@ -99,10 +140,87 @@
       "Value": -2
     },
     {
+      "Id": 2082,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 208,
+      "Value": -2
+    },
+    {
       "Id": 2092,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 209,
+      "Value": -2
+    },
+    {
+      "Id": 2112,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 211,
+      "Value": -2
+    },
+    {
+      "Id": 2122,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 212,
+      "Value": -2
+    },
+    {
+      "Id": 2132,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 213,
+      "Value": -2
+    },
+    {
+      "Id": 2142,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 214,
+      "Value": -2
+    },
+    {
+      "Id": 2162,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 216,
+      "Value": -2
+    },
+    {
+      "Id": 2172,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 217,
+      "Value": -2
+    },
+    {
+      "Id": 2182,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 218,
+      "Value": -2
+    },
+    {
+      "Id": 2192,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 219,
+      "Value": -2
+    },
+    {
+      "Id": 2202,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 2202,
+      "Value": -2
+    },
+    {
+      "Id": 2212,
+      "Type": 50,
+      "DefaultTransition": 50,
+      "Character": 221,
       "Value": -2
     },
     {
@@ -127,10 +245,59 @@
       ]
     },
     {
+      "Id": 2011,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 201,
+      "Value": -5
+    },
+    {
+      "Id": 2021,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 202,
+      "Value": -5
+    },
+    {
+      "Id": 2031,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 203,
+      "Value": -5
+    },
+    {
+      "Id": 2041,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 204,
+      "Value": -5
+    },
+    {
+      "Id": 2051,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 205,
+      "Value": -5
+    },
+    {
+      "Id": 2061,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 206,
+      "Value": -5
+    },
+    {
       "Id": 2071,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 207,
+      "Value": -5
+    },
+    {
+      "Id": 2081,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 208,
       "Value": -5
     },
     {
@@ -141,66 +308,74 @@
       "Value": -5
     },
     {
-      "Id": 100,
-      "Type": 15,
-      "DefaultTransition": 50,
-      "Transitions": [
-        {
-          "TargetNode": 101,
-          "Requirement": {
-            "Type": 15,
-            "MinValue": -18,
-            "MaxValue": 1,
-            "Character": 207
-          }
-        },
-        {
-          "TargetNode": 102,
-          "Requirement": {
-            "Type": 15,
-            "MinValue": -20,
-            "MaxValue": -1,
-            "Character": 207
-          }
-        }
-      ]
+      "Id": 2111,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 211,
+      "Value": -5
     },
     {
-      "Id": 101,
-      "Type": 10,
-      "RequiredView": 1,
-      "Message": "Your relation with Remnant is Neutral (0)",
-      "Actions": [
-        {
-          "TargetNode": 110,
-          "ButtonText": "OK"
-        }
-      ]
+      "Id": 2121,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 212,
+      "Value": -5
     },
     {
-      "Id": 102,
-      "Type": 10,
-      "RequiredView": 1,
-      "Message": "Your relation with Remnant is Unfriendly (-20 to -1)",
-      "Actions": [
-        {
-          "TargetNode": 110,
-          "ButtonText": "OK"
-        }
-      ]
+      "Id": 2131,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 213,
+      "Value": -5
     },
     {
-      "Id": 1200,
-      "Type": 15,
-      "DefaultTransition": 50,
-      "Transitions": [
-        {
-          "TargetNode": 40,
-          "Requirement": {
-            "Type": 17
-          }
-        }
-      ]
+      "Id": 2141,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 214,
+      "Value": -5
+    },
+    {
+      "Id": 2161,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 216,
+      "Value": -5
+    },
+    {
+      "Id": 2171,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 217,
+      "Value": -5
+    },
+    {
+      "Id": 2181,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 218,
+      "Value": -5
+    },
+    {
+      "Id": 2191,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 219,
+      "Value": -5
+    },
+    {
+      "Id": 2201,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 220,
+      "Value": -5
+    },
+    {
+      "Id": 2211,
+      "Type": 50,
+      "DefaultTransition": 40,
+      "Character": 221,
+      "Value": -5
     }
   ]
 }

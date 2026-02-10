@@ -61,10 +61,32 @@
     },
     {
       "Id": 40,
+      "Type": 10,
+      "Message": "You have captured the base of a faction that tracks their relations with you. You may wish to consult a reputation tracker at a beacon for more information.",
+      "Actions": [
+        {
+          "TargetNode": 41,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 41,
       "Type": 40
     },
     {
       "Id": 50,
+      "Type": 10,
+      "Message": "You have attacked (but failed to capture) the base of a faction that tracks their relations with you. You may wish to consult a reputation tracker at a beacon for more information.",
+      "Actions": [
+        {
+          "TargetNode": 51,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 51,
       "Type": 41
     },
     {

@@ -73,6 +73,54 @@
       "DefaultTransition": 50,
       "Transitions": [
         {
+          "TargetNode": 2012,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2022,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 202
+          }
+        },
+        {
+          "TargetNode": 2032,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 203
+          }
+        },
+        {
+          "TargetNode": 2042,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 204
+          }
+        },
+        {
+          "TargetNode": 2052,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 205
+          }
+        },
+        {
+          "TargetNode": 2062,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 206
+          }
+        },
+        {
           "TargetNode": 2072,
           "Requirement": {
             "Type": 15,
@@ -81,12 +129,100 @@
           }
         },
         {
+          "TargetNode": 2082,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 208
+          }
+        },
+        {
           "TargetNode": 2092,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
-            "MaxValue": -19,
+            "MaxValue": -18,
             "Character": 207
+          }
+        },
+        {
+          "TargetNode": 2112,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 211
+          }
+        },
+        {
+          "TargetNode": 2122,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 212
+          }
+        },
+        {
+          "TargetNode": 2132,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 213
+          }
+        },
+        {
+          "TargetNode": 2142,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 214
+          }
+        },
+        {
+          "TargetNode": 2162,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 2162
+          }
+        },
+        {
+          "TargetNode": 2172,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 217
+          }
+        },
+        {
+          "TargetNode": 2182,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 218
+          }
+        },
+        {
+          "TargetNode": 2192,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 219
+          }
+        },
+        {
+          "TargetNode": 2202,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 220
+          }
+        },
+        {
+          "TargetNode": 2212,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -18,
+            "Character": 221
           }
         }
       ]
@@ -213,7 +349,7 @@
       "Id": 2202,
       "Type": 50,
       "DefaultTransition": 50,
-      "Character": 2202,
+      "Character": 220,
       "Value": -2
     },
     {
@@ -229,6 +365,48 @@
       "DefaultTransition": 40,
       "Transitions": [
         {
+          "TargetNode": 2011,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 201
+          }
+        },
+        {
+          "TargetNode": 2021,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 202
+          }
+        },
+        {
+          "TargetNode": 2031,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 203
+          }
+        },
+        {
+          "TargetNode": 2041,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 204
+          }
+        },
+        {
+          "TargetNode": 2051,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 205
+          }
+        },
+        {
+          "TargetNode": 2061,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 206
+          }
+        },
+        {
           "TargetNode": 2071,
           "Requirement": {
             "Type": 20,
@@ -236,10 +414,87 @@
           }
         },
         {
+          "TargetNode": 2081,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 208
+          }
+        },
+        {
           "TargetNode": 2091,
           "Requirement": {
             "Type": 20,
             "Faction": 209
+          }
+        },
+        {
+          "TargetNode": 2111,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 211
+          }
+        },
+        {
+          "TargetNode": 2121,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 212
+          }
+        },
+        {
+          "TargetNode": 2131,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 213
+          }
+        },
+        {
+          "TargetNode": 2141,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 214
+          }
+        },
+        {
+          "TargetNode": 2161,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 216
+          }
+        },
+        {
+          "TargetNode": 2171,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 217
+          }
+        },
+        {
+          "TargetNode": 2181,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 218
+          }
+        },
+        {
+          "TargetNode": 2191,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 219
+          }
+        },
+        {
+          "TargetNode": 2201,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 220
+          }
+        },
+        {
+          "TargetNode": 2211,
+          "Requirement": {
+            "Type": 20,
+            "Faction": 221
           }
         }
       ]

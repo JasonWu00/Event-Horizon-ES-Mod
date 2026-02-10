@@ -28,8 +28,8 @@
           "TargetNode": 2011,
           "Requirement": {
             "Type": 15,
-            "MinValue": -1,
-            "MaxValue": 1,
+            "MinValue": -4,
+            "MaxValue": 4,
             "Character": 201
           }
         },
@@ -38,7 +38,70 @@
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
-            "MaxValue": -1,
+            "MaxValue": -5,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2013,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 5,
+            "MaxValue": 20,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2014,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -50,
+            "MaxValue": -21,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2015,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 21,
+            "MaxValue": 50,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2016,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -90,
+            "MaxValue": -51,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2017,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 51,
+            "MaxValue": 90,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2018,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -100,
+            "MaxValue": -91,
+            "Character": 201
+          }
+        },
+        {
+          "TargetNode": 2019,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 91,
+            "MaxValue": 100,
             "Character": 201
           }
         }
@@ -48,7 +111,7 @@
       "Id": 2011,
       "Type": 10,
       "RequiredView": 1,
-      "Message": "Your relation with Merchant Federation is Neutral (-1 to 1)",
+      "Message": "Your relation with Merchant Alliance is Neutral (-4 to 4)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -60,7 +123,7 @@
       "Id": 2012,
       "Type": 10,
       "RequiredView": 1,
-      "Message": "Your relation with Merchant Federation is Unfriendly (-20 to -2)",
+      "Message": "Your relation with Merchant Alliance is Unfriendly (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -72,10 +135,278 @@
       "Id": 2013,
       "Type": 10,
       "RequiredView": 1,
-      "Message": "Your relation with Merchant Federation is Friendly (2 to 20)",
+      "Message": "Your relation with Merchant Alliance is Friendly (5 to 20)",
       "Actions": [
         {
           "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2014,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Merchant Alliance is Hostile (-51 to -20)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2015,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Merchant Alliance is ??? (21 to 50)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2016,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Merchant Alliance is At War (-90 to -51)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2017,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Merchant Alliance is ??? (51 to 90)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2018,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Merchant Alliance is Kill On Sight (-100 to -91)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2019,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with Merchant Alliance is ??? (91 to 100)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 200,
+      "Type": 15,
+      "DefaultTransition": 50,
+      "Transitions": [
+        {
+          "TargetNode": 2001,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -4,
+            "MaxValue": 4,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2002,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -20,
+            "MaxValue": -5,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2003,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 5,
+            "MaxValue": 20,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2004,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -50,
+            "MaxValue": -21,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2005,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 21,
+            "MaxValue": 50,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2006,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -90,
+            "MaxValue": -51,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2007,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 51,
+            "MaxValue": 90,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2008,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -100,
+            "MaxValue": -91,
+            "Character": 200
+          }
+        },
+        {
+          "TargetNode": 2009,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": 91,
+            "MaxValue": 100,
+            "Character": 200
+          }
+        }
+      ]
+    },
+    {
+      "Id": 2001,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is Neutral (-4 to 4)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2002,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is Unfriendly (-20 to -5)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2003,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is Friendly (5 to 20)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2004,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is Hostile (-51 to -20)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2005,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is ??? (21 to 50)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2006,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is At War (-90 to -51)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2007,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is ??? (51 to 90)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2008,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is Kill On Sight (-100 to -91)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2009,
+      "Type": 10,
+      "RequiredView": 1,
+      "Message": "Your relation with PLACEHOLDER is ??? (91 to 100)",
+      "Actions": [
+        {
+          "TargetNode": 2000,
           "ButtonText": "OK"
         }
       ]

@@ -25,6 +25,21 @@
       "Letter": "S",
       "Name": "$GroupWeaponS",
       "Icon": "icon_weapon_s"
+    },
+    {
+      "Letter": "X",
+      "Name": "Spinal Weapons",
+      "Icon": "nuke.png"
+    },
+    {
+      "Letter": "D",
+      "Name": "Death Ray",
+      "Icon": "unknown.png"
+    },
+    {
+      "Letter": "H",
+      "Name": "Holy Cannon",
+      "Icon": "unknown.png"
     }
   ]
 }

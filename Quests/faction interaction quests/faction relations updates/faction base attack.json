@@ -203,8 +203,7 @@
           "TargetNode": 2162,
           "Requirement": {
             "Type": 15,
-            "MinValue": -18,
-            "Character": 2162
+            "MinValue": -18
           }
         },
         {
@@ -283,7 +282,8 @@
       "DefaultTransition": 50,
       "Character": 205,
       "Value": -2
-    },{
+    },
+    {
       "Id": 2062,
       "Type": 50,
       "DefaultTransition": 50,

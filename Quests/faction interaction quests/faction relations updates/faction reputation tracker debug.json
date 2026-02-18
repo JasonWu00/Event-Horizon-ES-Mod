@@ -1,0 +1,81 @@
+{
+  "ItemType": 15,
+  "Id": 40000002,
+  "Name": "Reputation Tracker Debug",
+  
+  "Weight": 10.0,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "There is a hypernet node here. You can use it to check your relations with various factions.",
+      "Actions": [
+        {
+          "TargetNode": 201,
+          "ButtonText": "Check your reputation"
+        },
+        {
+          "TargetNode": 3,
+          "ButtonText": "Ignore"
+        }
+      ]
+    },
+    {
+      "Id": 201,
+      "Type": 15,
+      "DefaultTransition": 202,
+      "Transitions": [
+        {
+          "TargetNode": 1,
+          "Requirement": {
+            "Type": 15,
+            "MinValue": -4,
+            "MaxValue": 4,
+            "Character": 201
+          }
+        }
+      ]
+    },
+    {
+      "Id": 2011,
+      "Type": 10,
+      "Message": "Your relation with Merchant Alliance is Neutral Bystander (-4 to 4)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 2012,
+      "Type": 10,
+      "Message": "Your relation with Merchant Alliance is Bothersome Outsider (-20 to -5)",
+      "Actions": [
+        {
+          "TargetNode": 202,
+          "ButtonText": "OK"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 40
+    },
+    {
+      "Id": 202,
+      "Type": 10,
+      "Message": "Debug complete.",
+      "Actions": [
+        {
+          "TargetNode": 1,
+          "ButtonText": "Check your reputation again"
+        },
+        {
+          "TargetNode": 3,
+          "ButtonText": "End"
+        }
+      ]
+    }
+  ]
+}

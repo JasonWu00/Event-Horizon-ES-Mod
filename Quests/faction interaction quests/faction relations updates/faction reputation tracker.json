@@ -1,13 +1,14 @@
 {
   "ItemType": 15,
-  "Id": 4000001,
+  "Id": 40000001,
+  "Name": "Reputation Tracker",
   "StartCondition": 1,
-  "Weight": 1.0,
+  "Weight": 10.0,
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
-      "Message": "There is a hypernet node here. You can use it to check your relation with various factions.",
+      "Message": "There is a hypernet node here. You can use it to check your relations with various factions.",
       "Actions": [
         {
           "TargetNode": 201,
@@ -26,10 +27,10 @@
     {
       "Id": 201,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 101,
       "Transitions": [
         {
-          "TargetNode": 2011,
+          "TargetNode": 101,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -38,7 +39,7 @@
           }
         },
         {
-          "TargetNode": 2012,
+          "TargetNode": 102,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -47,7 +48,7 @@
           }
         },
         {
-          "TargetNode": 2013,
+          "TargetNode": 103,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -56,7 +57,7 @@
           }
         },
         {
-          "TargetNode": 2014,
+          "TargetNode": 104,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -65,7 +66,7 @@
           }
         },
         {
-          "TargetNode": 2015,
+          "TargetNode": 105,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -74,7 +75,7 @@
           }
         },
         {
-          "TargetNode": 2016,
+          "TargetNode": 106,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -83,7 +84,7 @@
           }
         },
         {
-          "TargetNode": 2017,
+          "TargetNode": 107,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -92,7 +93,7 @@
           }
         },
         {
-          "TargetNode": 2018,
+          "TargetNode": 108,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -101,7 +102,7 @@
           }
         },
         {
-          "TargetNode": 2019,
+          "TargetNode": 109,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -110,7 +111,7 @@
           }
         },
         {
-          "TargetNode": 20110,
+          "TargetNode": 110,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -119,7 +120,7 @@
           }
         },
         {
-          "TargetNode": 20111,
+          "TargetNode": 111,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -130,9 +131,8 @@
       ]
     },
     {
-      "Id": 2011,
+      "Id": 101,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -142,9 +142,8 @@
       ]
     },
     {
-      "Id": 2012,
+      "Id": 102,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -154,9 +153,8 @@
       ]
     },
     {
-      "Id": 2013,
+      "Id": 103,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -166,9 +164,8 @@
       ]
     },
     {
-      "Id": 2014,
+      "Id": 104,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -178,9 +175,8 @@
       ]
     },
     {
-      "Id": 2015,
+      "Id": 105,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Friendly (21 to 50)",
       "Actions": [
         {
@@ -190,9 +186,8 @@
       ]
     },
     {
-      "Id": 2016,
+      "Id": 106,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -202,9 +197,8 @@
       ]
     },
     {
-      "Id": 2017,
+      "Id": 107,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -214,9 +208,8 @@
       ]
     },
     {
-      "Id": 2018,
+      "Id": 108,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -226,9 +219,8 @@
       ]
     },
     {
-      "Id": 2019,
+      "Id": 109,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -238,9 +230,8 @@
       ]
     },
     {
-      "Id": 20110,
+      "Id": 110,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Kill On Sight (-100)",
       "Actions": [
         {
@@ -250,9 +241,8 @@
       ]
     },
     {
-      "Id": 20111,
+      "Id": 111,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Merchant Alliance is Most Favored Ally (100)",
       "Actions": [
         {
@@ -264,10 +254,10 @@
     {
       "Id": 202,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 321,
       "Transitions": [
         {
-          "TargetNode": 2021,
+          "TargetNode": 321,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -276,7 +266,7 @@
           }
         },
         {
-          "TargetNode": 2022,
+          "TargetNode": 322,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -285,7 +275,7 @@
           }
         },
         {
-          "TargetNode": 2023,
+          "TargetNode": 323,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -294,7 +284,7 @@
           }
         },
         {
-          "TargetNode": 2024,
+          "TargetNode": 324,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -303,7 +293,7 @@
           }
         },
         {
-          "TargetNode": 2025,
+          "TargetNode": 325,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -312,7 +302,7 @@
           }
         },
         {
-          "TargetNode": 2026,
+          "TargetNode": 326,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -321,7 +311,7 @@
           }
         },
         {
-          "TargetNode": 2027,
+          "TargetNode": 327,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -330,7 +320,7 @@
           }
         },
         {
-          "TargetNode": 2028,
+          "TargetNode": 328,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -339,7 +329,7 @@
           }
         },
         {
-          "TargetNode": 2029,
+          "TargetNode": 329,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -348,7 +338,7 @@
           }
         },
         {
-          "TargetNode": 20210,
+          "TargetNode": 310,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -357,7 +347,7 @@
           }
         },
         {
-          "TargetNode": 20211,
+          "TargetNode": 311,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -368,9 +358,8 @@
       ]
     },
     {
-      "Id": 2021,
+      "Id": 321,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -380,9 +369,8 @@
       ]
     },
     {
-      "Id": 2022,
+      "Id": 322,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -392,9 +380,8 @@
       ]
     },
     {
-      "Id": 2023,
+      "Id": 323,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -404,9 +391,8 @@
       ]
     },
     {
-      "Id": 2024,
+      "Id": 324,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -416,9 +402,8 @@
       ]
     },
     {
-      "Id": 2025,
+      "Id": 325,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Friendly (21 to 50)",
       "Actions": [
         {
@@ -428,9 +413,8 @@
       ]
     },
     {
-      "Id": 2026,
+      "Id": 326,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -440,9 +424,8 @@
       ]
     },
     {
-      "Id": 2027,
+      "Id": 327,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -452,9 +435,8 @@
       ]
     },
     {
-      "Id": 2028,
+      "Id": 328,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -464,9 +446,8 @@
       ]
     },
     {
-      "Id": 2029,
+      "Id": 329,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -476,9 +457,8 @@
       ]
     },
     {
-      "Id": 20210,
+      "Id": 330,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Kill On Sight (-100)",
       "Actions": [
         {
@@ -488,9 +468,8 @@
       ]
     },
     {
-      "Id": 20211,
+      "Id": 331,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pirates is Most Favored Ally (100)",
       "Actions": [
         {
@@ -502,10 +481,10 @@
     {
       "Id": 203,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 131,
       "Transitions": [
         {
-          "TargetNode": 2031,
+          "TargetNode": 131,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -514,7 +493,7 @@
           }
         },
         {
-          "TargetNode": 2032,
+          "TargetNode": 132,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -523,7 +502,7 @@
           }
         },
         {
-          "TargetNode": 2033,
+          "TargetNode": 133,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -532,7 +511,7 @@
           }
         },
         {
-          "TargetNode": 2034,
+          "TargetNode": 134,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -541,7 +520,7 @@
           }
         },
         {
-          "TargetNode": 2035,
+          "TargetNode": 135,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -550,7 +529,7 @@
           }
         },
         {
-          "TargetNode": 2036,
+          "TargetNode": 136,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -559,7 +538,7 @@
           }
         },
         {
-          "TargetNode": 2037,
+          "TargetNode": 137,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -568,7 +547,7 @@
           }
         },
         {
-          "TargetNode": 2038,
+          "TargetNode": 138,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -577,7 +556,7 @@
           }
         },
         {
-          "TargetNode": 2039,
+          "TargetNode": 139,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -586,7 +565,7 @@
           }
         },
         {
-          "TargetNode": 20310,
+          "TargetNode": 140,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -595,7 +574,7 @@
           }
         },
         {
-          "TargetNode": 20311,
+          "TargetNode": 141,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -606,9 +585,8 @@
       ]
     },
     {
-      "Id": 2031,
+      "Id": 131,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -618,9 +596,8 @@
       ]
     },
     {
-      "Id": 2032,
+      "Id": 132,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -630,9 +607,8 @@
       ]
     },
     {
-      "Id": 2033,
+      "Id": 133,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -642,9 +618,8 @@
       ]
     },
     {
-      "Id": 2034,
+      "Id": 134,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -654,9 +629,8 @@
       ]
     },
     {
-      "Id": 2035,
+      "Id": 135,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Friendly (21 to 50)",
       "Actions": [
         {
@@ -666,9 +640,8 @@
       ]
     },
     {
-      "Id": 2036,
+      "Id": 136,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -678,9 +651,8 @@
       ]
     },
     {
-      "Id": 2037,
+      "Id": 137,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -690,9 +662,8 @@
       ]
     },
     {
-      "Id": 2038,
+      "Id": 138,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -702,9 +673,8 @@
       ]
     },
     {
-      "Id": 2039,
+      "Id": 139,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -714,9 +684,8 @@
       ]
     },
     {
-      "Id": 20310,
+      "Id": 140,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Kill On Sight (-100)",
       "Actions": [
         {
@@ -726,9 +695,8 @@
       ]
     },
     {
-      "Id": 20311,
+      "Id": 141,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Syndicated Systems is Most Favored Ally (100)",
       "Actions": [
         {
@@ -740,10 +708,10 @@
     {
       "Id": 204,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 341,
       "Transitions": [
         {
-          "TargetNode": 2041,
+          "TargetNode": 341,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -752,7 +720,7 @@
           }
         },
         {
-          "TargetNode": 2042,
+          "TargetNode": 342,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -761,7 +729,7 @@
           }
         },
         {
-          "TargetNode": 2043,
+          "TargetNode": 343,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -770,7 +738,7 @@
           }
         },
         {
-          "TargetNode": 2044,
+          "TargetNode": 344,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -779,7 +747,7 @@
           }
         },
         {
-          "TargetNode": 2045,
+          "TargetNode": 345,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -788,7 +756,7 @@
           }
         },
         {
-          "TargetNode": 2046,
+          "TargetNode": 346,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -797,7 +765,7 @@
           }
         },
         {
-          "TargetNode": 2047,
+          "TargetNode": 347,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -806,7 +774,7 @@
           }
         },
         {
-          "TargetNode": 2048,
+          "TargetNode": 348,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -815,7 +783,7 @@
           }
         },
         {
-          "TargetNode": 2049,
+          "TargetNode": 349,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -824,7 +792,7 @@
           }
         },
         {
-          "TargetNode": 20410,
+          "TargetNode": 350,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -833,7 +801,7 @@
           }
         },
         {
-          "TargetNode": 20411,
+          "TargetNode": 351,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -844,9 +812,8 @@
       ]
     },
     {
-      "Id": 2041,
+      "Id": 341,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -856,9 +823,8 @@
       ]
     },
     {
-      "Id": 2042,
+      "Id": 342,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -868,9 +834,8 @@
       ]
     },
     {
-      "Id": 2043,
+      "Id": 343,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -880,9 +845,8 @@
       ]
     },
     {
-      "Id": 2044,
+      "Id": 344,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -892,9 +856,8 @@
       ]
     },
     {
-      "Id": 2045,
+      "Id": 345,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Friendly (21 to 50)",
       "Actions": [
         {
@@ -904,9 +867,8 @@
       ]
     },
     {
-      "Id": 2046,
+      "Id": 346,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -916,9 +878,8 @@
       ]
     },
     {
-      "Id": 2047,
+      "Id": 347,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -928,9 +889,8 @@
       ]
     },
     {
-      "Id": 2048,
+      "Id": 348,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -940,9 +900,8 @@
       ]
     },
     {
-      "Id": 2049,
+      "Id": 349,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -952,9 +911,8 @@
       ]
     },
     {
-      "Id": 20410,
+      "Id": 350,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Kill On Sight (-100)",
       "Actions": [
         {
@@ -964,9 +922,8 @@
       ]
     },
     {
-      "Id": 20411,
+      "Id": 351,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Confederation of Free Worlds is Most Favored Ally (100)",
       "Actions": [
         {
@@ -978,10 +935,10 @@
     {
       "Id": 205,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 151,
       "Transitions": [
         {
-          "TargetNode": 2051,
+          "TargetNode": 151,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -990,7 +947,7 @@
           }
         },
         {
-          "TargetNode": 2052,
+          "TargetNode": 152,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -999,7 +956,7 @@
           }
         },
         {
-          "TargetNode": 2053,
+          "TargetNode": 153,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -1008,7 +965,7 @@
           }
         },
         {
-          "TargetNode": 2054,
+          "TargetNode": 154,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -1017,7 +974,7 @@
           }
         },
         {
-          "TargetNode": 2055,
+          "TargetNode": 155,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -1026,7 +983,7 @@
           }
         },
         {
-          "TargetNode": 2056,
+          "TargetNode": 156,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -1035,7 +992,7 @@
           }
         },
         {
-          "TargetNode": 2057,
+          "TargetNode": 157,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -1044,7 +1001,7 @@
           }
         },
         {
-          "TargetNode": 2058,
+          "TargetNode": 158,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -1053,7 +1010,7 @@
           }
         },
         {
-          "TargetNode": 2059,
+          "TargetNode": 159,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -1062,7 +1019,7 @@
           }
         },
         {
-          "TargetNode": 20510,
+          "TargetNode": 160,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -1071,7 +1028,7 @@
           }
         },
         {
-          "TargetNode": 20511,
+          "TargetNode": 161,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -1082,9 +1039,8 @@
       ]
     },
     {
-      "Id": 2051,
+      "Id": 151,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -1094,9 +1050,8 @@
       ]
     },
     {
-      "Id": 2052,
+      "Id": 152,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -1106,9 +1061,8 @@
       ]
     },
     {
-      "Id": 2053,
+      "Id": 153,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -1118,9 +1072,8 @@
       ]
     },
     {
-      "Id": 2054,
+      "Id": 154,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -1130,9 +1083,8 @@
       ]
     },
     {
-      "Id": 2055,
+      "Id": 155,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Friendly (21 to 50)",
       "Actions": [
         {
@@ -1142,9 +1094,8 @@
       ]
     },
     {
-      "Id": 2056,
+      "Id": 156,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -1154,9 +1105,8 @@
       ]
     },
     {
-      "Id": 2057,
+      "Id": 157,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -1166,9 +1116,8 @@
       ]
     },
     {
-      "Id": 2058,
+      "Id": 158,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -1178,9 +1127,8 @@
       ]
     },
     {
-      "Id": 2059,
+      "Id": 159,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -1190,9 +1138,8 @@
       ]
     },
     {
-      "Id": 20510,
+      "Id": 160,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Kill On Sight (-100)",
       "Actions": [
         {
@@ -1202,9 +1149,8 @@
       ]
     },
     {
-      "Id": 20511,
+      "Id": 161,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Republic of Earth is Most Favored Ally (100)",
       "Actions": [
         {
@@ -1216,10 +1162,10 @@
     {
       "Id": 206,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 361,
       "Transitions": [
         {
-          "TargetNode": 2061,
+          "TargetNode": 361,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -1228,7 +1174,7 @@
           }
         },
         {
-          "TargetNode": 2062,
+          "TargetNode": 362,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -1237,7 +1183,7 @@
           }
         },
         {
-          "TargetNode": 2063,
+          "TargetNode": 363,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -1246,7 +1192,7 @@
           }
         },
         {
-          "TargetNode": 2064,
+          "TargetNode": 364,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -1255,7 +1201,7 @@
           }
         },
         {
-          "TargetNode": 2065,
+          "TargetNode": 365,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -1264,7 +1210,7 @@
           }
         },
         {
-          "TargetNode": 2066,
+          "TargetNode": 366,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -1273,7 +1219,7 @@
           }
         },
         {
-          "TargetNode": 2067,
+          "TargetNode": 367,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -1282,7 +1228,7 @@
           }
         },
         {
-          "TargetNode": 2068,
+          "TargetNode": 368,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -1291,7 +1237,7 @@
           }
         },
         {
-          "TargetNode": 2069,
+          "TargetNode": 369,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -1300,7 +1246,7 @@
           }
         },
         {
-          "TargetNode": 20610,
+          "TargetNode": 370,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -1309,7 +1255,7 @@
           }
         },
         {
-          "TargetNode": 20611,
+          "TargetNode": 371,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -1320,9 +1266,8 @@
       ]
     },
     {
-      "Id": 2061,
+      "Id": 361,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -1332,9 +1277,8 @@
       ]
     },
     {
-      "Id": 2062,
+      "Id": 362,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -1344,9 +1288,8 @@
       ]
     },
     {
-      "Id": 2063,
+      "Id": 363,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -1356,9 +1299,8 @@
       ]
     },
     {
-      "Id": 2064,
+      "Id": 364,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -1368,9 +1310,8 @@
       ]
     },
     {
-      "Id": 2065,
+      "Id": 365,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Friendly (21 to 50)",
       "Actions": [
         {
@@ -1380,9 +1321,8 @@
       ]
     },
     {
-      "Id": 2066,
+      "Id": 366,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -1392,9 +1332,8 @@
       ]
     },
     {
-      "Id": 2067,
+      "Id": 367,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -1404,9 +1343,8 @@
       ]
     },
     {
-      "Id": 2068,
+      "Id": 368,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -1416,9 +1354,8 @@
       ]
     },
     {
-      "Id": 2069,
+      "Id": 369,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -1428,9 +1365,8 @@
       ]
     },
     {
-      "Id": 20610,
+      "Id": 370,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Kill On Sight (-100)",
       "Actions": [
         {
@@ -1440,9 +1376,8 @@
       ]
     },
     {
-      "Id": 20611,
+      "Id": 371,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Hai is Most Favored Ally (100)",
       "Actions": [
         {
@@ -1454,10 +1389,10 @@
     {
       "Id": 207,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 171,
       "Transitions": [
         {
-          "TargetNode": 2071,
+          "TargetNode": 171,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -1466,7 +1401,7 @@
           }
         },
         {
-          "TargetNode": 2072,
+          "TargetNode": 172,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -1475,7 +1410,7 @@
           }
         },
         {
-          "TargetNode": 2073,
+          "TargetNode": 173,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -1484,7 +1419,7 @@
           }
         },
         {
-          "TargetNode": 2074,
+          "TargetNode": 174,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -1493,7 +1428,7 @@
           }
         },
         {
-          "TargetNode": 2075,
+          "TargetNode": 175,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -1502,7 +1437,7 @@
           }
         },
         {
-          "TargetNode": 2076,
+          "TargetNode": 176,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -1511,7 +1446,7 @@
           }
         },
         {
-          "TargetNode": 2077,
+          "TargetNode": 177,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -1520,7 +1455,7 @@
           }
         },
         {
-          "TargetNode": 2078,
+          "TargetNode": 178,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -1529,7 +1464,7 @@
           }
         },
         {
-          "TargetNode": 2079,
+          "TargetNode": 179,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -1538,7 +1473,7 @@
           }
         },
         {
-          "TargetNode": 20710,
+          "TargetNode": 180,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -1547,7 +1482,7 @@
           }
         },
         {
-          "TargetNode": 20711,
+          "TargetNode": 181,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -1558,9 +1493,8 @@
       ]
     },
     {
-      "Id": 2071,
+      "Id": 171,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -1570,9 +1504,8 @@
       ]
     },
     {
-      "Id": 2072,
+      "Id": 172,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -1582,9 +1515,8 @@
       ]
     },
     {
-      "Id": 2073,
+      "Id": 173,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -1594,9 +1526,8 @@
       ]
     },
     {
-      "Id": 2074,
+      "Id": 174,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -1606,9 +1537,8 @@
       ]
     },
     {
-      "Id": 2075,
+      "Id": 175,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Friendly (21 to 50)",
       "Actions": [
         {
@@ -1618,9 +1548,8 @@
       ]
     },
     {
-      "Id": 2076,
+      "Id": 176,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -1630,9 +1559,8 @@
       ]
     },
     {
-      "Id": 2077,
+      "Id": 177,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -1642,9 +1570,8 @@
       ]
     },
     {
-      "Id": 2078,
+      "Id": 178,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -1654,9 +1581,8 @@
       ]
     },
     {
-      "Id": 2079,
+      "Id": 179,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -1666,9 +1592,8 @@
       ]
     },
     {
-      "Id": 20710,
+      "Id": 180,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Kill On Sight (-100)",
       "Actions": [
         {
@@ -1678,9 +1603,8 @@
       ]
     },
     {
-      "Id": 20711,
+      "Id": 181,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Remnant is Most Favored Ally (100)",
       "Actions": [
         {
@@ -1692,10 +1616,10 @@
     {
       "Id": 208,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 381,
       "Transitions": [
         {
-          "TargetNode": 2081,
+          "TargetNode": 381,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -1704,7 +1628,7 @@
           }
         },
         {
-          "TargetNode": 2082,
+          "TargetNode": 382,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -1713,7 +1637,7 @@
           }
         },
         {
-          "TargetNode": 2083,
+          "TargetNode": 383,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -1722,7 +1646,7 @@
           }
         },
         {
-          "TargetNode": 2084,
+          "TargetNode": 384,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -1731,7 +1655,7 @@
           }
         },
         {
-          "TargetNode": 2085,
+          "TargetNode": 385,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -1740,7 +1664,7 @@
           }
         },
         {
-          "TargetNode": 2086,
+          "TargetNode": 386,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -1749,7 +1673,7 @@
           }
         },
         {
-          "TargetNode": 2087,
+          "TargetNode": 387,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -1758,7 +1682,7 @@
           }
         },
         {
-          "TargetNode": 2088,
+          "TargetNode": 388,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -1767,7 +1691,7 @@
           }
         },
         {
-          "TargetNode": 2089,
+          "TargetNode": 389,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -1776,7 +1700,7 @@
           }
         },
         {
-          "TargetNode": 20810,
+          "TargetNode": 390,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -1785,7 +1709,7 @@
           }
         },
         {
-          "TargetNode": 20811,
+          "TargetNode": 391,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -1796,9 +1720,8 @@
       ]
     },
     {
-      "Id": 2081,
+      "Id": 381,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -1808,9 +1731,8 @@
       ]
     },
     {
-      "Id": 2082,
+      "Id": 382,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -1820,9 +1742,8 @@
       ]
     },
     {
-      "Id": 2083,
+      "Id": 383,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -1832,9 +1753,8 @@
       ]
     },
     {
-      "Id": 2084,
+      "Id": 384,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -1844,9 +1764,8 @@
       ]
     },
     {
-      "Id": 2085,
+      "Id": 385,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Friendly (21 to 50)",
       "Actions": [
         {
@@ -1856,9 +1775,8 @@
       ]
     },
     {
-      "Id": 2086,
+      "Id": 386,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -1868,9 +1786,8 @@
       ]
     },
     {
-      "Id": 2087,
+      "Id": 387,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -1880,9 +1797,8 @@
       ]
     },
     {
-      "Id": 2088,
+      "Id": 388,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -1892,9 +1808,8 @@
       ]
     },
     {
-      "Id": 2089,
+      "Id": 389,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -1904,9 +1819,8 @@
       ]
     },
     {
-      "Id": 20810,
+      "Id": 390,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Kill On Sight (-100)",
       "Actions": [
         {
@@ -1916,9 +1830,8 @@
       ]
     },
     {
-      "Id": 20811,
+      "Id": 391,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Heliarch Security Forces is Most Favored Ally (100)",
       "Actions": [
         {
@@ -1930,10 +1843,10 @@
     {
       "Id": 209,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 191,
       "Transitions": [
         {
-          "TargetNode": 2091,
+          "TargetNode": 191,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -1942,7 +1855,7 @@
           }
         },
         {
-          "TargetNode": 2092,
+          "TargetNode": 192,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -1951,7 +1864,7 @@
           }
         },
         {
-          "TargetNode": 2093,
+          "TargetNode": 193,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -1960,7 +1873,7 @@
           }
         },
         {
-          "TargetNode": 2094,
+          "TargetNode": 194,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -1969,7 +1882,7 @@
           }
         },
         {
-          "TargetNode": 2095,
+          "TargetNode": 195,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -1978,7 +1891,7 @@
           }
         },
         {
-          "TargetNode": 2096,
+          "TargetNode": 196,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -1987,7 +1900,7 @@
           }
         },
         {
-          "TargetNode": 2097,
+          "TargetNode": 197,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -1996,7 +1909,7 @@
           }
         },
         {
-          "TargetNode": 2098,
+          "TargetNode": 198,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -2005,7 +1918,7 @@
           }
         },
         {
-          "TargetNode": 2099,
+          "TargetNode": 199,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -2014,7 +1927,7 @@
           }
         },
         {
-          "TargetNode": 20910,
+          "TargetNode": 200,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -2023,7 +1936,7 @@
           }
         },
         {
-          "TargetNode": 20911,
+          "TargetNode": 190,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -2034,9 +1947,8 @@
       ]
     },
     {
-      "Id": 2091,
+      "Id": 191,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -2046,9 +1958,8 @@
       ]
     },
     {
-      "Id": 2092,
+      "Id": 192,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -2058,9 +1969,8 @@
       ]
     },
     {
-      "Id": 2093,
+      "Id": 193,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -2070,9 +1980,8 @@
       ]
     },
     {
-      "Id": 2094,
+      "Id": 194,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -2082,9 +1991,8 @@
       ]
     },
     {
-      "Id": 2095,
+      "Id": 195,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Friendly (21 to 50)",
       "Actions": [
         {
@@ -2094,9 +2002,8 @@
       ]
     },
     {
-      "Id": 2096,
+      "Id": 196,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -2106,9 +2013,8 @@
       ]
     },
     {
-      "Id": 2097,
+      "Id": 197,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -2118,9 +2024,8 @@
       ]
     },
     {
-      "Id": 2098,
+      "Id": 198,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -2130,9 +2035,8 @@
       ]
     },
     {
-      "Id": 2099,
+      "Id": 199,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -2142,9 +2046,8 @@
       ]
     },
     {
-      "Id": 20910,
+      "Id": 200,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Kill On Sight (-100)",
       "Actions": [
         {
@@ -2154,9 +2057,8 @@
       ]
     },
     {
-      "Id": 20911,
+      "Id": 190,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Korath Exiles is Most Favored Ally (100)",
       "Actions": [
         {
@@ -2168,10 +2070,10 @@
     {
       "Id": 211,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 411,
       "Transitions": [
         {
-          "TargetNode": 2111,
+          "TargetNode": 411,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -2180,7 +2082,7 @@
           }
         },
         {
-          "TargetNode": 2112,
+          "TargetNode": 412,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -2189,7 +2091,7 @@
           }
         },
         {
-          "TargetNode": 2113,
+          "TargetNode": 413,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -2198,7 +2100,7 @@
           }
         },
         {
-          "TargetNode": 2114,
+          "TargetNode": 414,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -2207,7 +2109,7 @@
           }
         },
         {
-          "TargetNode": 2115,
+          "TargetNode": 415,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -2216,7 +2118,7 @@
           }
         },
         {
-          "TargetNode": 2116,
+          "TargetNode": 416,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -2225,7 +2127,7 @@
           }
         },
         {
-          "TargetNode": 2117,
+          "TargetNode": 417,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -2234,7 +2136,7 @@
           }
         },
         {
-          "TargetNode": 2118,
+          "TargetNode": 418,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -2243,7 +2145,7 @@
           }
         },
         {
-          "TargetNode": 2119,
+          "TargetNode": 419,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -2252,7 +2154,7 @@
           }
         },
         {
-          "TargetNode": 21110,
+          "TargetNode": 420,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -2261,7 +2163,7 @@
           }
         },
         {
-          "TargetNode": 21111,
+          "TargetNode": 421,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -2272,9 +2174,8 @@
       ]
     },
     {
-      "Id": 2111,
+      "Id": 411,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -2284,9 +2185,8 @@
       ]
     },
     {
-      "Id": 2112,
+      "Id": 412,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -2296,9 +2196,8 @@
       ]
     },
     {
-      "Id": 2113,
+      "Id": 413,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -2308,9 +2207,8 @@
       ]
     },
     {
-      "Id": 2114,
+      "Id": 414,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -2320,9 +2218,8 @@
       ]
     },
     {
-      "Id": 2115,
+      "Id": 415,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Friendly (21 to 50)",
       "Actions": [
         {
@@ -2332,9 +2229,8 @@
       ]
     },
     {
-      "Id": 2116,
+      "Id": 416,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -2344,9 +2240,8 @@
       ]
     },
     {
-      "Id": 2117,
+      "Id": 417,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -2356,9 +2251,8 @@
       ]
     },
     {
-      "Id": 2118,
+      "Id": 418,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -2368,9 +2262,8 @@
       ]
     },
     {
-      "Id": 2119,
+      "Id": 419,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -2380,9 +2273,8 @@
       ]
     },
     {
-      "Id": 21110,
+      "Id": 420,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Kill On Sight (-100)",
       "Actions": [
         {
@@ -2392,9 +2284,8 @@
       ]
     },
     {
-      "Id": 21111,
+      "Id": 421,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Wanderers is Most Favored Ally (100)",
       "Actions": [
         {
@@ -2406,10 +2297,10 @@
     {
       "Id": 212,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 521,
       "Transitions": [
         {
-          "TargetNode": 2121,
+          "TargetNode": 521,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -2418,7 +2309,7 @@
           }
         },
         {
-          "TargetNode": 2122,
+          "TargetNode": 522,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -2427,7 +2318,7 @@
           }
         },
         {
-          "TargetNode": 2123,
+          "TargetNode": 523,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -2436,7 +2327,7 @@
           }
         },
         {
-          "TargetNode": 2124,
+          "TargetNode": 524,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -2445,7 +2336,7 @@
           }
         },
         {
-          "TargetNode": 2125,
+          "TargetNode": 525,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -2454,7 +2345,7 @@
           }
         },
         {
-          "TargetNode": 2126,
+          "TargetNode": 526,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -2463,7 +2354,7 @@
           }
         },
         {
-          "TargetNode": 2127,
+          "TargetNode": 527,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -2472,7 +2363,7 @@
           }
         },
         {
-          "TargetNode": 2128,
+          "TargetNode": 528,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -2481,7 +2372,7 @@
           }
         },
         {
-          "TargetNode": 2129,
+          "TargetNode": 529,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -2490,7 +2381,7 @@
           }
         },
         {
-          "TargetNode": 21210,
+          "TargetNode": 530,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -2499,7 +2390,7 @@
           }
         },
         {
-          "TargetNode": 21211,
+          "TargetNode": 531,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -2510,9 +2401,8 @@
       ]
     },
     {
-      "Id": 2121,
+      "Id": 521,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -2522,9 +2412,8 @@
       ]
     },
     {
-      "Id": 2122,
+      "Id": 522,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -2534,9 +2423,8 @@
       ]
     },
     {
-      "Id": 2123,
+      "Id": 523,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -2546,9 +2434,8 @@
       ]
     },
     {
-      "Id": 2124,
+      "Id": 524,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -2558,9 +2445,8 @@
       ]
     },
     {
-      "Id": 2125,
+      "Id": 525,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Friendly (21 to 50)",
       "Actions": [
         {
@@ -2570,9 +2456,8 @@
       ]
     },
     {
-      "Id": 2126,
+      "Id": 526,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -2582,9 +2467,8 @@
       ]
     },
     {
-      "Id": 2127,
+      "Id": 527,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -2594,9 +2478,8 @@
       ]
     },
     {
-      "Id": 2128,
+      "Id": 528,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -2606,9 +2489,8 @@
       ]
     },
     {
-      "Id": 2129,
+      "Id": 529,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -2618,9 +2500,8 @@
       ]
     },
     {
-      "Id": 21210,
+      "Id": 530,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Kill On Sight (-100)",
       "Actions": [
         {
@@ -2630,9 +2511,8 @@
       ]
     },
     {
-      "Id": 21211,
+      "Id": 531,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Mereti Collective is Most Favored Ally (100)",
       "Actions": [
         {
@@ -2644,10 +2524,10 @@
     {
       "Id": 213,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 431,
       "Transitions": [
         {
-          "TargetNode": 2131,
+          "TargetNode": 431,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -2656,7 +2536,7 @@
           }
         },
         {
-          "TargetNode": 2132,
+          "TargetNode": 432,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -2665,7 +2545,7 @@
           }
         },
         {
-          "TargetNode": 2133,
+          "TargetNode": 433,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -2674,7 +2554,7 @@
           }
         },
         {
-          "TargetNode": 2134,
+          "TargetNode": 434,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -2683,7 +2563,7 @@
           }
         },
         {
-          "TargetNode": 2135,
+          "TargetNode": 435,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -2692,7 +2572,7 @@
           }
         },
         {
-          "TargetNode": 2136,
+          "TargetNode": 436,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -2701,7 +2581,7 @@
           }
         },
         {
-          "TargetNode": 2137,
+          "TargetNode": 437,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -2710,7 +2590,7 @@
           }
         },
         {
-          "TargetNode": 2138,
+          "TargetNode": 438,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -2719,7 +2599,7 @@
           }
         },
         {
-          "TargetNode": 2139,
+          "TargetNode": 439,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -2728,7 +2608,7 @@
           }
         },
         {
-          "TargetNode": 21310,
+          "TargetNode": 440,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -2737,7 +2617,7 @@
           }
         },
         {
-          "TargetNode": 21311,
+          "TargetNode": 441,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -2748,9 +2628,8 @@
       ]
     },
     {
-      "Id": 2131,
+      "Id": 431,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -2760,9 +2639,8 @@
       ]
     },
     {
-      "Id": 2132,
+      "Id": 432,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -2772,9 +2650,8 @@
       ]
     },
     {
-      "Id": 2133,
+      "Id": 433,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -2784,9 +2661,8 @@
       ]
     },
     {
-      "Id": 2134,
+      "Id": 434,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -2796,9 +2672,8 @@
       ]
     },
     {
-      "Id": 2135,
+      "Id": 435,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Friendly (21 to 50)",
       "Actions": [
         {
@@ -2808,9 +2683,8 @@
       ]
     },
     {
-      "Id": 2136,
+      "Id": 436,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -2820,9 +2694,8 @@
       ]
     },
     {
-      "Id": 2137,
+      "Id": 437,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -2832,9 +2705,8 @@
       ]
     },
     {
-      "Id": 2138,
+      "Id": 438,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -2844,9 +2716,8 @@
       ]
     },
     {
-      "Id": 2139,
+      "Id": 439,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -2856,9 +2727,8 @@
       ]
     },
     {
-      "Id": 21310,
+      "Id": 440,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Kill On Sight (-100)",
       "Actions": [
         {
@@ -2868,9 +2738,8 @@
       ]
     },
     {
-      "Id": 21311,
+      "Id": 441,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sestor Federation is Most Favored Ally (100)",
       "Actions": [
         {
@@ -2882,10 +2751,10 @@
     {
       "Id": 214,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 541,
       "Transitions": [
         {
-          "TargetNode": 2141,
+          "TargetNode": 541,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -2894,7 +2763,7 @@
           }
         },
         {
-          "TargetNode": 2142,
+          "TargetNode": 542,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -2903,7 +2772,7 @@
           }
         },
         {
-          "TargetNode": 2143,
+          "TargetNode": 543,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -2912,7 +2781,7 @@
           }
         },
         {
-          "TargetNode": 2144,
+          "TargetNode": 544,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -2921,7 +2790,7 @@
           }
         },
         {
-          "TargetNode": 2145,
+          "TargetNode": 545,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -2930,7 +2799,7 @@
           }
         },
         {
-          "TargetNode": 2146,
+          "TargetNode": 546,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -2939,7 +2808,7 @@
           }
         },
         {
-          "TargetNode": 2147,
+          "TargetNode": 547,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -2948,7 +2817,7 @@
           }
         },
         {
-          "TargetNode": 2148,
+          "TargetNode": 548,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -2957,7 +2826,7 @@
           }
         },
         {
-          "TargetNode": 2149,
+          "TargetNode": 549,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -2966,7 +2835,7 @@
           }
         },
         {
-          "TargetNode": 21410,
+          "TargetNode": 550,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -2975,7 +2844,7 @@
           }
         },
         {
-          "TargetNode": 21411,
+          "TargetNode": 551,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -2986,9 +2855,8 @@
       ]
     },
     {
-      "Id": 2141,
+      "Id": 541,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -2998,9 +2866,8 @@
       ]
     },
     {
-      "Id": 2142,
+      "Id": 542,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -3010,9 +2877,8 @@
       ]
     },
     {
-      "Id": 2143,
+      "Id": 543,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -3022,9 +2888,8 @@
       ]
     },
     {
-      "Id": 2144,
+      "Id": 544,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -3034,9 +2899,8 @@
       ]
     },
     {
-      "Id": 2145,
+      "Id": 545,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Friendly (21 to 50)",
       "Actions": [
         {
@@ -3046,9 +2910,8 @@
       ]
     },
     {
-      "Id": 2146,
+      "Id": 546,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -3058,9 +2921,8 @@
       ]
     },
     {
-      "Id": 2147,
+      "Id": 547,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -3070,9 +2932,8 @@
       ]
     },
     {
-      "Id": 2148,
+      "Id": 548,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -3082,9 +2943,8 @@
       ]
     },
     {
-      "Id": 2149,
+      "Id": 549,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -3094,9 +2954,8 @@
       ]
     },
     {
-      "Id": 21410,
+      "Id": 550,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Kill On Sight (-100)",
       "Actions": [
         {
@@ -3106,9 +2965,8 @@
       ]
     },
     {
-      "Id": 21411,
+      "Id": 551,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Quarg is Most Favored Ally (100)",
       "Actions": [
         {
@@ -3120,10 +2978,10 @@
     {
       "Id": 216,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 561,
       "Transitions": [
         {
-          "TargetNode": 2161,
+          "TargetNode": 561,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -3132,7 +2990,7 @@
           }
         },
         {
-          "TargetNode": 2162,
+          "TargetNode": 562,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -3141,7 +2999,7 @@
           }
         },
         {
-          "TargetNode": 2163,
+          "TargetNode": 563,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -3150,7 +3008,7 @@
           }
         },
         {
-          "TargetNode": 2164,
+          "TargetNode": 564,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -3159,7 +3017,7 @@
           }
         },
         {
-          "TargetNode": 2165,
+          "TargetNode": 565,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -3168,7 +3026,7 @@
           }
         },
         {
-          "TargetNode": 2166,
+          "TargetNode": 566,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -3177,7 +3035,7 @@
           }
         },
         {
-          "TargetNode": 2167,
+          "TargetNode": 567,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -3186,7 +3044,7 @@
           }
         },
         {
-          "TargetNode": 2168,
+          "TargetNode": 568,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -3195,7 +3053,7 @@
           }
         },
         {
-          "TargetNode": 2169,
+          "TargetNode": 569,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -3204,7 +3062,7 @@
           }
         },
         {
-          "TargetNode": 21610,
+          "TargetNode": 570,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -3213,7 +3071,7 @@
           }
         },
         {
-          "TargetNode": 21611,
+          "TargetNode": 571,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -3224,9 +3082,8 @@
       ]
     },
     {
-      "Id": 2161,
+      "Id": 561,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -3236,9 +3093,8 @@
       ]
     },
     {
-      "Id": 2162,
+      "Id": 562,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -3248,9 +3104,8 @@
       ]
     },
     {
-      "Id": 2163,
+      "Id": 563,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -3260,9 +3115,8 @@
       ]
     },
     {
-      "Id": 2164,
+      "Id": 564,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -3272,9 +3126,8 @@
       ]
     },
     {
-      "Id": 2165,
+      "Id": 565,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Friendly (21 to 50)",
       "Actions": [
         {
@@ -3284,9 +3137,8 @@
       ]
     },
     {
-      "Id": 2166,
+      "Id": 566,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -3296,9 +3148,8 @@
       ]
     },
     {
-      "Id": 2167,
+      "Id": 567,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -3308,9 +3159,8 @@
       ]
     },
     {
-      "Id": 2168,
+      "Id": 568,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -3320,9 +3170,8 @@
       ]
     },
     {
-      "Id": 2169,
+      "Id": 569,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -3332,9 +3181,8 @@
       ]
     },
     {
-      "Id": 21610,
+      "Id": 570,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Kill On Sight (-100)",
       "Actions": [
         {
@@ -3344,9 +3192,8 @@
       ]
     },
     {
-      "Id": 21611,
+      "Id": 571,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Pug is Most Favored Ally (100)",
       "Actions": [
         {
@@ -3358,10 +3205,10 @@
     {
       "Id": 217,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 471,
       "Transitions": [
         {
-          "TargetNode": 2171,
+          "TargetNode": 471,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -3370,7 +3217,7 @@
           }
         },
         {
-          "TargetNode": 2172,
+          "TargetNode": 472,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -3379,7 +3226,7 @@
           }
         },
         {
-          "TargetNode": 2173,
+          "TargetNode": 473,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -3388,7 +3235,7 @@
           }
         },
         {
-          "TargetNode": 2174,
+          "TargetNode": 474,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -3397,7 +3244,7 @@
           }
         },
         {
-          "TargetNode": 2175,
+          "TargetNode": 475,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -3406,7 +3253,7 @@
           }
         },
         {
-          "TargetNode": 2176,
+          "TargetNode": 476,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -3415,7 +3262,7 @@
           }
         },
         {
-          "TargetNode": 2177,
+          "TargetNode": 477,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -3424,7 +3271,7 @@
           }
         },
         {
-          "TargetNode": 2178,
+          "TargetNode": 478,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -3433,7 +3280,7 @@
           }
         },
         {
-          "TargetNode": 2179,
+          "TargetNode": 479,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -3442,7 +3289,7 @@
           }
         },
         {
-          "TargetNode": 21710,
+          "TargetNode": 480,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -3451,7 +3298,7 @@
           }
         },
         {
-          "TargetNode": 21711,
+          "TargetNode": 481,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -3462,9 +3309,8 @@
       ]
     },
     {
-      "Id": 2171,
+      "Id": 471,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -3474,9 +3320,8 @@
       ]
     },
     {
-      "Id": 2172,
+      "Id": 472,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -3486,9 +3331,8 @@
       ]
     },
     {
-      "Id": 2173,
+      "Id": 473,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -3498,9 +3342,8 @@
       ]
     },
     {
-      "Id": 2174,
+      "Id": 474,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -3510,9 +3353,8 @@
       ]
     },
     {
-      "Id": 2175,
+      "Id": 475,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Friendly (21 to 50)",
       "Actions": [
         {
@@ -3522,9 +3364,8 @@
       ]
     },
     {
-      "Id": 2176,
+      "Id": 476,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -3534,9 +3375,8 @@
       ]
     },
     {
-      "Id": 2177,
+      "Id": 477,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -3546,9 +3386,8 @@
       ]
     },
     {
-      "Id": 2178,
+      "Id": 478,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -3558,9 +3397,8 @@
       ]
     },
     {
-      "Id": 2179,
+      "Id": 479,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -3570,9 +3408,8 @@
       ]
     },
     {
-      "Id": 21710,
+      "Id": 480,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Kill On Sight (-100)",
       "Actions": [
         {
@@ -3582,9 +3419,8 @@
       ]
     },
     {
-      "Id": 21711,
+      "Id": 481,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Sheragi is Most Favored Ally (100)",
       "Actions": [
         {
@@ -3596,10 +3432,10 @@
     {
       "Id": 218,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 581,
       "Transitions": [
         {
-          "TargetNode": 2181,
+          "TargetNode": 581,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -3608,7 +3444,7 @@
           }
         },
         {
-          "TargetNode": 2182,
+          "TargetNode": 582,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -3617,7 +3453,7 @@
           }
         },
         {
-          "TargetNode": 2183,
+          "TargetNode": 583,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -3626,7 +3462,7 @@
           }
         },
         {
-          "TargetNode": 2184,
+          "TargetNode": 584,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -3635,7 +3471,7 @@
           }
         },
         {
-          "TargetNode": 2185,
+          "TargetNode": 585,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -3644,7 +3480,7 @@
           }
         },
         {
-          "TargetNode": 2186,
+          "TargetNode": 586,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -3653,7 +3489,7 @@
           }
         },
         {
-          "TargetNode": 2187,
+          "TargetNode": 587,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -3662,7 +3498,7 @@
           }
         },
         {
-          "TargetNode": 2188,
+          "TargetNode": 588,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -3671,7 +3507,7 @@
           }
         },
         {
-          "TargetNode": 2189,
+          "TargetNode": 589,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -3680,7 +3516,7 @@
           }
         },
         {
-          "TargetNode": 21810,
+          "TargetNode": 590,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -3689,7 +3525,7 @@
           }
         },
         {
-          "TargetNode": 21811,
+          "TargetNode": 591,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -3700,9 +3536,8 @@
       ]
     },
     {
-      "Id": 2181,
+      "Id": 581,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -3712,9 +3547,8 @@
       ]
     },
     {
-      "Id": 2182,
+      "Id": 582,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -3724,9 +3558,8 @@
       ]
     },
     {
-      "Id": 2183,
+      "Id": 583,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -3736,9 +3569,8 @@
       ]
     },
     {
-      "Id": 2184,
+      "Id": 584,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -3748,9 +3580,8 @@
       ]
     },
     {
-      "Id": 2185,
+      "Id": 585,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Friendly (21 to 50)",
       "Actions": [
         {
@@ -3760,9 +3591,8 @@
       ]
     },
     {
-      "Id": 2186,
+      "Id": 586,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -3772,9 +3602,8 @@
       ]
     },
     {
-      "Id": 2187,
+      "Id": 587,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -3784,9 +3613,8 @@
       ]
     },
     {
-      "Id": 2188,
+      "Id": 588,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -3796,9 +3624,8 @@
       ]
     },
     {
-      "Id": 2189,
+      "Id": 589,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -3808,9 +3635,8 @@
       ]
     },
     {
-      "Id": 21810,
+      "Id": 590,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Kill On Sight (-100)",
       "Actions": [
         {
@@ -3820,9 +3646,8 @@
       ]
     },
     {
-      "Id": 21811,
+      "Id": 591,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Trisolar Coalition is Most Favored Ally (100)",
       "Actions": [
         {
@@ -3834,10 +3659,10 @@
     {
       "Id": 219,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 491,
       "Transitions": [
         {
-          "TargetNode": 2191,
+          "TargetNode": 491,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -3846,7 +3671,7 @@
           }
         },
         {
-          "TargetNode": 2192,
+          "TargetNode": 492,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -3855,7 +3680,7 @@
           }
         },
         {
-          "TargetNode": 2193,
+          "TargetNode": 493,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -3864,7 +3689,7 @@
           }
         },
         {
-          "TargetNode": 2194,
+          "TargetNode": 494,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -3873,7 +3698,7 @@
           }
         },
         {
-          "TargetNode": 2195,
+          "TargetNode": 495,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -3882,7 +3707,7 @@
           }
         },
         {
-          "TargetNode": 2196,
+          "TargetNode": 496,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -3891,7 +3716,7 @@
           }
         },
         {
-          "TargetNode": 2197,
+          "TargetNode": 497,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -3900,7 +3725,7 @@
           }
         },
         {
-          "TargetNode": 2198,
+          "TargetNode": 498,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -3909,7 +3734,7 @@
           }
         },
         {
-          "TargetNode": 2199,
+          "TargetNode": 499,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -3918,7 +3743,7 @@
           }
         },
         {
-          "TargetNode": 21910,
+          "TargetNode": 500,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -3927,7 +3752,7 @@
           }
         },
         {
-          "TargetNode": 21911,
+          "TargetNode": 400,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -3938,9 +3763,8 @@
       ]
     },
     {
-      "Id": 2191,
+      "Id": 491,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -3950,9 +3774,8 @@
       ]
     },
     {
-      "Id": 2192,
+      "Id": 492,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -3962,9 +3785,8 @@
       ]
     },
     {
-      "Id": 2193,
+      "Id": 493,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -3974,9 +3796,8 @@
       ]
     },
     {
-      "Id": 2194,
+      "Id": 494,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -3986,9 +3807,8 @@
       ]
     },
     {
-      "Id": 2195,
+      "Id": 495,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Friendly (21 to 50)",
       "Actions": [
         {
@@ -3998,9 +3818,8 @@
       ]
     },
     {
-      "Id": 2196,
+      "Id": 496,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -4010,9 +3829,8 @@
       ]
     },
     {
-      "Id": 2197,
+      "Id": 497,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -4022,9 +3840,8 @@
       ]
     },
     {
-      "Id": 2198,
+      "Id": 498,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -4034,9 +3851,8 @@
       ]
     },
     {
-      "Id": 2199,
+      "Id": 499,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -4046,9 +3862,8 @@
       ]
     },
     {
-      "Id": 21910,
+      "Id": 500,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Kill On Sight (-100)",
       "Actions": [
         {
@@ -4058,9 +3873,8 @@
       ]
     },
     {
-      "Id": 21911,
+      "Id": 400,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Marauder Pirates is Most Favored Ally (100)",
       "Actions": [
         {
@@ -4072,10 +3886,10 @@
     {
       "Id": 220,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 601,
       "Transitions": [
         {
-          "TargetNode": 2201,
+          "TargetNode": 601,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -4084,7 +3898,7 @@
           }
         },
         {
-          "TargetNode": 2202,
+          "TargetNode": 602,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -4093,7 +3907,7 @@
           }
         },
         {
-          "TargetNode": 2203,
+          "TargetNode": 603,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -4102,7 +3916,7 @@
           }
         },
         {
-          "TargetNode": 2204,
+          "TargetNode": 604,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -4111,7 +3925,7 @@
           }
         },
         {
-          "TargetNode": 2205,
+          "TargetNode": 605,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -4120,7 +3934,7 @@
           }
         },
         {
-          "TargetNode": 2206,
+          "TargetNode": 606,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -4129,7 +3943,7 @@
           }
         },
         {
-          "TargetNode": 2207,
+          "TargetNode": 607,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -4138,7 +3952,7 @@
           }
         },
         {
-          "TargetNode": 2208,
+          "TargetNode": 608,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -4147,7 +3961,7 @@
           }
         },
         {
-          "TargetNode": 2209,
+          "TargetNode": 609,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -4156,7 +3970,7 @@
           }
         },
         {
-          "TargetNode": 22010,
+          "TargetNode": 610,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -4165,7 +3979,7 @@
           }
         },
         {
-          "TargetNode": 22011,
+          "TargetNode": 611,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -4176,9 +3990,8 @@
       ]
     },
     {
-      "Id": 2201,
+      "Id": 601,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
@@ -4188,9 +4001,8 @@
       ]
     },
     {
-      "Id": 2202,
+      "Id": 602,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
@@ -4200,9 +4012,8 @@
       ]
     },
     {
-      "Id": 2203,
+      "Id": 603,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Helpful Stranger (5 to 20)",
       "Actions": [
         {
@@ -4212,9 +4023,8 @@
       ]
     },
     {
-      "Id": 2204,
+      "Id": 604,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Unfriendly (-51 to -20)",
       "Actions": [
         {
@@ -4224,9 +4034,8 @@
       ]
     },
     {
-      "Id": 2205,
+      "Id": 605,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Friendly (21 to 50)",
       "Actions": [
         {
@@ -4236,9 +4045,8 @@
       ]
     },
     {
-      "Id": 2206,
+      "Id": 606,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
@@ -4248,9 +4056,8 @@
       ]
     },
     {
-      "Id": 2207,
+      "Id": 607,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Reliable Helper (51 to 80)",
       "Actions": [
         {
@@ -4260,9 +4067,8 @@
       ]
     },
     {
-      "Id": 2208,
+      "Id": 608,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Abomination (-99 to -81)",
       "Actions": [
         {
@@ -4272,9 +4078,8 @@
       ]
     },
     {
-      "Id": 2209,
+      "Id": 609,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
@@ -4284,9 +4089,8 @@
       ]
     },
     {
-      "Id": 22010,
+      "Id": 610,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Kill On Sight (-100)",
       "Actions": [
         {
@@ -4296,9 +4100,8 @@
       ]
     },
     {
-      "Id": 22011,
+      "Id": 611,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Kaltheim is Most Favored Ally (100)",
       "Actions": [
         {
@@ -4310,10 +4113,10 @@
     {
       "Id": 221,
       "Type": 15,
-      "DefaultTransition": 50,
+      "DefaultTransition": 711,
       "Transitions": [
         {
-          "TargetNode": 2211,
+          "TargetNode": 711,
           "Requirement": {
             "Type": 15,
             "MinValue": -4,
@@ -4322,7 +4125,7 @@
           }
         },
         {
-          "TargetNode": 2212,
+          "TargetNode": 712,
           "Requirement": {
             "Type": 15,
             "MinValue": -20,
@@ -4331,7 +4134,7 @@
           }
         },
         {
-          "TargetNode": 2213,
+          "TargetNode": 713,
           "Requirement": {
             "Type": 15,
             "MinValue": 5,
@@ -4340,7 +4143,7 @@
           }
         },
         {
-          "TargetNode": 2214,
+          "TargetNode": 714,
           "Requirement": {
             "Type": 15,
             "MinValue": -50,
@@ -4349,7 +4152,7 @@
           }
         },
         {
-          "TargetNode": 2215,
+          "TargetNode": 715,
           "Requirement": {
             "Type": 15,
             "MinValue": 21,
@@ -4358,7 +4161,7 @@
           }
         },
         {
-          "TargetNode": 2216,
+          "TargetNode": 716,
           "Requirement": {
             "Type": 15,
             "MinValue": -80,
@@ -4367,7 +4170,7 @@
           }
         },
         {
-          "TargetNode": 2217,
+          "TargetNode": 717,
           "Requirement": {
             "Type": 15,
             "MinValue": 51,
@@ -4376,7 +4179,7 @@
           }
         },
         {
-          "TargetNode": 2218,
+          "TargetNode": 718,
           "Requirement": {
             "Type": 15,
             "MinValue": -99,
@@ -4385,7 +4188,7 @@
           }
         },
         {
-          "TargetNode": 2219,
+          "TargetNode": 719,
           "Requirement": {
             "Type": 15,
             "MinValue": 81,
@@ -4394,7 +4197,7 @@
           }
         },
         {
-          "TargetNode": 22110,
+          "TargetNode": 720,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -4403,7 +4206,7 @@
           }
         },
         {
-          "TargetNode": 22111,
+          "TargetNode": 721,
           "Requirement": {
             "Type": 15,
             "MinValue": 100,
@@ -4414,139 +4217,128 @@
       ]
     },
     {
-      "Id": 2211,
+      "Id": 711,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Neutral Bystander (-4 to 4)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2212,
+      "Id": 712,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Bothersome Outsider (-20 to -5)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2213,
+      "Id": 713,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Helpful Stranger (5 to 20)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2214,
+      "Id": 714,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Unfriendly (-51 to -20)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2215,
+      "Id": 715,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Friendly (21 to 50)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2216,
+      "Id": 716,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Shunned Enemy (-80 to -51)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2217,
+      "Id": 717,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Reliable Helper (51 to 80)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2218,
+      "Id": 718,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Abomination (-99 to -81)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 2219,
+      "Id": 719,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Trusted Compatriot (81 to 99)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 22110,
+      "Id": 720,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Kill On Sight (-100)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 22111,
+      "Id": 721,
       "Type": 10,
-      "RequiredView": 1,
       "Message": "Your relation with Bunrodea is Most Favored Ally (100)",
       "Actions": [
         {
-          "TargetNode": 222,
+          "TargetNode": 900,
           "ButtonText": "OK"
         }
       ]
     },
     {
-      "Id": 222,
+      "Id": 900,
       "Type": 10,
       "Message": "Check your reputation again?",
       "Actions": [

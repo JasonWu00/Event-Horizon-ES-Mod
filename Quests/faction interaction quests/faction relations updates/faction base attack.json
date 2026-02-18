@@ -52,12 +52,12 @@
       "Id": 20,
       "Type": 22,
       "DefaultTransition": 30,
-      "FailureTransition": 1100
+      "FailureTransition": 110
     },
     {
       "Id": 30,
       "Type": 60,
-      "DefaultTransition": 1000
+      "DefaultTransition": 100
     },
     {
       "Id": 40,
@@ -90,12 +90,12 @@
       "Type": 41
     },
     {
-      "Id": 1100,
+      "Id": 110,
       "Type": 15,
       "DefaultTransition": 50,
       "Transitions": [
         {
-          "TargetNode": 2012,
+          "TargetNode": 301,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -103,7 +103,7 @@
           }
         },
         {
-          "TargetNode": 2022,
+          "TargetNode": 302,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -111,7 +111,7 @@
           }
         },
         {
-          "TargetNode": 2032,
+          "TargetNode": 303,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -119,7 +119,7 @@
           }
         },
         {
-          "TargetNode": 2042,
+          "TargetNode": 304,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -127,7 +127,7 @@
           }
         },
         {
-          "TargetNode": 2052,
+          "TargetNode": 305,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -135,7 +135,7 @@
           }
         },
         {
-          "TargetNode": 2062,
+          "TargetNode": 306,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -143,7 +143,7 @@
           }
         },
         {
-          "TargetNode": 2072,
+          "TargetNode": 307,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -151,7 +151,7 @@
           }
         },
         {
-          "TargetNode": 2082,
+          "TargetNode": 308,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -159,7 +159,7 @@
           }
         },
         {
-          "TargetNode": 2092,
+          "TargetNode": 309,
           "Requirement": {
             "Type": 15,
             "MinValue": -100,
@@ -168,7 +168,7 @@
           }
         },
         {
-          "TargetNode": 2112,
+          "TargetNode": 311,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -176,7 +176,7 @@
           }
         },
         {
-          "TargetNode": 2122,
+          "TargetNode": 312,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -184,7 +184,7 @@
           }
         },
         {
-          "TargetNode": 2132,
+          "TargetNode": 313,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -192,7 +192,7 @@
           }
         },
         {
-          "TargetNode": 2142,
+          "TargetNode": 314,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -200,14 +200,14 @@
           }
         },
         {
-          "TargetNode": 2162,
+          "TargetNode": 316,
           "Requirement": {
             "Type": 15,
             "MinValue": -18
           }
         },
         {
-          "TargetNode": 2172,
+          "TargetNode": 317,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -215,7 +215,7 @@
           }
         },
         {
-          "TargetNode": 2182,
+          "TargetNode": 318,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -223,7 +223,7 @@
           }
         },
         {
-          "TargetNode": 2192,
+          "TargetNode": 319,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -231,7 +231,7 @@
           }
         },
         {
-          "TargetNode": 2202,
+          "TargetNode": 320,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -239,7 +239,7 @@
           }
         },
         {
-          "TargetNode": 2212,
+          "TargetNode": 321,
           "Requirement": {
             "Type": 15,
             "MinValue": -18,
@@ -249,271 +249,271 @@
       ]
     },
     {
-      "Id": 2012,
+      "Id": 301,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 201,
       "Value": -2
     },
     {
-      "Id": 2022,
+      "Id": 302,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 202,
       "Value": -2
     },
     {
-      "Id": 2032,
+      "Id": 303,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 203,
       "Value": -2
     },
     {
-      "Id": 2042,
+      "Id": 304,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 204,
       "Value": -2
     },
     {
-      "Id": 2052,
+      "Id": 305,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 205,
       "Value": -2
     },
     {
-      "Id": 2062,
+      "Id": 306,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 206,
       "Value": -2
     },
     {
-      "Id": 2072,
+      "Id": 307,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 207,
       "Value": -2
     },
     {
-      "Id": 2082,
+      "Id": 308,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 208,
       "Value": -2
     },
     {
-      "Id": 2092,
+      "Id": 309,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 209,
       "Value": -2
     },
     {
-      "Id": 2112,
+      "Id": 311,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 211,
       "Value": -2
     },
     {
-      "Id": 2122,
+      "Id": 312,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 212,
       "Value": -2
     },
     {
-      "Id": 2132,
+      "Id": 313,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 213,
       "Value": -2
     },
     {
-      "Id": 2142,
+      "Id": 314,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 214,
       "Value": -2
     },
     {
-      "Id": 2162,
+      "Id": 316,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 216,
       "Value": -2
     },
     {
-      "Id": 2172,
+      "Id": 317,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 217,
       "Value": -2
     },
     {
-      "Id": 2182,
+      "Id": 318,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 218,
       "Value": -2
     },
     {
-      "Id": 2192,
+      "Id": 319,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 219,
       "Value": -2
     },
     {
-      "Id": 2202,
+      "Id": 320,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 220,
       "Value": -2
     },
     {
-      "Id": 2212,
+      "Id": 321,
       "Type": 50,
       "DefaultTransition": 50,
       "Character": 221,
       "Value": -2
     },
     {
-      "Id": 1000,
+      "Id": 100,
       "Type": 15,
       "DefaultTransition": 40,
       "Transitions": [
         {
-          "TargetNode": 2011,
+          "TargetNode": 201,
           "Requirement": {
             "Type": 20,
             "Faction": 201
           }
         },
         {
-          "TargetNode": 2021,
+          "TargetNode": 202,
           "Requirement": {
             "Type": 20,
             "Faction": 202
           }
         },
         {
-          "TargetNode": 2031,
+          "TargetNode": 203,
           "Requirement": {
             "Type": 20,
             "Faction": 203
           }
         },
         {
-          "TargetNode": 2041,
+          "TargetNode": 204,
           "Requirement": {
             "Type": 20,
             "Faction": 204
           }
         },
         {
-          "TargetNode": 2051,
+          "TargetNode": 205,
           "Requirement": {
             "Type": 20,
             "Faction": 205
           }
         },
         {
-          "TargetNode": 2061,
+          "TargetNode": 206,
           "Requirement": {
             "Type": 20,
             "Faction": 206
           }
         },
         {
-          "TargetNode": 2071,
+          "TargetNode": 207,
           "Requirement": {
             "Type": 20,
             "Faction": 207
           }
         },
         {
-          "TargetNode": 2081,
+          "TargetNode": 208,
           "Requirement": {
             "Type": 20,
             "Faction": 208
           }
         },
         {
-          "TargetNode": 2091,
+          "TargetNode": 209,
           "Requirement": {
             "Type": 20,
             "Faction": 209
           }
         },
         {
-          "TargetNode": 2111,
+          "TargetNode": 211,
           "Requirement": {
             "Type": 20,
             "Faction": 211
           }
         },
         {
-          "TargetNode": 2121,
+          "TargetNode": 212,
           "Requirement": {
             "Type": 20,
             "Faction": 212
           }
         },
         {
-          "TargetNode": 2131,
+          "TargetNode": 213,
           "Requirement": {
             "Type": 20,
             "Faction": 213
           }
         },
         {
-          "TargetNode": 2141,
+          "TargetNode": 214,
           "Requirement": {
             "Type": 20,
             "Faction": 214
           }
         },
         {
-          "TargetNode": 2161,
+          "TargetNode": 216,
           "Requirement": {
             "Type": 20,
             "Faction": 216
           }
         },
         {
-          "TargetNode": 2171,
+          "TargetNode": 217,
           "Requirement": {
             "Type": 20,
             "Faction": 217
           }
         },
         {
-          "TargetNode": 2181,
+          "TargetNode": 218,
           "Requirement": {
             "Type": 20,
             "Faction": 218
           }
         },
         {
-          "TargetNode": 2191,
+          "TargetNode": 219,
           "Requirement": {
             "Type": 20,
             "Faction": 219
           }
         },
         {
-          "TargetNode": 2201,
+          "TargetNode": 220,
           "Requirement": {
             "Type": 20,
             "Faction": 220
           }
         },
         {
-          "TargetNode": 2211,
+          "TargetNode": 221,
           "Requirement": {
             "Type": 20,
             "Faction": 221
@@ -522,133 +522,133 @@
       ]
     },
     {
-      "Id": 2011,
+      "Id": 201,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 201,
       "Value": -5
     },
     {
-      "Id": 2021,
+      "Id": 202,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 202,
       "Value": -5
     },
     {
-      "Id": 2031,
+      "Id": 203,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 203,
       "Value": -5
     },
     {
-      "Id": 2041,
+      "Id": 204,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 204,
       "Value": -5
     },
     {
-      "Id": 2051,
+      "Id": 205,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 205,
       "Value": -5
     },
     {
-      "Id": 2061,
+      "Id": 206,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 206,
       "Value": -5
     },
     {
-      "Id": 2071,
+      "Id": 207,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 207,
       "Value": -5
     },
     {
-      "Id": 2081,
+      "Id": 208,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 208,
       "Value": -5
     },
     {
-      "Id": 2091,
+      "Id": 209,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 209,
       "Value": -5
     },
     {
-      "Id": 2111,
+      "Id": 211,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 211,
       "Value": -5
     },
     {
-      "Id": 2121,
+      "Id": 212,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 212,
       "Value": -5
     },
     {
-      "Id": 2131,
+      "Id": 213,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 213,
       "Value": -5
     },
     {
-      "Id": 2141,
+      "Id": 214,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 214,
       "Value": -5
     },
     {
-      "Id": 2161,
+      "Id": 216,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 216,
       "Value": -5
     },
     {
-      "Id": 2171,
+      "Id": 217,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 217,
       "Value": -5
     },
     {
-      "Id": 2181,
+      "Id": 218,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 218,
       "Value": -5
     },
     {
-      "Id": 2191,
+      "Id": 219,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 219,
       "Value": -5
     },
     {
-      "Id": 2201,
+      "Id": 220,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 220,
       "Value": -5
     },
     {
-      "Id": 2211,
+      "Id": 221,
       "Type": 50,
       "DefaultTransition": 40,
       "Character": 221,

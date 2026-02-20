@@ -983,10 +983,9 @@ Changelog:
 - Others
 
 ### Planned changes:
-- Add ramscoops as blue-slot energy recovery outfits
+- Battle gameplay loop adjustments
+  - Recreating EHF: enlarge map and cause all ships to spawn at once
 - Add Korath afterburners (and maybe reversers too?)
-- Add 1vet and 2vet variants of all new ships (except drones)
-- Add new Quarg weapons (and some unused old ones) to new and old Quarg builds
 - Add the Flintlock and/or Coffer to Korath Exiles
 - Add the Cicada, Antlion, Scarab, Stag Beetle to Hai
 - Add the Ka'het Aberrants

@@ -73,6 +73,7 @@ Files:
   Component Images/Korath/reality class vector engines*
   Component Images/Wanderers/type 0 radiant engines*
   Component Images/Korath/Mereti/disruptor*
+  Ship Images/Korath/Sestor/tor 681*
   Ship Images/Korath/Mereti/model 1024*
 Copyright: Darcy Manoel <Darcman00@gmail.com>
 License: CC-BY-SA-4.0
@@ -159,13 +160,6 @@ Comment: Derived from works by Matthew Smestad (under the same license).
 Files:
   Component Images/Quarg/tachyon*
   Component Images/Quarg/singularity*
-  Component Images/Quarg/amphithere*
-  Component Images/Quarg/drake*
-  Component Images/Quarg/fafnir*
-  Component Images/Quarg/hydra precursor*
-  Component Images/Quarg/kaukas*
-  Component Images/Quarg/slibinas*
-  Component Images/Quarg/tarasque*
   Ship Images/Quarg/amphithere*
   Ship Images/Quarg/drake*
   Ship Images/Quarg/fafnir*
@@ -173,6 +167,8 @@ Files:
   Ship Images/Quarg/kaukas*
   Ship Images/Quarg/slibinas*
   Ship Images/Quarg/tarasque*
+  Ship Images/Korath/model 256 greenhouse*
+  Ship Images/Korath/model 1024 greenhouse*
 Copyright: 1010todd (https://github.com/1010todd)
 License: CC-BY-SA-4.0
 Comment:

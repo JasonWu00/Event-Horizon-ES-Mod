@@ -1,8 +1,9 @@
 {
   "ItemType": 30,
   "Id": 8,
-  "InitialEnemyShips": "5",
+  "InitialEnemyShips": "100",
   "MaxEnemyShips": "100",
+  "BattleMapSize": 1000,
   "TimeLimit": "MAX(30, 90 - level/3.33)",
   "DisablePlanet": true
 }

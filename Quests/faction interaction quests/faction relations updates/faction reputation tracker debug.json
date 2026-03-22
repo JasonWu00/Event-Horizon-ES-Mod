@@ -2,7 +2,6 @@
   "ItemType": 15,
   "Id": 40000002,
   "Name": "Reputation Tracker Debug",
-  
   "Weight": 10.0,
   "Nodes": [
     {

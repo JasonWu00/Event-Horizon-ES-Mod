@@ -7,32 +7,27 @@
     {
       "ComponentId": 10,
       "X": 10,
-      "Y": 2,
-      "BarrelId": -1
+      "Y": 2
     },
     {
       "ComponentId": 11,
       "X": 4,
-      "Y": 5,
-      "BarrelId": -1
+      "Y": 5
     },
     {
       "ComponentId": 10,
       "X": 14,
-      "Y": 11,
-      "BarrelId": -1
+      "Y": 11
     },
     {
       "ComponentId": 10,
       "X": 4,
-      "Y": 13,
-      "BarrelId": -1
+      "Y": 13
     },
     {
       "ComponentId": 10,
       "X": 10,
-      "Y": 16,
-      "BarrelId": -1
+      "Y": 16
     }
   ],
   "Perks": {}

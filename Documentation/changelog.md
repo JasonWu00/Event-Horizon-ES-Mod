@@ -968,7 +968,10 @@ Changelog:
 - Major Updates
   - Added a "global faction reputation" system
   - Added a number of "faction invasion" missions that occur spontaneously
+  - Testing a number of 
 - Outfits
+  - Added shield and hull damage separation for some weapons
+  - Updated damage of some weapons to match latest Endless Sky values
 - Ships
 - Tech
 - Others

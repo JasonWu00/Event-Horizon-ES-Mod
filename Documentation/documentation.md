@@ -103,11 +103,11 @@ Note: Since weapons can now deal separate hull and shield damage, set hull and s
 
 Weapon type | Damage conversion
 --- | ---
-Projectile weapons | (Shield + Hull) / 10
-Beam weapons | (Shield + Hull) / 15
+Projectile weapons | Hull dmg / 10 and (hull-shields, use rechargeshields if negative)/10 (if using raw values, multiply by 4)
+Beam weapons | Hull dmg / 15 and (hull-shields, same deal) / 15 (if using raw data values, multiply by 4)
 Missiles, torpedoes | (Shield + Hull) / 20 (and / 2 for high damage)
 Ion damage | Ion / 20 (or / 50 for high damage)
-Push force | (Push / 2.5) * power of 10
+Impact/push force | 0.0001 * force
 Slowing force | Slow / 500
 Superweapons | Converted damage / 100
 

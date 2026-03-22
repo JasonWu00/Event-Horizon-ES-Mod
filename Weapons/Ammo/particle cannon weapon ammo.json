@@ -26,11 +26,15 @@
   ],
   "Effects": [
     {
-      "Power": 12.7
+      "Power": 6.2
     },
     {
       "Type": 1,
-      "Power": 0.004
+      "Power": 0.012
+    },
+    {
+      "Type": 11,
+      "Power": 0.3
     }
   ]
 }

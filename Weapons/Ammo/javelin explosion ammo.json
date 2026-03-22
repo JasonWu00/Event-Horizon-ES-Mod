@@ -25,8 +25,18 @@
   "ImpactType": 1,
   "Effects": [
     {
-      "DamageType": 1,
-      "Power": 3.7
+      "DamageType": 2,
+      "Power": 1.3
+    },
+    {
+      "Type": 11,
+      "DamageType": 2,
+      "Power": 1.1
+    },
+    {
+      "Type": 17,
+      "DamageType": 2,
+      "Power": 0.0075
     }
   ]
 }

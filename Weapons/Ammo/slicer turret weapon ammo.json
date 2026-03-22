@@ -25,7 +25,12 @@
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 113.4
+      "Power": 141.6
+    },
+    {
+      "Type": 14,
+      "DamageType": 1,
+      "Power": 83.2
     }
   ]
 }

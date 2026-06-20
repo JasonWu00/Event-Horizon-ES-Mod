@@ -8,7 +8,7 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "There is a hypernet node here. You can use it to check your relations with various factions.",
+      "Message": "There is an ansible access point here. You can use it to check your relations with various factions.",
       "Actions": [
         {
           "TargetNode": 201,
@@ -166,7 +166,7 @@
     {
       "Id": 104,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Merchant Alliance is Bandit (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -177,7 +177,7 @@
     {
       "Id": 105,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Friendly (21 to 50)",
+      "Message": "Your relation with Merchant Alliance is Fellow Trader (21 to 50)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -188,7 +188,7 @@
     {
       "Id": 106,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Merchant Alliance is Violent Brigand (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -199,7 +199,7 @@
     {
       "Id": 107,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Merchant Alliance is Reliable Trader (51 to 80)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -210,7 +210,7 @@
     {
       "Id": 108,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Abomination (-99 to -81)",
+      "Message": "Your relation with Merchant Alliance is Bandit Lord (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -221,7 +221,7 @@
     {
       "Id": 109,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Merchant Alliance is Trade Lane Master (81 to 99)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -232,7 +232,7 @@
     {
       "Id": 110,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Kill On Sight (-100)",
+      "Message": "Your relation with Merchant Alliance is Terrorist (-100)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -243,7 +243,7 @@
     {
       "Id": 111,
       "Type": 10,
-      "Message": "Your relation with Merchant Alliance is Most Favored Ally (100)",
+      "Message": "Your relation with Merchant Alliance is Most Favored Friend (100)",
       "Actions": [
         {
           "TargetNode": 202,
@@ -371,7 +371,7 @@
     {
       "Id": 322,
       "Type": 10,
-      "Message": "Your relation with Pirates is Bothersome Outsider (-20 to -5)",
+      "Message": "Your relation with Pirates is Bothersome Busybody (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -382,7 +382,7 @@
     {
       "Id": 323,
       "Type": 10,
-      "Message": "Your relation with Pirates is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Pirates is Fellow Outlaw (5 to 20)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -393,7 +393,7 @@
     {
       "Id": 324,
       "Type": 10,
-      "Message": "Your relation with Pirates is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Pirates is Upstart (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -404,7 +404,7 @@
     {
       "Id": 325,
       "Type": 10,
-      "Message": "Your relation with Pirates is Friendly (21 to 50)",
+      "Message": "Your relation with Pirates is Accomplice (21 to 50)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -415,7 +415,7 @@
     {
       "Id": 326,
       "Type": 10,
-      "Message": "Your relation with Pirates is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Pirates is Agent of the Law (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -426,7 +426,7 @@
     {
       "Id": 327,
       "Type": 10,
-      "Message": "Your relation with Pirates is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Pirates is Raider in Arms (51 to 80)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -437,7 +437,7 @@
     {
       "Id": 328,
       "Type": 10,
-      "Message": "Your relation with Pirates is Abomination (-99 to -81)",
+      "Message": "Your relation with Pirates is Feared Executioner (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -448,7 +448,7 @@
     {
       "Id": 329,
       "Type": 10,
-      "Message": "Your relation with Pirates is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Pirates is Trusted Accomplice (81 to 99)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -470,7 +470,7 @@
     {
       "Id": 331,
       "Type": 10,
-      "Message": "Your relation with Pirates is Most Favored Ally (100)",
+      "Message": "Your relation with Pirates is Sworn Brother in Arms (100)",
       "Actions": [
         {
           "TargetNode": 203,
@@ -587,7 +587,7 @@
     {
       "Id": 131,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Neutral Bystander (-4 to 4)",
+      "Message": "Your relation with Syndicated Systems is Basic Consumer (-4 to 4)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -598,7 +598,7 @@
     {
       "Id": 132,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Bothersome Outsider (-20 to -5)",
+      "Message": "Your relation with Syndicated Systems is Credit Delinquent (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -609,7 +609,7 @@
     {
       "Id": 133,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Syndicated Systems is Productive Employee (5 to 20)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -620,7 +620,7 @@
     {
       "Id": 134,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Syndicated Systems is Rebellious Indentured (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -631,7 +631,7 @@
     {
       "Id": 135,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Friendly (21 to 50)",
+      "Message": "Your relation with Syndicated Systems is Profit Co-Seeker (21 to 50)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -642,7 +642,7 @@
     {
       "Id": 136,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Syndicated Systems is Malicious Actor (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -653,7 +653,7 @@
     {
       "Id": 137,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Syndicated Systems is Audit Enforcer (51 to 80)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -664,7 +664,7 @@
     {
       "Id": 138,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Abomination (-99 to -81)",
+      "Message": "Your relation with Syndicated Systems is MacroCorp Threat (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -675,7 +675,7 @@
     {
       "Id": 139,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Syndicated Systems is Summit Director (81 to 99)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -686,7 +686,7 @@
     {
       "Id": 140,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Kill On Sight (-100)",
+      "Message": "Your relation with Syndicated Systems is Enemy of the Market (-100)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -697,7 +697,7 @@
     {
       "Id": 141,
       "Type": 10,
-      "Message": "Your relation with Syndicated Systems is Most Favored Ally (100)",
+      "Message": "Your relation with Syndicated Systems is Archon Magnate (100)",
       "Actions": [
         {
           "TargetNode": 204,
@@ -825,7 +825,7 @@
     {
       "Id": 342,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Bothersome Outsider (-20 to -5)",
+      "Message": "Your relation with Confederation of Free Worlds is Militia Fighter (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -836,7 +836,7 @@
     {
       "Id": 343,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Confederation of Free Worlds is Obstructionist (5 to 20)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -847,7 +847,7 @@
     {
       "Id": 344,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Confederation of Free Worlds is Pirate Pest (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -858,7 +858,7 @@
     {
       "Id": 345,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Friendly (21 to 50)",
+      "Message": "Your relation with Confederation of Free Worlds is Militia Lieutenant (21 to 50)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -869,7 +869,7 @@
     {
       "Id": 346,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Confederation of Free Worlds is Slaver (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -880,7 +880,7 @@
     {
       "Id": 347,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Confederation of Free Worlds is Militia Captain (51 to 80)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -891,7 +891,7 @@
     {
       "Id": 348,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Abomination (-99 to -81)",
+      "Message": "Your relation with Confederation of Free Worlds is Pirate Warlord (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -902,7 +902,7 @@
     {
       "Id": 349,
       "Type": 10,
-      "Message": "Your relation with Confederation of Free Worlds is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Confederation of Free Worlds is Colonel of the Defense Forces (81 to 99)",
       "Actions": [
         {
           "TargetNode": 205,
@@ -1041,7 +1041,7 @@
     {
       "Id": 151,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Neutral Bystander (-4 to 4)",
+      "Message": "Your relation with Republic of Earth is Neutral Citizen (-4 to 4)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1052,7 +1052,7 @@
     {
       "Id": 152,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Bothersome Outsider (-20 to -5)",
+      "Message": "Your relation with Republic of Earth is Misdemeanor Criminal (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1063,7 +1063,7 @@
     {
       "Id": 153,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Republic of Earth is New Recruit (5 to 20)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1074,7 +1074,7 @@
     {
       "Id": 154,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Republic of Earth is Outlaw (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1085,7 +1085,7 @@
     {
       "Id": 155,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Friendly (21 to 50)",
+      "Message": "Your relation with Republic of Earth is Patrol Sergeant (21 to 50)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1096,7 +1096,7 @@
     {
       "Id": 156,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Republic of Earth is Felon at Large (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1107,7 +1107,7 @@
     {
       "Id": 157,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Republic of Earth is Independent Contractor (51 to 80)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1118,7 +1118,7 @@
     {
       "Id": 158,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Abomination (-99 to -81)",
+      "Message": "Your relation with Republic of Earth is Anarchic Separatist (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1129,7 +1129,7 @@
     {
       "Id": 159,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Republic of Earth is Problem Fixer (81 to 99)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1151,7 +1151,7 @@
     {
       "Id": 161,
       "Type": 10,
-      "Message": "Your relation with Republic of Earth is Most Favored Ally (100)",
+      "Message": "Your relation with Republic of Earth is Valuable Deniable Asset (100)",
       "Actions": [
         {
           "TargetNode": 206,
@@ -1290,7 +1290,7 @@
     {
       "Id": 363,
       "Type": 10,
-      "Message": "Your relation with Hai is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Hai is Helpful Tourist (5 to 20)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1301,7 +1301,7 @@
     {
       "Id": 364,
       "Type": 10,
-      "Message": "Your relation with Hai is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Hai is Cause of Problems (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1312,7 +1312,7 @@
     {
       "Id": 365,
       "Type": 10,
-      "Message": "Your relation with Hai is Friendly (21 to 50)",
+      "Message": "Your relation with Hai is Hard-working Emigrant (21 to 50)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1323,7 +1323,7 @@
     {
       "Id": 366,
       "Type": 10,
-      "Message": "Your relation with Hai is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Hai is Violent Threat (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1334,7 +1334,7 @@
     {
       "Id": 367,
       "Type": 10,
-      "Message": "Your relation with Hai is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Hai is Trusted Agent (51 to 80)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1345,7 +1345,7 @@
     {
       "Id": 368,
       "Type": 10,
-      "Message": "Your relation with Hai is Abomination (-99 to -81)",
+      "Message": "Your relation with Hai is Unfettered Killer (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1356,7 +1356,7 @@
     {
       "Id": 369,
       "Type": 10,
-      "Message": "Your relation with Hai is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Hai is Valuable Compatriot (81 to 99)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1367,7 +1367,7 @@
     {
       "Id": 370,
       "Type": 10,
-      "Message": "Your relation with Hai is Kill On Sight (-100)",
+      "Message": "Your relation with Hai is Warlord of the Unfettered (-100)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1378,7 +1378,7 @@
     {
       "Id": 371,
       "Type": 10,
-      "Message": "Your relation with Hai is Most Favored Ally (100)",
+      "Message": "Your relation with Hai is Elder Council Observer (100)",
       "Actions": [
         {
           "TargetNode": 207,
@@ -1495,7 +1495,7 @@
     {
       "Id": 171,
       "Type": 10,
-      "Message": "Your relation with Remnant is Neutral Bystander (-4 to 4)",
+      "Message": "Your relation with Remnant is Outsider (-4 to 4)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1506,7 +1506,7 @@
     {
       "Id": 172,
       "Type": 10,
-      "Message": "Your relation with Remnant is Bothersome Outsider (-20 to -5)",
+      "Message": "Your relation with Remnant is Prying Snooper (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1517,7 +1517,7 @@
     {
       "Id": 173,
       "Type": 10,
-      "Message": "Your relation with Remnant is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Remnant is Useful Human (5 to 20)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1550,7 +1550,7 @@
     {
       "Id": 176,
       "Type": 10,
-      "Message": "Your relation with Remnant is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Remnant is Violent Trouble (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1561,7 +1561,7 @@
     {
       "Id": 177,
       "Type": 10,
-      "Message": "Your relation with Remnant is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Remnant is Trusted with Secrets (51 to 80)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1572,7 +1572,7 @@
     {
       "Id": 178,
       "Type": 10,
-      "Message": "Your relation with Remnant is Abomination (-99 to -81)",
+      "Message": "Your relation with Remnant is Exterminator (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1583,7 +1583,7 @@
     {
       "Id": 179,
       "Type": 10,
-      "Message": "Your relation with Remnant is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Remnant is Veil Protector (81 to 99)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1594,7 +1594,7 @@
     {
       "Id": 180,
       "Type": 10,
-      "Message": "Your relation with Remnant is Kill On Sight (-100)",
+      "Message": "Your relation with Remnant is Death of Hope (-100)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1605,7 +1605,7 @@
     {
       "Id": 181,
       "Type": 10,
-      "Message": "Your relation with Remnant is Most Favored Ally (100)",
+      "Message": "Your relation with Remnant is Prefect Advisor (100)",
       "Actions": [
         {
           "TargetNode": 208,
@@ -1777,7 +1777,7 @@
     {
       "Id": 386,
       "Type": 10,
-      "Message": "Your relation with Heliarch Security Forces is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Heliarch Security Forces is Threat to Peace (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 209,
@@ -1788,7 +1788,7 @@
     {
       "Id": 387,
       "Type": 10,
-      "Message": "Your relation with Heliarch Security Forces is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Heliarch Security Forces is Agent of Order (51 to 80)",
       "Actions": [
         {
           "TargetNode": 209,
@@ -1799,7 +1799,7 @@
     {
       "Id": 388,
       "Type": 10,
-      "Message": "Your relation with Heliarch Security Forces is Abomination (-99 to -81)",
+      "Message": "Your relation with Heliarch Security Forces is Quarg Collaborator (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 209,
@@ -1810,7 +1810,7 @@
     {
       "Id": 389,
       "Type": 10,
-      "Message": "Your relation with Heliarch Security Forces is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Heliarch Security Forces is Ring Enforcer (81 to 99)",
       "Actions": [
         {
           "TargetNode": 209,
@@ -1821,7 +1821,7 @@
     {
       "Id": 390,
       "Type": 10,
-      "Message": "Your relation with Heliarch Security Forces is Kill On Sight (-100)",
+      "Message": "Your relation with Heliarch Security Forces is Bringer of Destruction (-100)",
       "Actions": [
         {
           "TargetNode": 209,
@@ -1832,7 +1832,7 @@
     {
       "Id": 391,
       "Type": 10,
-      "Message": "Your relation with Heliarch Security Forces is Most Favored Ally (100)",
+      "Message": "Your relation with Heliarch Security Forces is Most Favored Friend (100)",
       "Actions": [
         {
           "TargetNode": 209,
@@ -1960,7 +1960,7 @@
     {
       "Id": 192,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Bothersome Outsider (-20 to -5)",
+      "Message": "Your relation with Korath Exiles is Prey with Teeth (-20 to -5)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -1971,7 +1971,7 @@
     {
       "Id": 193,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Helpful Stranger (5 to 20)",
+      "Message": "Your relation with Korath Exiles is Fellow Raider (5 to 20)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -1982,7 +1982,7 @@
     {
       "Id": 194,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Korath Exiles is Interesting Target (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -1993,7 +1993,7 @@
     {
       "Id": 195,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Friendly (21 to 50)",
+      "Message": "Your relation with Korath Exiles is Believer in Strength (21 to 50)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2004,7 +2004,7 @@
     {
       "Id": 196,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Korath Exiles is Especially Tough Enemy (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2015,7 +2015,7 @@
     {
       "Id": 197,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Korath Exiles is Loot Sharer (51 to 80)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2026,7 +2026,7 @@
     {
       "Id": 198,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Abomination (-99 to -81)",
+      "Message": "Your relation with Korath Exiles is Bane of the Korath (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2037,7 +2037,7 @@
     {
       "Id": 199,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Korath Exiles is Fellow Raider Captain (81 to 99)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2048,7 +2048,7 @@
     {
       "Id": 200,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Kill On Sight (-100)",
+      "Message": "Your relation with Korath Exiles is Enemy of All Exiles (-100)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2059,7 +2059,7 @@
     {
       "Id": 190,
       "Type": 10,
-      "Message": "Your relation with Korath Exiles is Most Favored Ally (100)",
+      "Message": "Your relation with Korath Exiles is Respected Human Warlord (100)",
       "Actions": [
         {
           "TargetNode": 211,
@@ -2231,7 +2231,7 @@
     {
       "Id": 416,
       "Type": 10,
-      "Message": "Your relation with Wanderers is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Wanderers is Betrayer of Trust (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 212,
@@ -2242,7 +2242,7 @@
     {
       "Id": 417,
       "Type": 10,
-      "Message": "Your relation with Wanderers is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Wanderers is Fellow Builder (51 to 80)",
       "Actions": [
         {
           "TargetNode": 212,
@@ -2253,7 +2253,7 @@
     {
       "Id": 418,
       "Type": 10,
-      "Message": "Your relation with Wanderers is Abomination (-99 to -81)",
+      "Message": "Your relation with Wanderers is Agent of Destruction (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 212,
@@ -2264,7 +2264,7 @@
     {
       "Id": 419,
       "Type": 10,
-      "Message": "Your relation with Wanderers is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Wanderers is Trusted Friend (81 to 99)",
       "Actions": [
         {
           "TargetNode": 212,
@@ -2275,7 +2275,7 @@
     {
       "Id": 420,
       "Type": 10,
-      "Message": "Your relation with Wanderers is Kill On Sight (-100)",
+      "Message": "Your relation with Wanderers is Hurricane of Entropy (-100)",
       "Actions": [
         {
           "TargetNode": 212,
@@ -2436,7 +2436,7 @@
     {
       "Id": 524,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Mereti Collective is Trustbreaker (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2447,7 +2447,7 @@
     {
       "Id": 525,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Friendly (21 to 50)",
+      "Message": "Your relation with Mereti Collective is Trustbuilder (21 to 50)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2458,7 +2458,7 @@
     {
       "Id": 526,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Mereti Collective is Brutish Invader (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2469,7 +2469,7 @@
     {
       "Id": 527,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Mereti Collective is Fellow Gardener (51 to 80)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2480,7 +2480,7 @@
     {
       "Id": 528,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Abomination (-99 to -81)",
+      "Message": "Your relation with Mereti Collective is Destroyer of Worlds (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2491,7 +2491,7 @@
     {
       "Id": 529,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Mereti Collective is Future Builder (81 to 99)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2502,7 +2502,7 @@
     {
       "Id": 530,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Kill On Sight (-100)",
+      "Message": "Your relation with Mereti Collective is Devil in the Sky (-100)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2513,7 +2513,7 @@
     {
       "Id": 531,
       "Type": 10,
-      "Message": "Your relation with Mereti Collective is Most Favored Ally (100)",
+      "Message": "Your relation with Mereti Collective is Most Favored Friend (100)",
       "Actions": [
         {
           "TargetNode": 213,
@@ -2663,7 +2663,7 @@
     {
       "Id": 434,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Unfriendly (-51 to -20)",
+      "Message": "Your relation with Sestor Federation is Growing Threat (-51 to -20)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2674,7 +2674,7 @@
     {
       "Id": 435,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Friendly (21 to 50)",
+      "Message": "Your relation with Sestor Federation is Friendly Helper (21 to 50)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2685,7 +2685,7 @@
     {
       "Id": 436,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Shunned Enemy (-80 to -51)",
+      "Message": "Your relation with Sestor Federation is Butcher (-80 to -51)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2696,7 +2696,7 @@
     {
       "Id": 437,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Reliable Helper (51 to 80)",
+      "Message": "Your relation with Sestor Federation is Rebuilder (51 to 80)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2707,7 +2707,7 @@
     {
       "Id": 438,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Abomination (-99 to -81)",
+      "Message": "Your relation with Sestor Federation is Apocalypse Bringer (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2718,7 +2718,7 @@
     {
       "Id": 439,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Sestor Federation is Reconstructor (81 to 99)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2729,7 +2729,7 @@
     {
       "Id": 440,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Kill On Sight (-100)",
+      "Message": "Your relation with Sestor Federation is Death of Hope (-100)",
       "Actions": [
         {
           "TargetNode": 214,
@@ -2740,7 +2740,7 @@
     {
       "Id": 441,
       "Type": 10,
-      "Message": "Your relation with Sestor Federation is Most Favored Ally (100)",
+      "Message": "Your relation with Sestor Federation is Hero of the Federation (100)",
       "Actions": [
         {
           "TargetNode": 214,

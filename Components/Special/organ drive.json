@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 7001,
   "Name": "Organ Drive",
-  "Description": "No description.",
+  "Description": "A strange organ, extracted from the body of select space fauna, that allows them to carry out hyperjumps. Nobody knows how these work, if at all.",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 3,

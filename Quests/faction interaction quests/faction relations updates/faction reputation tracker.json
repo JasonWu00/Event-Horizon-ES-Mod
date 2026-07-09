@@ -3161,7 +3161,7 @@
     {
       "Id": 568,
       "Type": 10,
-      "Message": "Your relation with Pug is Abomination (-99 to -81)",
+      "Message": "Your relation with Pug is Disruptive Lower Lifeform (-99 to -81)",
       "Actions": [
         {
           "TargetNode": 217,
@@ -3172,7 +3172,7 @@
     {
       "Id": 569,
       "Type": 10,
-      "Message": "Your relation with Pug is Trusted Compatriot (81 to 99)",
+      "Message": "Your relation with Pug is Entertaining Lower Lifeform (81 to 99)",
       "Actions": [
         {
           "TargetNode": 217,
@@ -3183,7 +3183,7 @@
     {
       "Id": 570,
       "Type": 10,
-      "Message": "Your relation with Pug is Kill On Sight (-100)",
+      "Message": "Your relation with Pug is Particularly Meddlesome Lower Being (-100)",
       "Actions": [
         {
           "TargetNode": 217,
@@ -3194,7 +3194,7 @@
     {
       "Id": 571,
       "Type": 10,
-      "Message": "Your relation with Pug is Most Favored Ally (100)",
+      "Message": "Your relation with Pug is Employed Intermediatery (100)",
       "Actions": [
         {
           "TargetNode": 217,

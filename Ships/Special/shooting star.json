@@ -34,5 +34,10 @@
       "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      134600
+    ]
+  }
 }

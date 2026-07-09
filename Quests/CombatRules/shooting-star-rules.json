@@ -1,0 +1,9 @@
+{
+  "ItemType": 30,
+  "Id": 100001,
+  "InitialEnemyShips": "50",
+  "MaxEnemyShips": "50",
+  "BattleMapSize": 1000,
+  "TimeLimit": "MAX(30, 90 - level/3.33)",
+  "ShipSelection": 1
+}

@@ -1,0 +1,11 @@
+{
+  "ItemType": 2,
+  "Id": 134600,
+  "DeviceClass": 14,
+  "Power": 1000.0,
+  "Size": 500.0,
+  "Lifetime": 10.0,
+  "Color": "#E915E5",
+  "ObjectPrefab": "CloudEffect",
+  "ControlButtonIcon": "controls_gear"
+}

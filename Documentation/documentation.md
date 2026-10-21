@@ -736,6 +736,24 @@ Aberrant Whiskers ("tail structure, agility") | 547
 Aberrant Trip ("lopsided, deformed") | 548
 Aberrant Triplet ("two or three fused") | 549
 
+Ka'het Aberrants Organization
+
+Ship Name | Description | Size class
+--- | --- | ---
+Aberrant Latte | n/a | Frigate
+Aberrant Chomper | ("heavily armed") | Destroyer
+Aberrant Pileup | ("larger and sturdier") | Cruiser
+Aberrant Hugger | ("lighter, yet still enlarged armaments") | Destroyer
+Aberrant Longfellow | ("extra thrusters") | Destroyer
+Aberrant Dancer | ("extra turrets") | Cruiser
+Aberrant Junior | ("compact, still growing") | Frigate
+Aberrant Icebreaker | ("tougher hull than most") | Battleship
+Aberrant Pike | ("sleek, elongated") | Cruiser
+Aberrant Mole | ("sharp, bladed prow, more guns") | Battleship
+Aberrant Whiskers | ("tail structure, agility") | ???
+Aberrant Trip | ("lopsided, deformed") | ???
+Aberrant Triplet | ("two or three fused") | Capital
+
 Kaltheim
 
 Item Name | Item ID | Build IDs (if applicable)

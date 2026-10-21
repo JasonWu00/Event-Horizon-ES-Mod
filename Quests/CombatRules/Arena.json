@@ -1,9 +1,9 @@
 {
   "ItemType": 30,
   "Id": 6,
-  "InitialEnemyShips": "100",
+  "InitialEnemyShips": "5",
   "MaxEnemyShips": "100",
-  "BattleMapSize": 1000,
+  "BattleMapSize": 250,
   "TimeLimit": "90",
   "TimeOutMode": 2,
   "ExpCondition": 2,

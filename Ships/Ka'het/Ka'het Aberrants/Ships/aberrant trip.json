@@ -1,0 +1,92 @@
+{
+  "ItemType": 6,
+  "Id": 547,
+  "SizeClass": 1,
+  "Name": "Aberrant Trip",
+  "Description": "The Maeri is the smallest Het ship created by the Builders' stations, a prime example of the genetic technology they once possessed. Its small size is compensated by the fact that it can hide its location from most types of sensors.",
+  "Faction": 223,
+  "IconImage": "aberrant trip icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "aberrant trip.png",
+  "ModelScale": 2.75,
+  "EngineColor": "#8700FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000442244000000000000004422440000000000000113223110000000000001132231100000000000144422444100000000001444224441000000000014442244410000000000111122111100000000001444224441000000000014442244410000000000144422444100000000001113223111000000000011132231110000000000111322311100000000001113223111000000000011132231110000000000055522555000000000000555225550000000000005552255500000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.15
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.15
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.15
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.15
+      },
+      "AutoAimingArc": 80.0,
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      14
+    ]
+  }
+}

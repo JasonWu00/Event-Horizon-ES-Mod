@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1457,
+  "Name": "Ion Trap",
+  "Description": "The unique function of this generator is that of deflecting and slowing incoming ions, creating a significant amount of energy in the process. A powerful, correctly shaped magnetic field appears to be the key.",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1457,
+  "Faction": 223,
+  "Level": 300,
+  "Icon": "ka'het ion trap.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    12,
+    101
+  ]
+}

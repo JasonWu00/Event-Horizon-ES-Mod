@@ -722,6 +722,7 @@ Telescopic Antimissile | 1441
 Anomalous Shield Restorer | 1442
 Antimatter Power Cell | 1443
 Anomalous Mass | 1444
+Ka'het Ion Trap | 1457
 Aberrant Latte | 537
 Aberrant Chomper ("heavily armed") | 538
 Aberrant Pileup ("larger and sturdier") | 539
@@ -745,13 +746,13 @@ Aberrant Chomper | ("heavily armed") | Destroyer
 Aberrant Pileup | ("larger and sturdier") | Cruiser
 Aberrant Hugger | ("lighter, yet still enlarged armaments") | Destroyer
 Aberrant Longfellow | ("extra thrusters") | Destroyer
-Aberrant Dancer | ("extra turrets") | Cruiser
+Aberrant Dancer | ("extra turrets") | Capital
 Aberrant Junior | ("compact, still growing") | Frigate
 Aberrant Icebreaker | ("tougher hull than most") | Battleship
-Aberrant Pike | ("sleek, elongated") | Cruiser
-Aberrant Mole | ("sharp, bladed prow, more guns") | Battleship
-Aberrant Whiskers | ("tail structure, agility") | ???
-Aberrant Trip | ("lopsided, deformed") | ???
+Aberrant Pike | ("sleek, elongated") | Frigate
+Aberrant Mole | ("sharp, bladed prow, more guns") | Cruiser
+Aberrant Whiskers | ("tail structure, agility") | Cruiser
+Aberrant Trip | ("lopsided, deformed") | Battleship
 Aberrant Triplet | ("two or three fused") | Capital
 
 Kaltheim
@@ -1130,7 +1131,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1453
+Component | 1458
 Ship | 560
 Drone | 9040
 Quest | 1049

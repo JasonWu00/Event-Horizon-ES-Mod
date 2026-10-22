@@ -36,6 +36,8 @@ def fill_in_descs(path: str, specific_files: Optional[list[str]] = None, selecti
     :type specific_files: Optional[list[str]]
     :param desired_itemtype: specifies which type of file to handle; default 1, components; otherwise 6, ships.
     :type desired_itemtype: [1,6]
+    :param prefix: a string to append to a given filename. Used for matching dissimilar file and wiki names.
+    :type prefix: str
     """
     if desired_itemtype not in [1,6]:
         print("This function currently only works for desired_itemtype values of 1,6")
@@ -149,11 +151,13 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str 
 
     soup: a BeautifulSoup object containing data for a webpage.
     compname: name of a component, used for debug printing purposes.
-    find_class: the HTML class to look for when searching. Default is 'col-md-4' for outfits.
+    find_class: the HTML class to look for when searching. Default is 'col-md-4' for outfits and 'well' for ships.
     """
     try:
         all_pars = soup.find_all(['div'], attrs={'class': find_class})[0] # item desc is in a div
-
+        print(all_pars)
+        print("DONE PRINTING ALL PARS")
+        final_desc = ""
         for para in all_pars:
             if NO_DESC in para.get_text().strip(): # Empty pages has no description in div
                 print(f"No description for {compname}")
@@ -163,21 +167,25 @@ def check_bs4_for_desc(soup: BeautifulSoup, compname: str = "", find_class: str 
             description = description.replace('\n', ' ')
             if description[:len(description)-1] == ' ':
                 description = description[:len(description)-2] # remove trailing whitespace
-            return description
+            if final_desc != "":
+                final_desc+="\n"
+            final_desc +=description
+        return final_desc
 
     except IndexError:
         print(f"IndexError reached for file {compname}")
         return INDEXERROR
 
-# mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/anomalocaris")
-# desc = check_bs4_for_desc(mysoup, "test", find_class="well")
-# print(desc)
+#mysoup = grab_page_with_selenium("http://dev.endless-sky.7vn.io/ships/aberrant-latte")
+#desc = check_bs4_for_desc(mysoup, "test", find_class="well")
+#print(desc)
+#print(mysoup)
 
 # for subdir in ["Syndicate"]:
 #     fill_in_descs(COMPONENTS_PATH+"/"+subdir, selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Hai", specific_files=["pebble core.json", "sand cell.json"],
 #              selective_fill=False)
 #fill_in_descs(COMPONENTS_PATH+"/"+"Merchant", selective_fill=False)
-fill_in_descs(WEAPONS_PATH+"/Kaltheim/Weapon/", selective_fill=False, desired_itemtype=1, prefix="kaltheim")
+fill_in_descs(SHIPS_PATH+"/Ka'het/Ka'het Aberrants/Ships/", selective_fill=False, desired_itemtype=6, prefix="")
 # for subdir in ["Bunrodea"]:
 #     fill_in_descs(WEAPONS_PATH+"/"+subdir, selective_fill=False)

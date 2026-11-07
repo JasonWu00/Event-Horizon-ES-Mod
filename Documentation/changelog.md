@@ -966,14 +966,19 @@ Changelog:
 
 Changelog:
 - Major Updates
-  - Added a "global faction reputation" system
-  - Added a number of "faction invasion" missions that occur spontaneously
-  - Testing a number of 
+  - **Added Ka'het Aberrants as a new faction, alongside appropriate ships and outfits**
+  - Added a "global faction reputation" system and tracker
+    - You lose reputation when attacking faction bases and gain reputation when doing missions.
+    - Beacon nodes give an opportunity to measure your current relation with all factions.
+    - Started work on a number of spontaneous faction retaliation mechanics. They will be fully implemented in another update.
+  - Increased map size from 200 to 250
 - Outfits
   - Added shield and hull damage separation for some weapons
   - Updated damage of some weapons to match latest Endless Sky values
+  - Reduced solar generation of KP-6 Array from 6 per cell to 3 per cell
 - Ships
 - Tech
+  - Fixed an issue with the NPT 103 tech not appearing as intended in the Sestor Federaton tech tree
 - Others
 
 ### Update Template
@@ -995,11 +1000,12 @@ Changelog:
 - Create 3vet Merchants builds to be used in Pirates
 - Create 3vet Pirates builds to be used in Marauder Pirates
 - Create Syndicate Extremists faction to contain the nuclear missile
-- **Add the new aliens**
-  - Gegno (all 3 subfactions at once)
-  - Vyu-ira and other misc alien ships
-  - Successors
+- **Add the new aliens** (in order of feasibility)
   - Incipias
+  - Successors
+  - Vyu-ira and other misc alien ships
+  - Avgi
+  - Gegno (all 3 subfactions at once)
   - Decompression of the faction light year requirement list
 - **Add new ships and outfits**
   - Mega Freight outfits and possibly ships

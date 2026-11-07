@@ -715,7 +715,11 @@ Ravager Turret | 1182 (Gun 2182)
 EMP Deployer | 1183
 MHD Deployer | 1184
 Nullifier | 1185
-Ka'het Aberrants |
+
+Ka'het Aberrants
+
+Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
 Aberrant Spiker | 1439
 Nucleolysis Beam | 1440
 Telescopic Antimissile | 1441 
@@ -1173,3 +1177,4 @@ Fusion Power Converter | stats are arbitrarily made up
 Baellie Engines | -25% thrust and turn
 Type 5 Radiant Engines | +57% thrust and turn (to match the engine buffs in [6686](https://github.com/endless-sky/endless-sky/pull/6686) and [9616](https://github.com/endless-sky/endless-sky/pull/9616))
 Sentinel Reactor | -10% reactor output
+KP-6 Array | -50% solar output

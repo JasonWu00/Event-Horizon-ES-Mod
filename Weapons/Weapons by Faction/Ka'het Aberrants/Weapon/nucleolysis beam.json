@@ -9,7 +9,7 @@
   "Faction": 223,
   "Level": 375,
   "Icon": "nucleolysis beam.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "4",
   "WeaponId": 1440,
   "AmmunitionId": 1440,

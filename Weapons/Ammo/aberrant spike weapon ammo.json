@@ -6,44 +6,47 @@
     "Velocity": 36.0,
     "Range": 105.0,
     "Weight": 0.25,
-    "HitPoints": 400,
+    "HitPoints": 31,
     "BulletPrefab": 1439,
     "EnergyCost": 4.0,
     "CanBeDisarmed": true,
     "AiBulletBehavior": 1
   },
   "Controller": {
-    "StartingVelocityModifier": 0.1
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "SmartAim": true
   },
   "Triggers": [
     {
       "Condition": 4,
       "EffectType": 1,
-      "VisualEffect": 1439,
+      "VisualEffect": 1339,
+      "Color": "#00000000",
       "Size": 1.0,
       "Lifetime": 1.0
     },
     {
       "Condition": 2,
       "EffectType": 1,
-      "VisualEffect": 1439,
-      "AudioClip": "explosion medium",
-      "Size": 1.0,
+      "VisualEffect": 1339,
+      "Color": "#00000000",
       "Lifetime": 1.0
     },
     {
       "Condition": 1,
       "EffectType": 1,
-      "AudioClip": "piercer"
+      "AudioClip": "piercer",
+      "Color": "#00000000"
     }
   ],
   "Effects": [
     {
-      "Power": 73.0
+      "Power": 36.5
     },
     {
       "Type": 11,
-      "Power": 127.0
+      "Power": 27.0
     }
   ]
 }

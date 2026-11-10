@@ -9,10 +9,10 @@
   "Faction": 223,
   "Level": 575,
   "Icon": "unknown.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "4",
   "WeaponId": 1497,
-  "AmmunitionId": 1497,
+  "AmmunitionId": 1439,
   "WeaponSlotType": "M",
   "PossibleModifications": [
     16,

@@ -3,8 +3,8 @@
   "Id": 1439,
   "Shape": 1,
   "Image": "aberrant spike.png",
-  "Size": 0.75,
-  "Margins": 0.7,
-  "SecondColor": "#FFCF32",
+  "Size": 1.0,
+  "MainColor": "#000000",
+  "SecondColor": "#000000",
   "SecondColorMode": 1
 }

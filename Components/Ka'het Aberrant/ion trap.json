@@ -9,8 +9,8 @@
   "Faction": 223,
   "Level": 300,
   "Icon": "ka'het ion trap.png",
-  "Layout": "1111",
-  "CellType": "1",
+  "Layout": "111111111",
+  "CellType": "3",
   "PossibleModifications": [
     3,
     12,

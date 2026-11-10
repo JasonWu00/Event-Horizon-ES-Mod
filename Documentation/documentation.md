@@ -486,7 +486,7 @@ Antlion | 524 | 5240-5242
 Sea Dragon | 525 | 5250-5252
 Anomalocaris | 534 | 5340-5342
 Scarab | 536 | 5360-5362
-Cicada | 537 | 5370-5372
+Cicada | 550 | 5550-5552
 
 Remnant
 

@@ -935,7 +935,7 @@ Changelog:
   - **Added descriptions to a large number of ships**
   - Added Giftbringer, a Marauder Carrier with alien outfits, and a basic capture quest
   - Added the Jackal and Monitor to Pirates
-  - Added the Squall and Hailstone to Wandrers
+  - Added the Squall and Hailstone to Wanderers
   - Added the KIT 7 and 6 World-ship variants to Korath Exiles
   - Added the Sea Dragon and Anomalocaris to Hai
   - Added the TOR 681, MPT 41, MIP 43, NPT 103 to Sestor Federation
@@ -977,6 +977,7 @@ Changelog:
   - Updated damage of some weapons to match latest Endless Sky values
   - Reduced solar generation of KP-6 Array from 6 per cell to 3 per cell
 - Ships
+  - Decreased cooldown time for the Harbinger 2vet
 - Tech
   - Fixed an issue with the NPT 103 tech not appearing as intended in the Sestor Federaton tech tree
 - Others

@@ -92,9 +92,6 @@
     }
   ],
   "Features": {
-    "Regeneration": true,
-    "BuiltinDevices": [
-      14
-    ]
+    "Regeneration": true
   }
 }

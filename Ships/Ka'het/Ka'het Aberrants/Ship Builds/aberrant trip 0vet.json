@@ -3,5 +3,253 @@
   "Id": 5480,
   "ShipId": 548,
   "BuildFaction": 223,
-  "Components": []
+  "Components": [
+    {
+      "ComponentId": 1497,
+      "X": 11
+    },
+    {
+      "ComponentId": 1497,
+      "X": 15,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 11,
+      "X": 10,
+      "Y": 2,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "X": 16,
+      "Y": 2,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "X": 10,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "Modification": 9,
+      "Quality": 5,
+      "X": 13,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "Modification": 9,
+      "Quality": 5,
+      "X": 14,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "X": 16,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "X": 12,
+      "Y": 5,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "X": 14,
+      "Y": 5,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 18,
+      "Y": 5,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1181,
+      "X": 9,
+      "Y": 6,
+      "BarrelId": 2,
+      "KeyBinding": 2
+    },
+    {
+      "ComponentId": 1181,
+      "X": 16,
+      "Y": 6,
+      "BarrelId": 3,
+      "KeyBinding": 2
+    },
+    {
+      "ComponentId": 1171,
+      "X": 12,
+      "Y": 7,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1170,
+      "X": 13,
+      "Y": 7,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 15,
+      "Y": 7,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 7,
+      "Y": 8,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 12,
+      "Y": 8,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1442,
+      "X": 6,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1443,
+      "X": 11,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 16,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1440,
+      "X": 9,
+      "Y": 10,
+      "BarrelId": 4,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1443,
+      "X": 14,
+      "Y": 10,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1440,
+      "X": 12,
+      "Y": 12,
+      "BarrelId": 5,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 11,
+      "Y": 13,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 14,
+      "Y": 13,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1442,
+      "X": 6,
+      "Y": 14,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1170,
+      "X": 15,
+      "Y": 14,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1170,
+      "X": 9,
+      "Y": 15,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1440,
+      "X": 12,
+      "Y": 15,
+      "BarrelId": 6,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 14,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1442,
+      "X": 16,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1442,
+      "X": 7,
+      "Y": 17,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1443,
+      "X": 12,
+      "Y": 18,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1175,
+      "X": 10,
+      "Y": 19,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1175,
+      "X": 15,
+      "Y": 19,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 17,
+      "Y": 20,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 10,
+      "Y": 21,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1177,
+      "X": 11,
+      "Y": 21,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1171,
+      "X": 15,
+      "Y": 21,
+      "BarrelId": -1
+    }
+  ],
+  "Perks": {}
 }

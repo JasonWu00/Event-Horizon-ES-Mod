@@ -8,7 +8,7 @@
   "IconImage": "aberrant whiskers icon.png",
   "IconScale": 1.0,
   "ModelImage": "aberrant whiskers.png",
-  "ModelScale": 2.75,
+  "ModelScale": 3.75,
   "EngineColor": "#8700FF",
   "Engines": [
     {
@@ -38,9 +38,6 @@
     }
   ],
   "Features": {
-    "Regeneration": true,
-    "BuiltinDevices": [
-      14
-    ]
+    "Regeneration": true
   }
 }

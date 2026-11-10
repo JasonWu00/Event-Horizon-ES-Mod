@@ -35,13 +35,15 @@
       "BarrelId": 2
     },
     {
-      "ComponentId": 1414,
+      "ComponentId": 1006,
       "X": 10,
       "Y": 2,
       "BarrelId": -1
     },
     {
-      "ComponentId": 1006,
+      "ComponentId": 1414,
+      "Modification": 12,
+      "Quality": 5,
       "X": 10,
       "Y": 2,
       "BarrelId": -1
@@ -235,7 +237,7 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1033,
+      "ComponentId": 1078,
       "X": 10,
       "Y": 18,
       "BarrelId": -1
@@ -247,7 +249,7 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1033,
+      "ComponentId": 1078,
       "X": 13,
       "Y": 18,
       "BarrelId": -1

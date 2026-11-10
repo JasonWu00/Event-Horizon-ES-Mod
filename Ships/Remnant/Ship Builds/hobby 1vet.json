@@ -76,7 +76,8 @@
       "ComponentId": 1130,
       "X": 9,
       "Y": 14,
-      "BarrelId": 4
+      "BarrelId": 4,
+      "KeyBinding": 2
     },
     {
       "ComponentId": 1114,
@@ -96,7 +97,8 @@
       "ComponentId": 1130,
       "X": 19,
       "Y": 14,
-      "BarrelId": 5
+      "BarrelId": 5,
+      "KeyBinding": 2
     },
     {
       "ComponentId": 1114,

@@ -975,9 +975,11 @@ Changelog:
 - Outfits
   - Added shield and hull damage separation for some weapons
   - Updated damage of some weapons to match latest Endless Sky values
-  - Reduced solar generation of KP-6 Array from 6 per cell to 3 per cell
+  - KP-6 Array solar generation (per cell): 6 -> 3
 - Ships
   - Decreased cooldown time for the Harbinger 2vet
+  - Replaced machine guns on 1vet Haulers with blasters
+  - Replaced Meteor+Sidewinder combo on Rainmaker with Typhoon+Rocket
 - Tech
   - Fixed an issue with the NPT 103 tech not appearing as intended in the Sestor Federaton tech tree
 - Others
